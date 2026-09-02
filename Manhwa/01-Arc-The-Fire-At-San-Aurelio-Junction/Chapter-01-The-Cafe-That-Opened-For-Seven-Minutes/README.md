@@ -2,7 +2,7 @@
 
 This directory is the active production package for Chapter 1.
 
-Current status: **PREPRODUCTION REFACTOR IN PROGRESS — REQUIRED CANONICAL WEBPS MISSING — NOT READY TO RENDER — NOT PRODUCTION COMPLETE.**
+Current status: **HARDENED TEXTUAL PREPRODUCTION PASS — REQUIRED CANONICAL WEBPS MISSING — BLOCKED BEFORE RENDERING — NOT PRODUCTION COMPLETE.**
 
 ## Chapter Shape
 
@@ -16,10 +16,10 @@ Current status: **PREPRODUCTION REFACTOR IN PROGRESS — REQUIRED CANONICAL WEBP
 ## Required Character Authorities
 
 Before Strip 001 rendering:
-- `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
-- `../../../../Character-References/tomas-rivera-canonical-flat2d.webp`
+- `../../../Character-References/daniel-soriano-canonical-flat2d.webp`
+- `../../../Character-References/tomas-rivera-canonical-flat2d.webp`
 
-Tomas is not required visually until his first reveal, but the Chapter 1 gate requires both core leads approved before sequential strip generation begins so the chapter cannot change identity midstream.
+The Chapter 1 gate requires both core leads approved before sequential strip generation begins so the chapter cannot change identity midstream.
 
 Lilia Ramos is voice-only in the current Chapter 1 plan. If a future revision shows her body/face, create and approve her canonical before that strip.
 
@@ -78,11 +78,20 @@ Clock state may not be decorative or contradictory.
 
 No duplicates and no age-state resets.
 
+## Current Blocking Findings
+
+- Daniel approved canonical WebP missing
+- Tomas approved canonical WebP missing
+- Cafe Siete approved environment WebP pack missing
+- San Aurelio Junction 2026 approved environment WebP missing
+- Cafe Siete token approved object WebP missing
+- Cafe Siete clock approved object WebP missing
+
 ## Current Next Action
 
-1. finish text-only preproduction audit
-2. generate/approve required canonical images
-3. update exact `.webp` paths in all dependent strip prompts
+1. generate and visually approve the required canonical images from the committed reference prompts
+2. convert/store approved canonicals as the exact repository `.webp` authorities
+3. verify all dependent strip paths resolve
 4. generate a brand-new Strip 001
 5. visually audit actual pixels
 6. approve sequentially through Strip 016
