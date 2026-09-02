@@ -45,7 +45,7 @@ Additional object canonicals become mandatory if the audit determines notebook/p
 4. current `Production-Strips/strip-###-...md`
 5. approved character WebPs
 6. approved environment/object WebPs
-7. global Manhwa production rules
+7. global Manhwa production rules and hardening addenda
 8. previous APPROVED strip for temporary state/seam only
 
 Permanent canon always outranks previous render.
@@ -59,6 +59,10 @@ Permanent canon always outranks previous render.
 - `../../generation-workflow.md`
 - `../../production-readiness-gate.md`
 - `../../prompt-template.md`
+- `../../seventh-hardening-visual-logic-addendum.md`
+- `../../eighth-hardening-presentation-integrity-addendum.md`
+- `../../ninth-hardening-character-topology-identity-addendum.md`
+- `../../tenth-hardening-pose-performance-continuity-addendum.md`
 
 ## Chapter 1 Clock Spine
 
