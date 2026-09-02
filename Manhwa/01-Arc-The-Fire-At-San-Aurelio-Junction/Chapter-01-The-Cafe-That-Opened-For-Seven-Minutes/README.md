@@ -18,8 +18,8 @@ The legacy page/manga adaptation is retired. This package was rebuilt from the C
 ## Story Authority
 
 1. current user instruction
-2. `../../../../README.md`
-3. `../../../../characters.md`
+2. `../../../README.md`
+3. `../../../characters.md`
 4. `chapter-01-continuous-scroll-plan.md`
 5. `chapter-01-strip-manifest.md`
 6. current `Production-Strips/strip-###-...md`
@@ -30,26 +30,26 @@ The legacy page/manga adaptation is retired. This package was rebuilt from the C
 ## Required Character WebPs Before Rendering
 
 Chapter 1 visible recurring characters:
-- `Character-References/daniel-soriano-canonical-flat2d.webp`
-- `Character-References/tomas-rivera-canonical-flat2d.webp`
+- `../../../Character-References/daniel-soriano-canonical-flat2d.webp`
+- `../../../Character-References/tomas-rivera-canonical-flat2d.webp`
 
 Lilia Ramos is voice-only in the locked Chapter 1 adaptation. Her WebP is not required unless a later deliberate revision makes her visible.
 
 ## Required Environment WebPs Before Rendering
 
 At minimum, strips use relevant approved authorities from:
-- `Manhwa/Environment-References/San-Aurelio-Junction/`
-- `Manhwa/Environment-References/Cafe-Siete/`
+- `../../Environment-References/San-Aurelio-Junction/`
+- `../../Environment-References/Cafe-Siete/`
 
 Chapter 1 must not render from prompt Markdown alone.
 
 ## Required Object WebPs Before Rendering
 
 Priority authorities:
-- `Manhwa/Object-References/cafe-siete-brass-token-canonical-reference.webp`
-- `Manhwa/Object-References/cafe-clock-canonical-reference.webp`
-- `Manhwa/Object-References/daniel-archival-notebook-canonical-reference.webp`
-- `Manhwa/Object-References/tomas-brass-pastry-tongs-canonical-reference.webp`
+- `../../Object-References/cafe-siete-brass-token-canonical-reference.webp`
+- `../../Object-References/cafe-clock-canonical-reference.webp`
+- `../../Object-References/daniel-archival-notebook-canonical-reference.webp`
+- `../../Object-References/tomas-brass-pastry-tongs-canonical-reference.webp`
 
 ## Absolute Chapter 1 Locks
 
