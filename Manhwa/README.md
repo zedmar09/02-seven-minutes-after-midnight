@@ -2,7 +2,7 @@
 
 `Manhwa/` is the sole active visual-production pipeline for `Seven Minutes After Midnight`.
 
-The former `Comics/` manga/page-production system is decommissioned. New chapters, revisions, environment references, object references, and generated story strips belong under `Manhwa/`.
+The former page-production system is decommissioned. New chapters, revisions, environment references, object references, and generated story strips belong under `Manhwa/`.
 
 ## Authority — Absolute
 
@@ -16,9 +16,18 @@ For active production:
 
 Permanent canonical authority always outranks a previous render.
 
+## Always-Binding Hardening Authorities
+
+- `seventh-hardening-visual-logic-addendum.md`
+- `eighth-hardening-presentation-integrity-addendum.md`
+- `ninth-hardening-character-topology-identity-addendum.md`
+- `tenth-hardening-pose-performance-continuity-addendum.md`
+
+These do not replace the core guides; they add blocking visual-logic, presentation, anatomy/identity, and performance-continuity gates.
+
 ## Chapter Conversion Rule
 
-Legacy page prompts are never converted page-for-strip. Rebuild from story canon into one continuous reader-visible vertical chapter, internal read beats, and technical production strips.
+Retired page prompts are never converted page-for-strip. Rebuild from story canon into one continuous reader-visible vertical chapter, internal read beats, and technical production strips.
 
 ## New Chapter Rule
 
@@ -55,7 +64,11 @@ Large vertical space must perform a story function: silence, suspense delay, rea
 - `prompt-template.md`
 - `production-readiness-gate.md`
 - `reference-vibe-profile.md`
+- `seventh-hardening-visual-logic-addendum.md`
+- `eighth-hardening-presentation-integrity-addendum.md`
+- `ninth-hardening-character-topology-identity-addendum.md`
+- `tenth-hardening-pose-performance-continuity-addendum.md`
 - `Environment-References/`
 - `Object-References/`
 
-There is intentionally no `Source-Archives/` fallback. Git history preserves retired files; decommissioned production material must not remain as a competing authority.
+There is intentionally no legacy/source-archive fallback. Git history preserves retired files; decommissioned production material must not remain as a competing authority.
