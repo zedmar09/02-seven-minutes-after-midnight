@@ -12,28 +12,28 @@
 Planned exact paths after approval:
 
 ### Characters
-- `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
-- `../../../../Character-References/tomas-rivera-canonical-flat2d.webp`
+- `../../../Character-References/daniel-soriano-canonical-flat2d.webp`
+- `../../../Character-References/tomas-rivera-canonical-flat2d.webp`
 
 ### San Aurelio Junction
-- `../../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-floor-plan-reference.webp`
-- `../../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-establishing-reference.webp`
-- `../../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-1986-establishing-reference.webp`
-- `../../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-angle-atlas-reference.webp`
+- `../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-floor-plan-reference.webp`
+- `../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-establishing-reference.webp`
+- `../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-1986-establishing-reference.webp`
+- `../../Environment-References/San-Aurelio-Junction/san-aurelio-junction-angle-atlas-reference.webp`
 
 ### Cafe Siete
-- `../../../Environment-References/Cafe-Siete/cafe-siete-floor-plan-reference.webp`
-- `../../../Environment-References/Cafe-Siete/cafe-siete-1986-reference.webp`
-- `../../../Environment-References/Cafe-Siete/cafe-siete-2026-reference.webp`
-- `../../../Environment-References/Cafe-Siete/cafe-siete-service-window-reference.webp`
-- `../../../Environment-References/Cafe-Siete/cafe-siete-angle-atlas-reference.webp`
-- `../../../Environment-References/Cafe-Siete/cafe-siete-time-state-sheet-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-floor-plan-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-1986-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-2026-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-service-window-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-angle-atlas-reference.webp`
+- `../../Environment-References/Cafe-Siete/cafe-siete-time-state-sheet-reference.webp`
 
 ### Objects
-- `../../../Object-References/cafe-siete-brass-token-canonical-reference.webp`
-- `../../../Object-References/cafe-clock-canonical-reference.webp`
-- `../../../Object-References/daniel-archival-notebook-canonical-reference.webp`
-- `../../../Object-References/tomas-brass-pastry-tongs-canonical-reference.webp`
+- `../../Object-References/cafe-siete-brass-token-canonical-reference.webp`
+- `../../Object-References/cafe-clock-canonical-reference.webp`
+- `../../Object-References/daniel-archival-notebook-canonical-reference.webp`
+- `../../Object-References/tomas-brass-pastry-tongs-canonical-reference.webp`
 
 Missing required path for a strip = BLOCKED.
 
