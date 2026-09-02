@@ -56,6 +56,7 @@ Large vertical space must perform a story function: silence, suspense delay, rea
 
 ## Core Files
 
+- `ASURA-CONTINUOUS-SCROLL-NOTE.md`
 - `style-guide.md`
 - `vertical-scroll-layout-guide.md`
 - `seam-continuity-protocol.md`
