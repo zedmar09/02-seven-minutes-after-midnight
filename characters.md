@@ -1,123 +1,201 @@
-# Characters
+# Characters and Continuity Canon
 
-This file is the continuity lock for prose chapters and any future manga, manhwa, or manhua adaptation notes. Update it whenever a recurring character appears, an object gains time-slip importance, or the rules of the midnight cafe change.
+This file is the story-wide character, relationship, world, and supernatural continuity lock for `Seven Minutes After Midnight`.
 
-## Visual Differentiation Standard
+Visual-production authority for approved character appearance ultimately resides in canonical WebPs under `Character-References/`. This Markdown defines the story facts those canonicals must preserve.
 
-`Seven Minutes After Midnight` should look distinct from the existing story library. It is an adult BL time-slip railway romance and historical mystery, not imperial palace fantasy, gothic regression, supernatural dead-station mystery, corporate revenge, modern loyalty thriller, or coastal emotion-street fantasy.
+## Global Character Rules
 
-- Different from `The Villainess Who Married The Ghost King`: no palace court robes, royal marriage contract styling, phoenix hairpins, ghost king half-mask, imperial execution imagery, or xianxia court silhouettes.
-- Different from `The Villain's Second Funeral`: no coffins, black mourning cloaks, warlord styling, pale fantasy eyes, noble house revenge framing, or aristocratic villain posture.
-- Different from `Lanterns of the Last Station`: no teenage station attendant uniforms, red scarf identifier, death tickets, hidden Platform 13, upward rain, lantern rules, or ghost-train conductor.
-- Different from `Blood Ledger`: no betrayal debt boxes, corporate revenge glass towers, Seoul boardrooms, cheap interview suits, shareholder documents, or accounting overlays.
-- Different from `My Girlfriend's Loyalty Is Only 5%`: no loyalty percentages, accident-power hook, modern apartment paranoia, crescent hair clip, transparent umbrella, or romance-thriller UI labels.
-- Different from `The Cartographer of Unsaid Things`: no emotion-born streets, courier satchels, moon-glass signs, coastal fantasy maps, or unsaid residents.
-
-Visual world: San Aurelio Junction, a real railway station seen in two eras. In 2026 it is abandoned, dusty, cordoned off, rain-streaked, and half-swallowed by redevelopment fencing. In 1986 it is warm, crowded, smoky with coffee steam, alive with station announcements, ceiling fans, tile floors, handwritten menus, brass pastry tongs, and the narrow service window between the kitchen and counter.
-
-## Future Comic Adaptation Standard
-
-If adapted later, use mature black-and-white manga/manhwa/manhua styling: refined adult male faces, expressive hands, soft romantic tension, clean panel gutters, deep screentone shadows, reflective glass, archival paper textures, steam, flour dust, period railway signage, and suspenseful close-ups of clocks, letters, photographs, and fire-damaged evidence.
-
-Color names below are continuity references only. In black-and-white pages, translate them into values and textures: jade becomes pale polished stone with dark rim lines, sepia becomes aged gray paper, navy becomes deep screentone, brass becomes bright white highlights with inked edges, and firelight becomes harsh white glow swallowed by black smoke.
+- All principal characters are adults and must retain stable age presentation, face geometry, build, hair construction, permanent marks, accessories, and wardrobe logic.
+- Reverse shots may flip screen-left/right but never anatomical identity, permanent landmark side, accessory side, or recurring prop ownership.
+- Expression changes occur on the same face; emotional intensity may change only from scripted causes.
+- Hair movement may respond to action, rain, steam, or gravity but may not become a redesign.
+- Clothing layers, sleeve state, apron state, glasses, gloves, bags, and worn accessories persist until visibly changed or a legal time/location cut establishes a new state.
+- Every visible character remains one coherent human body with no duplicated/missing limbs, detached hands, impossible joints, or continuity-breaking close-up anatomy.
 
 ## Core Cast
 
 ### Daniel Soriano
 
-- Role: Main protagonist; present-day museum conservator; first person in decades to see the midnight cafe reopen.
+- Role: Main protagonist; present-day museum conservator; first person in decades to see Cafe Siete reopen.
 - Age: 36 in 2026.
 - Occupation: Paper and photograph conservator assigned to the San Aurelio Railway Archive restoration project.
-- Personality: Patient, precise, lonely without admitting it, emotionally cautious, stubborn when evidence contradicts official history. He restores damaged objects because he believes the past deserves better than being misread.
-- Visual Design: Adult man with warm brown skin, close-cropped black curls lightly threaded with early silver at the temples, long narrow face, tired dark eyes, and a small healed cut across the bridge of his nose from a childhood accident. Medium-tall, slim, and elegant in an understated way. Wears thin rectangular amber-tinted conservation glasses only while working, a slate-blue chore jacket over neutral shirts, dark trousers, soft-soled shoes, and white cotton gloves tucked into his pocket when off duty.
-- Manga Visual Lock: Keep Daniel identical across pages and chapters. His strongest identifiers are the silver-threaded close curls, narrow nose-bridge scar, amber-tinted work glasses, slate-blue chore jacket translated as dark mid-gray screentone, cotton conservation gloves, and careful posture around fragile objects. He should look like an adult specialist, not a schoolboy, corporate revenge lead, fantasy prince, gothic noble, or courier.
-- Signature Props: Cotton conservation gloves, soft brush, archival tweezers, magnifying loupe, acid-free folders, portable scanner, restored newspaper fragments, and a small brass cafe token found beneath the counter.
-- Story Function: Investigates the station fire, falls in love with Tomas through the seven-minute window, and must decide whether preserving history matters when history is the thing that killed the man he loves.
-- Consistency Notes: Daniel's hands reveal his emotions. He touches objects gently, but when afraid for Tomas he grips the counter hard enough to leave pale marks in the dust.
+- Personality: Patient, precise, lonely without admitting it, emotionally cautious, stubborn when evidence contradicts official history.
+- Core visual identity: warm brown skin; long narrow adult face; tired dark eyes; close-cropped black curls with early silver at the temples; small healed cut across the bridge of the nose; medium-tall slim build; careful conservator posture.
+- Work wardrobe: thin rectangular amber-tinted conservation glasses when working, slate-blue chore jacket over neutral shirt, dark trousers, soft-soled shoes, white cotton conservation gloves used appropriately rather than permanently fused to his hands.
+- Signature props: conservation gloves, soft brush, archival tweezers, magnifying loupe, acid-free folders/sleeves, notebook, pencil, portable scanner, newspaper fragments, brass Cafe Siete token.
+- Performance lock: Daniel handles evidence gently; fear for Tomas appears through tighter grip, shortened speech, frozen attention, or procedural focus rather than melodramatic recasting.
+- Do not turn him into a schoolboy, corporate revenge lead, fantasy prince, gothic noble, idol, superhero, or glossy fashion model.
 
 ### Tomas Rivera
 
-- Role: Romantic lead; cheerful young baker in the 1986 San Aurelio Junction cafe; intended target of the station fire.
+- Role: Romantic lead; baker/counter worker at Cafe Siete in 1986; intended target connected to the station-fire conspiracy.
 - Age: 28 in 1986.
-- Occupation: Baker and counter worker at Cafe Siete, the railway cafe inside San Aurelio Junction.
-- Personality: Warm, teasing, generous, restless, observant under the cheer. He jokes easily because the station is full of people who are tired, hungry, or leaving someone behind. He is braver than he pretends and lonelier than his smile suggests.
-- Visual Design: Adult man with sun-warm tan skin, bright dark eyes, strong brows, lean baker's forearms, and long dark wavy hair that falls past his shoulders when loose. He usually ties it low behind his head with a thin jade-green cord while working, but loose strands constantly fall across his cheeks and mouth as he kneads dough, pours coffee, or leans across the counter. Wears a cream short-sleeved 1980s cafe shirt with faint embroidery at the collar, high-waisted dark trousers, a flour-marked brown waist apron, and old leather shoes polished for work.
-- Manga Visual Lock: Keep Tomas identical across pages and chapters. His strongest identifiers are the long dark wavy hair tied loosely with a jade-green cord, stray face-framing strands, flour on his cheek or sleeves, bright smiling eyes, rolled cafe shirt sleeves, brown waist apron, and habit of leaning over the service counter when interested. He must not look like a palace immortal, masked noble, gothic warlord, school mystery boy, or modern corporate lead.
-- Signature Props: Brass pastry tongs, rolling pin, flour cloth, brown order notebook, jade-green hair cord, cafe towel over one shoulder, paper packets of pan de leche, and handwritten notes on wax paper.
-- Story Function: Gives the cafe its warmth, becomes Daniel's anchor to 1986, and unknowingly carries evidence that someone wants destroyed.
-- Consistency Notes: Tomas is cheerful, not naive. When frightened, he ties his hair tighter and stops wasting words. His long hair is romantic and practical at once: beautiful in motion, constantly interfering with work, always part of his silhouette.
+- Personality: Warm, teasing, generous, observant, brave beneath humor, lonelier than his smile suggests.
+- Core visual identity: sun-warm tan skin; bright dark eyes; strong brows; lean baker's forearms; adult athletic-lean build; long dark wavy hair falling past the shoulders when loose.
+- Hair lock: usually tied low behind the head with a thin jade-green cord while working; loose strands fall naturally around cheeks/mouth. Hair remains practical working hair, never aristocratic, xianxia, warlord, ghost-prince, idol, or school-mystery styling.
+- Work wardrobe: cream short-sleeved 1980s cafe shirt with faint collar embroidery, high-waisted dark trousers, flour-marked brown waist apron, old leather work shoes.
+- Signature props: brass pastry tongs, rolling pin, flour cloth, brown order notebook, jade-green hair cord, cafe towel, pan de leche packets, wax-paper notes.
+- Performance lock: humor does not equal naivety. When frightened, Tomas becomes economical with words and may tighten practical hair/working habits only when visibly shown.
 
 ### Maribel Santos
 
 - Role: Daniel's colleague and archival supervisor; present-day ally.
 - Age: 44 in 2026.
 - Occupation: Railway archive curator for the San Aurelio municipal museum.
-- Personality: Dry, practical, protective of her staff, allergic to romantic nonsense until the evidence becomes impossible. She knows when an archive has been altered because she has spent half her life reading institutional lies.
-- Visual Design: Filipina-Spanish woman with a sturdy build, warm olive skin, short silver-black hair clipped close at the sides, cat-eye reading glasses on a chain, linen blazers, and ink stains on the left cuff of nearly everything she owns.
-- Signature Props: Archive keys, accession logs, red grease pencil, old station maps, thermos of black coffee.
-- Story Function: Helps Daniel access restricted records and eventually notices that his restored documents are changing between nights.
-- Consistency Notes: Maribel should feel grounded and adult, not like a magical mentor. She becomes involved because the archive itself stops behaving.
+- Personality: Dry, practical, protective, highly sensitive to institutional falsification.
+- Visual identity: Filipina-Spanish woman; sturdy build; warm olive skin; short silver-black hair clipped close at the sides; cat-eye reading glasses on a chain; linen blazers; recurring ink staining on the left cuff when appropriate.
+- Signature props: archive keys, accession logs, red grease pencil, old station maps, thermos of black coffee.
+- Story function: gains access to restricted records and notices when restored documents change between nights.
 
 ### Lilia Ramos
 
 - Role: Owner of Cafe Siete in 1986; Tomas's employer and chosen family.
 - Age: 53 in 1986.
-- Occupation: Cafe owner, cook, and unofficial station gossip collector.
-- Personality: Blunt, warm, superstitious in a practical way, impossible to intimidate in her own kitchen. She treats Tomas like a nephew and the cafe like a living creature.
-- Visual Design: Broad-shouldered older woman with brown skin, thick dark hair streaked with gray and pinned into a coil, round glasses, rolled sleeves, a dark full apron, and a rosary wrapped around her wrist beside a kitchen burn scar.
-- Signature Props: Ledger of unpaid meals, enamel coffee pot, rosary bracelet, iron key ring, heavy kitchen cleaver used mostly on pastry dough.
-- Story Function: Knows what Tomas was carrying before the fire and may have hidden one object where Daniel can find it forty years later.
+- Personality: Blunt, warm, practically superstitious, impossible to intimidate in her own kitchen.
+- Visual identity: broad-shouldered older woman; brown skin; thick dark hair streaked with gray and pinned into a coil; round glasses; rolled sleeves; dark full apron; rosary wrapped around one wrist beside a kitchen burn scar.
+- Signature props: unpaid-meals ledger, enamel coffee pot, rosary bracelet, iron key ring, heavy kitchen cleaver used primarily for food work.
+- Story function: knows what Tomas carried before the fire and may have hidden evidence that survives into 2026.
 
 ### Benjamin Manalo
 
-- Role: 1986 night patrol officer assigned to San Aurelio Junction; possible ally, possible compromised witness.
+- Role: 1986 railway night-patrol officer; possible ally / compromised witness.
 - Age: 33 in 1986.
-- Occupation: Railway security officer.
-- Personality: Tired, disciplined, kind in small gestures, frightened of powerful people. He wants to do the right thing but has survived by knowing when not to see something.
-- Visual Design: Lean man with medium-brown skin, neatly combed black hair, a trimmed mustache, dark railway security uniform, white gloves clipped to his belt, and a dented cap badge.
-- Signature Props: Patrol notebook, cap badge, flashlight, ring of platform keys.
-- Story Function: Patrols the station the night of the fire and leaves behind conflicting testimony.
+- Personality: Tired, disciplined, quietly kind, frightened of powerful people.
+- Visual identity: lean man; medium-brown skin; neatly combed black hair; trimmed mustache; dark railway security uniform; white gloves clipped to belt; dented cap badge.
+- Signature props: patrol notebook, flashlight, cap badge, platform keys.
+- Story function: leaves testimony that does not cleanly match the official station-fire record.
 
 ### Arturo Salcedo
 
-- Role: Primary human antagonist of Arc 1; development broker with interests in the station land.
+- Role: Primary human antagonist of Arc 1; redevelopment broker/political fixer tied to station land.
 - Age: 41 in 1986.
-- Occupation: Real estate broker and political fixer tied to the proposed San Aurelio redevelopment contract.
-- Personality: Polite, immaculate, patient, threatening without raising his voice. He believes old places and poor witnesses are easiest to erase.
-- Visual Design: Tall man with pale olive skin, slick black hair, angular cheekbones, thin smile, spotless ivory linen suit, dark tie, and a gold signet ring he taps against glass when annoyed.
-- Signature Props: Gold signet ring, folded redevelopment contracts, black umbrella, silver cigarette case, private car waiting beyond the station gate.
-- Story Function: May have arranged the fire to destroy evidence and silence Tomas, whose cafe notebook records meetings that should never have happened.
-- Consistency Notes: Arturo should not look like a fantasy noble or supernatural villain. His menace is civic, financial, and human.
+- Personality: Polite, immaculate, patient, threatening without theatrical rage.
+- Visual identity: tall adult man; pale olive skin; slick black hair; angular cheekbones; thin controlled smile; spotless ivory linen suit; dark tie; gold signet ring.
+- Signature props: signet ring, folded redevelopment contracts, black umbrella, silver cigarette case, private car.
+- Story function: likely connected to the fire, missing ledger pages, station-land interests, and attempts to silence evidence.
+- Do not render him as a supernatural/fantasy villain. His threat is civic, financial, political, and human.
 
 ### Ernesto Galang
 
-- Role: Present-day retired rail mechanic; survivor who remembers the night of the fire incorrectly, or has been made to.
+- Role: Present-day retired rail mechanic; survivor with unreliable or manipulated memory.
 - Age: 72 in 2026; 32 in 1986.
-- Occupation: Former signal mechanic at San Aurelio Junction.
-- Personality: Gruff, evasive, guilty, sentimental about machines, hostile to official reports.
-- Visual Design: Elderly man with dark weathered skin, white stubble, heavy brows, mechanic's hands, faded work shirt, and a hearing aid he pretends does not work when asked difficult questions.
-- Signature Props: Signal-room keys, old lighter, folded maintenance diagram, tin box of station buttons.
-- Story Function: Connects the fire to tampered platform signals and a locked service corridor.
+- Visual identity: dark weathered skin; white stubble in 2026; heavy brows; mechanic's hands; faded work shirt; hearing aid in present day.
+- Signature props: signal-room keys, old lighter, maintenance diagram, tin box of station buttons.
+- Story function: connects the fire to tampered signals, removed fuses, and a locked service corridor.
 
 ## Relationship Continuity
 
-- Daniel first approaches Tomas as evidence: a person from the archive made living and impossible.
-- Tomas first treats Daniel as a strange midnight customer, then as a secret friend, then as the one person who hears him without already expecting him to smile.
-- Their romance grows through tiny acts: Tomas saving the best pastry for Daniel, Daniel preserving Tomas's letters like sacred objects, both men touching the same counter when they cannot hold each other longer, and the ache of ending every conversation before either is ready.
-- They can touch hands through the service window, but full embraces fail unless the time boundary weakens dangerously.
-- Daniel's central fear: If he changes history enough to save Tomas, he may erase the abandoned cafe and forget Tomas entirely.
-- Tomas's central fear: If Daniel refuses to change history, then every tender midnight becomes a countdown to a death already recorded.
+- Daniel initially approaches Tomas as impossible living evidence.
+- Tomas initially treats Daniel as a strange midnight customer, then secret friend, then the person who listens without requiring him to perform cheerfulness.
+- Romance grows through repeated small acts: saved pastries, carefully preserved letters, jokes used against fear, shared counter contact, hands touching through the service window, and the pain of ending each meeting.
+- Their physical intimacy is constrained by the time boundary. Hands may touch through the permitted threshold; full-body crossing is impossible unless the story explicitly establishes dangerous boundary failure.
+- Daniel's core fear: saving Tomas may erase the abandoned cafe and his memories of Tomas.
+- Tomas's core fear: refusing to change history turns every tender meeting into a countdown toward a death Daniel has already read about.
 
-## World And Visual Continuity
+## San Aurelio Junction Continuity
 
-- San Aurelio Junction: A once-important railway station built in the 1930s, busy in 1986 and abandoned by 2026. Visual identifiers include arched windows, green-and-cream tiles, brass signs, rain gutters, platform clocks, stained glass transoms, and a cafe tucked beside the old ticket hall.
-- Cafe Siete: The railway cafe where the time-slip occurs. In 1986 it is warm, cramped, fragrant with coffee and bread, and constantly interrupted by station announcements. In 2026 it is dusty, shuttered, stripped of furniture, and marked for demolition.
-- Service Window: Narrow opening between the kitchen and counter. It is the only stable exchange point for small objects. Hands can meet there, but bodies cannot pass.
-- Counter: Both time periods share the same counter surface during the seven-minute window. Coffee rings, scratches, and fingertip marks can appear across time.
-- Cafe Clock: Brass-rimmed wall clock above the menu board. It resets at midnight and counts the remaining connection. When Daniel tries to force a major historical change, the clock loses time.
-- Objects Across Time: Letters yellow, photos warp, pastries dry, ink fades, metal tarnishes, and tape becomes brittle when crossing forward. Objects crossing backward look too new and may draw suspicion.
-- The Station Fire: Officially an electrical accident on a stormy night in 1986. Unofficial evidence points to locked doors, altered patrol routes, removed signal fuses, and missing cafe ledger pages.
-- Archival Evidence: Newspaper fragments, station maps, witness statements, recovered photographs, charred menus, maintenance logs, cafe receipts, and one surviving order notebook with pages cut out.
-- Mood: Tender, suspenseful, rainlit, nostalgic, and tense. The story should balance the sweetness of midnight meetings with the dread of each lost minute.
-- Core Motifs: Seven-minute clock, long hair tied with jade cord, flour-dusted hands, letters through the service window, pastries aging forty years, old photographs, scorch marks, railway announcements, rain on glass, hands touching across a counter, and the question of whether love can survive being removed from history.
+San Aurelio Junction is one physical historical station seen in two eras.
 
+Stable structural identifiers:
+- arched windows
+- green-and-cream tile scheme
+- iron structural members
+- brass signage
+- ticket windows
+- platform clocks
+- stained-glass transoms where established
+- rain gutters
+- Cafe Siete beside the ticket hall
+
+### 2026 state
+
+Abandoned, dusty, rain-damaged, partially boarded, affected by redevelopment, with broken tile, plywood, caution material, cracked glass, archive work, and cold unoccupied spaces.
+
+### 1986 state
+
+Operational and populated, with working station announcements, passengers, intact finishes, active lighting, wet coats, moving staff, cafe service, and period-appropriate fixtures.
+
+A camera change or era change may alter condition/contents appropriate to time, but may not move permanent architecture merely for composition.
+
+## Cafe Siete Continuity
+
+Cafe Siete is the emotional and supernatural anchor.
+
+Stable physical relationships must eventually be locked by approved environment references:
+- same structural footprint across eras
+- same counter body/location
+- same service-window opening/location
+- same clock/menu-wall relationship
+- same key structural walls/openings
+
+Era-dependent state may differ:
+- 1986: warm, active, pastry case stocked, menu in use, ceiling fan, staff/passengers audible/visible as scripted
+- 2026: dusty, damaged, stripped/broken furnishings, charred evidence, inactive surrounding station
+
+The two eras must read as the same place, not two unrelated cafes.
+
+## Service Window — Absolute Mechanic
+
+- Narrow opening between kitchen and counter.
+- Reliable exchange point for small objects.
+- Hands may meet through the opening while the connection permits it.
+- Living bodies cannot fully cross.
+- The same service-window geometry exists in both eras, though 2026 may show later damage/char.
+- Object crossings must show one continuous object provenance; a close-up does not create a duplicate.
+
+## Cafe Clock — Absolute Time State
+
+- Brass-rimmed recurring clock above/near the cafe authority location established by environment canon.
+- Connection begins at 12:00 AM.
+- Connection ends at 12:07 AM unless the story has already established a shortened window.
+- The clock is a story-state device, not decorative random time.
+- Time displayed in each beat must match the script's causal order.
+- Attempts to force major historical change may permanently reduce available connection time.
+
+## Object-Crossing Rules
+
+### 1986 → 2026
+
+Objects normally arrive with approximately forty years of physical aging appropriate to material:
+- paper yellows, stains, fades, embrittles
+- ink/pencil fades
+- pastries dry, shrink, crack, stale
+- ceramics may yellow/craze/chip according to scripted result
+- photographs warp/fade
+- metal tarnishes/corrodes
+
+The object remains the same physical object. Aging is a state transformation, not a duplicate.
+
+### 2026 → 1986
+
+Objects initially appear unnaturally new relative to 1986 surroundings, then begin adapting to the older timeline after the interval closes when the story requires it.
+
+## Chapter 1 Locked Evidence Chain
+
+Chapter 1 must preserve at minimum:
+1. Daniel's archival suspicion and missing-name strips in fire records.
+2. 11:41 PM arrival inside abandoned San Aurelio Junction.
+3. station clock / cafe clock association with 12:07.
+4. scratched `TOMAS` on Cafe Siete glass.
+5. brass Cafe Siete token marked `7` found beneath the counter.
+6. clock resets to `12:00`; cafe connection activates.
+7. first visual/contact encounter with Tomas and bread tray.
+8. Daniel learns Tomas is in 1986; Tomas learns Daniel is in 2026.
+9. clock progresses through 12:01–12:07 in correct sequence.
+10. Tomas denies having scratched his name yet.
+11. unstable counter contact causes pain; service window opens.
+12. pastry/saucer crossing demonstrates forward aging.
+13. Daniel sends archival paper reading `DANIEL SORIANO / SAN AURELIO MUNICIPAL MUSEUM / 2026 / I AM REAL.`
+14. Tomas keeps the note in his apron.
+15. Lilia is heard from the kitchen during the 12:04 section; she is voice-only unless a future adaptation explicitly shows her.
+16. at 12:05 Tomas mentions Arturo Salcedo, the white suit, failed southbound signal, and other station details.
+17. at 12:06 the 1986 cafe begins losing lights.
+18. Daniel writes `DO NOT TELL ANYONE ABOUT ME. / KEEP THIS HIDDEN. / COME BACK TOMORROW.`
+19. Daniel/Tomas fingers brush through the service window without the earlier pain.
+20. 12:07 closes the connection; 2026 ruined cafe returns.
+21. Daniel's notebook page returns forty years older with Tomas's added line `I WILL BRING BETTER BREAD.`
+22. Daniel discovers the second scratched warning: `FIRE STARTS IN THE SERVICE CORRIDOR.`
+23. station clock remains fixed at 12:07.
+
+No visual-production rewrite may remove, reorder, duplicate, or contradict these locked events without explicit story revision.
