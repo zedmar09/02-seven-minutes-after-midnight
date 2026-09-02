@@ -2,6 +2,15 @@
 
 A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in the current post-correction state. Earlier PASS labels never substitute for a fresh final audit.
 
+## Always-Binding Hardening Authorities
+
+- `seventh-hardening-visual-logic-addendum.md`
+- `eighth-hardening-presentation-integrity-addendum.md`
+- `ninth-hardening-character-topology-identity-addendum.md`
+- `tenth-hardening-pose-performance-continuity-addendum.md`
+
+All gates below include those addenda. A chapter/strip may be stricter but never weaker.
+
 ## Mandatory Gates
 
 1. continuous-scroll beat plan locked
@@ -32,13 +41,20 @@ A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in th
 26. clock never shows contradictory decorative time
 27. 1986-only and 2026-only state do not contaminate each other
 28. practical lighting/rain/steam sources remain physically coherent
-29. lettering/SFX never cover decisive evidence/contact
-30. no reader-visible technical metadata
-31. strict flat 2D human-drawn Korean Manhwa style passes actual visual inspection
-32. every strip generated/approved sequentially
-33. stitched chapter has no seam duplicates, time jumps, pose resets, age resets, object teleports, architecture jumps, or era contamination
-34. final ending matches locked script exactly
-35. fresh clean-room final audit finds zero unresolved mandatory findings
+29. reflections/shadows do not invent duplicate people/objects
+30. grips/contact physically prove the intended action rather than fake 2D overlap
+31. worn/attached items physically connect without clipping/floating/side swap
+32. camera perspective preserves canonical geometry and body/object scale
+33. continuity-critical proof remains legible at normal mobile scale
+34. crop/gutter/divider/seam placement never amputates decisive proof
+35. top-to-bottom reader order matches scripted cause/action/result
+36. lettering/SFX never cover decisive evidence/contact
+37. no reader-visible technical metadata
+38. strict flat 2D human-drawn Korean Manhwa style passes actual visual inspection
+39. every strip generated/approved sequentially
+40. stitched chapter has no seam duplicates, time jumps, pose resets, age resets, object teleports, architecture jumps, era contamination, axis flips, or performance resets
+41. final ending matches locked script exactly
+42. fresh clean-room final audit finds zero unresolved mandatory findings
 
 ## Chapter 1 Mandatory Evidence
 
@@ -50,7 +66,7 @@ Required WebP missing/stale/wrong-path/unapproved → STOP. Prompt Markdown is n
 
 ## Flat 2D Failure — BLOCKING
 
-Reject photoreal, semi-realistic, 3D/CGI, glossy, cinematic, painterly, airbrushed, bloom-heavy, depth-of-field, plastic-skin/hair, or over-rendered output even if the prompt says "2D".
+Reject photoreal, semi-realistic, 3D/CGI, glossy, cinematic, painterly, airbrushed, bloom-heavy, depth-of-field, plastic-skin/hair, or over-rendered output even if the prompt says `2D`.
 
 ## Time / Clock Failure — BLOCKING
 
@@ -63,6 +79,14 @@ Reject duplicated notes, pastries, saucers, token, tray, notebook page, or other
 ## Dual-Era Geometry Failure — BLOCKING
 
 Reject a service window, counter, wall, clock location, station route, or structural opening that becomes a different building between 1986 and 2026 without story cause.
+
+## Pose / Performance Failure — BLOCKING
+
+Reject silent changes to stance/support, shoulder/hip/torso facing, hand gesture, relative scale/distance, emotional intensity, clothing layer, glasses/glove state, hair-tie state, or other temporary performance state across adjacent views/seams.
+
+## Presentation Failure — BLOCKING
+
+Reject technically present but microscopic evidence, wrong causal reader order, fisheye/forced perspective, decisive proof cut by crops/gutters/dividers, ambiguous hand/object ownership, or unreadable exact story text.
 
 ## Completion Language
 
