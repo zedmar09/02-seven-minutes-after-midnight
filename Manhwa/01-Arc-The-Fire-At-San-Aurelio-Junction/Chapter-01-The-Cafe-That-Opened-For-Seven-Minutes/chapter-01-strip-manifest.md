@@ -4,7 +4,7 @@ Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 
 ## Current Status
 
-**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–006 LOCAL TEXTUAL PASS — STRIPS 007–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
+**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–007 LOCAL TEXTUAL PASS — STRIPS 008–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
 
 The 36-strip map separates continuity-critical movement, dialogue handoffs, contact, object transfer, clock proof, SFX source and reactions that were previously compressed.
 
@@ -16,9 +16,9 @@ The 36-strip map separates continuity-critical movement, dialogue handoffs, cont
 | 002 | V006–V010 | official fire report vs maintenance diagram | technical contradiction written/preserved |
 | 003 | V011–V015 | repeated missing-name cuts / archive→field transition | originals secured; gloves stored; notebook/pencil packed; folio/key/flashlight carry locked |
 | 004 | V016–V020 | 11:41 authorized station threshold entry | Daniel 2–3m inside side ticket hall; door closed/latched; key re-clipped; flashlight ON; clock not yet revealed |
-| 005 | V021–V025 | real station walk / grounded leak / separate station-clock `12:07` proof | Daniel planted at clock-view waypoint, pivoted toward Cafe route; station clock remains fixed behind/up-left; flashlight ON |
-| 006 | V026–V030 | real clock→Cafe walk / `CAFE SIETE` frontage / old `TOMAS` scratch / one phone photo | Daniel planted outside closed gate; phone returned LEFT chest pocket; folio LEFT arm; key clipped; flashlight RIGHT hand ON; `TOMAS` documented; lower fire warning concealed |
-| 007 | V031–V035 | gate test→drag→threshold→2026 cafe | Daniel inside Cafe Siete |
+| 005 | V021–V025 | real station walk / grounded leak / separate station-clock `12:07` proof | Daniel planted at clock-view waypoint, pivoted toward Cafe route; station clock fixed behind/up-left; flashlight ON |
+| 006 | V026–V030 | real clock→Cafe walk / `CAFE SIETE` frontage / old `TOMAS` scratch / one phone photo | Daniel planted outside closed gate; phone pocketed; folio LEFT arm; key clipped; flashlight RIGHT hand ON; lower fire warning concealed |
+| 007 | V031–V035 | visible gear support → resisted gate test → LEFTward drag → gear retrieval → real threshold crossing → 2026 Cafe wide | Daniel 1.0–1.5m inside Cafe; gate friction-held open LEFT-stacked; sill empty; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone pocketed; gloves still stored |
 | 008 | V036–V040 | brass glint / glove-on / token retrieval | token held; SAME gloves ON |
 | 009 | V041–V045 | source click / Cafe clock wakes 12:00 | active clock 12:00 |
 | 010 | V046–V050 | lights / token fall / dual-era activation | token floor; 1986 access active |
@@ -63,9 +63,9 @@ The 36-strip map separates continuity-critical movement, dialogue handoffs, cont
 | 002→003 | G/E | exact hardened desk; diagram table; concern persists; gloves ON |
 | 003→004 | T | legal travel cut; same clothing/glasses; hands BARE; folio left arm with notebook/pencil/paper/gloves; key clipped; same flashlight right hand OFF; phone concealed LEFT chest pocket |
 | 004→005 | G | Daniel 2–3m inside side route; access door closed/latched; folio LEFT arm; key clipped; flashlight RIGHT hand ON/low-forward; phone pocketed; clock not yet revealed |
-| 005→006 | G/E | Daniel planted at clock-view waypoint, body/feet pivoted toward forward-right Cafe route; folio/key unchanged; flashlight ON/lowered toward Cafe zone; phone LEFT chest pocket; `CLOCK-STATION-01` remains fixed `12:07` behind/up-left; first Cafe-bound step has NOT happened yet |
-| 006→007 | G/A | Daniel planted immediately outside closed Cafe gate; hands bare; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone fully returned LEFT chest pocket; `TOMAS` documented on fixed RIGHT glass panel; lower fire warning unreadable; sill/ledge empty; no gate contact yet |
-| 007→008 | G | Daniel inside Cafe; field folio/flashlight supported; gloves stored until V038 |
+| 005→006 | G/E | Daniel planted at clock-view waypoint, body/feet pivoted toward Cafe route; folio/key unchanged; flashlight ON/lowered toward Cafe zone; phone LEFT chest pocket; station clock fixed `12:07` behind/up-left; first Cafe-bound step has NOT happened |
+| 006→007 | G/A | Daniel planted outside closed Cafe gate; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone LEFT chest pocket; `TOMAS` documented; lower warning unreadable; sill empty; no gate contact yet |
+| 007→008 | G | Daniel ~1.0–1.5m inside Cafe after visible clearance step; gate LEFT-stacked/open with 0.80–0.95m RIGHT-side passage; sill empty; hands BARE; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone pocketed; SAME gloves still stored; Cafe clock inactive; token hidden; service window closed |
 | 008→009 | G | SAME gloves ON; token gloved hand; flashlight/folio supported |
 | 009→010 | T/A | Cafe clock exactly 12:00; token held until activation response |
 | 010→011 | G/E | dual era active; token floor; Daniel startled; Tomas not seen |
@@ -107,9 +107,9 @@ Planned permanent authorities:
 - `FIELD-KIT` → `Manhwa/Object-References/daniel-station-field-access-kit-canonical-reference.webp` — includes `PHONE-DANIEL-01`
 - `SJ26` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-reference.webp`
 - `SJ26-ENTRY` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-access-threshold-reference.webp`
-- `SCLOCK` → `Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp` — required by Strip 005; reused Strip 036
+- `SCLOCK` → `Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp`
 - `CAFE-S` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-shared-structure-reference.webp`
-- `CAFE-ENTRY` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-entrance-sign-glass-reference.webp` — **REQUIRED by Strip 006 hardening; reused Strip 007 and final evidence continuity**
+- `CAFE-ENTRY` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-entrance-sign-glass-reference.webp` — required by Strip 006 and hardened further for Strip 007 gate/track/sill mechanics
 - `CAFE-D` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-dual-era-state-reference.webp`
 - `TOKEN` → `Manhwa/Object-References/cafe-siete-token-canonical-reference.webp`
 - `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp`
@@ -124,9 +124,9 @@ Planned permanent authorities:
 | 002 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC | PREV |
 | 003 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC + FIELD-KIT | PREV |
 | 004 | DANIEL | SJ26 + SJ26-ENTRY | FIELD-KIT + exact access-door/closer/threshold geometry | PREV |
-| 005 | DANIEL | SJ26 + SJ26-ENTRY start carry | FIELD-KIT + SCLOCK | PREV |
+| 005 | DANIEL | SJ26 + SJ26-ENTRY | FIELD-KIT + SCLOCK | PREV |
 | 006 | DANIEL | SJ26 + CAFE-S + CAFE-ENTRY | FIELD-KIT/PHONE + SCLOCK background continuity + painted-glass evidence | PREV |
-| 007 | DANIEL | CAFE-S + CAFE-ENTRY + CAFE-D 2026 state | FIELD-KIT + gate/track/sill support geometry | PREV |
+| 007 | DANIEL | CAFE-S + CAFE-ENTRY + CAFE-D 2026 | FIELD-KIT + exact sill support + gate track/friction + threshold | PREV |
 | 008 | DANIEL | CAFE-S + 2026 | FIELD-KIT + PAPER-KIT gloves + TOKEN | PREV |
 | 009 | DANIEL | CAFE-S + 2026 | TOKEN + CCLOCK | PREV |
 | 010 | DANIEL | CAFE-S + CAFE-D | TOKEN + CCLOCK | PREV |
@@ -140,52 +140,53 @@ Planned permanent authorities:
 | 031–033 | DANIEL+TOMAS | CAFE-S+CAFE-D | PAPER-KIT / SERVICE | PREV |
 | 034 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK + SERVICE + warning + Tomas pencil | PREV |
 | 035 | DANIEL | CAFE-S 2026 | warning/sleeve + SERVICE sealed | PREV |
-| 036 | DANIEL | CAFE-S 2026 + CAFE-ENTRY + SJ26 | flashlight + same painted-glass zone + **same SCLOCK** | PREV |
+| 036 | DANIEL | CAFE-S 2026 + CAFE-ENTRY + SJ26 | flashlight + same painted-glass zone + same SCLOCK | PREV |
+
+## Gate Mechanism Gate — Absolute
+
+Strip 007 uses one gate only:
+- RIGHT leading pull bar
+- manual LEFT stacking
+- first resisted 2–4 cm test with `KRRK`
+- real body-leverage drag with `SKRRRNNK`
+- final 0.80–0.95 m RIGHT-side clear passage
+- friction holds gate open after release
+- no spring/motor/recoil/hidden second door
+
+Before two-hand gate contact, folio + ON flashlight must be visibly supported on fixed CAFE-ENTRY sill/jamb. Before threshold crossing, both must be visibly retrieved; sill must be empty.
 
 ## Scratch Reveal Gate — Absolute
 
 `SCRATCH-TOMAS-01` and `SCRATCH-FIRE-01` exist on the same fixed painted-glass panel.
 
-Strip 006:
-- `TOMAS` readable
-- lower fire warning unreadable
-- one phone photo documents only `TOMAS`
+Strip 006–007:
+- `TOMAS` may remain visible
+- lower fire warning remains unreadable
+- gate motion never moves either scratch
 
 Strip 036:
 - same glass position
 - different flashlight angle/attention may reveal lower warning
-- history does not write the warning onscreen
+- history does not write warning onscreen
 
 ## Two-Clock Gate — Absolute
 
-`SCLOCK` and `CCLOCK` are never interchangeable.
+`CLOCK-STATION-01` = large dark-iron station clock, no second hand, fixed 12:07.
+`CLOCK-CAFE-01` = smaller brass-rimmed connection clock with second hand, later resets 12:00.
 
-`CLOCK-STATION-01`:
-- large dark-iron institutional station clock
-- ivory enamel face
-- hour/minute hands only
-- fixed `12:07` in 2026
-- never resets or ticks during Cafe connection
-
-`CLOCK-CAFE-01`:
-- smaller brass-rimmed Cafe clock
-- thin second hand
-- resets `12:00`
-- tracks active connection duration
+Strip 007 Cafe clock remains inactive and is not a reader-facing time clue.
 
 ## SFX Source Gate
 
 Approved families include:
 - archive: `FLIP`, `TAP`, `SHFF`, `TIK`, `SCRITCH...`
 - station/rain: `KLAK`, `TAP... TAP...`, `TIK... TIK...`, `PLIK`, `THUNK`
-- Cafe approach/documentation: `SNAP` only at actual phone capture; optional restrained step `TAP...` only with real foot contact
-- gate/cafe: `KRRK`, `SKRRRNNK`, `TINK`, `KLIK`, `TK`, `TICK`, `FZZT—THUM`
+- Cafe approach/documentation: `SNAP`
+- gate: `KRRK` first resisted movement; `SKRRRNNK` continuous guide/roller scrape only during actual travel
+- later cafe: `TINK`, `KLIK`, `TK`, `TICK`, `FZZT—THUM`
 - tray/service: `CLINK-CLINK`, `THK`, `TZK`, `KZT!`, `SKRRRRK`, `CLINK`, `SHHK`
 - aging/paper: `KRK...`, `FSSSH`, `SCRITCH...`, `RRIP`
 - flashlight/pencil: `RRR...`, `CLACK`, `TK`, `SSSH`
-
-Strip 005 specifically uses only one required `PLIK`; stopped station clock receives no `TICK`/`TOCK`.
-Strip 006 requires one `SNAP`; gate noise begins only in Strip 007.
 
 Every SFX physically sourced/timed.
 
@@ -205,6 +206,6 @@ Permanent canon outranks previous render.
 
 ## Render Gate
 
-Local textual PASS for Strips 001–006 does not mean they can render. Required approved WebPs remain missing.
+Local textual PASS for Strips 001–007 does not mean they can render. Required approved WebPs remain missing.
 
 After all sequential hardening/canonical gates pass, generation stays strict `001 → 002 → ... → 036`.

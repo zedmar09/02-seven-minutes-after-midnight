@@ -2,7 +2,7 @@
 
 This directory contains 36 technical generation chunks for Chapter 1. Reader never sees strip numbers; approved strips stitch into one continuous vertical chapter.
 
-Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–006 LOCAL TEXTUAL PASS — STRIPS 007–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
+Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–007 LOCAL TEXTUAL PASS — STRIPS 008–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
 
 ## Binding Files
 
@@ -38,8 +38,9 @@ Current audit position:
 - Strip 004 — local textual PASS
 - Strip 005 — local textual PASS
 - Strip 006 — local textual PASS
-- Strip 007 — NEXT
-- Strip 008–036 — pending
+- Strip 007 — local textual PASS
+- Strip 008 — NEXT
+- Strip 009–036 — pending
 
 ## Sequential Render Rule
 

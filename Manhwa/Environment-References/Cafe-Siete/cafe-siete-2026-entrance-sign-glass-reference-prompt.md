@@ -28,9 +28,26 @@ Define the frontage from the TICKET-HALL side while facing Cafe Siete:
 - entrance opening approximately 1.7–1.9 m clear width when unobstructed
 - painted-glass panel approximately 0.75–0.90 m wide
 - glass panel has one fixed shallow sill/ledge roughly 0.80–0.90 m above floor and about 15–18 cm deep
-- sill is structurally stable and mostly dry in Chapter 1; it later provides a physically valid support spot for Daniel's folio/flashlight during gate handling
+- sill is structurally stable and mostly dry in Chapter 1
+- sill meets a fixed metal/glass jamb at its gate-side edge, creating one stable right-angle support corner
 
-Do not move the sign, glass panel, sill or gate for composition.
+Do not move the sign, glass panel, sill, jamb or gate for composition.
+
+## Strip 007 Gear-Support Geometry — Absolute
+
+The fixed sill/jamb relationship is the approved temporary support zone for Daniel's carried field gear before two-hand gate work.
+
+It must physically support this exact arrangement without enlarging or redesigning the sill:
+- `PERMIT-FOLIO-SJ-01` may stand upright on its narrow bottom edge on the sill, leaned lightly against the fixed metal jamb/frame rather than loose painted glass
+- the folio's key side faces Daniel/ticket hall; `KEY-ACCESS-SJ-01` stays visibly clipped and does not scrape/hang behind the glass
+- `FLASHLIGHT-DANIEL-01` may rest lengthwise in the sill/frame corner beside/in front of the folio
+- flashlight remains ON; lens points safely down/left toward the gate-floor/threshold zone, never into Daniel's face or directly into the glass evidence text
+- the right-angle sill/jamb corner prevents the supported flashlight from freely rolling
+- phone remains in Daniel's LEFT chest pocket and is never placed on this sill
+
+Both objects must be reachable again from the outside-gate side before Daniel crosses the threshold.
+
+Do not invent a bench, crate, shelf, bag hook, tripod, magnetic mount or second support surface.
 
 ## `CAFE SIETE` Sign — Absolute
 
@@ -47,13 +64,36 @@ Strip 006 flashlight may first catch this sign from the ticket-hall approach.
 
 Lock one old collapsible/sliding metal grille gate across the cafe entrance:
 - matte oxidized iron/steel
-- fixed upper/lower track relationship
-- when opened it stacks toward the LEFT world-side of the frontage
-- usable leading pull bar/handle sits on the gate's RIGHT leading edge nearest the painted-glass panel
-- at Chapter 1 start the gate is CLOSED enough to block entry, with one sagging/collapsed section caused by age but not a magically open gap
-- gate can still be tested and dragged along its real track in Strip 007
+- fixed upper guide/track and fixed lower floor guide/track
+- when opened it accordions/stacks toward the LEFT world-side of the frontage
+- usable vertical leading pull bar/handle sits on the gate's RIGHT leading edge nearest the painted-glass panel
+- at Chapter 1 start the gate is CLOSED enough to block entry
+- one lower-middle lattice section sags slightly from age, but does not create a passable opening
+- gate is manual-only: no motor, spring return, counterweight or automatic closer
+- worn rollers/guides and corrosion create heavy friction
+- initial movement may be only a few centimeters during the test
+- once Daniel drags the gate left and releases it, friction keeps the gate at the achieved open position until someone pushes/pulls it again
+- Strip 007 opening target: roughly 0.80–0.95 m clear passage at the RIGHT side of the entrance, enough for Daniel plus under-arm folio to pass one body-width at a time
 
-Do not create a rolling shutter, swinging door, second gate or invisible entrance.
+Do not create a rolling shutter, swinging door, second gate, magical hold-open, elastic recoil or invisible entrance.
+
+## Strip 007 Gate-Action Mechanics — Absolute
+
+Use one continuous same-gate mechanism:
+1. gear reaches the fixed sill support first
+2. both Daniel hands become free
+3. both hands grip the SAME right leading vertical pull bar at different heights
+4. first resistance test flexes/moves the gate only slightly; `KRRK`
+5. Daniel changes foot/body leverage and drags the same leading bar LEFT
+6. accordion lattice compresses toward its existing LEFT stack
+7. worn track/rollers scrape during real travel; `SKRRRNNK`
+8. dust/rust flakes may fall only because the upper/lower guide is moving
+9. gate reaches the approved 0.80–0.95 m clear passage
+10. Daniel stops pulling and releases
+11. friction holds the same gate open; no recoil
+12. Daniel re-acquires the same supported field gear before crossing
+
+Camera changes may not perform any gate travel.
 
 ## Painted-Glass Evidence Zone — Absolute
 
@@ -77,7 +117,7 @@ Reader-visible in Strip 006:
 
 ### `SCRATCH-FIRE-01`
 
-Physically present in baseline 2026 but MUST NOT be readable in this canonical entrance reference or Strip 006:
+Physically present in baseline 2026 but MUST NOT be readable in this canonical entrance reference or Strips 006–007:
 - lower on the SAME glass panel, roughly 0.90–1.10 m above floor
 - separated enough from `TOMAS` to be a distinct later discovery
 - heavily obscured by thicker grime, damaged paint, dust and the normal Chapter 1 approach angle
@@ -97,6 +137,16 @@ From Daniel's ticket-hall approach:
 
 No camera cut may move the scratch into the beam.
 
+## Strip 007 Threshold Handoff — Absolute
+
+After the gate reaches the held-open state:
+- clear passage is at the RIGHT side of the entrance, immediately left of the painted-glass jamb
+- threshold sill/floor line is continuous with the ticket-hall floor outside and Cafe Siete floor inside
+- no hidden second door behind the grille
+- Daniel must retrieve folio + flashlight from the outside sill before crossing
+- gate remains in the same LEFT-stacked open position while Daniel crosses
+- the sill becomes empty after gear retrieval
+
 ## Station Relationship / Route Handoff
 
 This frontage must match `san-aurelio-junction-2026-reference.webp`.
@@ -112,9 +162,11 @@ Lock the relationship:
 Provide geometry-first views:
 1. ticket-hall approach view showing Cafe frontage in station context
 2. straight frontage view proving sign + gate + glass-panel relationship
-3. three-quarter gate/glass view proving leading gate edge and track
-4. painted-glass detail where only `TOMAS` is readable; lower warning zone remains dirty/unreadable
-5. sill/ledge support detail proving real depth/height
-6. simple top/oblique frontage relationship connecting ticket-hall route → gate → Cafe interior threshold
+3. three-quarter gate/glass view proving leading gate edge, LEFT stacking direction and upper/lower tracks
+4. gate-mechanism detail proving same leading pull bar, accordion compression and friction-held open state
+5. painted-glass detail where only `TOMAS` is readable; lower warning zone remains dirty/unreadable
+6. sill/jamb support detail proving upright folio + stable flashlight support without enlarging the ledge
+7. threshold view proving the 0.80–0.95 m RIGHT-side clear passage and no hidden second door
+8. simple top/oblique frontage relationship connecting ticket-hall route → gate → Cafe interior threshold
 
 No characters. No supernatural effects. No readable lower fire warning. No real-world branding/geography.

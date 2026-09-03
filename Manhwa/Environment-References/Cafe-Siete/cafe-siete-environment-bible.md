@@ -40,11 +40,43 @@ From the ticket hall while facing Cafe Siete:
 - main gate/opening occupies LEFT/CENTER frontage
 - fixed painted-glass evidence panel occupies RIGHT frontage
 - `CAFE SIETE` fascia sign spans above the entrance/glass relationship
-- collapsible metal gate slides/stacks toward the LEFT when opened
+- collapsible metal grille gate slides/accordions toward the LEFT when opened
 - gate leading pull edge remains on the RIGHT side nearest the painted-glass panel
-- shallow fixed sill/ledge sits below the painted-glass panel and remains a later valid gear-support surface
+- upper + lower tracks/guides are fixed parts of the same gate system
+- gate is manual-only: no motor, spring return or automatic closer
+- worn/corroded guides create heavy friction
+- Strip 007 first test moves the same gate only a few centimeters
+- Strip 007 full drag opens a roughly 0.80–0.95 m RIGHT-side clear passage
+- after Daniel releases the gate, friction holds the same achieved LEFT-stacked open position until someone visibly moves it again
+- shallow fixed sill/ledge below the glass meets a fixed metal jamb and is the only approved temporary frontage support for Daniel's folio/flashlight during gate handling
 
 The Cafe frontage is approximately another 5–7 m forward-right from Strip 005's station-clock viewing waypoint. Daniel must visibly walk that distance/route; no camera cut may move him directly to the gate.
+
+## Strip 007 Support / Threshold Lock
+
+Before Daniel touches the gate with two hands:
+- flashlight remains ON and is visibly placed lengthwise in the sill/jamb corner, beam aimed safely down toward gate-floor/threshold
+- folio is visibly removed from Daniel's LEFT-arm carry and supported upright on its narrow edge against the fixed metal jamb
+- key remains clipped to folio
+- phone remains in Daniel's LEFT chest pocket
+- only after both hands release the supported gear may both hands grip the gate
+
+Before Daniel crosses the Cafe threshold:
+- SAME flashlight is visibly retrieved into RIGHT hand, still ON
+- SAME folio is visibly retrieved and re-clamped under LEFT arm
+- sill becomes empty
+- gate remains friction-held open
+- Daniel crosses through the real 0.80–0.95 m opening with leading foot → body → trailing foot
+
+Strip 007 END / Strip 008 START:
+- Daniel approximately 1.0–1.5 m inside Cafe after one visible clearance step
+- gate remains LEFT-stacked/open
+- sill empty
+- flashlight RIGHT hand ON
+- folio LEFT arm
+- phone pocketed
+- gloves still stored inside folio
+- no time-slip active
 
 ## Painted-Glass Evidence — Absolute
 
@@ -59,7 +91,7 @@ One fixed RIGHT-side painted-glass panel carries both Chapter 1 scratches.
 `SCRATCH-FIRE-01`:
 - same glass, lower zone approximately 0.90–1.10 m above floor
 - physically exists in baseline 2026 before Chapter 1
-- heavier grime/damaged paint/dust plus normal approach angle keep it unreadable in Strip 006
+- heavier grime/damaged paint/dust plus normal approach angle keep it unreadable through Strips 006–007
 - must not become readable merely because `TOMAS` is lit
 - exact final wording remains withheld until Strip 036
 
@@ -73,7 +105,7 @@ No glowing letters, self-writing effect, magical highlight, or moving scratch ge
 - matte wood/laminate counter surfaces
 - ordinary glass
 - pastry case stocked
-- paper menus / handwritten board using fictional-local wording
+- paper menus / handwritten board using fictional/local wording
 - practical warm bulbs represented with flat color/value
 - working ceiling fan where established
 - ordinary steam/flour/coffee atmosphere without cinematic haze
