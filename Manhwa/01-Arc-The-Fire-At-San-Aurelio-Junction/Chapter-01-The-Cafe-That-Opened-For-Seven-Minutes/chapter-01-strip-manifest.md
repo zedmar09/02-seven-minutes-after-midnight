@@ -4,7 +4,7 @@ Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 
 ## Current Status
 
-**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–004 LOCAL TEXTUAL PASS — STRIPS 005–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
+**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–005 LOCAL TEXTUAL PASS — STRIPS 006–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
 
 The 36-strip map separates continuity-critical movement, dialogue handoffs, contact, object transfer, clock proof, SFX source and reactions that were previously compressed.
 
@@ -15,8 +15,8 @@ The 36-strip map separates continuity-critical movement, dialogue handoffs, cont
 | 001 | V001–V005 | paper-tampering hook / Daniel procedural identity | exact archive desk frozen; first conclusion written |
 | 002 | V006–V010 | official fire report vs maintenance diagram | technical contradiction written/preserved |
 | 003 | V011–V015 | repeated missing-name cuts / archive→field transition | originals secured; gloves stored; notebook/pencil packed; folio/key/flashlight carry locked |
-| 004 | V016–V020 | 11:41 authorized station threshold entry | Daniel 2–3m inside side ticket hall; same access door closed/latched; key re-clipped; flashlight ON; clock not yet revealed |
-| 005 | V021–V025 | station geometry / fixed 12:07 clue | Daniel moving toward Cafe Siete |
+| 004 | V016–V020 | 11:41 authorized station threshold entry | Daniel 2–3m inside side ticket hall; door closed/latched; key re-clipped; flashlight ON; clock not yet revealed |
+| 005 | V021–V025 | real station walk / grounded leak / separate station-clock `12:07` proof | Daniel planted at clock-view waypoint, pivoted toward Cafe route; station clock remains fixed behind/up-left; flashlight ON |
 | 006 | V026–V030 | Cafe sign / old `TOMAS` scratch / photo | scratch documented before Tomas appears |
 | 007 | V031–V035 | gate test→drag→threshold→2026 cafe | Daniel inside Cafe Siete |
 | 008 | V036–V040 | brass glint / glove-on / token retrieval | token held; SAME gloves ON |
@@ -62,8 +62,8 @@ The 36-strip map separates continuity-critical movement, dialogue handoffs, cont
 | 001→002 | G | hardened archive desk; Daniel seated, glasses/archive gloves ON; report/comparison/photo/loupe/notebook/pencil exact; diagram plan rack |
 | 002→003 | G/E | exact hardened desk; diagram table; concern persists; gloves ON |
 | 003→004 | T | legal travel cut; same clothing/glasses; hands BARE; folio left arm with notebook/pencil/paper/gloves; key clipped; same flashlight right hand OFF |
-| 004→005 | G | Daniel 2–3m inside side ticket-hall route; access door CLOSED/LATCHED; folio LEFT arm; key clipped; flashlight RIGHT hand ON/low-forward; hands bare; clock not yet revealed |
-| 005→006 | G | ticket-hall geometry and station-clock clue established |
+| 004→005 | G | Daniel 2–3m inside side route; access door closed/latched; folio LEFT arm; key clipped; flashlight RIGHT hand ON/low-forward; clock not yet revealed |
+| 005→006 | G/E | Daniel planted at clock-view waypoint, body/feet pivoted toward forward-right Cafe route; folio/key unchanged; flashlight ON/lowered toward Cafe zone; `CLOCK-STATION-01` remains fixed `12:07` behind/up-left; first Cafe-bound walking step has NOT happened yet |
 | 006→007 | G/A | scratch photo complete; Daniel at Cafe gate |
 | 007→008 | G | Daniel inside Cafe; field folio/flashlight supported; gloves stored until V038 |
 | 008→009 | G | SAME gloves ON; token gloved hand; flashlight/folio supported |
@@ -106,12 +106,12 @@ Planned permanent authorities:
 - `FIRE-DOC` → `Manhwa/Object-References/san-aurelio-fire-evidence-document-system-canonical-reference.webp`
 - `FIELD-KIT` → `Manhwa/Object-References/daniel-station-field-access-kit-canonical-reference.webp`
 - `SJ26` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-reference.webp`
-- `SJ26-ENTRY` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-access-threshold-reference.webp` — **REQUIRED by Strip 004 hardening**
+- `SJ26-ENTRY` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-access-threshold-reference.webp`
+- `SCLOCK` → `Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp` — **REQUIRED by Strip 005 hardening; also reused Strip 036**
 - `CAFE-S` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-shared-structure-reference.webp`
 - `CAFE-D` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-dual-era-state-reference.webp`
 - `TOKEN` → `Manhwa/Object-References/cafe-siete-token-canonical-reference.webp`
 - `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp`
-- `SCLOCK` → PENDING HARDENING
 - `SERVICE` → PENDING HARDENING
 - `BAKERY-TOOLS` → PENDING HARDENING
 
@@ -123,8 +123,8 @@ Planned permanent authorities:
 | 002 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC | PREV |
 | 003 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC + FIELD-KIT | PREV |
 | 004 | DANIEL | SJ26 + SJ26-ENTRY | FIELD-KIT + exact access-door/closer/threshold geometry | PREV |
-| 005 | DANIEL | SJ26 + SJ26-ENTRY start carry | FIELD-KIT + SCLOCK when hardened | PREV |
-| 006–007 | DANIEL | SJ26 / CAFE-S | FIELD-KIT + supported carry | PREV |
+| 005 | DANIEL | SJ26 + SJ26-ENTRY start carry | FIELD-KIT + SCLOCK | PREV |
+| 006–007 | DANIEL | SJ26 / CAFE-S | FIELD-KIT + SCLOCK carry context where clock may be background only | PREV |
 | 008 | DANIEL | CAFE-S + 2026 | FIELD-KIT + PAPER-KIT gloves + TOKEN | PREV |
 | 009 | DANIEL | CAFE-S + 2026 | TOKEN + CCLOCK | PREV |
 | 010 | DANIEL | CAFE-S + CAFE-D | TOKEN + CCLOCK | PREV |
@@ -138,7 +138,24 @@ Planned permanent authorities:
 | 031–033 | DANIEL+TOMAS | CAFE-S+CAFE-D | PAPER-KIT / SERVICE | PREV |
 | 034 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK + SERVICE + warning + Tomas pencil | PREV |
 | 035 | DANIEL | CAFE-S 2026 | warning/sleeve + SERVICE sealed | PREV |
-| 036 | DANIEL | CAFE-S 2026 + SJ26 | flashlight + glass + SCLOCK | PREV |
+| 036 | DANIEL | CAFE-S 2026 + SJ26 | flashlight + glass + **same SCLOCK** | PREV |
+
+## Two-Clock Gate — Absolute
+
+`SCLOCK` and `CCLOCK` are never interchangeable.
+
+`CLOCK-STATION-01`:
+- large dark-iron institutional station clock
+- ivory enamel face
+- hour/minute hands only
+- fixed `12:07` in 2026
+- never resets or ticks during Cafe connection
+
+`CLOCK-CAFE-01`:
+- smaller brass-rimmed Cafe clock
+- thin second hand
+- resets `12:00`
+- tracks active connection duration
 
 ## SFX Source Gate
 
@@ -149,6 +166,8 @@ Approved families include:
 - tray/service: `CLINK-CLINK`, `THK`, `TZK`, `KZT!`, `SKRRRRK`, `CLINK`, `SHHK`
 - aging/paper: `KRK...`, `FSSSH`, `SCRITCH...`, `RRIP`
 - flashlight/pencil: `RRR...`, `CLACK`, `TK`, `SSSH`
+
+Strip 005 specifically uses only one required `PLIK`; the stopped station clock must not receive `TICK`/`TOCK`.
 
 Every SFX physically sourced/timed.
 
@@ -168,6 +187,6 @@ Permanent canon outranks previous render.
 
 ## Render Gate
 
-Local textual PASS for Strips 001–004 does not mean they can render. Required approved WebPs remain missing.
+Local textual PASS for Strips 001–005 does not mean they can render. Required approved WebPs remain missing.
 
 After all sequential hardening/canonical gates pass, generation stays strict `001 → 002 → ... → 036`.

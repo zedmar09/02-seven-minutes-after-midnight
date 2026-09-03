@@ -26,23 +26,50 @@ Show San Aurelio's own historically grand early-20th-century railway architectur
 - cracked glass and damaged plaster
 - rain entering only through physically plausible roof/window/threshold damage
 - Cafe Siete beside old ticket hall
-- station-clock context supporting fixed `12:07` clue
+- fixed ticket-hall station-clock bay supporting the `12:07` clue
 
 Do not copy a famous station's distinctive facade, roof, clock tower, concourse, platform canopy or landmark composition.
 
 ## 2026 Access / Route Integration — Absolute
 
-The broader station reference must integrate with the separate approved:
+The broader station reference must integrate with:
 `san-aurelio-junction-2026-access-threshold-reference.webp`
 
 Permanent route relationship:
-- authorized side-access door enters at the SIDE EDGE of the ticket hall
+- authorized side-access door enters at the SIDE EDGE of ticket hall
 - immediate route proceeds 2–3 meters inward before opening into deeper ticket-hall circulation
 - access door does not open directly onto Cafe Siete
-- `CLOCK-STATION-01` is not readable from the threshold; Daniel's deeper Strip 005 movement creates the first valid sightline
-- side-entry floor condition, walls, columns/iron members and boarded ticket-window context must connect physically to later ticket-hall views
+- side-entry floor condition, walls, columns/iron members and boarded ticket-window context connect physically to deeper views
 
-Do not use a camera cut to move the access door, clock, Cafe Siete or ticket-hall depth.
+## `CLOCK-STATION-01` Mounting / Sightline — Absolute
+
+Use the dedicated object authority:
+`../../Object-References/san-aurelio-station-clock-canonical-reference.webp`
+
+Permanent mounting:
+- high on the DEEP TICKET-HALL WALL
+- directly above the central run of old ticket windows
+- fixed to station architecture, never to Cafe Siete
+- approximately 70–80 cm clock scale according to object authority
+
+Sightline rule:
+- from the authorized access threshold, the first major iron column / room depth prevents a readable face view
+- after Daniel advances about another 5–6 meters in Strip 005 and clears the column line, the clock body becomes physically visible
+- the face/time is not reader-readable until Daniel's flashlight settles on it in V023–V024
+- camera changes may not move the clock around the column or lower it for convenience
+
+Cafe route relationship:
+- after the clock-view waypoint, Cafe Siete lies farther along the ticket-hall circulation to Daniel's forward-right
+- Daniel must turn his body/flashlight away from the clock toward that route before Strip 006 begins
+
+## Strip 005 Grounded Leak Path
+
+Provide at least one stable minor leak source usable near the clock-view route:
+- damaged high transom / roof-plaster seam adjacent to, but not directly over, the clock
+- one small shallow puddle at the floor margin, not centered in Daniel's walking path
+- water drop path must be visually traceable source → fall → puddle impact
+
+The leak can support one `PLIK` in Strip 005. It must not create a flooded/glossy hall or visually destroy the clock.
 
 ## Weather / Material Rule
 
@@ -55,9 +82,12 @@ Rain-wet state is localized:
 ## Reference Views
 
 Provide geometry-first wide/medium views sufficient to understand:
-- Daniel's route from side access into ticket hall
-- ticket hall → Cafe Siete relationship
-- station-clock location/sightline
-- major columns/openings and valid reverse angles
+1. side access → first 2–3 meters ticket-hall route
+2. deeper walking route past first major iron column
+3. central boarded ticket-window run with `CLOCK-STATION-01` permanent mounting position
+4. clock-view waypoint showing valid first sightline but neutral/no character
+5. clock-view waypoint → Cafe Siete forward-right route
+6. grounded leak source/puddle relationship
+7. useful reverse views preserving all world-space relationships
 
 No characters, supernatural glow, horror silhouettes, cinematic abandoned-building glamour or real-world geographic identifiers.

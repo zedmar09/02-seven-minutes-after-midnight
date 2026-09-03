@@ -16,7 +16,7 @@ Chapter 1 temporary final state is controlled by the chapter state-resolution ad
 
 ## Cafe Siete Connection Clock — `CLOCK-CAFE-01`
 
-- brass-rimmed wall clock inside Cafe Siete
+- smaller brass-rimmed wall clock inside Cafe Siete
 - ordinary physical analog clock construction, not magical floating UI
 - separate hour/minute hands plus a readable thin second hand because later shortened windows close on exact seconds
 - in Tomas's ordinary 1986 experience the clock has been broken for roughly two years and normally rests at `12:07`
@@ -28,13 +28,54 @@ Chapter 1 temporary final state is controlled by the chapter state-resolution ad
 
 ## San Aurelio Station Clock — `CLOCK-STATION-01`
 
-- physically separate larger ticket-hall/station clock
-- in Daniel's 2026 baseline it is stopped at exactly `12:07`
-- creator cause: relevant station feed/relay branch was cut at 12:07 on the fire night before ignition
-- it does **not** reset to 12:00 during Daniel/Tomas meetings
-- during active Cafe scenes, avoid showing both clocks in one composition unless the contrast is explicitly scripted
+This is a physically separate larger ticket-hall clock and now requires its own approved canonical:
+`san-aurelio-station-clock-canonical-reference.webp`.
 
-The station clock may live primarily under environment authority, but it retains this object ID for story-state tracking.
+Permanent visual identity:
+- approximately 70–80 cm diameter
+- matte blackened/dark-iron institutional frame
+- restrained mounting lugs
+- flat warm-ivory enamel face
+- bold Arabic numerals and sixty minute tick marks
+- thick squared hour/minute hands
+- **NO second hand**
+- no brass rim, Cafe Siete motif, digital display or decorative magical behavior
+
+2026 baseline state:
+- permanently stopped at exact `12:07`
+- minute hand points to the seventh minute tick, two ticks after the `1` numeral / five-minute mark
+- hour hand sits slightly past `12`
+- no `TICK`/`TOCK` SFX and no visible hand movement
+- face remains dusty/aged but clearly readable
+
+Creator cause:
+- relevant station feed/relay branch was cut at 12:07 on the fire night before ignition
+- the clock does **not** reset to 12:00 during Daniel/Tomas meetings
+- it remains an ordinary historical clue, not the connection-state clock
+
+Environment mounting lock:
+- mounted high on the deep ticket-hall wall above the central old ticket-window run
+- not readable from the authorized side-access threshold
+- first legal reader reveal occurs only after Daniel moves deeper in Strip 005
+- final Chapter 1 echo in Strip 036 must show the same physical design/state
+
+During active Cafe scenes, avoid showing both clocks in one composition unless the contrast is explicitly scripted.
+
+## Two-Clock Distinction — Absolute
+
+Never merge the clock designs.
+
+`CLOCK-STATION-01`:
+- large dark-iron station clock
+- no second hand
+- fixed `12:07` historical clue
+
+`CLOCK-CAFE-01`:
+- smaller brass-rimmed cafe clock
+- thin second hand
+- resets/advances as the time-slip connection clock
+
+A close-up, reverse shot or later render may not redesign one into the other.
 
 ## Daniel's Notebook / Pencil / Archival Paper System
 

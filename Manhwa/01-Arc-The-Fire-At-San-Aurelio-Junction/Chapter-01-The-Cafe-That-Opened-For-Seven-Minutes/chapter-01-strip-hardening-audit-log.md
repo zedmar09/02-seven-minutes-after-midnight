@@ -1,6 +1,6 @@
 # Chapter 1 Sequential Strip Hardening Audit Log
 
-Status: **IN PROGRESS — STRIPS 001–004 LOCAL TEXTUAL HARDENING PASS — STRIPS 005–036 PENDING.**
+Status: **IN PROGRESS — STRIPS 001–005 LOCAL TEXTUAL HARDENING PASS — STRIPS 006–036 PENDING.**
 
 A PASS here is textual/preproduction only; it does not approve missing canonical WebPs or rendered pixels.
 
@@ -64,162 +64,182 @@ Accepted repairs:
 - same gloves removed/stored one at a time
 - notebook/pencil/clean paper packed
 - field folio/key/flashlight carry established
-- Strip 003 end flashlight state resolved as **OFF**
+- Strip 003 end flashlight state = OFF
 - exact 003→004 field carry frozen
 
 ---
 
 ## Strip 004 — 11:41 PM / Station Entry
 
-Previous: **Strip 003 — LOCAL TEXTUAL PASS**.
+Previous: Strip 003 PASS.
 
-Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / SJ26 / SJ26-ENTRY / FIELD-KIT WEBPS AND APPROVED RENDERED STRIP 003.**
+Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 003 STILL BLOCK RENDERING.**
+
+Accepted repairs:
+- legal travel cut changes only location/weather/pose
+- same folio/key/flashlight carried
+- flashlight visibly switched OFF→ON
+- one real key unlock chain; key re-clipped before door use
+- exact access-door hinge/lock geometry authority added
+- one delayed hydraulic closer controls entire door close
+- complete threshold crossing shown
+- localized wetness only
+- `KLAK`, `TAP... TAP...`, rain/drip and `THUNK` have physical sources
+- station clock deliberately withheld until Strip 005
+- exact 004→005 paused entry state frozen
+
+---
+
+## Strip 005 — The Station Clock
+
+Previous: **Strip 004 — LOCAL TEXTUAL PASS**.
+
+Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / SJ26 / SJ26-ENTRY / FIELD-KIT / STATION-CLOCK WEBPS AND APPROVED RENDERED STRIP 004.**
 
 ### Script / Reader Logic — PASS AFTER REPAIR
 
-Strip 004 now performs one clear reader function:
+Strip 005 now performs one clear clue sequence:
+1. Daniel physically continues walking from the exact Strip 004 pause
+2. station architecture opens naturally as he clears the first iron-column line
+3. one real drip/puddle sound briefly redirects his attention
+4. the same flashlight scan rises and discovers the station clock in context
+5. same-object detail proves exact `12:07`
+6. Daniel says only `Stopped.`
+7. he pivots toward Cafe Siete route but does not take the next step yet
 
-**Daniel enters San Aurelio Junction through ordinary authorized physical access and is fully inside with the door latched behind him before the station-clock clue begins.**
+The strip does not explain why 12:07 matters and does not connect the clue to the time-slip yet.
 
-No supernatural access behavior appears. The `12:07` station-clock clue remains withheld until Strip 005.
+### 004 → 005 Continuity — PASS
 
-### 003 → 004 Continuity — PASS
+No reset:
+- Daniel begins about 2–3m inside side ticket-hall route
+- access door closed/latched behind
+- hands bare
+- folio LEFT arm
+- key clipped exterior
+- flashlight RIGHT hand ON / beam low-forward
+- same lightly damp clothing
+- station clock not yet visible/readable
 
-Legal travel cut changes location/weather/standing pose only.
+### Walking / Route Movement — PASS AFTER REPAIR
 
-Inherited exactly:
-- same Daniel identity/clothing/glasses
-- hands BARE
-- folio under LEFT arm
-- same access key clipped exterior
-- notebook/pencil/clean paper/same gloves packed inside
-- same flashlight RIGHT hand
-- flashlight state resolved as OFF at Strip 004 start
+Old prompt could still jump from the side entry to a generic ticket-hall view.
 
-No new bag/umbrella/key/flashlight appears.
-
-### Environment Authority — PASS TEXTUALLY / VISUAL BLOCKER
-
-New required reusable authority:
-`Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-access-threshold-reference.webp`
-
-It locks:
-- exact authorized side-access position
-- exterior hinge RIGHT / lock+handle LEFT world-sides
-- inward opening arc
-- mechanical key fit
-- delayed hydraulic closer
-- canopy/landing/sill
-- localized wet threshold zone
-- first 2–3m ticket-hall route
-- clock sightline blocked until deeper Strip 005 movement
-
-This prevents the access door from redesigning inside one strip or later return visits.
-
-### Flashlight Power — PASS AFTER REPAIR
-
-The previous continuity did not define whether carried flashlight was ON or OFF.
-
-Hardening now locks:
-- Strip 003 END = OFF
-- Strip 004 V016 = right thumb visibly switches SAME flashlight ON
-- flashlight stays ON throughout 004
-- Strip 004 END / Strip 005 START = ON
-
-No camera cut may toggle power.
-
-### V016 Key / Door Mechanics — PASS
-
-Exact physical chain:
-1. flashlight switched ON
-2. left upper arm clamps folio
-3. left hand unclips same access key
-4. key inserts/turns real lock
-5. `KLAK` at latch release
-6. key withdraws
-7. same key re-clips to folio **before** handle action
-8. left hand operates handle
-9. same door opens inward to about 75–85°
-10. left hand releases after clearance
-
-No key remains in lock. No fob/card. No third hand.
-
-### Door Closing Mechanism — PASS AFTER REPAIR
-
-Old prompt allowed two mechanisms (`allows closer` OR `physically pulls`). That was rejected.
-
-One mechanism now controls the entire strip:
-**delayed hydraulic closer**.
-
-Door:
-- open V016
-- released/slow return V017
-- smaller return angle V018/V019 where visible
-- reaches frame only V020
-- `THUNK` at actual latch/frame impact
-
-A camera cut cannot close it.
-
-### Threshold / Body Movement — PASS
-
-V017 shows:
-- leading foot crosses/contact
+Hardening now requires:
+- first visible step from V020 planted stance
 - real weight transfer
-- torso/hips cross door plane
-- trailing foot clears sill
-- both feet station-side before closing door can intersect him
+- two to three additional ordinary walking steps
+- roughly another 5–6m of approved deeper route
+- first major iron-column line physically cleared
+- access door recedes by room depth rather than disappearing
 
-V018 is not a duplicate crossing. It contains two additional interior walking steps with `TAP... TAP...`.
+No teleport to the clock.
 
-### Weather / SFX — PASS
+### Station Environment / Clock Bay — TEXTUAL PASS / VISUAL BLOCKER
 
-- `KLAK` = access latch release
-- `TAP... TAP...` = two post-threshold shoe contacts
-- `TIK... TIK...` = rain/drip only after beam identifies plausible damage source
-- `THUNK` = same delayed-closer door seating/latching
+San Aurelio 2026 authority now locks:
+- `CLOCK-STATION-01` high on deep ticket-hall wall
+- clock above central old ticket-window run
+- threshold sightline blocked by column/depth
+- first legal readable sightline only after Strip 005 deeper movement
+- Cafe Siete forward-right beyond the clock-view waypoint
+- one minor leak path adjacent to the clock bay but not over the clock
 
-Wetness is localized around threshold/damage paths. No glossy full-hall flood treatment.
+### `CLOCK-STATION-01` Canonical — REQUIRED AFTER HARDENING
 
-### Clock Reveal Discipline — PASS
+New required authority:
+`Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp`
 
-`CLOCK-STATION-01` cannot be readable from access threshold.
+Permanent design:
+- 70–80cm institutional wall clock
+- matte blackened/dark-iron frame
+- warm-ivory enamel face
+- bold numerals/minute ticks
+- thick hour/minute hands only
+- **NO second hand**
+- exact 2026 state `12:07`
 
-Strip 004 beam path explicitly avoids the clock. The first valid sightline opens only after Strip 005's deeper walking movement.
+This makes it impossible to confuse with `CLOCK-CAFE-01`, the smaller brass-rimmed connection clock with a second hand.
 
-This prevents the 12:07 clue from being spoiled one strip early.
+### V022 Sound / Environment — PASS
+
+One controlled sound only:
+`PLIK`
+
+Mechanism:
+- visible drop forms/falls from approved damaged transom/roof-plaster seam
+- impacts one small shallow puddle at floor margin
+- Daniel glances/redirects beam toward the source
+
+No generic rain SFX layer and no glossy flooded floor.
+
+### V023 Beam → Clock Discovery — PASS
+
+Same right-hand flashlight:
+- rises from puddle/damaged wall scan
+- crosses real ticket-window wall geometry
+- reaches station-clock outer rim
+- Daniel's eyeline follows
+- final half-step plants
+- Daniel stops before the close proof
+
+The first clock view remains contextual; V024 owns the exact time proof.
+
+### V024 `12:07` Proof — PASS
+
+Same physical clock only.
+
+Mobile-readable proof:
+- minute hand = seventh minute tick
+- hour hand slightly past 12
+- no second hand
+- no movement/ticking SFX
+- exact `12:07`
+
+A close-up cannot become a second clock.
+
+### Dialogue / Performance — PASS
+
+Daniel line remains:
+`Stopped.`
+
+It follows the clock proof. His reaction stays controlled/procedural, not supernatural horror.
+
+No extra exposition such as `Why twelve-oh-seven?` is permitted yet.
 
 ### Vertical Rhythm — PASS
 
 Current target:
-- V016 31%
-- V017 18%
-- V018 15%
-- V019 20%
-- V020 16%
+- V021 25%
+- V022 12%
+- V023 22%
+- V024 27%
+- V025 14%
 
-V016 gets room for the full access mechanism; V019 gets enough space for grounded station-condition proof.
+V024 dominates as clue proof; V021 gets room for real spatial continuity.
 
-### Strip 004 → 005 Seam-Out — PASS AFTER REPAIR
+### Strip 005 → 006 Seam-Out — PASS AFTER REPAIR
 
 Exact state:
-- Daniel fully inside at SIDE EDGE ticket hall, ~2–3m beyond threshold
-- access door CLOSED + LATCHED behind
-- delayed closer at rest
-- Daniel reoriented to deeper ticket hall in stable paused stance
-- hands BARE
-- folio LEFT arm
-- key clipped folio exterior
-- flashlight RIGHT hand ON / beam low-forward
-- localized threshold dampness behind
-- established deeper drip source
-- station clock not yet revealed
+- Daniel remains planted at fixed clock-view waypoint, roughly 7–9m total from side access
+- body/feet pivoted toward forward-right Cafe Siete route
+- first Cafe-bound step has NOT happened yet
+- hands bare
+- folio left arm
+- key clipped exterior
+- flashlight right hand ON / beam lowered toward Cafe-route darkness
+- `CLOCK-STATION-01` remains fixed `12:07` behind/up-left relative to Daniel's new facing
 
-Strip 005 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
+Strip 006 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
+
+### Next-Strip Finding Preserved
+
+Strip 006 still has unresolved photography-device provenance. Hardening did **not** invent a phone/camera offscreen. The Strip 006 audit must establish the real device identity/source before V030 can photograph `TOMAS`.
 
 ---
 
 ## Next Audit
 
-**Strip 005 — The Station Clock**
+**Strip 006 — Cafe Siete / TOMAS**
 
-Do not inherit Strip 004 PASS into Strip 005. Audit walking route, environment geometry, drip source, beam→clock discovery, `CLOCK-STATION-01` authority/identity, exact 12:07 legibility, dialogue and 005→006 Cafe approach independently.
+Do not inherit Strip 005 PASS into Strip 006. Audit the clock→Cafe walking route, sign/scratch geometry, flashlight beam continuity, exact stop before photography, camera/phone provenance, `SNAP` source, concealed second scratch and 006→007 gate position independently.
