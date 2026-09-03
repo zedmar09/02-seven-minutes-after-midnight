@@ -10,11 +10,26 @@ Daniel eventually learns Tomas died in the station fire recorded in the archive.
 
 The story is an adult BL romance built around fragile midnight meetings, archival evidence, railway history, object aging across forty years, and a human conspiracy behind the San Aurelio fire.
 
+## Fictional Setting — Absolute
+
+The entire story takes place in a **fully fictional geography**.
+
+- `Caligo Vale` — fictional independent rail territory; no real-country counterpart
+- `San Aurelio` — fictional municipality and historic railway hub inside Caligo Vale
+- `San Aurelio Junction` — fictional station
+- `San Aurelio Municipal Museum` — fictional civic museum
+- `San Aurelio Railway Archive` — fictional archive/restoration project
+- `Cafe Siete` — fictional cafe at the junction
+
+Do not introduce real countries, real cities, real provinces/states, real nationality labels, real flags, real maps, real transit logos, famous skylines or recognizable landmark/station replicas into story canon or visual generation.
+
+Character surnames and visual traits do not imply a real nationality. `Korean manhwa/webtoon` is production/style terminology only and does **not** locate the story in Korea or any real place.
+
+Binding details: `Manhwa/Continuity/fictional-setting-bible.md`.
+
 ## Production Format — Manhwa Only
 
-Active visual pipeline is `Manhwa/` only. Retired page/manga production must not return.
-
-Reader-facing chapters are continuous vertical-scroll Korean manhwa/webtoon. Technical strips and beat IDs are production-only.
+Active visual pipeline is `Manhwa/` only. Reader-facing chapters are continuous vertical-scroll manhwa/webtoon chapters. Technical strips and beat IDs are production-only.
 
 ## Canonical Production Stack
 
@@ -32,14 +47,14 @@ Missing/stale/unapproved required visual authority is blocking.
 
 **STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION.**
 
-Clean intentional linework, flat matte colors, restrained hard-edged cel shading, stable adult anatomy, natural hands, mobile readability.
+Clean intentional linework, flat matte colors, restrained hard-edged cel shading, stable adult anatomy, natural hands and mobile readability.
 
 Reject photoreal/semi-real, 3D/CGI, painterly/airbrushed, glossy/plastic/wet character finish, cinematic grading, bloom, lens flare, depth-of-field blur, gratuitous reflections and AI-polished over-rendering.
 
 ## Core Time-Slip Rules
 
 1. healthy Cafe connection opens 12:00
-2. original healthy interval is seven minutes; later historical/boundary interference can permanently shorten future windows
+2. original healthy interval is seven minutes; later interference can permanently shorten future windows
 3. Daniel 2026; Tomas 1986, normally same month/day forty years apart
 4. shared counter is unstable overlap; service window is stable exchange/contact aperture
 5. living bodies cannot fully cross
@@ -53,7 +68,7 @@ Reject photoreal/semi-real, 3D/CGI, painterly/airbrushed, glossy/plastic/wet cha
 
 ## Current Chapter 1 Production Shape
 
-Chapter 1 has been rebuilt for reader clarity from the former compressed package into:
+Chapter 1 uses:
 - **180 internal read beats**
 - **36 technical production strips**
 - explicit cause→movement→contact/result→reaction chains
@@ -61,49 +76,26 @@ Chapter 1 has been rebuilt for reader clarity from the former compressed package
 - physically sourced SFX
 - explicit seam-in/seam-out continuity
 
-The chapter still begins with archive tampering and 11:41 PM San Aurelio entry and ends with `FIRE STARTS IN THE SERVICE CORRIDOR.` plus separate station clock fixed `12:07`.
+Sequential hardening status:
+- Strip 001 — local textual PASS
+- Strip 002 — NEXT
+- Strip 003–036 — pending
 
-Current status: **PRODUCTION-STRIP REBUILD COMPLETE — FORMAL HARDENING AUDIT PENDING — CANONICAL WEBPS MISSING — NO RENDERED STRIP APPROVED.**
+No rendered strip is approved yet.
 
 ## Reference Status
 
-Character/environment/object reference folders and prompt/bible architecture exist, but approved canonical WebPs are still missing.
-
-Priority visual authorities include:
-- Daniel Soriano
-- Tomas Rivera
-- San Aurelio Junction 2026 and required 1986 geometry/state
-- Cafe Siete shared structure / dual-era state / service window / angle coverage
-- Cafe token
-- Cafe connection clock
-- separate station clock if required as reusable detailed authority
-- additional tongs/tray/notebook/paper references if hardening determines they are necessary
+Reference prompt/bible architecture exists, but approved canonical WebPs are still missing. Priority authorities include Daniel, Tomas, San Aurelio Junction, the San Aurelio Municipal Museum archive workroom, Cafe Siete geometry/states, token, Cafe clock, station clock as needed, and recurring evidence/prop references identified during hardening.
 
 ## Creator-Only Continuity Architecture
 
-`Manhwa/Continuity/` stores Arc 1 timeline, shrinking-window ledger, mechanics, rewrite protocol, object provenance, evidence causality, chapter matrix and fire-conspiracy solution.
+`Manhwa/Continuity/` stores the fictional-setting bible, Arc 1 timeline, shrinking-window ledger, mechanics, rewrite protocol, object provenance, evidence causality, chapter matrix and fire-conspiracy solution.
 
 ## Current Production Status
 
-Arc 1 planned for 15 chapters.
-
-Chapter 1: 180-beat / 36-strip textual production rebuild present; formal hardening pending.
-
-No active Chapter 2 folder yet. Do not begin Chapter 2 production until Chapter 1/continuity hardening accepts the current authorities.
+Arc 1 is planned for 15 chapters. No active Chapter 2 folder exists yet. Do not begin Chapter 2 production until the current Chapter 1 hardening sequence is accepted.
 
 `PRODUCTION COMPLETE` remains forbidden until canonical assets, sequential renders, stitched QA and final clean-room audit all pass.
-
-## Project Structure
-
-- `Character-References/`
-- `Covers/`
-- `Manhwa/`
-- `Manhwa/Continuity/`
-- `Manhwa/Environment-References/`
-- `Manhwa/Object-References/`
-- `Manhwa/01-Arc-The-Fire-At-San-Aurelio-Junction/`
-- `characters.md`
-- `series-plan.md`
 
 ## Arc 1 — The Fire At San Aurelio Junction
 

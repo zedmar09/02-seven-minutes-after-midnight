@@ -17,22 +17,30 @@ Required:
 - stable local colors/materials
 - mobile-first readability
 
+Reject photorealism/semi-photorealism, 3D/CGI/game-render appearance, glossy/plastic/wet-looking skin or hair, beauty-ad shine, mirror-like gratuitous reflections, airbrushed/painterly realism, bloom, lens flare, gratuitous rim light, cinematic color grading, cinematic depth-of-field blur, hyper-detailed pores, over-rendered eyes/lips/hair, and generic AI-polished finish.
+
+## Fictional Setting Visual Identity — Absolute
+
+The story occurs in fictional **Caligo Vale**, centered on fictional **San Aurelio**.
+
+This guide's phrase `Korean manhwa/webtoon` describes the visual medium only. It must never cause the art to import Korea—or any other real location—into the story.
+
 Reject:
-- photorealism or semi-photorealism
-- 3D/CGI/game-render appearance
-- glossy/plastic/wet-looking skin or hair
-- beauty-ad shine
-- mirror-like materials or gratuitous reflections
-- airbrushed or painterly realism
-- bloom, lens flare, gratuitous rim light
-- cinematic color grading
-- cinematic depth-of-field blur
-- hyper-detailed pores or over-rendered eyes/lips/hair
-- generic AI-polished finish
+- real country/city/province/state names
+- real nationality labels inferred from character appearance
+- real flags, maps, coats of arms or civic seals
+- real transit/railway logos or route maps
+- famous skylines or landmarks
+- recognizable one-to-one copies of real stations, museums or cafes
+- real license-plate/postal/phone/government-signage formats
+
+San Aurelio's architecture, signage and civic identity must be designed as its own fictional system from approved canonicals.
 
 ## Character Canonical Authority
 
 Approved WebPs under `Character-References/` control face geometry, age presentation, build, hair geometry/color, permanent marks, accessories, signature wardrobe construction, and stable silhouette. Close-up, reverse shot, darkness, rain, steam, fear, romance, or previous strip never outranks the canonical WebP.
+
+Character surnames/appearance do not authorize a real nationality redesign.
 
 ## Character Topology
 
@@ -51,7 +59,7 @@ Reject extra/missing/duplicated limbs, detached hands/feet, impossible joints, f
 - slim medium-tall adult build
 - controlled conservator performance
 
-Do not recast him as teenage, idol-like, corporate, fantasy, gothic, glossy, or hypermasculine.
+Do not recast him as teenage, idol-like, corporate, fantasy, gothic, glossy, hypermasculine, or a representative of a real nationality.
 
 ## Tomas Rivera Locks
 
@@ -62,9 +70,9 @@ Do not recast him as teenage, idol-like, corporate, fantasy, gothic, glossy, or 
 - long dark wavy hair past shoulders
 - low practical tie with thin jade-green cord while working
 - loose face-framing strands may move naturally
-- cream 1980s cafe shirt, brown waist apron, dark high-waisted trousers
+- cream 1980s Cafe Siete shirt, brown waist apron, dark high-waisted trousers
 
-Do not turn his hair into aristocratic/xianxia/warlord/ghost-prince/idol styling.
+Do not turn his hair into aristocratic/xianxia/warlord/ghost-prince/idol styling or add real-national identity cues.
 
 ## Wardrobe / Material Continuity
 
@@ -72,9 +80,9 @@ Within a continuous scene, clothing construction, sleeve state, apron state, gla
 
 ## Environment Canonical Authority
 
-Recurring locations require approved WebP authorities. They control structural footprint, walls/openings, counter/service-window geometry, clock/menu-wall relationship, fixed architectural relationships, camera-axis truth, and physically valid reverse views.
+Recurring locations require approved WebP authorities. They control structural footprint, walls/openings, counter/service-window geometry, clock/menu-wall relationship, fixed architectural relationships, camera-axis truth, physically valid reverse views, and fictional civic/signage identity.
 
-The same Cafe Siete structure exists in 1986 and 2026. Era differences may change condition, occupancy, furnishings, lighting, damage, and clutter but not relocate structural architecture for composition convenience.
+The same Cafe Siete structure exists in 1986 and 2026. Era differences may change condition, occupancy, furnishings, lighting, damage, and clutter but not relocate structural architecture or import real-world geography.
 
 ## Object Canonical Authority
 
@@ -85,18 +93,18 @@ Recurring plot-critical objects keep stable shape, scale, materials, markings, w
 1986 and 2026 should be distinguishable by grounded historical state, not cinematic filters.
 
 1986:
-- operational station/cafe
+- operational fictional San Aurelio station/cafe
 - intact fixtures
 - active cafe service
-- period-correct objects and clothing
+- internally consistent fictional period objects/clothing/signage
 - warm practical indoor light represented with flat value/color design
 
 2026:
-- abandoned/damaged station
+- abandoned/damaged fictional San Aurelio station
 - dust, broken tile, plywood, redevelopment intrusion, cold rain
 - practical flashlight or existing light sources only
 
-Do not use heavy orange/teal grading, bloom, fog overlays, magical portals, neon time energy, or glossy VFX as shortcuts.
+Do not use heavy orange/teal grading, bloom, fog overlays, magical portals, neon time energy, glossy VFX, or real-world geographic shortcuts.
 
 ## Service Window
 
@@ -104,7 +112,7 @@ The service window is a physical recurring mechanism, narrow enough for plates/l
 
 ## Clock
 
-Clock text/time must be exact and mobile-readable when story-critical. Never show a decorative contradictory time. 12:00 through 12:07 progression must follow script order.
+Clock text/time must be exact and mobile-readable when story-critical. Never show a decorative contradictory time. 12:00 through 12:07 progression follows script order.
 
 ## Object Aging
 
@@ -116,4 +124,4 @@ Romance is adult and restrained: proximity, held eye contact, hand contact, pres
 
 ## Final Rejection Gate
 
-Reject any technical strip if character identity drifts, anatomy breaks, environment geometry resets, the service-window/clock/object mechanics contradict canon, era state contaminates the wrong side, time/order is wrong, text becomes unreadable, materials become glossy/cinematic, or the output stops reading as strict flat 2D human-drawn Korean manhwa/webtoon.
+Reject any technical strip if character identity drifts, anatomy breaks, environment geometry resets, fictional geography leaks into a real-world place, the service-window/clock/object mechanics contradict canon, era state contaminates the wrong side, time/order is wrong, text becomes unreadable, materials become glossy/cinematic, or the output stops reading as strict flat 2D human-drawn Korean manhwa/webtoon.

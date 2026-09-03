@@ -1,14 +1,18 @@
 # San Aurelio Municipal Museum — Railway Archive Conservation Workroom
 
-This pack is the reusable 2026 environment authority for Daniel's archive/conservation work at the San Aurelio Municipal Museum.
+This pack is the reusable 2026 environment authority for Daniel's archive/conservation work at the **fictional San Aurelio Municipal Museum** in fictional Caligo Vale.
 
 Current status: **REFERENCE PROMPTS/BIBLE PRESENT — APPROVED WEBP MISSING — RENDER BLOCKED.**
+
+## Fictional Institution Lock
+
+The museum/archive must not copy a real museum, national archive, city hall, railway authority, flag, civic seal, map, logo or government branding. All visible institutional design belongs to fictional San Aurelio.
 
 ## Planned Authority
 
 - `san-aurelio-municipal-archive-workroom-reference.webp`
 
-Chapter 1 Strips 001–003 require this authority once approved. Later museum/archive chapters should reuse it rather than inventing a new Daniel workroom.
+Chapter 1 Strips 001–003 require this authority once approved. Later museum/archive chapters reuse it rather than inventing a new Daniel workroom.
 
 ## Permanent Geometry / State
 
@@ -19,7 +23,7 @@ The approved pack must lock:
 - practical neutral workroom lighting
 - shelving/storage relationships for the San Aurelio railway collection
 - stable door/circulation/background relationships sufficient for reverse views
-- believable municipal-museum conservation scale rather than a giant cinematic archive hall
+- believable fictional municipal-museum conservation scale rather than a giant cinematic archive hall
 
 ## Source-Collection Context
 
@@ -29,8 +33,8 @@ Creator/source context remains:
 - one locked cash drawer/source object
 - redevelopment pressure/deadline material associated with the station project
 
-A single story view does **not** need to display or count all forty-two boxes. The environment should communicate a substantial damaged collection without turning the background into repeated AI box clutter.
+A single story view does not need to display/count all forty-two boxes.
 
 ## Visual Direction
 
-Strict flat 2D human-drawn Korean manhwa/webtoon environment authority. Matte materials, clean linework, neutral practical light, no glossy laboratory surfaces, no cinematic archive shafts, no mystery fog, no horror silhouettes.
+Strict flat 2D human-drawn Korean manhwa/webtoon environment authority. Matte materials, clean linework, neutral practical light, no glossy laboratory surfaces, no cinematic archive shafts, no mystery fog, no horror silhouettes and no real-world civic branding.

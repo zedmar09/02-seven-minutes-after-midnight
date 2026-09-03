@@ -5,7 +5,8 @@ A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes curre
 ## Always-Binding Creator Authorities
 
 Before generation, relevant creator continuity must agree:
-- `Continuity/`
+- `Continuity/fictional-setting-bible.md`
+- all other relevant `Continuity/` authorities
 - active arc chapter matrix
 - active chapter story package
 - chapter-local state addenda
@@ -21,63 +22,80 @@ Contradictory creator continuity blocks production even if prompts are internall
 
 ## Mandatory Gates
 
-1. creator timeline/date inherited
-2. creator duration/cost inherited
-3. evidence/culprit/reveal discipline coherent
-4. temporal-object provenance coherent
-5. rewrite/settlement/memory coherent
-6. chapter-local state synchronized
-7. continuous-scroll beat plan locked
-8. strip manifest locked
-9. story/event/timeline/causality coherent
-10. dialogue/narration/note/sign/clock ownership locked
-11. approved required character WebPs exist
-12. approved required environment WebPs exist
-13. approved required recurring-object WebPs exist
-14. previous approved strip used only for temporary state
-15. dual-era architecture physically compatible
-16. Cafe/station clocks distinct
-17. exact connection progression/close coherent
-18. crossings preserve one-object IDs
-19. aging/history state follows rules
-20. service-window geometry stable
-21. unstable counter distinct from stable aperture
-22. every strip deterministic START→CHANGES→END
-23. every critical change shows **cause → visible movement → contact/source → result → reaction**
-24. no continuity-critical action occurs only between views/strips
-25. hands/body support physically possible
-26. whole-body topology valid
-27. close-up limb ownership valid
-28. face/age/build/hair canonical
-29. wardrobe/accessory/glove/material stable
-30. pose/facing/gesture/emotion persists until visibly changed
-31. same-object wide/detail does not duplicate
-32. recurring object scale/construction stable
-33. broken/damaged props do not silently repair
-34. placed/floor objects do not silently return to hand
-35. camera axis/eyelines coherent
-36. dialogue follows comprehensible question/answer/reaction order
-37. humor follows comprehension and never cancels unresolved danger
-38. critical text carrier/mobile readability passes
-39. clocks show no contradictory time/identity swap
-40. 1986/2026 state separation passes
-41. practical light/rain/steam sources coherent
-42. reflections/shadows do not invent duplicates
-43. grips/contact prove action rather than 2D overlap
-44. worn/attached items physically connect
-45. perspective preserves geometry/scale
-46. proof legible at mobile scale
-47. crop/gutter/divider/seam does not amputate proof
-48. top-to-bottom order matches cause/action/result/dialogue
-49. every SFX/offscreen voice has real source and exact timing
-50. lettering/SFX never cover evidence/contact
-51. no reader-visible metadata
-52. strict flat 2D human-drawn Korean Manhwa passes visual inspection
-53. every strip generated/approved sequentially
-54. stitched chapter has no duplicate/missing micro-action, time jump, pose reset, object teleport, geometry jump, era contamination, clock swap, dialogue reset, repeated SFX or performance reset
-55. final ending matches locked script
-56. final physical/temporal/evidence state written back to creator ledgers where new permanent fact established
-57. fresh clean-room final audit finds zero unresolved mandatory findings
+1. fictional Caligo Vale / San Aurelio geography inherited correctly
+2. no real-country/city/nationality/flag/map/transit-logo/landmark leakage
+3. creator timeline/date inherited
+4. creator duration/cost inherited
+5. evidence/culprit/reveal discipline coherent
+6. temporal-object provenance coherent
+7. rewrite/settlement/memory coherent
+8. chapter-local state synchronized
+9. continuous-scroll beat plan locked
+10. strip manifest locked
+11. story/event/timeline/causality coherent
+12. dialogue/narration/note/sign/clock ownership locked
+13. approved required character WebPs exist
+14. approved required environment WebPs exist
+15. approved required recurring-object WebPs exist
+16. previous approved strip used only for temporary state
+17. dual-era architecture physically compatible
+18. Cafe/station clocks distinct
+19. exact connection progression/close coherent
+20. crossings preserve one-object IDs
+21. aging/history state follows rules
+22. service-window geometry stable
+23. unstable counter distinct from stable aperture
+24. every strip deterministic START→CHANGES→END
+25. every critical change shows **cause → visible movement → contact/source → result → reaction**
+26. no continuity-critical action occurs only between views/strips
+27. hands/body support physically possible
+28. whole-body topology valid
+29. close-up limb ownership valid
+30. face/age/build/hair canonical
+31. wardrobe/accessory/glove/material stable
+32. pose/facing/gesture/emotion persists until visibly changed
+33. same-object wide/detail does not duplicate
+34. recurring object scale/construction stable
+35. broken/damaged props do not silently repair
+36. placed/floor objects do not silently return to hand
+37. camera axis/eyelines coherent
+38. dialogue follows comprehensible question/answer/reaction order
+39. humor follows comprehension and never cancels unresolved danger
+40. critical text carrier/mobile readability passes
+41. clocks show no contradictory time/identity swap
+42. 1986/2026 state separation passes
+43. practical light/rain/steam sources coherent
+44. reflections/shadows do not invent duplicates
+45. grips/contact prove action rather than 2D overlap
+46. worn/attached items physically connect
+47. perspective preserves geometry/scale
+48. proof legible at mobile scale
+49. crop/gutter/divider/seam does not amputate proof
+50. top-to-bottom order matches cause/action/result/dialogue
+51. every SFX/offscreen voice has real source and exact timing
+52. lettering/SFX never cover evidence/contact
+53. no reader-visible metadata
+54. strict flat 2D human-drawn Korean Manhwa passes visual inspection
+55. every strip generated/approved sequentially
+56. stitched chapter has no duplicate/missing micro-action, time jump, pose reset, object teleport, geometry jump, era contamination, clock swap, dialogue reset, repeated SFX, real-location leakage or performance reset
+57. final ending matches locked script
+58. final physical/temporal/evidence state written back to creator ledgers where new permanent fact established
+59. fresh clean-room final audit finds zero unresolved mandatory findings
+
+## Fictional Setting Gate — Blocking
+
+The story is not allowed to fall back to a real-world setting during generation.
+
+Reject any strip/reference/cover that introduces:
+- real country/city/province/state names
+- real nationality labels as character shorthand
+- real flags, maps, government/civic seals
+- real railway/transit logos or route maps
+- famous skylines/landmarks
+- recognizable one-to-one replicas of real stations/museums/cafes
+- real license plates/postal/phone/civic formats
+
+`Korean manhwa/webtoon` is style terminology only and is not a geographic setting claim.
 
 ## Chapter 1 Rebuild Gate
 
@@ -93,25 +111,7 @@ Current Chapter 1 package must additionally prove:
 
 ## Chapter 1 Mandatory Evidence / State
 
-Must visibly preserve:
-- station clock 12:07 clue
-- brass token
-- `TOMAS`
-- Cafe clock 12:00 activation
-- 1986/2026 reveal
-- service window opening
-- pastry aging
-- `I AM REAL.`
-- Arturo
-- blunt usable pencil after chip
-- 12:06 pressure
-- warning note
-- bare-to-cotton-glove warm touch
-- Tomas visible hidden-reply writing/reinsertion without exposing words
-- 12:07 closure
-- same page post-closure aged with `I WILL BRING BETTER BREAD.`
-- final fire warning
-- final station clock 12:07
+Must visibly preserve station clock 12:07 clue, brass token, `TOMAS`, Cafe clock 12:00 activation, 1986/2026 reveal, service-window opening, pastry aging, `I AM REAL.`, Arturo, blunt usable pencil after chip, 12:06 pressure, warning note, bare-to-cotton-glove warm touch, Tomas hidden-reply writing/reinsertion without exposing words, 12:07 closure, same page post-closure aged with `I WILL BRING BETTER BREAD.`, final fire warning, and final station clock 12:07.
 
 Final locations match state addendum.
 
@@ -119,6 +119,9 @@ Final locations match state addendum.
 
 ### Missing Assets
 Required approved WebP missing/stale/wrong-path → STOP.
+
+### Fictional Geography
+Real-world location/nationality/branding leakage → STOP and replace with approved fictional Caligo Vale/San Aurelio authority.
 
 ### Creator Continuity
 Reject contradiction in date, duration, rewrite timing, object history, evidence authorship, reveal order or threshold mechanics.
@@ -153,7 +156,7 @@ Reject microscopic proof, wrong reader order, forced perspective, decisive crop/
 ## Completion Language
 
 Intermediate:
-- `PRODUCTION-STRIP REBUILD COMPLETE — HARDENING AUDIT PENDING`
+- `SEQUENTIAL HARDENING AUDIT IN PROGRESS`
 - `PREPRODUCTION AUDIT IN PROGRESS — NOT READY TO GENERATE`
 - `BLOCKED — REQUIRED CANONICAL VISUAL AUTHORITY MISSING`
 - `HARDENED PREPRODUCTION GATE PASS — READY TO GENERATE STRIP 001`

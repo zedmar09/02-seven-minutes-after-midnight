@@ -7,7 +7,7 @@ Former page-production is decommissioned. New chapters, revisions, references, c
 ## Authority — Absolute
 
 1. current user instruction
-2. creator-only story/causality under `Continuity/`
+2. creator-only story/causality/geography under `Continuity/`
 3. current audited chapter/strip/state authority
 4. approved character WebPs
 5. approved environment WebPs
@@ -16,22 +16,30 @@ Former page-production is decommissioned. New chapters, revisions, references, c
 
 Permanent canonical authority outranks previous render.
 
+## Fictional Geography — Absolute
+
+`Continuity/fictional-setting-bible.md` is binding.
+
+- Caligo Vale and San Aurelio are fictional story geography.
+- Do not insert real countries/cities/provinces/states, real flags/maps/transit logos, famous skylines, or recognizable real landmark/station replicas.
+- Character names/appearance do not authorize real-world nationality labels.
+- `Korean manhwa/webtoon` is visual-format terminology only.
+
+Any future new named place must be added to the fictional-setting bible before production.
+
 ## Current Chapter 1 Production Standard
 
-Chapter 1 now uses a **180-beat / 36-strip** movement-first production package.
+Chapter 1 uses a **180-beat / 36-strip** movement-first package. Strip count follows reader-action complexity, not arbitrary page equivalence.
 
-The rebuild establishes a workspace-level expectation for future chapters: strip count follows reader-action complexity, not arbitrary page equivalence. A chapter must use enough technical chunks/read beats to show real movement, reactions, evidence and dialogue without continuity jumps.
-
-Do not copy `36` mechanically into every future chapter. Instead meet the same standard:
-- no invisible continuity-critical movement
-- connected dialogue with reactions
-- physically sourced SFX
-- deterministic seam states
-- mobile-readable evidence
+Current sequential hardening:
+- Strip 001 — local textual PASS
+- Strip 002 — NEXT
+- Strip 003–036 — pending
 
 ## Creator Continuity Gate
 
 Before future chapter production, inherit current state from:
+- `Continuity/fictional-setting-bible.md`
 - `Continuity/arc-01-master-timeline.md`
 - `Continuity/time-slip-state-ledger.md`
 - `Continuity/time-slip-mechanics-bible.md`
@@ -40,7 +48,15 @@ Before future chapter production, inherit current state from:
 - `Continuity/evidence-causality-ledger.md`
 - active arc chapter matrix
 
-New continuity-critical objects/clues receive ledger entries before visual production.
+## Production Standard
+
+Every chapter must preserve:
+- no invisible continuity-critical movement
+- connected dialogue with reactions
+- physically sourced SFX
+- deterministic seam states
+- mobile-readable evidence
+- fictional geography consistency
 
 ## Always-Binding Hardening Authorities
 
@@ -48,23 +64,6 @@ New continuity-critical objects/clues receive ledger entries before visual produ
 - `eighth-hardening-presentation-integrity-addendum.md`
 - `ninth-hardening-character-topology-identity-addendum.md`
 - `tenth-hardening-pose-performance-continuity-addendum.md`
-
-## Chapter Conversion Rule
-
-Never convert retired pages one-page→one-strip. Rebuild from story causality into one continuous scroll with enough internal beats/technical strips for reader comprehension.
-
-## New Chapter Rule
-
-Before every chapter:
-- inherit exact date/duration/timeline/object/evidence state
-- audit story causality
-- inventory characters/environments/objects
-- assign IDs to new cross-era/evidence objects
-- define exact Cafe-clock close time
-- build movement-complete read-beat plan
-- build deterministic technical-strip manifest
-- verify dialogue handoffs/SFX source
-- run clean-room hardening audit
 
 ## No Dead Space
 

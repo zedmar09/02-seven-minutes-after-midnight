@@ -8,9 +8,13 @@ STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION. Clean intentional
 
 Reject photorealism, semi-realism, 3D/CGI, glossy/plastic/wet skin or hair, painterly/airbrushed rendering, cinematic grading, bloom, lens flare, dramatic rim light, depth-of-field blur, or AI-polished beauty-ad finish.
 
+## Fictional Setting / Identity Lock
+
+Daniel belongs to the fictional Caligo Vale / San Aurelio story world. Do not label or redesign him as a citizen/ethnic representative of any real country. His surname and physical traits do not authorize real-country flags, badges, symbols, or nationality styling.
+
 ## Identity
 
-Daniel Soriano, Filipino-Spanish adult man, exactly 36 years old in 2026.
+Daniel Soriano, adult man, exactly 36 years old in 2026.
 
 - warm brown skin
 - long narrow adult face
@@ -44,14 +48,14 @@ Include:
 3. side profile showing nose-bridge scar/glasses relationship
 4. full-body standing neutral view
 5. three-quarter-back/full-body view showing haircut/jacket silhouette
-6. small restrained expression row: neutral concentration, dry amusement, startled disbelief, controlled fear/tenderness
+6. restrained expression row: neutral concentration, dry amusement, startled disbelief, controlled fear/tenderness
 
 ## Identity Notes
 
-Keep the same face, age, scar, hairline, temple-silver pattern, build, and wardrobe construction in every view. Natural asymmetry is welcome; redesign is not.
+Keep the same face, age, scar, hairline, temple-silver pattern, build and wardrobe construction in every view. Natural asymmetry is welcome; redesign is not.
 
-Do not give Daniel round schoolboy glasses, fashionable undercut, long hair, beard, fantasy clothing, corporate power suit, gothic coat, superhero proportions, or glossy cinematic styling.
+Do not give Daniel real-country identity props, round schoolboy glasses, fashionable undercut, long hair, beard, fantasy clothing, corporate power suit, gothic coat, superhero proportions, or glossy cinematic styling.
 
 ## Background
 
-Plain neutral light reference-sheet background. No cafe, railway platform, rain, dramatic lighting, text clutter, or story scene.
+Plain neutral light reference-sheet background. No real-world flag/map/landmark, cafe, railway platform, rain, dramatic lighting, text clutter, or story scene.

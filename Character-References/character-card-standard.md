@@ -2,6 +2,19 @@
 
 Every recurring character canonical card must establish one stable adult identity suitable for reuse across vertical Manhwa production.
 
+## Fictional-World Identity — Absolute
+
+Character cards belong to the fictional Caligo Vale / San Aurelio story world.
+
+Do **not** add:
+- real-world nationality labels or nationality combinations
+- real-country flags/emblems
+- national uniforms/badges not explicitly fictionalized
+- real city/country background cues
+- ethnicity assumptions derived only from surnames
+
+Define appearance directly through visible character traits. `Korean manhwa/webtoon` is style terminology, not story geography.
+
 ## Required Views
 
 Prefer a clean reference sheet containing:
@@ -38,7 +51,7 @@ Reject photorealism, semi-realism, 3D/CGI, glossy/plastic skin or hair, cinemati
 
 ## Reference Background
 
-Use a simple neutral light background with no cinematic scene, no environmental storytelling, no dramatic weather, and no effects that obscure identity.
+Use a simple neutral light background with no cinematic scene, no real-world landmark, no flag/map, no dramatic weather, and no effects that obscure identity.
 
 ## Approval
 

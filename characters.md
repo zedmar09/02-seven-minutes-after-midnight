@@ -4,7 +4,18 @@ This file is the story-wide character, relationship, world, and supernatural con
 
 Visual-production authority for approved character appearance ultimately resides in canonical WebPs under `Character-References/`. This Markdown defines the story facts those canonicals must preserve.
 
-Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details are further locked under `Manhwa/Continuity/` and outrank improvisation in later chapter drafts.
+Creator-only time-slip, fictional geography, fire-conspiracy, evidence, and object-provenance details are further locked under `Manhwa/Continuity/` and outrank improvisation in later chapter drafts.
+
+## Fictional Setting / Identity Lock — Absolute
+
+All characters live in the fictional story world defined by `Manhwa/Continuity/fictional-setting-bible.md`.
+
+- `Caligo Vale` is a fictional independent rail territory with no real-country counterpart.
+- `San Aurelio` is a fictional municipality / historic railway hub inside Caligo Vale.
+- Character names, surnames, skin tones, facial features, food traditions, clothing or props do **not** imply a real-world nationality.
+- Do not add real nationality labels, country flags, real civic badges, real maps, real transit logos, famous skylines or recognizable landmark replicas to character canon or visual production.
+- Describe identity directly through visible physical traits and story-world role.
+- `Korean manhwa/webtoon` is production/style terminology only; it does not locate the story in Korea or any real place.
 
 ## Global Character Rules
 
@@ -14,6 +25,7 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 - Hair movement may respond to action, rain, steam, or gravity but may not become a redesign.
 - Clothing layers, sleeve state, apron state, glasses, gloves, bags, and worn accessories persist until visibly changed or a legal time/location cut establishes a new state.
 - Every visible character remains one coherent human body with no duplicated/missing limbs, detached hands, impossible joints, or continuity-breaking close-up anatomy.
+- Never infer or add a real-world nationality from a surname or appearance.
 
 ## Core Cast
 
@@ -21,14 +33,14 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 
 - Role: Main protagonist; present-day museum conservator; first person in decades to see Cafe Siete reopen.
 - Age: 36 in 2026.
-- Occupation: Paper and photograph conservator assigned to the San Aurelio Railway Archive restoration project.
+- Occupation: Paper and photograph conservator assigned to the San Aurelio Railway Archive restoration project at the fictional San Aurelio Municipal Museum.
 - Personality: Patient, precise, lonely without admitting it, emotionally cautious, stubborn when evidence contradicts official history.
 - Core visual identity: warm brown skin; long narrow adult face; tired dark eyes; close-cropped black curls with early silver at the temples; small healed cut across the bridge of the nose; medium-tall slim build; careful conservator posture.
 - Work wardrobe: thin rectangular amber-tinted conservation glasses when working, slate-blue chore jacket over neutral shirt, dark trousers, soft-soled shoes, white cotton conservation gloves used appropriately rather than permanently fused to his hands.
 - Signature props: conservation gloves, soft brush, archival tweezers, magnifying loupe, acid-free folders/sleeves, notebook, pencil, portable scanner, newspaper fragments, brass Cafe Siete token.
 - Performance lock: Daniel handles evidence gently; fear for Tomas appears through tighter grip, shortened speech, frozen attention, or procedural focus rather than melodramatic recasting.
 - Temporal-memory lock: Daniel initially retains old and newly settled versions of changed 2026 history because he is a direct Cafe Siete boundary participant; this dual memory becomes progressively costly.
-- Do not turn him into a schoolboy, corporate revenge lead, fantasy prince, gothic noble, idol, superhero, or glossy fashion model.
+- Do not turn him into a schoolboy, corporate revenge lead, fantasy prince, gothic noble, idol, superhero, glossy fashion model, or representative of a real-world country.
 
 ### Tomas Rivera
 
@@ -37,18 +49,19 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 - Personality: Warm, teasing, generous, observant, brave beneath humor, lonelier than his smile suggests.
 - Core visual identity: sun-warm tan skin; bright dark eyes; strong brows; lean baker's forearms; adult athletic-lean build; long dark wavy hair falling past the shoulders when loose.
 - Hair lock: usually tied low behind the head with a thin jade-green cord while working; loose strands fall naturally around cheeks/mouth. Hair remains practical working hair, never aristocratic, xianxia, warlord, ghost-prince, idol, or school-mystery styling.
-- Work wardrobe: cream short-sleeved 1980s cafe shirt with faint collar embroidery, high-waisted dark trousers, flour-marked brown waist apron, old leather work shoes.
+- Work wardrobe: cream short-sleeved 1980s Cafe Siete shirt with faint collar embroidery, high-waisted dark trousers, flour-marked brown waist apron, old leather work shoes.
 - Signature props: brass pastry tongs, rolling pin, flour cloth, brown order notebook, jade-green hair cord, cafe towel, pan de leche packets, wax-paper notes.
 - Performance lock: humor does not equal naivety. When frightened, Tomas becomes economical with words and may tighten practical hair/working habits only when visibly shown.
 - Mystery lock: Tomas becomes a specific human target because he sees/retains evidence tying Arturo-linked interests to station-office, signal, and service-corridor activity.
+- Do not attach a real-world nationality to Tomas from his surname, appearance, food work, or clothing.
 
 ### Maribel Santos
 
 - Role: Daniel's colleague and archival supervisor; present-day ally.
 - Age: 44 in 2026.
-- Occupation: Railway archive curator for the San Aurelio municipal museum.
+- Occupation: Railway archive curator for the fictional San Aurelio Municipal Museum.
 - Personality: Dry, practical, protective, highly sensitive to institutional falsification.
-- Visual identity: Filipina-Spanish woman; sturdy build; warm olive skin; short silver-black hair clipped close at the sides; cat-eye reading glasses on a chain; linen blazers; recurring ink staining on the left cuff when appropriate.
+- Visual identity: sturdy adult woman; warm olive skin; short silver-black hair clipped close at the sides; cat-eye reading glasses on a chain; linen blazers; recurring ink staining on the left cuff when appropriate.
 - Signature props: archive keys, accession logs, red grease pencil, old station maps, thermos of black coffee.
 - Story function: gains access to restricted records and notices when restored documents change between nights.
 - Rewrite-memory lock: Maribel normally remembers only the newly settled history unless a later explicit anchor event gives her old-state memory.
@@ -67,19 +80,20 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 - Role: 1986 railway night-patrol officer; compromised witness rather than mastermind.
 - Age: 33 in 1986.
 - Personality: Tired, disciplined, quietly kind, frightened of powerful people.
-- Visual identity: lean man; medium-brown skin; neatly combed black hair; trimmed mustache; dark railway security uniform; white gloves clipped to belt; dented cap badge.
+- Visual identity: lean man; medium-brown skin; neatly combed black hair; trimmed mustache; dark fictional San Aurelio railway-security uniform; white gloves clipped to belt; dented cap badge.
 - Signature props: patrol notebook, flashlight, cap badge, platform keys.
 - Story function: is pressured into opening service access and later falsifying official timing; his private notebook does not cleanly match the official station-fire record.
+- Uniform/badge design must be fictional; do not copy a real railway police or national transit authority.
 
 ### Arturo Salcedo
 
-- Role: Primary human antagonist of Arc 1; redevelopment broker/political fixer tied to station land.
+- Role: Primary human antagonist of Arc 1; redevelopment broker/political fixer tied to San Aurelio station land.
 - Age: 41 in 1986.
 - Personality: Polite, immaculate, patient, threatening without theatrical rage.
 - Visual identity: tall adult man; pale olive skin; slick black hair; angular cheekbones; thin controlled smile; spotless ivory linen suit; dark tie; gold signet ring.
 - Signature props: signet ring, folded redevelopment contracts, black umbrella, silver cigarette case, private car.
 - Story function: directs the human conspiracy around condemnation, archive destruction, witness pressure, and the fire while insulating himself from the physical arson act.
-- Do not render him as a supernatural/fantasy villain. His threat is civic, financial, political, and human.
+- Do not render him as a supernatural/fantasy villain or real-world political figure. His threat is fictional civic, financial, political, and human power inside Caligo Vale.
 
 ### Cesar Villanueva — Creator-Only Hidden Secondary Antagonist
 
@@ -87,7 +101,7 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 - Age: 39 in 1986.
 - Personality: technically competent, self-protective, transactional, unnervingly ordinary rather than theatrical.
 - Visual identity: not yet approved for reader-facing appearance; when production requires him, create a canonical before first clear visual reveal.
-- Work logic: legitimate familiarity with relay rooms, service corridors, electrical cabinets, maintenance tags, fuse/jumper systems, and subcontractor access.
+- Work logic: legitimate familiarity with relay rooms, service corridors, electrical cabinets, maintenance tags, fuse/jumper systems, and subcontractor access in the fictional San Aurelio railway system.
 - Story function: creates the southbound signal fault, cuts the relevant station feed, and rigs the service-corridor ignition to resemble an electrical accident.
 - Reveal discipline: Arc 1 must not casually identify him to the reader as the direct arson executor.
 
@@ -110,9 +124,15 @@ Creator-only time-slip, fire-conspiracy, evidence, and object-provenance details
 - Tomas's core fear: refusing to change history turns every tender meeting into a countdown toward a death Daniel has already read about.
 - Connection time itself becomes relationship currency; spending seconds on evidence, reassurance, argument, or touch is a meaningful choice.
 
+## Caligo Vale / San Aurelio Continuity
+
+The story is not set in a real country. `Caligo Vale` is the fictional broader rail territory; `San Aurelio` is the fictional municipality/historic railway hub where the core Arc 1 story occurs.
+
+Do not draw or name a real-world country, city, flag, map, transit logo, skyline or landmark to explain this setting.
+
 ## San Aurelio Junction Continuity
 
-San Aurelio Junction is one physical historical station seen in two eras.
+San Aurelio Junction is one fictional physical historical station seen in two eras.
 
 Stable structural identifiers:
 - arched windows
@@ -125,13 +145,15 @@ Stable structural identifiers:
 - rain gutters
 - Cafe Siete beside the ticket hall
 
+These identifiers define **San Aurelio's own architecture**. They are not instructions to reproduce a real station.
+
 ### 2026 state
 
 Abandoned, dusty, rain-damaged, partially boarded, affected by redevelopment, with broken tile, plywood, caution material, cracked glass, archive work, and cold unoccupied spaces.
 
 ### 1986 state
 
-Operational and populated, with working station announcements, passengers, intact finishes, active lighting, wet coats, moving staff, cafe service, and period-appropriate fixtures.
+Operational and populated, with working station announcements, passengers, intact finishes, active lighting, wet coats, moving staff, cafe service, and internally consistent fictional period fixtures/signage.
 
 A camera change or era change may alter condition/contents appropriate to time, but may not move permanent architecture merely for composition.
 

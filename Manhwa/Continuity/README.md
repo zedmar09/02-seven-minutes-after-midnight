@@ -2,7 +2,7 @@
 
 This directory contains **creator-only spoiler continuity** for `Seven Minutes After Midnight`.
 
-Nothing in this directory is reader-facing copy. These files exist so later chapters, visual references, strip prompts, and audits do not invent new answers for already-established mysteries.
+Nothing in this directory is reader-facing copy. These files exist so later chapters, visual references, strip prompts, and audits do not invent new answers for already-established story facts.
 
 ## Authority Order
 
@@ -15,10 +15,11 @@ For story/continuity decisions, use:
 6. visual-production rules and approved canonicals
 7. previous approved rendered strip for temporary physical/seam state only
 
-A later explicit revision may change creator canon, but the revision must update every affected ledger in the same pass.
+A later explicit revision may change creator canon, but the revision must update every affected authority in the same pass.
 
 ## Files
 
+- `fictional-setting-bible.md` — absolute fictional geography, Caligo Vale / San Aurelio relationship, and no-real-location rule
 - `arc-01-master-timeline.md` — exact Arc 1 date progression, chapter nights, opening durations, and future fire anchor
 - `arc-01-fire-conspiracy-bible.md` — creator-only solution to the San Aurelio fire, culprit roles, motive, and fire-night chronology
 - `arc-01-chapter-continuity-matrix.md` — Chapter 1–15 causal roadmap with romance, evidence, historical changes, and cliffhangers
@@ -28,20 +29,22 @@ A later explicit revision may change creator canon, but the revision must update
 - `temporal-object-provenance-ledger.md` — one-object identities and cross-era storage/history
 - `evidence-causality-ledger.md` — creator-only authorship/source/reveal order for mystery evidence, including the scratches
 
-Chapter-specific state corrections may live inside the chapter folder when they need to override an otherwise ambiguous beat without changing the narrative.
+## Fictional Geography Lock
+
+Caligo Vale and San Aurelio are fictional. Real countries/cities/nationalities may not be inserted as story-setting shorthand. Production wording such as `Korean manhwa` is a medium/style term only.
 
 ## Core Lock
 
-Arc 1 is not a collection of unrelated spooky clues. Every railway, fire, archive, signal, land, corridor, clock, photograph, letter, and object clue must converge toward one causal system.
+Arc 1 is not a collection of unrelated spooky clues. Every railway, fire, archive, signal, land, corridor, clock, photograph, letter and object clue must converge toward one causal system.
 
 Daniel and Tomas remain the emotional center. Mystery mechanics exist to pressure their relationship, not replace it.
 
 ## Spoiler Handling
 
-Do not copy creator-only culprit identities, future scratch authorship, exact fire mechanics, future historical-change costs, or unrevealed evidence destinations into reader-visible dialogue, captions, README summaries intended as public story copy, cover prompts, or early chapter text.
+Do not copy creator-only culprit identities, future scratch authorship, exact fire mechanics, future historical-change costs or unrevealed evidence destinations into early reader-facing text.
 
 ## Current Phase Status
 
-**PHASE 1 CONTINUITY ARCHITECTURE LOCKED FOR LATER HARDENING AUDIT.**
+**SEQUENTIAL CHAPTER-1 HARDENING AUDIT IN PROGRESS — STRIP 001 LOCAL TEXTUAL PASS — STRIP 002 NEXT.**
 
-Visual production remains blocked until the required approved canonical WebPs exist and the Chapter 1 strip prompts are rebuilt/hardened to deterministic production depth.
+Visual production remains blocked until the required approved canonical WebPs exist.

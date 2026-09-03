@@ -15,6 +15,7 @@ Use this template for every production strip. Strip Markdown is production-only;
 ## Creator Continuity Inputs
 
 List exact creator authorities relevant to this strip:
+- `Continuity/fictional-setting-bible.md`
 - timeline/date state
 - time-slip state ledger entry
 - chapter-local state-resolution addendum
@@ -23,6 +24,17 @@ List exact creator authorities relevant to this strip:
 - any creator-only mystery fact required for correct physical staging but not reader revelation
 
 If the strip contradicts creator continuity, STOP and repair the prompt/story authority before generation.
+
+## Fictional Geography / Identity
+
+Declare the strip's fictional setting context and verify:
+- all named places are approved fictional canon
+- no real country/city/province/state appears
+- no real nationality label is added from surname/appearance
+- no real flag/map/transit logo/civic seal/famous skyline/landmark/station replica appears
+- `Korean manhwa/webtoon` is style terminology only
+
+Real-world geography leakage = STOP.
 
 ## Required Attached Canonicals
 
@@ -64,14 +76,7 @@ Define exact inherited state:
 
 List only scripted changes permitted during this strip.
 
-Do not silently:
-- repair a broken prop
-- recover missing time
-- retrieve a floor object
-- remove/add gloves/accessories
-- change clock identity
-- change object age/provenance
-- rewrite external history before legal settlement
+Do not silently repair a broken prop, recover missing time, retrieve a floor object, remove/add gloves/accessories, change clock identity, change object age/provenance, rewrite external history before legal settlement, or change fictional geography.
 
 ## MANDATORY STORY BEATS
 
@@ -83,30 +88,24 @@ For every continuity-critical action define one mechanism with visible contact/s
 
 ## TIME-SLIP / OBJECT PROVENANCE
 
-For each crossing object specify:
-- creator object ID
-- same physical object identity
-- origin era
-- source hand/surface
-- threshold crossing
-- age/state transformation
-- destination hand/surface
-- final location/history state
+For each crossing object specify creator object ID, same physical object identity, origin era, source hand/surface, threshold crossing, age/state transformation, destination hand/surface, and final location/history state.
 
-For historical-change beats, also specify whether the external rewrite occurs now or only after connection closure under the rewrite protocol.
+For historical-change beats, specify whether external rewrite occurs now or only after connection closure under the rewrite protocol.
 
 ## CAMERA / GEOGRAPHY
 
-- preserve approved environment geometry
+- preserve approved fictional environment geometry
 - preserve world-space character sides
 - preserve service-window/counter/clock relationships
 - distinguish Cafe connection clock from station clock
+- never use a real-world location/landmark/station as an unstated reference shortcut
+- no real flag/map/logo/civic branding
 - no fisheye or forced scale distortion
 - use same-object detail views when mobile proof needs enlargement
 
 ## LETTERING / SFX
 
-List exact text and source. Place physical text on the real carrier. Keep SFX at the action source and never cover decisive proof.
+List exact text and source. Place physical text on the real carrier. Keep SFX at the action source and never cover decisive proof. Do not introduce readable real place names through background signage.
 
 ## VISUAL STYLE — ABSOLUTE
 
@@ -127,16 +126,11 @@ Record exact state inherited by the next strip:
 - lighting/weather/audio
 - emotional intensity
 - historical settlement status
+- fictional location/environment identity if location persists
 
 ## CHAPTER-END STATE — When Final Strip
 
-If this is the final strip, explicitly record:
-- every unresolved physical object location
-- current connection duration for next standard meeting
-- settled historical changes
-- memory/knowledge state
-- unresolved evidence
-- required next-chapter opening cleanup/retrieval actions
+If this is the final strip, explicitly record every unresolved physical object location, current connection duration for next standard meeting, settled historical changes, memory/knowledge state, unresolved evidence, and required next-chapter opening cleanup/retrieval actions.
 
 Synchronize permanent new facts back into creator ledgers before declaring chapter production complete.
 

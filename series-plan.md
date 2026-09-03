@@ -2,7 +2,20 @@
 
 This file stores the long-running story roadmap and creator-only mystery spine for `Seven Minutes After Midnight`.
 
-The active visual-production format is vertical Korean Manhwa under `Manhwa/`. The retired `Comics/` page-production system must not be recreated.
+The active visual-production format is vertical Korean Manhwa under `Manhwa/`.
+
+## Fictional Setting Lock
+
+All arcs occur inside the fictional story world defined by `Manhwa/Continuity/fictional-setting-bible.md`.
+
+- Caligo Vale = fictional independent rail territory
+- San Aurelio = fictional municipality / historic railway hub inside Caligo Vale
+- San Aurelio Junction, San Aurelio Municipal Museum, San Aurelio Railway Archive and Cafe Siete are fictional story institutions/places
+- no arc may introduce a real country/city/province/state as the canonical location
+- no character receives a real-world nationality label merely to explain appearance or surname
+- any future named geography must be invented and added to the setting bible first
+
+`Korean Manhwa` is production-format terminology only.
 
 ## Long-Running Target
 
@@ -11,15 +24,13 @@ The active visual-production format is vertical Korean Manhwa under `Manhwa/`. T
 - Average arc length: 15 chapters
 - Core genre: mature BL time-slip romance / historical mystery / emotional thriller / railway conspiracy
 
-Expansion beyond 105 chapters is allowed only if the time-slip system, archive mystery, railway history, and recurring factions genuinely deepen without displacing Daniel and Tomas as the emotional center.
+Expansion beyond 105 chapters is allowed only if the time-slip system, archive mystery, railway history and recurring factions genuinely deepen without displacing Daniel and Tomas as the emotional center.
 
 ## Story Engines
 
-- Romance engine: Daniel and Tomas receive increasingly limited physical/conversational time across a real historical divide.
-- Mystery engine: falsified archive material, railway records, land interests, witnesses, and physical artifacts converge on the San Aurelio fire.
+- Romance engine: Daniel and Tomas receive increasingly limited physical/conversational time across a historical divide.
+- Mystery engine: falsified archive material, railway records, land interests, witnesses and physical artifacts converge on the San Aurelio fire.
 - Time-slip engine: object crossings, historical settlement, shrinking connection time, memory risk, and the danger that saving Tomas may erase the meeting place itself.
-
-No arc should repeat the same letter/pastry/clock trick without creating new causal or emotional consequences.
 
 ## Arc Roadmap
 
@@ -53,81 +64,37 @@ No arc should repeat the same letter/pastry/clock trick without creating new cau
 
 ## Creator-Only Continuity Authority
 
-Binding creator files under `Manhwa/Continuity/` lock:
-- Chapter 1 on October 17, 1986/2026
-- consecutive Arc 1 meetings through October 31
-- fixed San Aurelio fire date November 23, 1986
-- human culprit chain/fire mechanism
-- separate Cafe/station clocks
-- service-window/counter physics
-- exact shrinking-window duration/cost ledger
-- timeline settlement/memory rules
-- evidence authorship/reveal discipline
-- object provenance across forty years
-- Chapter 1→Chapter 2 inherited state
-
-Future revisions must update all affected creator ledgers instead of adding contradictory chapter-local exceptions.
+Binding creator files under `Manhwa/Continuity/` lock fictional geography, exact Arc 1 dates/durations, the human fire-conspiracy solution, clock/threshold mechanics, rewrite/memory rules, evidence authorship, and object provenance.
 
 ## Current Production Truth
 
-- Active arc: Arc 1.
-- Chapter 1 now exists as a **180-beat / 36-strip** continuous-scroll textual production package.
-- The former 74-beat / 16-strip package has been retired because it compressed reader movement/dialogue too aggressively.
-- The 36-strip rebuild makes continuity-critical motion, dialogue handoffs, physical SFX sources, object transfer, clock proof and seam state explicit.
-- Phase 1 continuity architecture is locked.
-- Formal hardening audit has **not yet** been run against the rebuilt 001→036 package.
-- No Chapter 1 rendered Manhwa strip is approved.
-- No Chapter 2 production folder currently exists.
-- Required approved character/environment/object WebPs are still missing.
+- Active arc: Arc 1
+- Chapter 1 = 180-beat / 36-strip continuous-scroll textual package
+- Strip 001 = local textual hardening PASS
+- Strip 002 = next sequential audit
+- Strip 003–036 = pending
+- no Chapter 1 rendered strip is approved
+- no Chapter 2 production folder currently exists
+- required approved character/environment/object WebPs are still missing
 
 ## Chapter 1 Narrative Endpoint
 
 Chapter 1 begins with Daniel proving suspicious San Aurelio archive tampering and entering the abandoned station before midnight.
 
-It ends after first healthy seven-minute connection closes: Tomas's warning page returns forty years older with `I WILL BRING BETTER BREAD.`, Daniel reveals the pre-existing scratch `FIRE STARTS IN THE SERVICE CORRIDOR.`, and the separate station clock remains fixed 12:07.
-
-Temporary physical state inherited by Chapter 2 is controlled by Chapter 1 state addendum and temporal-object ledger.
+It ends after the first healthy seven-minute connection closes: Tomas's warning page returns forty years older with `I WILL BRING BETTER BREAD.`, Daniel reveals `FIRE STARTS IN THE SERVICE CORRIDOR.`, and the separate station clock remains fixed at 12:07.
 
 ## Long-Range Mystery Locks
 
 - official fire record falsely describes an electrical accident
 - Tomas was a target, not incidental casualty
-- Arturo Salcedo/redevelopment interests are human conspiracy, not supernatural villain system
-- full fire solution lives in `Manhwa/Continuity/arc-01-fire-conspiracy-bible.md`
-- missing names, cut documents, altered testimony, signal failures, locked service access and removed evidence converge causally
-- Cafe/time-slip is fragile temporal wound, not free time travel
+- Arturo Salcedo/redevelopment interests are a human conspiracy
+- missing names, altered testimony, signal failures, service access and removed evidence converge causally
+- Cafe/time-slip is a fragile temporal wound, not free time travel
 - historical interference costs connection time, archives, memory or physical history
 - saving Tomas too strongly may erase abandoned conditions enabling Daniel to meet him
 - other crossings may broaden mythology without making Cafe Siete ordinary
 - romance remains adult/restrained and tied to preservation, food, handwriting, objects and touch
 
-## Expansion Policy
-
-Potential expansion slots if 105-chapter version needs room:
-- object-exchange cases between Arcs 2–3
-- witnesses/contradictory records between Arcs 3–4
-- carefully differentiated railway crossings between Arcs 4–5
-- targeted 1986 flashback chapters between Arcs 6–7
-
-Do not stretch beyond 150 chapters without enough causal material/factions/historical consequence.
-
 ## Folder Policy
 
-Create future chapter/arc production only after inheriting current continuity state.
-
-```text
-Manhwa/
-  Continuity/
-  <NN-Arc-Title>/
-    README.md
-    Chapter-<NN>-<Title>/
-      README.md
-      chapter-<nn>-continuous-scroll-plan.md
-      chapter-<nn>-strip-manifest.md
-      chapter-<nn>-master-scroll-prompt.md
-      chapter-<nn>-generation-checklist.md
-      chapter-<nn>-real-scenario-continuity-audit.md
-      Production-Strips/
-```
-
-No `Comics/`, page-number prompt pipeline, black-and-white manuscript workflow, or legacy chapter folder is production authority.
+Create future chapter/arc production only after inheriting current continuity state, including the fictional setting bible. Real-world place names are not valid fallback geography.

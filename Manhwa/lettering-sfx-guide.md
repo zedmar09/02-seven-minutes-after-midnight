@@ -4,26 +4,28 @@
 
 Dialogue, narration, SFX, signs, handwriting, archive labels and clock text must be readable at normal phone width. Prefer short connected lines over dense explanation balloons.
 
+## Fictional Place / Signage Rule — Absolute
+
+All in-world location text belongs to fictional Caligo Vale / San Aurelio canon.
+
+Approved story names such as `SAN AURELIO MUNICIPAL MUSEUM`, `SAN AURELIO JUNCTION` and `CAFE SIETE` are fictional. Do not add real country/city names, flags, transit logos, route maps, civic seals, postal/phone formats or other readable real-world geographic identifiers through background lettering.
+
+`Korean manhwa/webtoon` is production terminology only and never appears as story-world location text.
+
 ## Dialogue Handoff Rule — Absolute
 
-For Chapter 1 and future strips, default conversational order is:
+Default conversational order:
 1. visible context/cause
 2. speaker line
 3. listener reaction
 4. answer/follow-up
-5. optional humor only after reader understands the literal situation
+5. optional humor only after reader understands literal situation
 
-Do not stack three or four back-and-forth lines into one tiny visual beat when a reaction or movement is needed to make the next line make sense.
-
-A joke is not a substitute for an answer.
-
-After 12:05, reduce joke density; humor may release tension but cannot reset fear/urgency.
+Do not stack multiple back-and-forth lines into one tiny visual beat when a reaction/movement is needed. A joke is not a substitute for an answer. After 12:05, reduce joke density.
 
 ## Speech Ownership
 
-Every line has one source: Daniel, Tomas, Lilia offscreen, narration, station announcement, handwriting, sign, clock.
-
-Listeners never mouth another speaker's line. Offscreen audio remains visually offscreen and reactions orient to real source.
+Every line has one source: Daniel, Tomas, Lilia offscreen, narration, station announcement, handwriting, sign, clock. Listeners never mouth another speaker's line. Offscreen audio remains visually offscreen and reactions orient to real source.
 
 ## Physical Text Plane
 
@@ -56,7 +58,7 @@ No floating evidence UI.
 
 ## SFX = Physical Evidence
 
-SFX is not decoration. It must identify/confirm a real action/source and sit at the action moment.
+SFX is not decoration. It identifies/confirms a real action/source and sits at the action moment.
 
 ### Archive
 - `FLIP` — real page turn
@@ -103,11 +105,7 @@ SFX is not decoration. It must identify/confirm a real action/source and sit at 
 
 ## Timing Rule
 
-SFX cannot appear:
-- before source action starts
-- after result if that changes causality
-- in a different panel pointing to no source
-- as repeated filler to make silence feel busy
+SFX cannot appear before source action starts, after result if that changes causality, in a different panel pointing to no source, or as repeated filler.
 
 ## Sound-First Rule
 
@@ -115,13 +113,11 @@ When sound precedes visual source, show listener orientation/reaction before rev
 
 ## Station Announcements
 
-1986 PA belongs to operational station environment. Keep concise/secondary to Daniel/Tomas dialogue. Do not use PA to explain plot.
+1986 PA belongs to the fictional operational San Aurelio station environment. Keep it concise/secondary and do not use real transit agency/place names to make it feel authentic.
 
 ## Balloon / Evidence Safety
 
 Never cover decisive hands, object paths, service-window contact, aging proof, exact clock, face identity, scratch text, note/paper, or floor support.
-
-If dialogue cannot fit without covering proof, allocate more vertical space or another slice; never shrink text into illegibility.
 
 ## Narration
 

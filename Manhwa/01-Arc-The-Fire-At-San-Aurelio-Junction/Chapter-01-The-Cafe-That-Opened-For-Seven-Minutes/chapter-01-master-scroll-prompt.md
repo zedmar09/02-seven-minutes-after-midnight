@@ -6,26 +6,20 @@ This file summarizes the reader-visible Chapter 1 shape after the 180-beat / 36-
 
 One continuous vertical Korean manhwa/webtoon chapter. Technical strips stitch invisibly. Never render page/strip/beat/prompt/QA metadata.
 
+## Fictional Setting — Absolute
+
+The chapter takes place entirely in fictional **Caligo Vale**, centered on fictional **San Aurelio**.
+
+- San Aurelio Junction is a fictional station.
+- San Aurelio Municipal Museum / Railway Archive are fictional institutions.
+- Cafe Siete is a fictional cafe.
+- Do not introduce real countries/cities/provinces/states or real nationality labels.
+- Do not show real flags, maps, railway/transit logos, civic seals, famous skylines, landmarks or recognizable real station/museum/cafe replicas.
+- `Korean manhwa/webtoon` is visual-format terminology only, not story geography.
+
 ## Reader-Motion Standard
 
-Important changes must be visible, not inferred between cuts:
-- entering station/cafe
-- gate opening
-- putting gloves on
-- token retrieval/drop
-- tray tilt/catch/set-down
-- counter failure/wrist catch/release
-- service-window opening
-- pastry preparation/crossing/aging
-- paper writing/transfer/pocketing
-- flashlight roll/fall/retrieval
-- pencil chip state
-- warning-page tear/write/transfer
-- final warm fingertip separation
-- Tomas reply writing/re-insertion
-- 12:07 closure
-- returned-page sleeving
-- final flashlight angle revealing scratch
+Important changes must be visible, not inferred between cuts: station/cafe entry, gate opening, glove changes, token retrieval/drop, tray tilt/catch/set-down, counter failure/wrist catch/release, service-window opening, pastry preparation/crossing/aging, paper writing/transfer/pocketing, flashlight roll/fall/retrieval, pencil chip, warning-page handling, warm fingertip separation, Tomas reply writing/re-insertion, 12:07 closure, returned-page sleeving and final flashlight-angle scratch reveal.
 
 ## Absolute Style
 
@@ -35,7 +29,7 @@ Reject photorealism, 3D/CGI, glossy/plastic rendering, painterly/airbrush finish
 
 ## Canonicals
 
-Do not render until required approved WebPs exist for Daniel, Tomas, Cafe Siete geometry/states, San Aurelio 2026, token, Cafe connection clock, plus any extra references identified by hardening.
+Do not render until required approved WebPs exist for Daniel, Tomas, the San Aurelio Municipal Museum archive workroom, Cafe Siete geometry/states, San Aurelio Junction 2026, token, Cafe connection clock, plus extra references identified by hardening. Every environment/character authority must pass the fictional-setting gate.
 
 ## Clock Topology
 
@@ -45,7 +39,7 @@ Never merge them.
 
 ## Story / Dialogue Spine
 
-Daniel proves the San Aurelio archive was physically tampered with: altered dates/signatures, fire-report electrical claim contradicting a maintenance diagram, repeated death-notice name strips cut at same width. At 11:41 PM he enters abandoned San Aurelio Junction.
+Daniel proves the fictional San Aurelio Railway Archive was physically tampered with: altered dates/signatures, a fire-report electrical claim contradicting a maintenance diagram, and repeated death-notice name strips cut at the same width. At 11:41 PM he enters abandoned San Aurelio Junction.
 
 He finds station clock fixed 12:07, then Cafe Siete and old scratched `TOMAS`. He physically opens the rusted gate, enters, puts on cotton gloves, retrieves brass token marked `7`.
 
@@ -81,13 +75,20 @@ Tomas: `We test with bread.`
 Daniel: `Why bread?`
 Tomas: `Because I have more bread than courage.`
 
-One roll/saucer crosses continuously and ages forty years. Tomas: `That was fresh.` Daniel: `I believe you.` 1986 PA continues ordinary station life. Cafe clock 12:03; Daniel: `Four minutes.`
+One roll/saucer crosses continuously and ages forty years. Tomas: `That was fresh.` Daniel: `I believe you.` 1986 PA continues ordinary fictional San Aurelio station life. Cafe clock 12:03; Daniel: `Four minutes.`
 
 Tomas asks reverse-direction test. Daniel places flashlight securely, rejects electronics, selects paper.
 Tomas: `So paper.`
 Daniel: `Paper survives questions.`
 
-Daniel visibly writes exact `DANIEL SORIANO / SAN AURELIO MUNICIPAL MUSEUM / 2026 / I AM REAL.` Sheet crosses to Tomas.
+Daniel visibly writes exact:
+`DANIEL SORIANO`
+`SAN AURELIO MUNICIPAL MUSEUM`
+`2026`
+`I AM REAL.`
+
+`SAN AURELIO MUNICIPAL MUSEUM` is a fictional institution name. The same sheet crosses to Tomas.
+
 Tomas: `This looks expensive.`
 Daniel: `It means it lasts.`
 Tomas: `You needed paper to tell me that?`
@@ -100,7 +101,7 @@ Tomas: `Only the impossible one, Tiya.`
 Lilia: `Impossible customers still pay.`
 Tomas: `My aunt. Not by blood. By volume.`
 
-Daniel and Tomas logically infer interval from clock. Tomas: `So we have three minutes.` Daniel: `If it closes at the same time.` Tomas: `You really know how to calm a man.`
+Daniel and Tomas infer interval from clock. Tomas: `So we have three minutes.` Daniel: `If it closes at the same time.` Tomas: `You really know how to calm a man.`
 
 Cafe clock 12:05. Daniel asks: `Anything unusual tonight. Anything that shouldn't matter.` Tomas lists signal failure, burned tray, woman crying, soldiers arguing. Daniel: `Anything else?` Tomas isolates white-suit customer. Daniel asks `Name?`; Tomas gives Arturo Salcedo and `He smiles like a knife under a napkin.` Daniel writes name; pencil graphite chips but remains usable.
 
@@ -117,7 +118,7 @@ Tomas: `No pain.`
 Daniel: `No.`
 Hands visibly separate.
 
-Tomas sees final seconds, uses separate ordinary 1986 cafe pencil to write a hidden line on same warning page. Reader does NOT see reply wording yet. He visibly re-inserts same page. Daniel reaches.
+Tomas sees final seconds, uses separate ordinary 1986 Cafe pencil to write a hidden line on same warning page. Reader does NOT see reply wording yet. He visibly re-inserts same page. Daniel reaches.
 
 Cafe clock `KLIK` exact 12:07. Tomas/1986 access simply absent; service window sealed; Daniel fails to receive page because it is in closing-boundary transit.
 
@@ -136,8 +137,8 @@ Procedural mystery → spatially understandable impossible event → cautious ad
 
 Humor follows comprehension. After 12:05 jokes shorten and never interrupt danger.
 
-No chibi comedy, fantasy portal spectacle, glossy romance-cover treatment, horror shadow-person staging or generic time-travel VFX.
+No chibi comedy, fantasy portal spectacle, glossy romance-cover treatment, horror shadow-person staging, generic time-travel VFX, or real-world geographic branding.
 
 ## Final State
 
-Returned page sleeved with Daniel; flashlight now retrieved/held; token remains floor; aged pastry/saucer remain Daniel-side; `I AM REAL.` sheet remains Tomas history; same blunt Daniel pencil retained; service window sealed; Cafe inactive 12:07; station clock separately fixed 12:07.
+Returned page sleeved with Daniel; flashlight retrieved/held; token remains floor; aged pastry/saucer remain Daniel-side; `I AM REAL.` sheet remains Tomas history; same blunt Daniel pencil retained; service window sealed; Cafe inactive 12:07; station clock separately fixed 12:07.

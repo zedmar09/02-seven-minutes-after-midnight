@@ -2,7 +2,22 @@
 
 ## Core Identity
 
-A functioning present-day municipal museum paper/photograph conservation workroom used for the San Aurelio Railway Archive restoration project. It is professional, modest, organized and physically believable—not a grand library, police evidence room, futuristic lab, luxury office or horror archive.
+A functioning present-day paper/photograph conservation workroom inside the **fictional San Aurelio Municipal Museum** in fictional Caligo Vale, used for the San Aurelio Railway Archive restoration project.
+
+It is professional, modest, organized and physically believable—not a grand library, police evidence room, futuristic lab, luxury office or horror archive.
+
+## Fictional Institution Rule — Absolute
+
+No real museum/archive/city/national identity may leak into the room.
+
+Do not use:
+- real flags/maps/seals
+- real national/city archive branding
+- real transit logos
+- recognizable real institutional interiors
+- real government forms/signage as readable identifiers
+
+Any labels/signage required later must be fictional San Aurelio / Caligo Vale design.
 
 ## Primary Worktable Topology — Absolute
 
@@ -19,24 +34,22 @@ Camera changes may reverse screen-left/right but may not swap these story-world 
 ## Daniel Seat / Body Scale
 
 - one ordinary work chair at Daniel's primary side of table
-- seated posture must fit Daniel's medium-tall slim adult build
-- table height and chair scale remain normal conservation-work scale
+- seated posture fits Daniel's medium-tall slim adult build
+- table height/chair scale remain normal conservation-work scale
 - no oversized executive desk
 - no tiny hobby table
 
 ## Storage / Collection Context
 
-The San Aurelio source collection inventory includes forty-two water-stained boxes, three old tin trunks and one locked cash-drawer source object. The canonical reference may show only a representative subset of boxes in stable shelf/staging positions.
+The San Aurelio source collection inventory includes forty-two water-stained boxes, three old tin trunks and one locked cash-drawer source object. The canonical reference may show only a representative subset in stable shelf/staging positions.
 
-Do not create a visual requirement to count forty-two boxes in every shot.
-
-Redevelopment pressure is represented through ordinary permit/project folders and museum workflow material, not giant demolition posters or cinematic warning tape.
+Redevelopment pressure is represented through ordinary fictional permit/project folders and museum workflow material, not giant demolition posters or cinematic warning tape.
 
 ## Lighting / Time Baseline
 
 Chapter 1 archive sequence occurs late in the same evening before Daniel's 11:41 PM station visit.
 
-Use neutral practical museum/workroom lighting. In the primary worktable views, avoid relying on exterior daylight. If a window is visible, it reads as dark/evening and does not become a changing cinematic light source.
+Use neutral practical museum/workroom lighting. If a window is visible, it reads as dark/evening and does not reveal a recognizable real skyline/landmark.
 
 Lighting direction/state remains stable through Strips 001–003.
 

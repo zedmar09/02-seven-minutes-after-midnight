@@ -1,6 +1,12 @@
 # Cafe Siete Environment Pack
 
-Cafe Siete is the central recurring environment and time-slip anchor.
+Cafe Siete is the central recurring environment and time-slip anchor inside fictional San Aurelio Junction, fictional Caligo Vale.
+
+## Fictional Place Lock — Absolute
+
+Cafe Siete is **not** a renamed real cafe or railway concession. Do not import a real city, country, cafe chain, railway logo, flag, map, landmark, station design, menu branding, or civic identity.
+
+Its architecture/signage/menu language must be designed as internal San Aurelio canon.
 
 ## Structural Locks
 
@@ -16,14 +22,14 @@ The approved pack must establish one shared physical cafe structure across both 
 
 ## 1986 State
 
-Operational railway cafe:
+Operational fictional railway cafe:
 - intact finishes
 - active pastry case
 - working practical bulbs
 - ceiling fan where established
-- handwritten menu use
+- handwritten menu use using fictional/local wording only
 - active kitchen/station sound/traffic
-- period-correct equipment and removable furniture
+- internally consistent fictional-period equipment and removable furniture
 
 ## 2026 State
 
@@ -47,4 +53,4 @@ At minimum approve WebPs for:
 6. dual-era state sheet or compatible paired reference proving one structure
 7. useful reverse-angle/angle-atlas authority
 
-Exact filenames should be committed and then referenced by Chapter 1 production Markdown before Strip 001 generation.
+Exact filenames must be committed and referenced by Chapter 1 production Markdown before generation.
