@@ -2,7 +2,7 @@
 
 This directory contains 36 technical generation chunks for Chapter 1. Reader never sees strip numbers; approved strips stitch into one continuous vertical chapter.
 
-Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–007 LOCAL TEXTUAL PASS — STRIPS 008–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
+Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–008 LOCAL TEXTUAL PASS — STRIPS 009–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
 
 ## Binding Files
 
@@ -17,19 +17,11 @@ Every local strip prompt inherits:
 
 ## Why 36 Strips
 
-The former compressed package allowed movement/dialogue to be implied between views. Current package separates:
-- real body/route movement
-- source/contact/result for props
-- one-object provenance
-- clock proof
-- dialogue question/answer/reaction rhythm
-- SFX source/timing
-- emotional progression
-- deterministic seam state
+The former compressed package allowed movement/dialogue to be implied between views. Current package separates real body movement, source/contact/result, one-object provenance, clock proof, dialogue/reaction rhythm, SFX source/timing, emotional progression and deterministic seam state.
 
 ## Sequential Hardening Rule
 
-Audit strictly numerical. A local textual PASS applies only to that strip and explicitly checked seam-out. It does not approve next strip, missing WebPs or rendered pixels.
+Audit strictly numerical. A local textual PASS applies only to that strip and explicitly checked seam-out. It does not approve the next strip, missing WebPs or rendered pixels.
 
 Current audit position:
 - Strip 001 — local textual PASS
@@ -39,8 +31,9 @@ Current audit position:
 - Strip 005 — local textual PASS
 - Strip 006 — local textual PASS
 - Strip 007 — local textual PASS
-- Strip 008 — NEXT
-- Strip 009–036 — pending
+- Strip 008 — local textual PASS
+- Strip 009 — NEXT
+- Strip 010–036 — pending
 
 ## Sequential Render Rule
 

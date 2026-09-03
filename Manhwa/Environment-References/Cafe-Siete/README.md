@@ -22,7 +22,7 @@ The approved pack must establish one shared physical cafe structure across both 
 
 ## 2026 Entrance / Sign / Painted-Glass Authority — Required
 
-Strip 006 hardening requires an additional reusable frontage authority:
+Strips 006–007 require:
 
 `cafe-siete-2026-entrance-sign-glass-reference.webp`
 
@@ -32,13 +32,32 @@ Generated from:
 It locks:
 - ticket-hall approach → Cafe frontage relationship
 - exact `CAFE SIETE` fascia sign placement
-- half-collapsed sliding-grille gate geometry/track/leading edge
+- sliding/collapsible gate geometry/track/leading edge/friction-held open state
 - fixed RIGHT-side painted-glass evidence panel
 - `TOMAS` scratch position/scale/age treatment
 - lower fire-warning evidence zone remaining unreadable until final reveal
-- fixed shallow sill/ledge beneath the glass for later physically valid gear support
+- fixed shallow sill/jamb for physically valid Strip 007 gear support
 
-This reference is additional to the shared structural/floor-layout authority and must not contradict it.
+## 2026 Counter / Token Search Authority — Required
+
+Strip 008 requires:
+
+`cafe-siete-2026-counter-search-reference.webp`
+
+Generated from:
+`cafe-siete-2026-counter-search-reference-prompt.md`
+
+It locks:
+- Strip 007 interior pause → main-counter search route
+- customer-side counter height and approach
+- fixed dry counter-top support zone
+- flashlight/folio/glove-envelope support relationship
+- customer-side toe-kick recess
+- `TOKEN-01` baseline hidden location
+- physically reachable retrieval route
+- fixed lower metal trim that owns the retrieval `TINK`
+
+This authority is additional to the shared structure and dual-era state references. It may clarify the same counter; it may not move or redesign it.
 
 ## 1986 State
 
@@ -68,10 +87,11 @@ At minimum approve WebPs for:
 1. shared structural/floor-layout authority
 2. 2026 cafe wide
 3. 1986 cafe wide
-4. **2026 entrance/sign/gate/painted-glass evidence authority**
-5. counter + service-window geometry authority
-6. clock/menu-wall authority
-7. dual-era state sheet or compatible paired reference proving one structure
-8. useful reverse-angle/angle-atlas authority
+4. 2026 entrance/sign/gate/painted-glass evidence authority
+5. **2026 counter/token-search/support authority**
+6. counter + service-window geometry authority
+7. clock/menu-wall authority
+8. dual-era state sheet or compatible paired reference proving one structure
+9. useful reverse-angle/angle-atlas authority
 
 Exact filenames must be committed and referenced by Chapter 1 production Markdown before generation.

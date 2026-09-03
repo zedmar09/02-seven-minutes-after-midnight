@@ -26,7 +26,8 @@ Use only after formal hardening accepts current 180-beat / 36-strip textual pack
 - [x] Strip 005 local textual hardening completed
 - [x] Strip 006 local textual hardening completed
 - [x] Strip 007 local textual hardening completed
-- [ ] Strip 008 local textual hardening completed
+- [x] Strip 008 local textual hardening completed
+- [ ] Strip 009 local textual hardening completed
 - [ ] continue through Strip 036
 - [ ] no later strip inherits PASS automatically
 
@@ -50,23 +51,26 @@ Use only after formal hardening accepts current 180-beat / 36-strip textual pack
 ## Canonical Environments
 - [ ] San Aurelio archive workroom authority approved Strips 001–003
 - [ ] San Aurelio Junction 2026 broad geometry approved
-- [ ] San Aurelio Junction 2026 access-threshold authority approved for Strip 004
-- [ ] station broad authority locks clock bay / sightline / Cafe-route handoff for Strip 005
-- [ ] Cafe Siete 2026 entrance/sign/gate/painted-glass authority approved for Strips 006–007 and final evidence continuity
-- [ ] Cafe entrance authority proves sign above, gate LEFT/CENTER, painted glass RIGHT, fixed sill/jamb beneath glass
-- [ ] Cafe entrance authority proves RIGHT leading gate bar, LEFT stacking, upper/lower guides and friction-held open state
-- [ ] Cafe entrance authority proves stable folio/flashlight support without invented furniture
+- [ ] San Aurelio Junction 2026 access-threshold authority approved Strip 004
+- [ ] station broad authority locks clock bay/sightline/Cafe-route handoff Strip 005
+- [ ] Cafe 2026 entrance/sign/gate/painted-glass authority approved Strips 006–007
+- [ ] Cafe entrance authority proves gate LEFT stack / RIGHT leading bar / friction hold / sill support
+- [ ] **Cafe 2026 counter-search authority approved for Strip 008**
+- [ ] counter-search authority proves Strip 007 pause → ~1.8–2.4 m customer-side counter route
+- [ ] counter-search authority proves fixed dry support zone + raised trim/backstop
+- [ ] counter-search authority proves toe-kick recess / token baseline location / metal-trim `TINK` source
 - [ ] Cafe shared / 2026 / 1986 authorities approved
 - [ ] all pass fictional-geography gate
 - [ ] service-window/clock/angle geometry proven
 
 ## Canonical Objects
 - [ ] Daniel conservation/evidence kit approved
-- [ ] San Aurelio fire-evidence document system approved
+- [ ] SAME cotton glove pair identity stable
 - [ ] Daniel station field-access kit approved
 - [ ] field-access kit includes one `PHONE-DANIEL-01`
 - [ ] San Aurelio station clock approved
-- [ ] Cafe token approved
+- [ ] Cafe token approved at ~29–31 mm diameter / ~2 mm thickness
+- [ ] token front cup + `CAFE SIETE` / reverse `7` / same corrosion edge stable
 - [ ] Cafe connection clock approved
 - [ ] audit tongs/tray/saucer recurring reference need
 
@@ -81,77 +85,70 @@ Use only after formal hardening accepts current 180-beat / 36-strip textual pack
 - [ ] key clipped into 004
 - [ ] phone concealed LEFT chest pocket
 
-## Strip 004 Authorized Station Entry QA
-- [ ] exact caption `11:41 PM — SAN AURELIO JUNCTION`
-- [ ] same folio/key/flashlight/phone carry inherited
-- [ ] flashlight visibly switched ON
-- [ ] same key unlocks/reclips before door opening
-- [ ] one inward-opening door + delayed closer
-- [ ] complete threshold crossing
-- [ ] `KLAK`, `TAP... TAP...`, rain/drip and `THUNK` physically sourced
-- [ ] station clock not revealed early
+## Strip 004–007 Existing QA
+- [ ] 004 authorized key/door/closer chain remains exact
+- [ ] 005 real route → station clock exact `12:07`
+- [ ] 006 real route → `CAFE SIETE` → `TOMAS` → one phone `SNAP`
+- [ ] 007 gear support → two-hand gate test/drag → gear retrieval → full threshold crossing
+- [ ] Strip 007 END = Daniel ~1.0–1.5 m inside Cafe; gate open; flashlight RIGHT hand ON; folio LEFT arm; gloves stored
 
-## Strip 005 Station Clock QA
-- [ ] begins from Strip 004 pause, not at clock
-- [ ] real deeper walking clears first column line
-- [ ] one visible leak drop owns one `PLIK`
-- [ ] same flashlight scan discovers fixed station clock
-- [ ] station clock exact `12:07`, no second hand/ticking
-- [ ] Daniel says `Stopped.`
-- [ ] Daniel pivots toward Cafe but does not take first Cafe-bound step
-
-## Strip 006 Cafe Siete / `TOMAS` QA
-- [ ] begins with first visible Cafe-bound step from Strip 005 seam
-- [ ] real ~5–7m station route to Cafe frontage
-- [ ] `CAFE SIETE` sign on fixed fascia plane
-- [ ] gate LEFT/CENTER / glass RIGHT / sill beneath
-- [ ] gate remains closed and untouched
-- [ ] raking same flashlight reveals physical `TOMAS`
-- [ ] lower fire warning remains unreadable
-- [ ] Daniel fully stops before phone retrieval
-- [ ] phone comes from LEFT chest pocket
-- [ ] RIGHT hand keeps flashlight while LEFT upper arm clamps folio
-- [ ] one actual capture / one `SNAP`
-- [ ] Daniel says `That's not recent.`
-- [ ] phone returns same pocket before seam-out
-
-## Strip 007 Gate / Cafe Entry QA
-- [ ] exact Strip 006 outside-gate stance inherited; no time/location reset
-- [ ] hands remain BARE; phone remains LEFT chest pocket
-- [ ] gate begins CLOSED enough to block entry
-- [ ] frontage sill begins EMPTY
-- [ ] V031 SAME ON flashlight visibly leaves RIGHT hand and reaches fixed sill/jamb corner
-- [ ] supported flashlight remains ON; lens aimed safely down/left toward threshold area
-- [ ] V031 SAME folio visibly leaves LEFT-arm carry and stands upright on sill against fixed metal jamb
-- [ ] key remains clipped/exterior-facing while folio is supported
-- [ ] both hands visibly release supported gear before any gate contact
-- [ ] no invented bench/crate/floor support/hook/strap
-- [ ] V032 both hands grip SAME RIGHT leading vertical pull bar at different heights
-- [ ] first resistance test moves gate only about 2–4 cm
-- [ ] `KRRK` occurs only at real resisted gate/track movement
-- [ ] V033 Daniel changes foot/body leverage without releasing the gate
-- [ ] same gate travels LEFT along fixed upper/lower guides
-- [ ] accordion lattice compresses toward existing LEFT stack
-- [ ] `SKRRRNNK` occurs only while the gate is actually moving
-- [ ] dust/rust falls only because track/frame moves
-- [ ] final clear RIGHT-side passage roughly 0.80–0.95 m
-- [ ] both hands release after the gate stops
-- [ ] friction holds exact open state; no recoil/spring/motor/hidden latch
-- [ ] V034 RIGHT hand visibly retrieves SAME still-ON flashlight
-- [ ] V034 LEFT hand visibly retrieves SAME folio and re-clamps it under LEFT arm
-- [ ] key remains clipped throughout
-- [ ] frontage sill visibly EMPTY before threshold crossing
-- [ ] phone remains pocketed
-- [ ] Daniel crosses leading foot → body/folio → trailing foot through real opening
-- [ ] gate remains open behind during crossing
-- [ ] V035 contains one additional interior clearance step, not a camera teleport
-- [ ] Strip 007 END = Daniel ~1.0–1.5m inside Cafe
-- [ ] Strip 007 END = gate LEFT-stacked/open; sill empty; flashlight RIGHT hand ON; folio LEFT arm; key clipped; phone pocketed
-- [ ] SAME gloves remain stored; NOT worn yet
+## Strip 008 Counter / Gloves / Token QA
+- [ ] exact Strip 007 interior pause inherited; no time/location reset
+- [ ] Daniel begins ~1.0–1.5 m inside entrance, not at/crouched under counter
+- [ ] hands BARE at start
+- [ ] folio LEFT arm / key clipped / flashlight RIGHT hand ON / phone LEFT chest pocket
+- [ ] gate remains LEFT-stacked/open behind
 - [ ] service window CLOSED
-- [ ] Cafe clock inactive/no reader-facing time clue
-- [ ] token remains hidden
-- [ ] no 1986 Cafe/time-slip activation
+- [ ] Cafe clock inactive; no sound/movement/reset
+- [ ] token hidden at start
+- [ ] V036 first visible step begins real ~1.8–2.4 m customer-side counter approach
+- [ ] Daniel remains customer-side; never teleports behind counter
+- [ ] gate recedes through real room depth
+- [ ] beam lowers only after Daniel reaches ~0.5–0.8 m counter-search waypoint
+- [ ] V037 beam reaches fixed toe-kick recess before any brass highlight
+- [ ] one restrained highlight comes only from exposed token rim
+- [ ] no magical glow/SFX
+- [ ] token remains untouched through V037
+- [ ] V038 SAME flashlight visibly leaves RIGHT hand
+- [ ] flashlight remains ON on fixed dry counter support zone
+- [ ] fixed trim/backstop physically prevents roll
+- [ ] flashlight lens remains aimed down/out into same recess
+- [ ] V038 SAME folio visibly leaves LEFT-arm carry
+- [ ] folio lies flat beside flashlight without overlap
+- [ ] key remains clipped; phone stays pocketed
+- [ ] SAME glove envelope visibly accessed
+- [ ] LEFT glove donned first using RIGHT bare hand
+- [ ] LEFT fingers/cuff fully seated before second glove begins
+- [ ] RIGHT glove donned second using LEFT gloved hand
+- [ ] RIGHT fingers/cuff fully seated
+- [ ] both SAME gloves ON before token contact
+- [ ] empty glove envelope returned/closed inside folio
+- [ ] folio closes and remains supported
+- [ ] V039 Daniel lowers into real stable squat/crouch
+- [ ] LEFT gloved hand braces on own thigh/knee, not dirty counter
+- [ ] RIGHT gloved hand reaches into fixed recess
+- [ ] same token contact → pinch/lift → continuous withdrawal visible
+- [ ] one token edge contacts fixed lower metal trim
+- [ ] `TINK` occurs exactly at that contact
+- [ ] no token teleport/duplicate
+- [ ] V039 END token fully RIGHT gloved hand while Daniel remains low
+- [ ] V040 Daniel visibly rises before final seam
+- [ ] same token stays RIGHT gloved hand during rise
+- [ ] front/reverse inspection is one continuous rotation
+- [ ] cup + `CAFE SIETE` readable
+- [ ] reverse `7` readable
+- [ ] same corrosion edge remains consistent
+- [ ] Daniel says only `Cute.`
+- [ ] Strip 008 END = Daniel standing at fixed counter waypoint
+- [ ] Strip 008 END = both SAME gloves ON
+- [ ] token RIGHT gloved hand at chest height
+- [ ] flashlight ON/supported on same counter zone
+- [ ] folio CLOSED/supported beside flashlight; key clipped
+- [ ] phone pocketed
+- [ ] glove envelope empty/closed inside folio
+- [ ] gate remains open / service window closed
+- [ ] Cafe clock still inactive before Strip 009 `KLIK`
+- [ ] no Cafe lights / no 1986 co-registration
 
 ## Movement / No-Invisible-Action
 For every strip:
@@ -167,32 +164,31 @@ For every strip:
 ## Character / Performance
 - [ ] Daniel face/age/scar/hair/build canonical
 - [ ] right-hand writing dominance stable
-- [ ] Strip 004–007 hands remain bare until explicit Strip 008 glove donning
-- [ ] exactly two hands; gear support valid during gate work
-- [ ] SAME gloves visibly re-donned Strip 008 and remain through connection
+- [ ] hands bare through Strip 007
+- [ ] SAME gloves visibly re-donned Strip 008 and remain through active connection
+- [ ] exactly two hands; all support states physically valid
 - [ ] Tomas identity/hair/apron stable when introduced
 
 ## Field-Carry / Object Provenance
 - [ ] folio carries notebook/pencil/clean paper/glove envelope from 003
-- [ ] key clipped 003→use/reclip 004→stays with folio through 007
-- [ ] flashlight pickup 003 OFF → switch ON 004 → stays ON through 007 support/retrieval
-- [ ] phone LEFT chest pocket → visible 006 photo → same pocket → stays pocketed 007
-- [ ] station clock one fixed object in 005 and final 036 echo
-- [ ] one token 008→drop 010→floor
-- [ ] one tray 011→catch 012→set 013
-- [ ] one roll/saucer 020→cross/age 021→place 022
-- [ ] one `PAPER-REAL-01` 024→transfer/pocket 025
+- [ ] key clipped except visible 004 lock use
+- [ ] flashlight pickup 003 OFF → switch ON 004 → remains same object → counter support 008
+- [ ] phone LEFT chest pocket → visible 006 photo → same pocket through 008
+- [ ] token one fixed object: recess 008 → RIGHT gloved hand 008/009 → drop 010 → floor
+- [ ] one tray 011→012→013
+- [ ] one roll/saucer 020→021→022
+- [ ] one `PAPER-REAL-01` 024→025
 - [ ] one warning page 032→033→034→035
 
 ## Scratch / Evidence QA
-- [ ] both scratches belong to same fixed Cafe glass panel
-- [ ] Strip 006 reveals/documents only `TOMAS`
-- [ ] gate movement Strip 007 does not alter glass/scratches
-- [ ] lower fire warning remains unreadable until Strip 036
+- [ ] both scratches same fixed Cafe glass
+- [ ] lower fire warning unreadable until Strip 036
+- [ ] Strip 008 counter search does not alter glass/gate evidence
 
 ## Clock QA
 - [ ] station clock exact 12:07 Strip 005
-- [ ] Cafe clock inactive through Strip 007
+- [ ] Cafe clock inactive through Strip 008
+- [ ] first new Cafe-clock sound belongs to Strip 009
 - [ ] Cafe 12:00 Strip 009
 - [ ] 12:01 014
 - [ ] 12:02 016
@@ -203,22 +199,15 @@ For every strip:
 - [ ] 12:07 close 034
 - [ ] final station clock same fixed 12:07 Strip 036
 
-## Dialogue Readability
-- [ ] questions before answers
-- [ ] reactions get room
-- [ ] humor after comprehension
-- [ ] no dense speaker clusters
-- [ ] exact evidence text readable
-
 ## SFX QA
 - [ ] every SFX has exact physical source/timing
 - [ ] Strip 004 access/door SFX exact
 - [ ] Strip 005 one `PLIK` exact
 - [ ] Strip 006 one `SNAP` exact
-- [ ] Strip 007 `KRRK` = resisted first gate movement
-- [ ] Strip 007 `SKRRRNNK` = continuous guide/roller scrape during full gate travel
-- [ ] no gate SFX after gate stops
-- [ ] no Cafe clock/supernatural SFX in Strip 007
+- [ ] Strip 007 gate `KRRK` / `SKRRRNNK` exact
+- [ ] Strip 008 one `TINK` = token edge contacting fixed lower metal trim
+- [ ] no glint/glove filler SFX
+- [ ] no Cafe-clock sound in Strip 008
 
 ## Exact Text QA
 - [ ] `11:41 PM — SAN AURELIO JUNCTION`
@@ -227,19 +216,10 @@ For every strip:
 - [ ] `CAFE SIETE`
 - [ ] `TOMAS`
 - [ ] `That's not recent.`
-- [ ] `ELECTRICAL FAULT — SERVICE CORRIDOR`
-- [ ] `NO ACTIVE CIRCUIT`
-- [ ] `NO ACTIVE CIRCUIT AT REPORTED ORIGIN.`
-- [ ] `Same width.`
-- [ ] `12:00` through `12:07`
-- [ ] `DANIEL SORIANO`
-- [ ] `SAN AURELIO MUNICIPAL MUSEUM`
-- [ ] `2026`
-- [ ] `I AM REAL.`
-- [ ] `ARTURO SALCEDO`
-- [ ] three-line warning
-- [ ] `I WILL BRING BETTER BREAD.` only after closure
-- [ ] `FIRE STARTS IN THE SERVICE CORRIDOR.` only readable at final reveal
+- [ ] token cup + `CAFE SIETE`
+- [ ] token reverse `7`
+- [ ] Daniel Strip 008 line `Cute.`
+- [ ] remaining Chapter 1 locked texts unchanged
 
 ## Sequential Render Gate
 For Strip N:
