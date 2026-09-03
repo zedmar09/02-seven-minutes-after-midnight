@@ -13,8 +13,9 @@ THIS IS THE FIRST STRIP. THERE IS NO PREVIOUS-STRIP CONTINUITY AUTHORITY.
 1. `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
 2. `../../../Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp`
 3. `../../../Object-References/daniel-conservation-evidence-kit-canonical-reference.webp`
+4. `../../../Object-References/san-aurelio-fire-evidence-document-system-canonical-reference.webp`
 
-Missing authority = STOP. Do not substitute a generic archive room, generic notebook, generic pencil, generic loupe or improvised Daniel design.
+Missing authority = STOP. Do not substitute a generic archive room, generic notebook, generic pencil, generic loupe, generic fire report, generic photograph or improvised Daniel design.
 
 No Tomas. No Cafe Siete. No supernatural effects.
 
@@ -25,6 +26,8 @@ Strip 001 must establish the first approved rendering of:
 - Daniel's right-hand writing dominance
 - the San Aurelio Municipal Museum archive/conservation workroom
 - the primary conservation worktable scale/topology
+- `REPORT-FIRE-01`
+- `PHOTO-TRIM-ARCHIVE-01`
 - `NOTEBOOK-DANIEL-01`
 - `PENCIL-DANIEL-01`
 - `LOUPE-DANIEL-01`
@@ -78,20 +81,23 @@ Primary story-world table topology from Daniel's seated orientation:
 - directly ABOVE notebook = fixed pencil rest position when released
 - UPPER-RIGHT = compact conservation-tool tray / loupe rest
 
+The permanent flat-plan reference rack exists on Daniel's LEFT-BACK side per environment authority. `DIAGRAM-MAINT-01` is stored there throughout Strip 001 and remains untouched. It may be outside camera crop; it does not appear on the table during Strip 001.
+
 Background must read as the same San Aurelio collection workroom, with a representative stable subset of damaged source boxes and the established tin-trunk/storage context. Do not turn the shot into a box-counting puzzle.
 
 The prior source context of a large water-damaged collection and redevelopment pressure must remain visually present through ordinary collection/project materials rather than cinematic exposition.
 
 ## STRIP 001 OBJECT INVENTORY — ONE OF EACH
 
-- one active brittle fire-report folder/page cluster
+- `REPORT-FIRE-01` — one active brittle official fire-report folder/page cluster
 - one original-signature comparison document
 - one copied witness statement
-- one sleeved archival/newspaper photograph with a physically trimmed edge
+- `PHOTO-TRIM-ARCHIVE-01` — one sleeved archival/newspaper photograph with a physically trimmed edge
 - `NOTEBOOK-DANIEL-01`, open to the current investigation page
 - `PENCIL-DANIEL-01`, intact point at Strip start
 - `LOUPE-DANIEL-01`, initially resting in its tool tray
 - one dark archival backing under/near the photograph zone
+- `DIAGRAM-MAINT-01` — stored in its permanent plan-rack slot, not handled in Strip 001
 
 No duplicates. Close-ups are same-object details.
 
@@ -100,12 +106,15 @@ No duplicates. Close-ups are same-object details.
 Daniel is seated at the canonical work position.
 
 Table before V001:
-- active fire-report open/supported at CENTER
+- `REPORT-FIRE-01` open/supported at CENTER
 - comparison documents already present but not yet aligned at LEFT-OF-CENTER
-- sleeved trimmed photograph resting in UPPER-LEFT photo zone
+- `PHOTO-TRIM-ARCHIVE-01` resting in UPPER-LEFT photo zone
 - notebook OPEN at LOWER-RIGHT
 - pencil resting horizontally immediately above notebook
 - loupe in UPPER-RIGHT tool tray
+
+Off-table permanent state:
+- `DIAGRAM-MAINT-01` remains in the LEFT-BACK reference-plan rack slot
 
 Both gloved hands are free. Glasses ON. Daniel is calm, concentrated, not yet alarmed.
 
@@ -130,7 +139,7 @@ Camera:
 - Daniel's face/glasses/nose scar/hair/upper work outfit readable without glamour close-up
 
 Action chain:
-1. same brittle fire-report page lies fully supported at CENTER
+1. same `REPORT-FIRE-01` brittle page lies fully supported at CENTER
 2. Daniel's left gloved fingertips contact a safe page edge
 3. right hand remains clear
 4. he turns exactly one page
@@ -145,7 +154,7 @@ No dialogue. No detective pose. No cinematic spotlight.
 
 ## V002 — ALTERED DATE / LOUPE USE AND RETURN
 
-Same report; no second document.
+Same `REPORT-FIRE-01`; no second report.
 
 Action chain:
 1. left hand leaves the settled report only after table support is secure
@@ -189,7 +198,7 @@ Hand state:
 - left hand handles the **sleeve**, not a floating bare photograph
 
 Action chain:
-1. left gloved hand contacts the clear sleeve at UPPER-LEFT
+1. left gloved hand contacts `PHOTO-TRIM-ARCHIVE-01` sleeve at UPPER-LEFT
 2. slides the SAME sleeved photograph onto the dark backing area
 3. restrained paper/plastic `SHFF`
 4. sleeve remains table-supported
@@ -230,18 +239,22 @@ Daniel:
 - both hands free after pencil release
 
 Table:
-- fire-report open at CENTER on the current tampering page
+- `REPORT-FIRE-01` open at CENTER on the current tampering page
 - original-signature document + copied witness statement aligned LEFT-OF-CENTER
-- same sleeved trimmed photograph supported on dark backing UPPER-LEFT
+- `PHOTO-TRIM-ARCHIVE-01` supported on dark backing UPPER-LEFT
 - same loupe returned to UPPER-RIGHT tool tray
 - same notebook open LOWER-RIGHT with `TAMPERING IS CONSISTENT.` visible
 - same intact pencil resting horizontally above notebook
 
-Strip 002 must begin from this exact physical state before Daniel turns the fire report to the recorded service-corridor origin page.
+Off-table:
+- `DIAGRAM-MAINT-01` remains in the fixed LEFT-BACK plan-rack slot, inside its clear protective sleeve
+
+Strip 002 must begin from this exact physical state before Daniel turns the same fire report to the recorded service-corridor origin page.
 
 ## REJECT STRIP 001 IF
 
 - generic/unapproved archive background substitutes for required workroom authority
+- fire-report/photo design ignores the required fire-evidence document authority
 - Daniel's identity/age/scar/glasses/hair drifts
 - handedness flips
 - gloves vanish/change between slices
@@ -251,6 +264,7 @@ Strip 002 must begin from this exact physical state before Daniel turns the fire
 - photograph crop does not visibly prove physical trimming
 - pencil duplicates, changes shape, switches hands or touches fragile evidence as a pointer
 - notebook appears only at V005 without existing at START
+- maintenance diagram silently appears on the table during Strip 001
 - any SFX has no physical source
 - the five beats read as five equal page boxes
 - evidence becomes abstract floating montage

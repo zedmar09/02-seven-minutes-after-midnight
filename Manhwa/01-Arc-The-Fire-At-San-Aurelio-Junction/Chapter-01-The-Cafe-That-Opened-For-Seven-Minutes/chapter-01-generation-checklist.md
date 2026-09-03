@@ -23,7 +23,7 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 
 ## Sequential Strip Hardening
 - [x] Strip 001 local textual hardening audit completed
-- [ ] Strip 002 local textual hardening audit completed
+- [x] Strip 002 local textual hardening audit completed
 - [ ] Strip 003 local textual hardening audit completed
 - [ ] continue sequentially through Strip 036
 - [ ] no later strip inherits a PASS merely because an earlier strip passed
@@ -46,6 +46,7 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 
 ## Canonical Environments
 - [ ] San Aurelio Municipal Museum archive/conservation workroom authority approved for Strips 001–003
+- [ ] archive authority includes fixed plan-reference rack used by Strip 002
 - [ ] San Aurelio 2026 route/geometry approved
 - [ ] Cafe shared structure approved
 - [ ] Cafe 2026 state approved
@@ -60,6 +61,8 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 
 ## Canonical Objects
 - [ ] Daniel conservation/evidence kit approved
+- [ ] **San Aurelio fire-evidence document system approved for archive Strips 001–003 and later recurring use**
+- [ ] `REPORT-FIRE-01` / `DIAGRAM-MAINT-01` visually distinct and stable
 - [ ] Cafe token approved
 - [ ] Cafe connection clock approved
 - [ ] station clock authority approved if required
@@ -103,7 +106,9 @@ For every strip:
 - [ ] final station clock 12:07 Strip 036
 - [ ] no station/Cafe clock identity swap
 
-## Object Provenance QA
+## Object Provenance / Evidence QA
+- [ ] one `REPORT-FIRE-01`: Strip 001 report → same report origin page Strip 002
+- [ ] one `DIAGRAM-MAINT-01`: plan rack → visible retrieval/placement Strip 002 → exact seam into Strip 003
 - [ ] one notebook/pencil/loupe kit identity begins Strip 001 and persists where scripted
 - [ ] one token: retrieve Strip 008 → drop Strip 010 → remains floor
 - [ ] one tray: tilt Strip 011 → catch Strip 012 → set down Strip 013
@@ -142,6 +147,9 @@ For every strip:
 - [ ] SFX never covers decisive contact/evidence
 
 ## Exact Text QA
+- [ ] `ELECTRICAL FAULT — SERVICE CORRIDOR`
+- [ ] `NO ACTIVE CIRCUIT`
+- [ ] `NO ACTIVE CIRCUIT AT REPORTED ORIGIN.`
 - [ ] `CAFE SIETE`
 - [ ] `TOMAS`
 - [ ] `12:00` through `12:07` as scripted

@@ -33,8 +33,11 @@ Lock one modest professional fictional municipal-museum conservation room with:
 - compact conservation-tool tray at the upper-right area from Daniel's seated orientation
 - writing/notebook zone at Daniel's lower-right side
 - sleeved-photo/dark-backing zone at the upper-left side
+- **one shallow flat-plan reference rack fixed immediately behind the table on Daniel's LEFT-BACK side, within one visible seated turn/reach**
 - storage shelving/staging for the San Aurelio railway collection
 - stable door/circulation/background relationships sufficient for reverse views
+
+The reference-plan rack must have stable slots suitable for protected technical sheets. It is not a wall map, giant cabinet, branded archive product or decorative bookcase.
 
 ## Collection Context
 
@@ -48,7 +51,8 @@ Provide geometry-first views on one clean reference sheet:
 1. primary wide workroom view from near entrance
 2. Daniel-seat view toward table/storage wall — NO Daniel present
 3. reverse/three-quarter worktable view
-4. high-oblique table-topology view showing fixed work zones
+4. high-oblique table-topology view showing fixed work zones **and the plan-rack relationship**
 5. compact storage/context view showing representative damaged San Aurelio boxes/tin-trunk area
+6. small geometry inset proving the plan rack is reachable by a seated torso turn without moving the table
 
 No characters. No story dialogue. No supernatural effects. No floating UI. No dramatic mystery lighting. No real-world geographic or civic identifiers.

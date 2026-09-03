@@ -31,11 +31,25 @@ Primary orientation is defined from Daniel's normal seated position at one long 
 
 Camera changes may reverse screen-left/right but may not swap these story-world relationships.
 
+## Reference-Plan Rack — Absolute
+
+A shallow vertical/angled **flat-plan reference rack** is fixed immediately behind the worktable on Daniel's LEFT-BACK side, within one seated torso turn/reach but physically separate from the tabletop.
+
+Purpose:
+- holds protected oversize/technical sheets for the active San Aurelio project
+- `DIAGRAM-MAINT-01` begins Strip 002 in one fixed rack slot inside its clear protective sleeve
+- the rack does not move between strips
+- retrieving the diagram requires a visible Daniel reach/grip/removal action
+- returning or relocating a diagram later also requires visible movement
+
+Do not replace this rack with a real archival-brand filing system, giant plan cabinet, wall map, or floating schematic display.
+
 ## Daniel Seat / Body Scale
 
 - one ordinary work chair at Daniel's primary side of table
 - seated posture fits Daniel's medium-tall slim adult build
 - table height/chair scale remain normal conservation-work scale
+- Daniel can reach the reference-plan rack only by a small visible torso/chair turn; do not imply an impossible elastic-arm reach
 - no oversized executive desk
 - no tiny hobby table
 
@@ -66,3 +80,5 @@ No glossy forensic lab, neon equipment, dramatic blue grading, volumetric dust b
 ## Workroom Continuity Rule
 
 Strip 001 establishes the first approved rendering of this room. Strips 002–003 inherit the exact approved render for temporary document/pose state while the environment WebP remains permanent geometry authority.
+
+`DIAGRAM-MAINT-01` may remain outside Strip 001's camera crop while stored in its permanent rack slot. Off-camera does not mean absent.
