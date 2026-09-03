@@ -1,58 +1,70 @@
 # Temporal Object Provenance Ledger — Creator Only
 
-Every continuity-critical object has one identity. Close-up, before/after state, photograph, or time-crossing never creates a second real copy.
+Every continuity-critical object has one identity. Close-up, before/after state, photograph or time-crossing never creates a second real copy.
 
 ## Chapter 1 Objects
 
 | ID | Object | Origin / Baseline | Chapter 1 Path | Chapter 1 Final State |
 |---|---|---|---|---|
-| `TOKEN-01` | brass Cafe Siete token marked `7` | ordinary 1980s Cafe Siete token surviving under counter into 2026 | Daniel retrieves Strip 008 → holds → drops during Strip 010 activation → floor impact/skitter | **Daniel's 2026 floor near counter**; Chapter 2 must visibly retrieve/bag before departure |
-| `TRAY-01` | Tomas bread tray | 1986 cafe service tray | Tomas carries Strip 011 → tray tilts → Daniel/Tomas co-support Strip 012 → both lower to stable 1986 counter Strip 013 | remains 1986-side with Cafe/Tomas; never crosses fully |
-| `PASTRY-01` | one fresh sugared roll | 1986 | tongs select Strip 020 → same roll on saucer → crosses Strip 021 → ages | aged/dry/cracked on Daniel-side 2026 counter; collect/document Chapter 2 |
-| `SAUCER-01` | one white cafe saucer | 1986 | placed Strip 020 → crosses with pastry Strip 021 → yellows/crazes | aged Daniel-side 2026 counter; collect/document Chapter 2 |
-| `PAPER-REAL-01` | Daniel acid-free sheet with `I AM REAL.` | 2026 | written Strip 024 → passed Strip 025 → Tomas receives/folds/pockets | remains with Tomas in 1986 historical path; begins normal forward aging; does not return Chapter 1 |
-| `NOTE-WARN-01` | torn Daniel notebook page with three-line warning | 2026 | torn/written Strip 032 → Daniel sends Strip 033 → Tomas receives → Tomas writes hidden reply with 1986 cafe pencil Strip 034 → re-inserts same page → caught in closing-boundary transit at 12:07 → returns Strip 035 aged | Daniel sleeves same aged Class-A temporal anchor; contains original warning + `I WILL BRING BETTER BREAD.` |
-| `NOTEBOOK-DANIEL-01` | Daniel field notebook | 2026 | supports paper/writing; source of warning page | with Daniel; observations can preserve pre-rewrite state under rewrite protocol |
-| `PENCIL-DANIEL-01` | Daniel wooden graphite pencil | 2026 | writes archive notes / `I AM REAL.` / Arturo → point chips Strip 029 → remains blunt usable → writes warning Strip 032 | same blunt chipped-point pencil with Daniel; no replacement/sharpener |
-| `PENCIL-TOMAS-TEMP-01` | ordinary short Cafe Siete work pencil | 1986 | Tomas pulls from apron/work area Strip 034 → writes hidden reply on `NOTE-WARN-01` → remains 1986-side | remains Tomas/Cafe historical prop; never crosses unless later explicitly established |
-| `FLASHLIGHT-DANIEL-01` | Daniel flashlight | 2026 | station/cafe search → counter-supported → sleeve nudges Strip 026 → rolls/falls → fixed floor state → Daniel visibly retrieves Strip 036 | **held by Daniel** at final scratch inspection |
-| `PAGE-SLEEVE-01` | acid-free sleeve | 2026 | Daniel opens Strip 035 → aged warning page inserted | contains `NOTE-WARN-01` in Daniel possession |
+| `GLOVES-DANIEL-01` | one pair white cotton conservation gloves | Daniel museum work kit | ON Strips 001–003 → visibly removed after evidence secured V015 → stored in `GLOVE-ENVELOPE-DANIEL-01` inside folio → visibly re-donned Strip 008 → remain ON through active connection/final evidence handling unless later explicit removal | with Daniel; one pair only |
+| `PERMIT-FOLIO-SJ-01` | Daniel San Aurelio Junction field-access folio | 2026 museum field-gear zone | visibly retrieved Strip 003 → packed with notebook/pencil/clean archival supplies/glove envelope → carried into station/Cafe → supported/placed only through visible later actions | remains Daniel-side/possessed unless later audited exact final support state changes |
+| `KEY-ACCESS-SJ-01` | one authorized station mechanical key | clipped to `PERMIT-FOLIO-SJ-01` | carried out Strip 003 → visibly unclipped/used Strip 004 authorized door → returned to folio/support | with Daniel/folio; never duplicate key/fob |
+| `FLASHLIGHT-DANIEL-01` | Daniel compact flashlight | 2026 museum field-gear zone | visible pickup Strip 003 → station/Cafe search → counter-supported → sleeve nudges Strip 026 → rolls/falls → fixed floor → visible retrieval Strip 036 | held by Daniel at final scratch inspection |
+| `NOTEBOOK-DANIEL-01` | Daniel field notebook | 2026 archive table | archive notes → packed into folio Strip 003 → later visibly available/retrieved for Cafe writing → source of warning page | with Daniel; observations may preserve pre-rewrite state |
+| `PENCIL-DANIEL-01` | Daniel wooden graphite pencil | 2026 archive table | archive notes → packed folio Strip 003 → later Cafe writing / Arturo → point chips Strip 029 → blunt usable → warning Strip 032 | same blunt chipped-point pencil with Daniel |
+| `TOKEN-01` | brass Cafe Siete token marked `7` | ordinary 1980s token surviving under counter | Daniel retrieves Strip 008 → holds → drops Strip 010 → floor impact/skitter | Daniel 2026 floor near counter; Chapter 2 retrieve/bag |
+| `TRAY-01` | Tomas bread tray | 1986 cafe service tray | Tomas carries 011 → tilts → co-support 012 → lower to stable 1986 counter 013 | remains 1986-side; never crosses fully |
+| `PASTRY-01` | one fresh sugared roll | 1986 | tongs select 020 → same roll/saucer crosses 021 → ages | aged/dry Daniel-side 2026 counter |
+| `SAUCER-01` | one white cafe saucer | 1986 | placed 020 → crosses 021 → yellows/crazes | aged Daniel-side 2026 counter |
+| `PAPER-REAL-01` | Daniel acid-free sheet with `I AM REAL.` | clean sheet carried inside field folio from 2026 | selected/written 024 → passed 025 → Tomas receives/folds/pockets | remains Tomas 1986 historical path; ages forward normally |
+| `NOTE-WARN-01` | torn Daniel notebook page with warning | 2026 notebook | torn/written 032 → sent 033 → Tomas receives/replies 034 → reinserted → closing transit → returns 035 aged | Daniel sleeves same aged temporal anchor |
+| `PENCIL-TOMAS-TEMP-01` | short Cafe Siete work pencil | 1986 | Tomas uses 034 hidden reply → remains 1986-side | remains Tomas/Cafe historical prop |
+| `PAGE-SLEEVE-01` | acid-free sleeve | 2026 field supplies | Daniel opens 035 → aged warning page inserted | contains `NOTE-WARN-01` with Daniel |
 
-## Chapter 1 Contact / Carrier Locks
+## Chapter 1 Archive Evidence Objects
 
-- `PAPER-REAL-01` ends in Tomas front apron pocket.
-- `NOTE-WARN-01` is physically different from `PAPER-REAL-01`.
-- `PASTRY-01` and `SAUCER-01` remain aged after crossing.
+These do not cross time in Chapter 1 but require one-object continuity:
+- `REPORT-FIRE-01` — same report Strip 001→002; secured Strip 003
+- `DIAGRAM-MAINT-01` — plan rack → Strip 002 table → returned exact rack slot Strip 003
+- `PHOTO-TRIM-ARCHIVE-01` — same sleeved trimmed photo; secured before departure Strip 003
+- `FOLDER-CASUALTY-01` — source folder for `NOTICE-DEATH-01A/B/C`
+- `NOTICE-DEATH-01A/B/C` — three distinct sleeved notices; same-width name-area cut; returned to source folder Strip 003
+
+## Contact / Carrier Locks
+
+- `PAPER-REAL-01` ends Tomas front apron pocket.
+- `NOTE-WARN-01` physically differs from `PAPER-REAL-01`.
+- `PASTRY-01` / `SAUCER-01` remain aged after crossing.
 - `TOKEN-01` off-frame = occlusion, not disappearance.
-- `FLASHLIGHT-DANIEL-01` cannot appear in Daniel's hand between Strip 026 and visible retrieval in Strip 036.
-- Tomas's temporary cafe pencil is never confused with Daniel's chipped pencil.
+- flashlight cannot appear in Daniel hand between Strip 026 fall and Strip 036 retrieval.
+- Tomas temporary pencil never confused with Daniel pencil.
+- same archive gloves are stored Strip 003 and re-donned Strip 008; no second pair.
+- field folio is carrier, not magic inventory: later retrievals still require visible action when continuity-critical.
 
 ## Planned Arc 1 / Mystery Objects
 
 | ID | Object | Creator Purpose / Provenance Lock |
 |---|---|---|
-| `PHOTO-REPORTER-01` | Oct 19 station newspaper photograph | baseline photo exists without/with different Tomas placement; Chapter 3 positioning causes settled version to contain Tomas; later kept as changed external record |
-| `PHOTO-HAND-01` | Oct 25 1986 exposure with Daniel's hand | Daniel's gloved hand enters stable aperture during exposure; surviving 2026 print becomes impossible evidence after settlement |
-| `SIGNAL-SLIP-7M-01` | south-signal maintenance slip | created legitimately in 1986; Tomas deliberately changes storage path into Archive Box 7-M in Chapter 6 so it survives to 2026 |
-| `BOX-7M-01` | Archive Box 7-M | archive container whose surviving contents change due Chapter 6 intervention; box identity remains stable after settlement |
-| `ANNEX-C-01` | redevelopment Annex C copy/carbon | links Arturo-controlled redevelopment interests to station condemnation/access; Tomas copies/hides it in Chapter 11; survival path changes history |
-| `BENJAMIN-NB-01` | Benjamin private patrol notebook | private true-ish timing record; survives outside official archive; later contradicts falsified patrol statement |
-| `ERNESTO-DIAGRAM-01` | Ernesto marked relay/fuse diagram | hand-marked technical evidence showing removed fuses/jumpers incompatible with accidental-fault story |
-| `LILIA-LEDGER-01` | Cafe Siete unpaid-meals/order ledger | records recurring Arturo visits and later serves as a hiding/provenance carrier for letters/evidence |
+| `PHOTO-REPORTER-01` | Oct 19 station newspaper photograph | baseline photo exists; Chapter 3 positioning causes settled version to contain Tomas |
+| `PHOTO-HAND-01` | Oct 25 1986 exposure with Daniel hand | gloved hand enters stable aperture; surviving print becomes impossible evidence |
+| `SIGNAL-SLIP-7M-01` | south-signal maintenance slip | legitimate 1986 slip; Tomas changes survival location into Box 7-M Chapter 6 |
+| `BOX-7M-01` | Archive Box 7-M | stable container whose surviving contents change |
+| `ANNEX-C-01` | redevelopment Annex C | ties Arturo interests to condemnation/access; survival path later rewritten |
+| `BENJAMIN-NB-01` | Benjamin patrol notebook | private timing record contradicts official statement |
+| `ERNESTO-DIAGRAM-01` | Ernesto marked relay/fuse diagram | technical evidence of removed fuses/jumpers |
+| `LILIA-LEDGER-01` | Cafe Siete unpaid-meals/order ledger | records Arturo visits; later hiding/provenance carrier |
 
-## `PAPER-REAL-01` Long Path — Locked Direction
+## `PAPER-REAL-01` Long Path
 
-1. Tomas keeps it in apron on Oct 17.
-2. By Oct 18 he stores it inside/with `LILIA-LEDGER-01` for protection.
-3. It may later enter Cafe Siete hidden-evidence cache.
-4. If recovered in 2026, it must be same modern-fiber sheet aged through actual history, not recreated copy.
-
-Exact recovery chapter may be hardened later, but object cannot be silently destroyed/duplicated before explicit revision.
+1. Tomas keeps it apron Oct 17.
+2. By Oct 18 stores with `LILIA-LEDGER-01`.
+3. May later enter Cafe hidden-evidence cache.
+4. If recovered in 2026, must be same modern-fiber sheet aged through history.
 
 ## Scratch Evidence Is Environmental
 
-`SCRATCH-TOMAS-01` and `SCRATCH-FIRE-01` belong to Cafe glass/sign zone and are tracked in `evidence-causality-ledger.md`.
+`SCRATCH-TOMAS-01` and `SCRATCH-FIRE-01` belong to Cafe glass/sign zone and are tracked in evidence ledger.
 
 ## Audit Rule
 
-Add every future crossing object ID here before visual production.
+Add every future crossing or continuity-critical carried object ID here before visual production.

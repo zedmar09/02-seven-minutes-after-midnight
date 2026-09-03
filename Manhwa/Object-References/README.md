@@ -6,25 +6,23 @@ Recurring plot-critical objects use approved canonical WebPs as permanent produc
 
 - brass Cafe Siete token marked `7`
 - brass-rimmed Cafe Siete clock
-- **Daniel conservation/evidence kit** — notebook, pencil, loupe, archival sheet/sleeve and removable cotton-glove identity; required from Strip 001 onward where those objects recur
-- **San Aurelio fire-evidence document system** — official fire report, maintenance diagram, trimmed photograph and repeated cut death-notice family used across the archive mystery
-- Tomas's brass pastry tongs if repeated prominently
-- recurring evidence photographs/letters when their exact physical identity becomes continuity-critical
+- **Daniel conservation/evidence kit** — notebook, pencil, loupe, ruler, archival sheet/sleeve and one removable cotton-glove pair
+- **San Aurelio fire-evidence document system** — official fire report, maintenance diagram, trimmed photograph, casualty folder and three cut death notices
+- **Daniel station field-access kit** — permit folio, station access key, same flashlight and glove envelope; locks archive→station→Cafe carry continuity
+- Tomas brass pastry tongs if repeated prominently
+- recurring evidence photographs/letters when exact physical identity becomes continuity-critical
 
-Planned Daniel kit authority:
-- `daniel-conservation-evidence-kit-canonical-reference-prompt.md`
-- approved output path: `daniel-conservation-evidence-kit-canonical-reference.webp`
-
-Planned fire-evidence document authority:
-- `san-aurelio-fire-evidence-document-system-canonical-reference-prompt.md`
-- approved output path: `san-aurelio-fire-evidence-document-system-canonical-reference.webp`
+Planned authorities:
+- `daniel-conservation-evidence-kit-canonical-reference-prompt.md` → `daniel-conservation-evidence-kit-canonical-reference.webp`
+- `san-aurelio-fire-evidence-document-system-canonical-reference-prompt.md` → `san-aurelio-fire-evidence-document-system-canonical-reference.webp`
+- `daniel-station-field-access-kit-canonical-reference-prompt.md` → `daniel-station-field-access-kit-canonical-reference.webp`
 
 ## Fictional-World Rule
 
-Evidence objects belong to fictional Caligo Vale / San Aurelio. Do not reproduce real government forms, real railway logos, real newspaper identities, real seals, or real geographic branding.
+Objects belong to fictional Caligo Vale / San Aurelio. Do not reproduce real government forms, railway logos, newspaper identities, civic seals or geographic branding.
 
 ## Rule
 
-Do not create canonicals for every ordinary spoon or piece of clutter. Canonicalize recurring objects whose redesign, scale drift, markings, wear, mechanics, or provenance could damage plot or continuity.
+Do not create canonicals for every ordinary spoon/clutter item. Canonicalize recurring objects whose redesign, scale drift, markings, wear, mechanics or provenance could damage plot/continuity.
 
-Prompt Markdown is not a substitute for approved `.webp` authority. Missing required WebP is blocking.
+Prompt Markdown is not substitute for approved `.webp`. Missing required WebP is blocking.

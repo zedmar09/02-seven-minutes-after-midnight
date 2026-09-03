@@ -9,73 +9,76 @@ Planned approved authority path:
 
 All documents belong to fictional San Aurelio in fictional Caligo Vale.
 
-Do NOT copy or imitate:
-- real government forms
-- real railway logos
-- real municipal seals
-- real newspaper mastheads
-- real country/city names
-- real transit symbols or route maps
+Do NOT copy or imitate real government forms, railway logos, municipal seals, newspaper mastheads, country/city names, transit symbols or route maps.
 
-Any visible administrative styling must be invented, restrained, and internally consistent with San Aurelio.
+Any administrative styling must be invented, restrained and internally consistent with San Aurelio.
 
 ## Absolute Style
 
 STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON OBJECT REFERENCE.
-Clean intentional linework, flat matte colors, restrained hard-edged cel shading, neutral reference lighting, accurate paper scale.
+Clean linework, flat matte colors, restrained hard-edged cel shading, neutral reference lighting and accurate paper scale.
 
-Reject photorealism, glossy product presentation, cinematic evidence-table lighting, fake digital UI, 3D/CGI, dramatic reflections, or horror-document styling.
+Reject photorealism, glossy product presentation, cinematic evidence-table lighting, fake digital UI, 3D/CGI, dramatic reflections or horror-document styling.
 
 ## Canonical Evidence Families
 
 ### `REPORT-FIRE-01` — Official San Aurelio Junction Fire Report
-- one aged municipal/rail incident-report folder and page family
+- one aged municipal/rail incident-report folder/page family
 - ordinary late-1980s fictional civic-document design
-- matte off-white paper, restrained typewritten/typed fields, handwritten marks only when scripted
+- matte off-white paper
+- restrained typed/typewritten fields; handwriting only when scripted
 - no real seal/logo
-- Chapter 1 origin page must support clearly readable carrier text:
+- Chapter 1 origin page supports exact text:
   `ELECTRICAL FAULT — SERVICE CORRIDOR`
-- the same report may contain the altered-date/signature-copy evidence seen in Strip 001
-- report identity must remain the same object across Strip 001→002 and later reuse
+- same report contains/associates with altered-date/signature-copy evidence seen in Strip 001
+- one object identity across Strip 001→002 and later reuse
 
 ### `DIAGRAM-MAINT-01` — San Aurelio Junction Maintenance Diagram
-- one flat technical maintenance-plan sheet kept in a clear low-reflection protective sleeve
-- stable page dimensions noticeably larger than Daniel's A5 notebook but still manageable on the conservation table
-- simplified fictional station/service-corridor linework readable at mobile detail scale
-- no real railway engineering logo or map
-- Chapter 1 key notation must support clearly readable:
+- one flat technical maintenance-plan sheet inside a clear low-reflection protective sleeve
+- larger than Daniel A5 notebook but manageable on worktable
+- fictional station/service-corridor linework
+- no real railway engineering logo/map
+- key notation supports exact text:
   `NO ACTIVE CIRCUIT`
-  at the same recorded service-corridor origin area
-- this is one real diagram, not a floating schematic overlay
+- one real diagram, never floating schematic overlay
 
-### `PHOTO-TRIM-ARCHIVE-01` — Trimmed Archive/Newspaper Photograph
-- one aged black-and-white/low-color historical print inside a clear archival sleeve
-- one physically cut/trimmed edge visibly interrupts an anonymous shoulder/coat continuation
-- do not invent a missing person's face
+### `PHOTO-TRIM-ARCHIVE-01`
+- one aged historical print inside clear archival sleeve
+- one physically trimmed edge visibly interrupts an anonymous shoulder/coat continuation
+- no missing person's face invented
 - no real newspaper masthead required
 
-### `NOTICE-DEATH-01A/B/C` — Three Related Death Notices
+### `FOLDER-CASUALTY-01`
+- one ordinary acid-free archive/source folder for related death notices
+- restrained fictional San Aurelio accession notation only if any text is visible
+- contains the three separate notice sleeves below
+- same folder begins Strip 003 in the archive workroom's fixed BACK-RIGHT source-file stand
+
+### `NOTICE-DEATH-01A/B/C`
 - three separate real paper notices from the same fictional administrative/publication family
+- each inside its own clear low-reflection archival sleeve
 - stable paper scale/type family
 - each carries the same-width physical removal at the same name-area position
-- they remain distinct sheets, never collage duplicates
-- do not print spoiler names in the canonical sheet unless a later creator revision explicitly locks them
+- distinct sheets, never collage duplicates
+- no spoiler names printed in the canonical sheet unless later explicitly locked
 
 ## Continuity Rules
 
 - close-up = same physical carrier, not a second copy
 - damage/cuts/aging remain stable unless story history rewrites them
-- `REPORT-FIRE-01` and `DIAGRAM-MAINT-01` must remain visually distinguishable
-- maintenance diagram is always protected by its clear sleeve during Chapter 1 archive handling
-- no evidence text may float outside its physical carrier
+- report and maintenance diagram stay visually distinguishable
+- maintenance diagram remains sleeved during Chapter 1 archive handling
+- death notices remain separate sleeved carriers
+- no evidence text floats outside physical carrier
 
 ## Reference Layout
 
 Use a clean neutral reference sheet with:
-1. report folder/page front and open-page identity
-2. maintenance diagram full-sheet view plus protected-sleeve edge/detail
+1. report folder/page front + open-page identity
+2. maintenance diagram full-sheet + sleeve edge/detail
 3. trimmed photograph sleeve/detail
-4. three death-notice family thumbnails at consistent scale
-5. compact relative-scale comparison against an A5-class notebook silhouette only; no character
+4. casualty source folder
+5. three death-notice family thumbnails at consistent scale, each visibly sleeved
+6. compact relative-scale comparison against A5-class notebook silhouette only; no character
 
 No story scene, no hands, no supernatural effect, no real-world geography.

@@ -1,191 +1,169 @@
 # Chapter 1 Generation Checklist
 
-Use only after formal hardening accepts the current 180-beat / 36-strip textual package.
+Use only after formal hardening accepts current 180-beat / 36-strip textual package.
 
 ## Fictional Setting / Geography
-- [ ] `../../Continuity/fictional-setting-bible.md` inherited
+- [ ] fictional-setting bible inherited
 - [ ] Caligo Vale / San Aurelio hierarchy consistent
-- [ ] no real country/city/province/state is named or implied as story setting
-- [ ] no character receives a real nationality label from surname/appearance
-- [ ] no real flag/map/civic seal/transit logo/route map appears
-- [ ] no famous skyline/landmark or recognizable real station/museum/cafe replica appears
-- [ ] `Korean manhwa/webtoon` used only as production/style terminology
-- [ ] `SAN AURELIO MUNICIPAL MUSEUM` treated as fictional in-world institution
+- [ ] no real country/city/province/state implied
+- [ ] no real nationality labels from surname/appearance
+- [ ] no real flags/maps/seals/transit logos/landmarks/real station replicas
+- [ ] Korean manhwa/webtoon = production style only
 
 ## Creator Continuity
-- [ ] formal hardening audit of `../../Continuity/` completed
-- [ ] time-slip mechanics consistent
-- [ ] timeline rewrite protocol consistent
-- [ ] Chapter 1 full 7:00 interval preserved
-- [ ] temporal-object provenance matches 001→036
-- [ ] evidence/scratch causality matches final glass treatment
-- [ ] state-resolution addendum synchronized
+- [ ] continuity folder formal audit completed
+- [ ] time-slip mechanics/rewrite protocol consistent
+- [ ] Chapter 1 full 7:00 preserved
+- [ ] temporal provenance matches 001→036
+- [ ] evidence/scratch causality consistent
+- [ ] state addendum synchronized
 
 ## Sequential Strip Hardening
-- [x] Strip 001 local textual hardening audit completed
-- [x] Strip 002 local textual hardening audit completed
-- [ ] Strip 003 local textual hardening audit completed
-- [ ] continue sequentially through Strip 036
-- [ ] no later strip inherits a PASS merely because an earlier strip passed
+- [x] Strip 001 local textual hardening completed
+- [x] Strip 002 local textual hardening completed
+- [x] Strip 003 local textual hardening completed
+- [ ] Strip 004 local textual hardening completed
+- [ ] continue through Strip 036
+- [ ] no later strip inherits PASS automatically
 
 ## Preproduction Package
-- [ ] `chapter-01-continuous-scroll-plan.md` = 180 beats V001–V180
-- [ ] `chapter-01-strip-manifest.md` = 36 strips
-- [ ] master scroll prompt synchronized
-- [ ] `Production-Strips/production-strip-global-contract.md` current
-- [ ] all 36 local strip prompts exist
-- [ ] no retired 16-strip prompt remains
-- [ ] all local prompts agree with seam map
-- [ ] dialogue order matches 180-beat plan
+- [ ] 180 beats V001–V180
+- [ ] 36-strip manifest current
+- [ ] master scroll synchronized
+- [ ] global strip contract current
+- [ ] all 36 prompts exist
+- [ ] retired 16-strip prompts absent
+- [ ] all prompts agree seam map
+- [ ] dialogue order matches beat plan
 - [ ] every SFX has real source
 
 ## Canonical Characters
-- [ ] Daniel approved WebP with no real-nationality cues
-- [ ] Tomas approved WebP with no real-nationality cues
-- [ ] no visible Lilia without canonical; Chapter 1 remains voice-only
+- [ ] Daniel approved WebP, no real-nationality cues
+- [ ] Tomas approved WebP, no real-nationality cues
+- [ ] no visible Lilia without canonical
 
 ## Canonical Environments
-- [ ] San Aurelio Municipal Museum archive/conservation workroom authority approved for Strips 001–003
-- [ ] archive authority includes fixed plan-reference rack used by Strip 002
-- [ ] San Aurelio 2026 route/geometry approved
-- [ ] Cafe shared structure approved
-- [ ] Cafe 2026 state approved
-- [ ] Cafe 1986 state approved
-- [ ] all environment references pass fictional-geography gate
-- [ ] counter/service-window geometry proven
-- [ ] gate track/threshold proven
-- [ ] Cafe clock/menu-wall relationship proven
-- [ ] painted-glass/sign zone proven
-- [ ] enough reverse/angle views for 36-strip axis continuity
-- [ ] Cafe clock and station clock visually distinct
+- [ ] San Aurelio archive workroom authority approved Strips 001–003
+- [ ] archive authority includes plan rack, source-file stand, completed-source tray, field-gear zone
+- [ ] San Aurelio Junction 2026 geometry approved
+- [ ] Cafe shared / 2026 / 1986 authorities approved
+- [ ] all pass fictional-geography gate
+- [ ] service-window/gate/clock/painted-glass/angle geometry proven
 
 ## Canonical Objects
-- [ ] Daniel conservation/evidence kit approved
-- [ ] **San Aurelio fire-evidence document system approved for archive Strips 001–003 and later recurring use**
-- [ ] `REPORT-FIRE-01` / `DIAGRAM-MAINT-01` visually distinct and stable
+- [ ] Daniel conservation/evidence kit approved: notebook/pencil/loupe/ruler/sleeves/one glove pair
+- [ ] San Aurelio fire-evidence document system approved
+- [ ] Daniel station field-access kit approved: folio/key/flashlight/glove envelope
+- [ ] `REPORT-FIRE-01` / `DIAGRAM-MAINT-01` distinct/stable
+- [ ] `FOLDER-CASUALTY-01` + A/B/C notices distinct/stable
 - [ ] Cafe token approved
 - [ ] Cafe connection clock approved
 - [ ] station clock authority approved if required
-- [ ] audit decides tongs/tray/saucer recurring reference need
+- [ ] audit tongs/tray/saucer recurring reference need
 
-## Movement / No-Invisible-Action Gate
+## Archive 001→003 QA
+- [ ] one report across 001→002 then secured 003
+- [ ] one maintenance diagram rack→002 table→003 same rack slot
+- [ ] one trimmed photo remains sleeved and secured 003
+- [ ] three distinct death notices come from one source folder
+- [ ] same-width cut proved with one ruler
+- [ ] original evidence not left exposed at departure
+- [ ] same gloves ON through evidence handling then visibly removed/stored 003
+- [ ] notebook + pencil visibly packed 003
+- [ ] same flashlight visibly picked up 003
+- [ ] station access key visibly carried/clipped into 004
+
+## Movement / No-Invisible-Action
 For every strip:
-- [ ] start state inherited exactly
-- [ ] cause shown before result
-- [ ] continuity-critical movement shown
+- [ ] start state exact
+- [ ] cause before result
+- [ ] critical movement shown
 - [ ] contact/source visible
-- [ ] result supported physically
-- [ ] reaction/dialogue follows in causal order
-- [ ] no camera cut substitutes for movement
-- [ ] no object appears in hand without pickup/transfer
-- [ ] no object disappears without placement/occlusion
+- [ ] physical support valid
+- [ ] reaction/dialogue causal
+- [ ] camera cut never substitutes for movement
+- [ ] no object appears/disappears without path
 
 ## Character / Performance
-- [ ] Daniel canonical face/age/scar/hair/build
-- [ ] Daniel right-hand writing dominance stable
-- [ ] archive gloves remain ON Strips 001–003 and are visibly removed/stored before station departure
-- [ ] Strip 004 starts station visit bare-handed
-- [ ] Daniel gloves visibly ON again Strip 008 and remain ON through active connection
-- [ ] Tomas canonical face/age/low jade cord/hair/apron/build
-- [ ] two hands per character
-- [ ] hand side/occupancy stable
-- [ ] pose/facing/feet/torso persist across slices
-- [ ] emotion changes only from story cause
-- [ ] jokes do not reset fear after 12:05
+- [ ] Daniel face/age/scar/hair/build canonical
+- [ ] right-hand writing dominance stable
+- [ ] Strip 004 begins bare-handed
+- [ ] SAME gloves visibly re-donned Strip 008 and remain through connection
+- [ ] Tomas identity/hair/apron stable when introduced
+- [ ] two hands each; pose/facing/emotion causal
+
+## Field-Carry / Object Provenance
+- [ ] `PERMIT-FOLIO-SJ-01` carries notebook/pencil/clean paper/glove envelope from 003
+- [ ] `KEY-ACCESS-SJ-01` clipped 003→used visibly 004→remains same key
+- [ ] `FLASHLIGHT-DANIEL-01` pickup 003 → route → counter → fall 026 → retrieval 036
+- [ ] one token 008→drop 010→floor
+- [ ] one tray 011→catch 012→set 013
+- [ ] one roll/saucer 020→cross/age 021→place 022
+- [ ] one `PAPER-REAL-01` 024→transfer/pocket 025
+- [ ] one Daniel pencil intact→chip 029→warning 032
+- [ ] one warning page 032→033→034→035
 
 ## Clock QA
-- [ ] station clock 12:07 clue Strip 005
-- [ ] Cafe clock reset 12:00 Strip 009
-- [ ] 12:01 Strip 014
-- [ ] 12:02 Strip 016
-- [ ] 12:03 Strip 022
-- [ ] 12:04 Strip 025
-- [ ] 12:05 Strip 028
-- [ ] 12:06 Strip 030
-- [ ] 12:07 closure Strip 034
-- [ ] final station clock 12:07 Strip 036
-- [ ] no station/Cafe clock identity swap
+- [ ] station clock 12:07 Strip 005
+- [ ] Cafe 12:00 Strip 009
+- [ ] 12:01 014
+- [ ] 12:02 016
+- [ ] 12:03 022
+- [ ] 12:04 025
+- [ ] 12:05 028
+- [ ] 12:06 030
+- [ ] 12:07 close 034
+- [ ] final station clock 12:07 036
 
-## Object Provenance / Evidence QA
-- [ ] one `REPORT-FIRE-01`: Strip 001 report → same report origin page Strip 002
-- [ ] one `DIAGRAM-MAINT-01`: plan rack → visible retrieval/placement Strip 002 → exact seam into Strip 003
-- [ ] one notebook/pencil/loupe kit identity begins Strip 001 and persists where scripted
-- [ ] one token: retrieve Strip 008 → drop Strip 010 → remains floor
-- [ ] one tray: tilt Strip 011 → catch Strip 012 → set down Strip 013
-- [ ] one roll/saucer: prepare 020 → cross/age 021 → place 022
-- [ ] one `PAPER-REAL-01`: write 024 → transfer/pocket 025
-- [ ] one flashlight: counter → nudge/roll/fall 026 → fixed floor → retrieval 036
-- [ ] one Daniel pencil: intact → point chip 029 → same blunt pencil warning 032
-- [ ] one warning page: tear/write 032 → transfer 033 → Tomas hidden reply/reinsert 034 → return/sleeve 035
-- [ ] Tomas temporary cafe pencil never confused with Daniel pencil
-
-## Contact / Threshold QA
-- [ ] short incidental tray contact not treated as sustained pain
-- [ ] counter brace 017 visibly loses support
-- [ ] Tomas grip completes before pain in 018
-- [ ] release/air gap completes before window opens 019
-- [ ] service window real track open state stable 019–034
-- [ ] final warm touch = Tomas bare → Daniel cotton glove
-- [ ] hands visibly separate in 033
-- [ ] no full-body crossing implication
-
-## Dialogue Readability QA
-- [ ] question precedes answer
-- [ ] listener reaction receives room
-- [ ] humor follows comprehension
-- [ ] no dense multi-speaker balloon cluster
-- [ ] Tomas/Daniel voices remain distinct
-- [ ] post-12:05 dialogue tighter/urgent
-- [ ] exact physical evidence text readable
+## Dialogue Readability
+- [ ] question before answer
+- [ ] reactions get room
+- [ ] humor after comprehension
+- [ ] no dense speaker clusters
+- [ ] exact evidence text readable
 
 ## SFX QA
-- [ ] SFX placed at action/source moment
-- [ ] no SFX before cause
-- [ ] no random filler SFX
-- [ ] station/rain audio respects era/location
-- [ ] Lilia/PA audio source direction correct
-- [ ] SFX never covers decisive contact/evidence
+- [ ] action/source timing exact
+- [ ] no filler
+- [ ] station/rain audio location-correct
+- [ ] Lilia/PA direction correct
+- [ ] no SFX covers proof
 
 ## Exact Text QA
 - [ ] `ELECTRICAL FAULT — SERVICE CORRIDOR`
 - [ ] `NO ACTIVE CIRCUIT`
 - [ ] `NO ACTIVE CIRCUIT AT REPORTED ORIGIN.`
+- [ ] `Same width.`
 - [ ] `CAFE SIETE`
 - [ ] `TOMAS`
-- [ ] `12:00` through `12:07` as scripted
+- [ ] `12:00` through `12:07`
 - [ ] `DANIEL SORIANO`
 - [ ] `SAN AURELIO MUNICIPAL MUSEUM`
 - [ ] `2026`
 - [ ] `I AM REAL.`
 - [ ] `ARTURO SALCEDO`
-- [ ] `DO NOT TELL ANYONE ABOUT ME.`
-- [ ] `KEEP THIS HIDDEN.`
-- [ ] `COME BACK TOMORROW.`
-- [ ] `I WILL BRING BETTER BREAD.` only readable after closure
+- [ ] three-line warning
+- [ ] `I WILL BRING BETTER BREAD.` only after closure
 - [ ] `FIRE STARTS IN THE SERVICE CORRIDOR.`
 
 ## Sequential Render Gate
 For Strip N:
 - [ ] required canonicals attached
-- [ ] previous APPROVED render attached for N>1
-- [ ] start state matches previous seam
+- [ ] previous APPROVED render attached N>1
+- [ ] start matches previous seam
 - [ ] actual pixels inspected
 - [ ] movement/dialogue/SFX/story/style/text/geography pass
-- [ ] only then approve N and proceed N+1
+- [ ] only then proceed
 
 ## Stitch Gate
 - [ ] all 36 strips approved
-- [ ] stitch exact `001→036`
-- [ ] no duplicate beat
-- [ ] no missing movement
-- [ ] no dead/double seam
-- [ ] no pose/emotion reset
-- [ ] no object/time/age jump
+- [ ] stitch 001→036
+- [ ] no duplicate/missing micro-action
+- [ ] no dead seam/pose reset/object jump/time jump
 - [ ] no real-world geography leakage
-- [ ] no reader-visible technical metadata
-- [ ] final warning + station clock exact
+- [ ] no reader metadata
 
 ## Final Gate
-- [ ] fresh clean-room audit with no inherited PASS labels
+- [ ] fresh clean-room audit
 - [ ] zero unresolved mandatory findings
 - [ ] only then `PRODUCTION COMPLETE`

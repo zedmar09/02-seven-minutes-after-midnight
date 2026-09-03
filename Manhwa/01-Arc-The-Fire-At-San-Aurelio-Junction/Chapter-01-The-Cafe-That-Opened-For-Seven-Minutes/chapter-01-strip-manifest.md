@@ -1,10 +1,10 @@
 # Chapter 1 — 36 Technical Strip Manifest
 
-Strip IDs are production-only. The reader sees one uninterrupted vertical chapter.
+Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 
 ## Current Status
 
-**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIP 001 LOCAL TEXTUAL PASS — STRIPS 002–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
+**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–003 LOCAL TEXTUAL PASS — STRIPS 004–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
 
 The 36-strip map separates continuity-critical movement, dialogue handoffs, contact, object transfer, clock proof, SFX source and reactions that were previously compressed.
 
@@ -12,191 +12,182 @@ The 36-strip map separates continuity-critical movement, dialogue handoffs, cont
 
 | Strip | Beats | Purpose | Critical seam-out |
 |---:|---|---|---|
-| 001 | V001–V005 | paper-tampering hook / Daniel procedural identity | notebook records consistent tampering; exact archive desk frozen |
-| 002 | V006–V010 | official fire report vs maintenance diagram | contradiction written and preserved |
-| 003 | V011–V015 | repeated missing-name cuts / decision to visit | Daniel leaves archive with permit/flashlight; archive gloves must be removed/stored visibly |
+| 001 | V001–V005 | paper-tampering hook / Daniel procedural identity | exact archive desk frozen; first conclusion written |
+| 002 | V006–V010 | official fire report vs maintenance diagram | technical contradiction written/preserved |
+| 003 | V011–V015 | repeated missing-name cuts / archive→field transition | originals secured; gloves stored; notebook/pencil packed; folio/key/flashlight carry locked |
 | 004 | V016–V020 | 11:41 station threshold entry | Daniel inside; access door closed |
 | 005 | V021–V025 | station geometry / fixed 12:07 clue | Daniel moving toward Cafe Siete |
 | 006 | V026–V030 | Cafe sign / old `TOMAS` scratch / photo | scratch documented before Tomas appears |
-| 007 | V031–V035 | real gate test→drag→threshold→2026 cafe | Daniel inside Cafe Siete |
-| 008 | V036–V040 | brass glint / glove-on sequence / token retrieval | token held; gloves ON |
-| 009 | V041–V045 | source click / Cafe clock wakes to 12:00 | active clock 12:00; no era transition yet |
-| 010 | V046–V050 | lights / token fall / dual-era activation | token floor; Daniel 2026; 1986 access active |
-| 011 | V051–V055 | Tomas approach / first reveal / tray begins falling | tray tilted, both reacting |
-| 012 | V056–V060 | same-tray catch / incidental fingertips / first dialogue | tray stabilized; first joke lands |
-| 013 | V061–V065 | tray set down / conservator line / year question | Tomas realizes Daniel is serious |
-| 014 | V066–V070 | 1986 answer / 2026 answer / coffee-ring proof / 12:01 | both face era contradiction |
-| 015 | V071–V075 | names / Daniel reaction toward scratch | Tomas asks what Daniel saw |
-| 016 | V076–V080 | scratch explanation / future-vandalism banter / 12:02 flicker | 12:02; lights flickered |
-| 017 | V081–V085 | brace → counter depth failure → Tomas catches wrist | grip completed before pain |
-| 018 | V086–V090 | pain jolt → dialogue → full release / latch sound | hands separated; latch source introduced |
-| 019 | V091–V095 | service-window track opening / grounded banter | window OPEN, stable aperture established |
-| 020 | V096–V100 | real move to pastry station / tongs / saucer / bread | test object assembled Tomas-side |
-| 021 | V101–V105 | one continuous saucer crossing / forty-year aging | aged saucer supported Daniel-side |
-| 022 | V106–V110 | Daniel inspection / announcement / 12:03 | proof accepted; four minutes remain |
-| 023 | V111–V115 | return-direction question / flashlight placement / choose paper | clean archival sheet selected |
-| 024 | V116–V120 | real supported writing sequence / `I AM REAL.` | finished sheet remains Daniel-side |
-| 025 | V121–V125 | sheet crosses / readable conversation / pocket / 12:04 | sheet Tomas pocket/history |
-| 026 | V126–V130 | sleeve nudges flashlight → roll → impact / Lilia voice | flashlight floor; Lilia remains offscreen |
-| 027 | V131–V135 | every-night question / clock reasoning / 3-minute inference | both understand probable 12:07 limit |
-| 028 | V136–V140 | exact 12:05 / grounded unusual-event inventory | white-suit detail isolates Arturo clue |
-| 029 | V141–V145 | Arturo Q&A / writing / blunt pencil break / dust response | Arturo recorded; same pencil usable |
-| 030 | V146–V150 | exact 12:06 / sequential practical-light failures | Tomas openly afraid; says Daniel's name |
-| 031 | V151–V155 | tomorrow request / emotionally connected humor | Tomas commits to return |
-| 032 | V156–V160 | notebook support / one-page tear / exact warning writing | completed warning page Daniel-side |
-| 033 | V161–V165 | warning-page transfer / glove-to-skin warm touch / release | warning page Tomas-side; hands separated |
-| 034 | V166–V170 | Tomas hidden-reply writing / page re-entry / 12:07 closure | Daniel alone; page in boundary transit |
-| 035 | V171–V175 | post-closure silence / aged page return / reply / sleeving | reply page safely sleeved |
-| 036 | V176–V180 | flashlight retrieval / second scratch reveal / station-clock echo | exact final hook; END |
+| 007 | V031–V035 | gate test→drag→threshold→2026 cafe | Daniel inside Cafe Siete |
+| 008 | V036–V040 | brass glint / glove-on / token retrieval | token held; SAME gloves ON |
+| 009 | V041–V045 | source click / Cafe clock wakes 12:00 | active clock 12:00 |
+| 010 | V046–V050 | lights / token fall / dual-era activation | token floor; 1986 access active |
+| 011 | V051–V055 | Tomas approach / reveal / tray begins falling | tray tilted |
+| 012 | V056–V060 | same-tray catch / incidental contact / first dialogue | tray stabilized |
+| 013 | V061–V065 | tray set down / conservator / year question | Tomas realizes Daniel serious |
+| 014 | V066–V070 | 1986 / 2026 / coffee-ring proof / 12:01 | both face era contradiction |
+| 015 | V071–V075 | names / scratch reaction | Tomas asks what Daniel saw |
+| 016 | V076–V080 | scratch explanation / banter / 12:02 flicker | 12:02; lights flickered |
+| 017 | V081–V085 | brace → depth failure → wrist catch | grip completed before pain |
+| 018 | V086–V090 | pain → dialogue → release / latch | hands separated; latch source |
+| 019 | V091–V095 | service window opens | window OPEN |
+| 020 | V096–V100 | bread-test preparation | test object assembled Tomas-side |
+| 021 | V101–V105 | one continuous crossing / aging | aged saucer supported Daniel-side |
+| 022 | V106–V110 | inspection / announcement / 12:03 | proof accepted; four minutes remain |
+| 023 | V111–V115 | reverse-direction question / choose paper | clean sheet selected |
+| 024 | V116–V120 | supported `I AM REAL.` writing | finished sheet Daniel-side |
+| 025 | V121–V125 | paper crossing / pocket / 12:04 | sheet Tomas history |
+| 026 | V126–V130 | flashlight nudge→roll→impact / Lilia voice | flashlight floor |
+| 027 | V131–V135 | interval inference | probable 12:07 limit understood |
+| 028 | V136–V140 | 12:05 unusual events | white-suit detail isolates Arturo |
+| 029 | V141–V145 | Arturo / writing / pencil chip | Arturo recorded; pencil usable |
+| 030 | V146–V150 | 12:06 lights fail | Tomas fear exposed |
+| 031 | V151–V155 | tomorrow promise | Tomas commits return |
+| 032 | V156–V160 | warning-page tear/write | warning page Daniel-side |
+| 033 | V161–V165 | warning transfer / warm touch | warning Tomas-side; hands separated |
+| 034 | V166–V170 | hidden reply / reinsertion / 12:07 close | Daniel alone; page transit |
+| 035 | V171–V175 | aged page return / reply / sleeve | reply safely sleeved |
+| 036 | V176–V180 | flashlight retrieval / final scratch / station clock | exact final hook; END |
 
 ## Why 36 Strips
 
-A technical strip should contain one coherent micro-sequence that can be generated and audited without forcing the image model to improvise missing movement.
+A technical strip contains one coherent micro-sequence that can be generated/audited without model improvising missing movement.
 
 Global gates:
-- physical action reaches a readable result inside one strip whenever possible
-- a seam may carry a deliberate state but never an undefined teleport/reset
-- dialogue/reaction remain causally connected
-- object transfers preserve source→motion→receipt→support
-- clock minute changes receive readable proof
-- sound-first moments identify real direction/source
-- romance beats receive enough vertical room to read as adult performance
+- physical action reaches readable result whenever possible
+- seam may carry deliberate state, never undefined teleport/reset
+- dialogue/reaction causally connected
+- transfer preserves source→motion→receipt→support
+- clock changes receive readable proof
+- sound-first moments identify real source
+- romance receives adequate vertical room
 
 ## Seam Types
 
-- **G** — geometry/state carry
-- **A** — action handoff
-- **E** — emotional handoff
-- **T** — exact time-state handoff
-- **END** — chapter termination only
+- **G** geometry/state carry
+- **A** action handoff
+- **E** emotional handoff
+- **T** legal/exact time transition
+- **END** chapter termination
 
 | Boundary | Type | Required carry |
 |---|---|---|
-| 001→002 | G | exact hardened archive desk; Daniel seated, glasses/archive gloves ON; both hands free; report center; comparison docs aligned; sleeved photo on backing; loupe returned; notebook open with conclusion; pencil resting above notebook |
-| 002→003 | G/E | contradiction concern persists into missing-name comparison |
-| 003→004 | T | legal location transition; archive gloves visibly removed/stored before departure; station begins bare-handed with same clothing/permit/flashlight identity |
+| 001→002 | G | hardened archive desk; Daniel seated, glasses/archive gloves ON; report/comparison/photo/loupe/notebook/pencil exact; diagram in plan rack |
+| 002→003 | G/E | exact hardened desk; diagram table state; concern persists; gloves ON |
+| 003→004 | T | legal travel cut; same clothing/glasses; hands BARE; folio under left arm containing notebook/pencil/clean paper/same glove pair; access key clipped exterior; same flashlight right hand |
 | 004→005 | G | Daniel inside same station visit; door closed; rain state unchanged |
-| 005→006 | G | ticket-hall geometry and station-clock clue remain established |
-| 006→007 | G/A | scratch photo complete; Daniel at Cafe gate before opening |
-| 007→008 | G | Daniel inside same abandoned cafe; gate state persists |
-| 008→009 | G | gloves ON; token in gloved hand; flashlight/folder supported |
-| 009→010 | T/A | Cafe clock exactly 12:00; activation has not yet changed token state until Strip 010 |
-| 010→011 | G/E | dual-era active; token floor; Daniel startled; Tomas not yet seen |
-| 011→012 | A | one tray already tilting; both men mid-reaction, no reset |
-| 012→013 | G/E | tray stabilized by both; conversation warmth/wary state persists |
-| 013→014 | E | Tomas now serious; year question has been asked |
-| 014→015 | T/E | Cafe clock 12:01; both processing era split |
-| 015→016 | G/E | Daniel indicates scratch; Tomas attention follows real glass direction |
-| 016→017 | T/A | 12:02 flicker just occurred; Daniel remains at same counter position |
-| 017→018 | A | Tomas wrist grip already complete; pain has not yet fired |
-| 018→019 | A/G | hands fully separated; service-window latch has sounded but not opened |
-| 019→020 | G | service window OPEN; both understand stable aperture |
-| 020→021 | A | fresh roll on one saucer at Tomas-side sill |
-| 021→022 | G | same aged saucer fully Daniel-side and supported |
-| 022→023 | T/E | 12:03 established; proof accepted; urgency increased |
-| 023→024 | G/A | flashlight horizontal counter; clean archival sheet selected |
-| 024→025 | A | completed `I AM REAL.` sheet Daniel-side ready to pass |
-| 025→026 | T/G | 12:04; archival sheet Tomas pocket; flashlight still counter until sleeve nudge |
-| 026→027 | G/E | flashlight floor; Lilia exchange complete; both return attention to each other |
-| 027→028 | T/E | inferred limit; next minute visibly becomes 12:05 |
-| 028→029 | E | white-suit detail isolated; Daniel follows with name question |
-| 029→030 | T/G | Arturo recorded; pencil blunt-usable; next visible clock state 12:06 |
-| 030→031 | E | Tomas fear exposed; `Daniel.` just spoken |
-| 031→032 | E/G | tomorrow commitment established; service window OPEN |
-| 032→033 | A | exact warning page finished Daniel-side |
-| 033→034 | E/A | warm contact fully released; warning page Tomas-side |
-| 034→035 | T/A | connection CLOSED at 12:07; page in closing-boundary transit |
-| 035→036 | G/E | aged reply sleeved; Daniel turns toward final glass evidence |
-| 036 | END | no additional reader-facing material |
+| 005→006 | G | ticket-hall geometry and station-clock clue established |
+| 006→007 | G/A | scratch photo complete; Daniel at Cafe gate |
+| 007→008 | G | Daniel inside Cafe; field folio/flashlight supported; gloves still stored until V038 |
+| 008→009 | G | SAME gloves ON; token gloved hand; flashlight/folio supported |
+| 009→010 | T/A | Cafe clock exactly 12:00; token still held until activation response |
+| 010→011 | G/E | dual era active; token floor; Daniel startled; Tomas not seen yet |
+| 011→012 | A | one tray tilting; both mid-reaction |
+| 012→013 | G/E | tray stabilized; wary humor persists |
+| 013→014 | E | year question asked; Tomas serious |
+| 014→015 | T/E | 12:01; era contradiction processing |
+| 015→016 | G/E | Daniel indicates scratch; Tomas attention follows glass |
+| 016→017 | T/A | 12:02 flicker; Daniel same counter position |
+| 017→018 | A | Tomas wrist grip complete before pain |
+| 018→019 | A/G | hands fully separated; window latch sounded not opened |
+| 019→020 | G | service window OPEN |
+| 020→021 | A | fresh roll/saucer Tomas sill |
+| 021→022 | G | same aged saucer fully Daniel-side |
+| 022→023 | T/E | 12:03; proof accepted; urgency increased |
+| 023→024 | G/A | flashlight counter; clean sheet selected |
+| 024→025 | A | completed sheet Daniel-side ready to pass |
+| 025→026 | T/G | 12:04; sheet Tomas pocket; flashlight counter |
+| 026→027 | G/E | flashlight floor; Lilia exchange complete |
+| 027→028 | T/E | inferred limit; next minute 12:05 |
+| 028→029 | E | white-suit detail isolated |
+| 029→030 | T/G | Arturo recorded; pencil blunt-usable; next clock 12:06 |
+| 030→031 | E | Tomas fear exposed; `Daniel.` spoken |
+| 031→032 | E/G | tomorrow commitment; service window OPEN |
+| 032→033 | A | warning page finished Daniel-side |
+| 033→034 | E/A | warm contact released; warning Tomas-side |
+| 034→035 | T/A | connection CLOSED 12:07; page in boundary transit |
+| 035→036 | G/E | aged reply sleeved; Daniel turns to final evidence |
+| 036 | END | no additional reader material |
 
 ## Canonical Attachment / Reference Audit Map
 
-This is a hardening map, not a claim that approved WebPs already exist.
-
-### Planned permanent authority paths
-
+Planned permanent authorities:
 - `DANIEL` → `Character-References/daniel-soriano-canonical-flat2d.webp`
 - `TOMAS` → `Character-References/tomas-rivera-canonical-flat2d.webp`
-- `ARCHIVE` → `Manhwa/Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp` — **REQUIRED by Strip 001 hardening decision**
-- `PAPER-KIT` → `Manhwa/Object-References/daniel-conservation-evidence-kit-canonical-reference.webp` — **REQUIRED by Strip 001 hardening decision**
+- `ARCHIVE` → `Manhwa/Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp`
+- `PAPER-KIT` → `Manhwa/Object-References/daniel-conservation-evidence-kit-canonical-reference.webp`
+- `FIRE-DOC` → `Manhwa/Object-References/san-aurelio-fire-evidence-document-system-canonical-reference.webp`
+- `FIELD-KIT` → `Manhwa/Object-References/daniel-station-field-access-kit-canonical-reference.webp`
 - `SJ26` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-reference.webp`
 - `CAFE-S` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-shared-structure-reference.webp`
 - `CAFE-D` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-dual-era-state-reference.webp`
 - `TOKEN` → `Manhwa/Object-References/cafe-siete-token-canonical-reference.webp`
 - `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp`
-- `SCLOCK` → **PENDING HARDENING:** separate station-clock reusable authority if detailed recurring use requires one
-- `SERVICE` → **PENDING HARDENING:** decide whether service-window hardware/detail sheet is needed beyond Cafe pack
-- `BAKERY-TOOLS` → **PENDING HARDENING:** decide whether tongs/tray/saucer recurring authority is required
+- `SCLOCK` → PENDING HARDENING if detailed recurring authority required
+- `SERVICE` → PENDING HARDENING
+- `BAKERY-TOOLS` → PENDING HARDENING
 
-`PREV` means immediately previous **APPROVED rendered strip**, used only for temporary seam state after rendering begins.
+`PREV` = immediately previous APPROVED render, temporary state only.
 
-| Strip(s) | Characters | Environment | Core objects/details | Previous render |
+| Strip(s) | Characters | Environment | Core objects/details | Previous |
 |---|---|---|---|---|
-| 001 | DANIEL | ARCHIVE | PAPER-KIT + story-specific archive evidence carriers | none |
-| 002–003 | DANIEL | ARCHIVE | PAPER-KIT + archive evidence carriers | PREV |
-| 004 | DANIEL | SJ26 | access door/permit/flashlight state | PREV |
-| 005 | DANIEL | SJ26 | SCLOCK | PREV |
-| 006 | DANIEL | SJ26 + CAFE-S | painted-glass/sign zone | PREV |
-| 007 | DANIEL | CAFE-S + 2026 state from CAFE-D | gate/track/threshold geometry | PREV |
-| 008 | DANIEL | CAFE-S + 2026 state | TOKEN + PAPER-KIT glove identity | PREV |
-| 009 | DANIEL | CAFE-S + 2026 state | TOKEN + CCLOCK | PREV |
+| 001 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC | none |
+| 002 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC | PREV |
+| 003 | DANIEL | ARCHIVE | PAPER-KIT + FIRE-DOC + FIELD-KIT | PREV |
+| 004 | DANIEL | SJ26 | FIELD-KIT + access-door/key geometry | PREV |
+| 005–007 | DANIEL | SJ26 / CAFE-S as applicable | FIELD-KIT + temporary supported carry state | PREV |
+| 008 | DANIEL | CAFE-S + 2026 state | FIELD-KIT + PAPER-KIT glove identity + TOKEN | PREV |
+| 009 | DANIEL | CAFE-S + 2026 | TOKEN + CCLOCK | PREV |
 | 010 | DANIEL | CAFE-S + CAFE-D | TOKEN + CCLOCK | PREV |
-| 011–013 | DANIEL + TOMAS | CAFE-S + CAFE-D | tray geometry / BAKERY-TOOLS if hardened | PREV |
-| 014–016 | DANIEL + TOMAS | CAFE-S + CAFE-D | CCLOCK where visible; painted glass | PREV |
-| 017–019 | DANIEL + TOMAS | CAFE-S + CAFE-D | SERVICE; exact counter/window geometry | PREV |
-| 020–022 | DANIEL + TOMAS | CAFE-S + CAFE-D | BAKERY-TOOLS; CCLOCK Strip 022 | PREV |
-| 023–025 | DANIEL + TOMAS | CAFE-S + CAFE-D | PAPER-KIT; CCLOCK Strip 025 | PREV |
-| 026–027 | DANIEL + TOMAS | CAFE-S + CAFE-D | flashlight; PAPER-KIT | PREV |
-| 028–030 | DANIEL + TOMAS | CAFE-S + CAFE-D | CCLOCK; PAPER-KIT/pencil; practical-light state | PREV |
-| 031–033 | DANIEL + TOMAS | CAFE-S + CAFE-D | PAPER-KIT; SERVICE | PREV |
-| 034 | DANIEL + TOMAS | CAFE-S + CAFE-D | CCLOCK + SERVICE + warning page + Tomas temporary pencil | PREV |
-| 035 | DANIEL | CAFE-S + 2026 state | warning page / PAPER-KIT sleeve; SERVICE sealed state | PREV |
-| 036 | DANIEL | CAFE-S + 2026 state + SJ26 | flashlight + painted glass + SCLOCK | PREV |
-
-### Reference Hardening Rule
-
-`ARCHIVE` and `PAPER-KIT` are no longer optional/pending for the Chapter 1 archive sequence. Their prompts/bibles now exist, but the actual approved WebPs are still missing and therefore block rendering.
-
-A remaining `PENDING HARDENING` reference cannot be downgraded into improvised visual canon. If a recurring object becomes identity-critical in two or more strips, default toward a canonical reference.
+| 011–013 | DANIEL+TOMAS | CAFE-S+CAFE-D | tray / BAKERY-TOOLS if hardened | PREV |
+| 014–016 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK / painted glass | PREV |
+| 017–019 | DANIEL+TOMAS | CAFE-S+CAFE-D | SERVICE | PREV |
+| 020–022 | DANIEL+TOMAS | CAFE-S+CAFE-D | BAKERY-TOOLS / CCLOCK | PREV |
+| 023–025 | DANIEL+TOMAS | CAFE-S+CAFE-D | PAPER-KIT / FIELD-KIT source carry / CCLOCK | PREV |
+| 026–027 | DANIEL+TOMAS | CAFE-S+CAFE-D | flashlight / PAPER-KIT | PREV |
+| 028–030 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK / PAPER-KIT pencil | PREV |
+| 031–033 | DANIEL+TOMAS | CAFE-S+CAFE-D | PAPER-KIT / SERVICE | PREV |
+| 034 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK + SERVICE + warning + Tomas pencil | PREV |
+| 035 | DANIEL | CAFE-S 2026 | warning/sleeve + SERVICE sealed | PREV |
+| 036 | DANIEL | CAFE-S 2026 + SJ26 | flashlight + glass + SCLOCK | PREV |
 
 ## Dialogue Flow Gate
 
-- humor follows a concrete observation first
-- Daniel answers directly before analysis
-- exposition is broken by reaction/verification beats
-- no question repeats an answer already given
-- no joke interrupts unresolved physical danger
-- after 12:05 humor becomes shorter tension release
+- humor follows comprehension
+- Daniel answers before analysis
+- exposition broken by reaction/verification
+- no question repeats answered information
+- no joke interrupts danger
+- after 12:05 humor shorter
 
 ## SFX Source Gate
 
-Approved source vocabulary includes:
+Approved families include:
 - archive: `FLIP`, `TAP`, `SHFF`, `TIK`, `SCRITCH...`
 - station/rain: `KLAK`, `TAP... TAP...`, `TIK... TIK...`, `PLIK`, `THUNK`
 - gate/cafe: `KRRK`, `SKRRRNNK`, `TINK`, `KLIK`, `TK`, `TICK`, `FZZT—THUM`
 - tray/service: `CLINK-CLINK`, `THK`, `TZK`, `KZT!`, `SKRRRRK`, `CLINK`, `SHHK`
-- object aging/paper: `KRK...`, `FSSSH`, `SCRITCH...`, `RRIP`
+- aging/paper: `KRK...`, `FSSSH`, `SCRITCH...`, `RRIP`
 - flashlight/pencil: `RRR...`, `CLACK`, `TK`, `SSSH`
-- lights/closure: `FZZT`, `KLIK`, `TAP`
 
-Every SFX remains physically sourced and correctly timed.
+Every SFX physically sourced/timed.
 
 ## Authority Order
 
 1. current user instruction
-2. creator-only continuity under `../../Continuity/`
-3. current 180-beat plan
-4. this 36-strip manifest
-5. chapter-local state-resolution addendum
-6. `Production-Strips/production-strip-global-contract.md`
-7. per-strip production prompt
-8. approved permanent character/environment/object WebPs
-9. approved previous rendered strip for temporary seam state only
+2. creator continuity under `../../Continuity/`
+3. 180-beat plan
+4. this manifest
+5. state addendum
+6. global strip contract
+7. local strip prompt
+8. approved permanent WebPs
+9. previous approved render for temporary state
 
-Permanent canon always outranks a previous strip.
+Permanent canon outranks previous render.
 
 ## Render Gate
 
-Strip 001's local textual PASS does not mean it can render. Required approved WebPs are still missing.
+Local textual PASS for Strips 001–003 does not mean they can render. Required approved WebPs remain missing.
 
-After all sequential hardening and canonical gates pass, generation remains strictly `001 → 002 → ... → 036`; no skipping ahead.
+After all sequential hardening/canonical gates pass, generation stays strict `001 → 002 → ... → 036`.
