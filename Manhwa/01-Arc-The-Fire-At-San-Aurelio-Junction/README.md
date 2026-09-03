@@ -1,6 +1,6 @@
 # Arc 1 — The Fire At San Aurelio Junction
 
-This is the active Arc 1 vertical-Manhwa production workspace for `Seven Minutes After Midnight`.
+Active Arc 1 vertical-Manhwa production workspace for `Seven Minutes After Midnight`.
 
 ## Planned Chapters
 
@@ -24,33 +24,35 @@ This is the active Arc 1 vertical-Manhwa production workspace for `Seven Minutes
 
 Only Chapter 1 currently has an active Manhwa production package.
 
-Phase 1 creator continuity for the entire Arc 1 spine is now locked under `../Continuity/`, including exact dates, shrinking connection durations, fire-conspiracy solution, timeline rewrite rules, evidence/object provenance, and the Chapter 1→Chapter 2 inheritance state.
+Chapter 1 has been rebuilt to **180 internal read beats / 36 technical strips** for continuous reader-friendly movement, connected dialogue, physically sourced SFX, and deterministic seam continuity.
 
-**The planned hardening audit of these new locks has not yet been run.**
+The former compressed 74-beat / 16-strip package is retired.
 
-Chapter 2 remains planned but no active Chapter 2 folder should be created until the later hardening audit accepts the synchronized Chapter 1/Arc 1 authority.
+Phase 1 creator continuity for Arc 1 is locked under `../Continuity/`, including exact dates, shrinking durations, fire-conspiracy solution, rewrite rules, evidence/object provenance and Chapter 1→2 inheritance.
+
+**Formal hardening audit of the rebuilt Chapter 1 + continuity authorities has not yet been run.**
+
+Chapter 2 remains planned but no active Chapter 2 folder should be created until hardening accepts current authority.
 
 ## Arc 1 Calendar Lock
 
-Standard successful meetings in Arc 1 run on consecutive nights:
-- Chapter 1: October 17, 1986 / October 17, 2026
-- Chapter 15: October 31, 1986 / October 31, 2026
+- Chapter 1: Oct 17, 1986 / Oct 17, 2026
+- Chapter 15: Oct 31, 1986 / Oct 31, 2026
+- fixed future San Aurelio fire: Nov 23, 1986
 
-The fixed future San Aurelio fire date is November 23, 1986. Arc 1 ends before the fire and establishes that Tomas was specifically targeted.
-
-Exact nightly close times live in `../Continuity/time-slip-state-ledger.md`.
+Exact close times live in `../Continuity/time-slip-state-ledger.md`.
 
 ## Arc Locks
 
-- romance remains centered on Daniel/Tomas and adult emotional restraint
-- connection time is a finite relationship resource, not only a plot timer
-- the station fire is a human conspiracy with archival falsification pressure
-- Cafe Siete is a fragile time-slip wound, not freely traversable time travel
-- direct historical interference and unsafe boundary forcing damage/shorten the connection
-- timeline changes settle after closure under the creator rewrite protocol
+- romance centered on Daniel/Tomas, adult restraint
+- connection time is finite relationship resource
+- fire is human conspiracy with archival falsification
+- Cafe Siete is fragile time-slip wound
+- direct historical interference/unsafe boundary forcing damages time
+- timeline changes settle after closure
 - railway/archive/fire/land/signal/corridor evidence converges causally
-- object/letter/photo evidence keeps one-object provenance and actual history
-- other future crossings may expand mythology but cannot make Cafe Siete ordinary
+- objects/letters/photos preserve one-object provenance
+- future crossings cannot make Cafe Siete ordinary
 
 ## Creator-Only Arc Authorities
 
@@ -65,4 +67,4 @@ Exact nightly close times live in `../Continuity/time-slip-state-ledger.md`.
 
 ## Production Format
 
-All active chapters use one continuous vertical reader scroll, internal planning beats, technical production strips, canonical WebP references, sequential rendered-strip approval, stitched-chapter QA, and fresh final clean-room audit.
+One continuous vertical reader scroll; internal read beats; technical strips; canonical WebP references; sequential rendered-strip approval; stitched QA; fresh final clean-room audit.

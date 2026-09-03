@@ -1,36 +1,46 @@
 # Chapter 1 Production Strips
 
-This directory contains 16 technical strip prompts for one continuous reader-visible Chapter 1.
+This directory contains the 36 technical generation chunks for Chapter 1. The reader never sees strip numbers; approved strips stitch into one continuous vertical chapter.
 
-## Current Status
+Current status: **180-BEAT / 36-STRIP REBUILD PRESENT — FORMAL HARDENING AUDIT PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
 
-**TEXTUAL STRIP PACKAGE AUTHORITATIVE; RENDERING BLOCKED UNTIL REQUIRED CANONICAL WEBPS EXIST AND EXACT PATHS ARE VERIFIED.**
+## Binding Files
 
-## Strip Order
+Every local strip prompt inherits:
+- `../chapter-01-continuous-scroll-plan.md`
+- `../chapter-01-strip-manifest.md`
+- `../chapter-01-state-resolution-addendum.md`
+- `production-strip-global-contract.md`
+- `../../../Continuity/` creator-only mechanics/evidence/provenance authority
+- global Manhwa style/layout/lettering/seam/readiness rules
 
-1. `strip-001-archive-to-station-entry-chatgpt-image-prompt.md`
-2. `strip-002-cafe-siete-token-chatgpt-image-prompt.md`
-3. `strip-003-midnight-activation-chatgpt-image-prompt.md`
-4. `strip-004-tomas-first-reveal-chatgpt-image-prompt.md`
-5. `strip-005-two-years-two-eras-chatgpt-image-prompt.md`
-6. `strip-006-names-and-future-scratch-chatgpt-image-prompt.md`
-7. `strip-007-painful-contact-window-opens-chatgpt-image-prompt.md`
-8. `strip-008-pastry-ages-forty-years-chatgpt-image-prompt.md`
-9. `strip-009-i-am-real-chatgpt-image-prompt.md`
-10. `strip-010-lilia-voice-seven-minute-rule-chatgpt-image-prompt.md`
-11. `strip-011-arturo-salcedo-chatgpt-image-prompt.md`
-12. `strip-012-twelve-oh-six-promise-chatgpt-image-prompt.md`
-13. `strip-013-warning-page-warm-touch-chatgpt-image-prompt.md`
-14. `strip-014-twelve-oh-seven-closure-chatgpt-image-prompt.md`
-15. `strip-015-returned-page-better-bread-chatgpt-image-prompt.md`
-16. `strip-016-fire-starts-service-corridor-chatgpt-image-prompt.md`
+## Why the Former 16-Strip Package Was Replaced
+
+The older package preserved story order but compressed too much movement and conversation into single generation chunks. That made it possible for a render to skip physical handling, compress dialogue reactions, or imply movement between views.
+
+The 36-strip package separates:
+- real body movement and route changes
+- source/contact/result for props
+- one-object transfer provenance
+- clock minute proof
+- dialogue question/answer/reaction rhythm
+- SFX source/timing
+- emotional progression
+- seam-in/seam-out state
 
 ## Sequential Rule
 
-Generate Strip 001 only after all Chapter 1 required canonicals pass approval. Deep-audit actual pixels. Do not generate Strip 002 until Strip 001 is approved under current rules. Continue sequentially through Strip 016.
+After formal hardening and canonical approval, generate strictly in numerical order:
+`001 → 002 → ... → 036`.
 
-Immediately previous approved strip is temporary continuity authority only. Permanent character/environment/object canon always wins.
+For Strip 002+, use only the immediately previous **APPROVED** render as temporary seam authority unless a local prompt explicitly needs an older recurring-prop state.
 
-## Reader Rule
+Do not skip ahead because all Markdown prompts exist.
 
-Strip names/numbers, V-beat IDs, technical state labels, reference paths, and QA instructions are never reader-visible.
+## Reader-Facing Rule
+
+No strip ID, beat ID, prompt label, state variable, file name, or QA note may appear in artwork. The finished chapter must feel like one authored scroll, not stitched pages.
+
+## Blocking Rule
+
+A local prompt may list intended `.webp` names before those files exist, but rendering remains blocked. Missing approved canonical visual authority must never be replaced by the Markdown description itself.

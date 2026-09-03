@@ -2,70 +2,131 @@
 
 ## Mobile-First Rule
 
-All dialogue, narration, SFX, signs, handwritten notes, archive labels, and clock text must remain readable at normal phone width. Short exact text is preferred over tiny paragraphs.
+Dialogue, narration, SFX, signs, handwriting, archive labels and clock text must be readable at normal phone width. Prefer short connected lines over dense explanation balloons.
 
-## Ownership
+## Dialogue Handoff Rule — Absolute
 
-Every line has one clear source: Daniel, Tomas, Lilia/offscreen voice, narration, station announcement, handwritten note, physical sign, or clock display.
+For Chapter 1 and future strips, default conversational order is:
+1. visible context/cause
+2. speaker line
+3. listener reaction
+4. answer/follow-up
+5. optional humor only after reader understands the literal situation
 
-Do not make listeners mouth another character's line. Offscreen audio remains offscreen and reactions orient toward the real source.
+Do not stack three or four back-and-forth lines into one tiny visual beat when a reaction or movement is needed to make the next line make sense.
+
+A joke is not a substitute for an answer.
+
+After 12:05, reduce joke density; humor may release tension but cannot reset fear/urgency.
+
+## Speech Ownership
+
+Every line has one source: Daniel, Tomas, Lilia offscreen, narration, station announcement, handwriting, sign, clock.
+
+Listeners never mouth another speaker's line. Offscreen audio remains visually offscreen and reactions orient to real source.
 
 ## Physical Text Plane
 
-Text that exists in-world remains attached to its physical carrier:
-- `CAFE SIETE` on real signage/token as scripted
-- scratched `TOMAS` and fire warning on cafe glass
-- clock time inside the actual clock face/display design
-- Daniel's writing on the actual paper/notebook page
-- Tomas's reply on that same returned page
+In-world text remains on real carrier:
+- `CAFE SIETE` on signage/token
+- `TOMAS` / fire warning on Cafe glass
+- clock times on correct clock face
+- Daniel writing on real paper/notebook
+- Tomas reply on same returned warning page
 
-Do not float evidence text as unrelated UI overlays.
+No floating evidence UI.
 
 ## Chapter 1 Exact Text Locks
 
-When present, preserve exact wording/case sufficiently to be readable:
 - `CAFE SIETE`
 - `TOMAS`
-- `12:00`
-- `12:01`
-- `12:02`
-- `12:03`
-- `12:04`
-- `12:05`
-- `12:06`
-- `12:07`
+- `12:00`, `12:01`, `12:02`, `12:03`, `12:04`, `12:05`, `12:06`, `12:07`
 - `DANIEL SORIANO`
 - `SAN AURELIO MUNICIPAL MUSEUM`
 - `2026`
 - `I AM REAL.`
+- `ARTURO SALCEDO`
 - `DO NOT TELL ANYONE ABOUT ME.`
 - `KEEP THIS HIDDEN.`
 - `COME BACK TOMORROW.`
 - `I WILL BRING BETTER BREAD.`
 - `FIRE STARTS IN THE SERVICE CORRIDOR.`
 
-## Dialogue
+`I WILL BRING BETTER BREAD.` must not become readable before post-closure Strip 035.
 
-Use normal adult conversational balloons with clean hierarchy. Romance remains restrained; avoid decorative shoujo sparkle balloons, chibi lettering, or melodramatic typography unless story causality explicitly requires it.
+## SFX = Physical Evidence
 
-## Narration
+SFX is not decoration. It must identify/confirm a real action/source and sit at the action moment.
 
-Narration follows the scenario and may move around the composition. Do not mechanically place every narration box at top-left. Never cover critical action/evidence.
+### Archive
+- `FLIP` — real page turn
+- `SHFF` — paper/diagram slide
+- `TAP` — pencil or small object contact
+- `TIK` — ruler/small hard contact
 
-## SFX
+### Station / Rain
+- `KLAK` — access latch
+- `THUNK` — access door closes
+- `TAP... TAP...` — Daniel footsteps
+- `TIK... TIK...` — rain/drip ambience only from plausible damage
+- `PLIK` — isolated drip/puddle impact
 
-SFX must have a real source/action/timing. Useful Chapter 1 examples include rain, metal gate complaint, token scrape/drop, clock click/tick, lights activating/flickering, tray movement, service-window slide, flashlight impact, pencil snap, and connection shutdown.
+### Gate / Cafe
+- `KRRK` — gate resistance test
+- `SKRRRNNK` — gate travels along track
+- `TINK` / `TIK` — brass token impact/skitter
+- `KLIK` / `TK` / `TICK` — real clock mechanism
+- `FZZT—THUM` / `FZZT` — practical-light electrical state
 
-Do not invent SFX solely to fill space.
+### Tray / Window / Contact
+- `CLINK-CLINK` — tray/cup edge movement
+- `THK` — tray supported on counter
+- `TZK` — localized counter-depth instability
+- `KZT!` — painful sustained phase-shear contact
+- `SKRRRRK` — service-window track movement
+- `CLINK` — tongs
+- `TIK` — saucer contact
+- `SHHK` — saucer slide
+
+### Paper / Aging / Pencil
+- `KRK...` — bread drying/cracking, restrained
+- `FSSSH` — paper moving across sill/boundary
+- `SCRITCH...` — graphite writing
+- `RRIP` — notebook page tear
+- `TK` — graphite point chip
+- `SSSH` — loose dust shift only when physical
+
+### Flashlight / Closure
+- `RRR...` — flashlight roll after visible nudge
+- `CLACK` — flashlight floor impact
+- `TAP` — returned page counter landing
+
+## Timing Rule
+
+SFX cannot appear:
+- before source action starts
+- after result if that changes causality
+- in a different panel pointing to no source
+- as repeated filler to make silence feel busy
+
+## Sound-First Rule
+
+When sound precedes visual source, show listener orientation/reaction before reveal if that improves comprehension. Examples: Cafe clock click, Tomas footsteps, service-window latch, Lilia offscreen voice, returned-page friction.
 
 ## Station Announcements
 
-Announcements belong to the active 1986 station audio environment unless the script says otherwise. Keep them concise and visually secondary to the Daniel/Tomas exchange.
+1986 PA belongs to operational station environment. Keep concise/secondary to Daniel/Tomas dialogue. Do not use PA to explain plot.
 
-## Text Safety
+## Balloon / Evidence Safety
 
-Never place balloons/SFX over decisive hands, service-window contact, object crossing, aging proof, clock time, Daniel's scar/glasses identity, Tomas's hair/face identity, or final evidence text. Recompose if necessary.
+Never cover decisive hands, object paths, service-window contact, aging proof, exact clock, face identity, scratch text, note/paper, or floor support.
 
-## No Production Metadata
+If dialogue cannot fit without covering proof, allocate more vertical space or another slice; never shrink text into illegibility.
 
-Never render strip numbers, V-beat IDs, scene labels, QA notes, prompt headings, reference filenames, technical state names, or generation instructions.
+## Narration
+
+Narration follows scenario, not fixed top-left template. It cannot reorder action or tell reader something the visual needs to prove physically.
+
+## No Metadata
+
+No strip/beat/panel/scene/QA/reference/state labels in reader artwork.

@@ -2,26 +2,36 @@
 
 `Manhwa/` is the sole active visual-production pipeline for `Seven Minutes After Midnight`.
 
-The former page-production system is decommissioned. New chapters, revisions, environment references, object references, creator continuity, and generated story strips belong under `Manhwa/`.
+Former page-production is decommissioned. New chapters, revisions, references, creator continuity and generated strips belong under `Manhwa/`.
 
 ## Authority — Absolute
 
-For active production:
 1. current user instruction
-2. creator-only story/causality authority under `Continuity/`
-3. current audited chapter/strip script and chapter-local state-resolution addenda
-4. approved character canonical WebPs
-5. approved environment canonical WebPs
-6. approved recurring-object canonical WebPs
-7. immediately previous approved strip for temporary pose/prop/time/seam continuity only
+2. creator-only story/causality under `Continuity/`
+3. current audited chapter/strip/state authority
+4. approved character WebPs
+5. approved environment WebPs
+6. approved recurring-object WebPs
+7. immediately previous approved strip for temporary seam state only
 
-Permanent canonical authority always outranks a previous render.
+Permanent canonical authority outranks previous render.
 
-A visual prompt may be stricter than creator continuity but may never contradict it.
+## Current Chapter 1 Production Standard
+
+Chapter 1 now uses a **180-beat / 36-strip** movement-first production package.
+
+The rebuild establishes a workspace-level expectation for future chapters: strip count follows reader-action complexity, not arbitrary page equivalence. A chapter must use enough technical chunks/read beats to show real movement, reactions, evidence and dialogue without continuity jumps.
+
+Do not copy `36` mechanically into every future chapter. Instead meet the same standard:
+- no invisible continuity-critical movement
+- connected dialogue with reactions
+- physically sourced SFX
+- deterministic seam states
+- mobile-readable evidence
 
 ## Creator Continuity Gate
 
-Before a future chapter production folder is created, inherit the current relevant state from:
+Before future chapter production, inherit current state from:
 - `Continuity/arc-01-master-timeline.md`
 - `Continuity/time-slip-state-ledger.md`
 - `Continuity/time-slip-mechanics-bible.md`
@@ -30,7 +40,7 @@ Before a future chapter production folder is created, inherit the current releva
 - `Continuity/evidence-causality-ledger.md`
 - active arc chapter matrix
 
-If a chapter introduces a new continuity-critical object or clue, assign/update its creator ledger entry before visual production.
+New continuity-critical objects/clues receive ledger entries before visual production.
 
 ## Always-Binding Hardening Authorities
 
@@ -39,44 +49,41 @@ If a chapter introduces a new continuity-critical object or clue, assign/update 
 - `ninth-hardening-character-topology-identity-addendum.md`
 - `tenth-hardening-pose-performance-continuity-addendum.md`
 
-These do not replace the core guides; they add blocking visual-logic, presentation, anatomy/identity, and performance-continuity gates.
-
 ## Chapter Conversion Rule
 
-Retired page prompts are never converted page-for-strip. Rebuild from story canon into one continuous reader-visible vertical chapter, internal read beats, and technical production strips.
+Never convert retired pages one-page→one-strip. Rebuild from story causality into one continuous scroll with enough internal beats/technical strips for reader comprehension.
 
 ## New Chapter Rule
 
-Before production of every chapter:
-- inherit exact date, connection duration, timeline state, object provenance, and unresolved evidence
-- audit story/event/timeline causality
-- inventory recurring/new characters
-- inventory environments and reuse/create approved canonical packs
-- inventory recurring plot-critical objects and reuse/create approved canonicals
-- assign IDs to new cross-era/evidence objects before generation
-- define exact Cafe-clock progression/close time from the state ledger
-- build continuous-scroll beat plan
-- build technical strip manifest
-- run clean-room preproduction/hardening audit
+Before every chapter:
+- inherit exact date/duration/timeline/object/evidence state
+- audit story causality
+- inventory characters/environments/objects
+- assign IDs to new cross-era/evidence objects
+- define exact Cafe-clock close time
+- build movement-complete read-beat plan
+- build deterministic technical-strip manifest
+- verify dialogue handoffs/SFX source
+- run clean-room hardening audit
 
 ## No Dead Space
 
-Large vertical space must perform a story function: silence, suspense delay, reaction hold, transition, environment continuation, sound-first beat, or controlled seam. Never invent filler narration/dialogue/SFX to occupy canvas.
+Large vertical space must perform silence, suspense, reaction, transition, environment continuation, sound-first beat, or reveal. Never invent filler narration/dialogue/SFX.
 
-## Seven-Minute Story Locks
+## Seven-Minute Locks
 
-- 12:00 opens the standard Cafe Siete connection.
-- 12:07 closes the original healthy interval; later intervals can be permanently shorter according to the state ledger.
-- Cafe clock state is causal production state, not decoration.
-- the station clock is a separate 12:07 historical clue.
-- 1986 and 2026 are the same structural place in different historical conditions.
-- object crossing preserves one-object provenance while changing age/history state.
-- the service window is the stable exchange/contact mechanic; shared counter contact is less stable.
-- timeline changes settle after closure, not randomly mid-conversation.
+- standard connection opens 12:00
+- original healthy close 12:07; later can shorten by ledger
+- Cafe clock is causal connection state
+- station clock is separate historical clue
+- 1986/2026 are one structural place across historical states
+- object crossings preserve one-object provenance
+- service window stable; shared counter less stable
+- timeline changes settle after closure
 
 ## Core Files
 
-- `Continuity/` — creator-only story/time/evidence/provenance authorities
+- `Continuity/`
 - `ASURA-CONTINUOUS-SCROLL-NOTE.md`
 - `style-guide.md`
 - `vertical-scroll-layout-guide.md`
@@ -86,11 +93,8 @@ Large vertical space must perform a story function: silence, suspense delay, rea
 - `prompt-template.md`
 - `production-readiness-gate.md`
 - `reference-vibe-profile.md`
-- `seventh-hardening-visual-logic-addendum.md`
-- `eighth-hardening-presentation-integrity-addendum.md`
-- `ninth-hardening-character-topology-identity-addendum.md`
-- `tenth-hardening-pose-performance-continuity-addendum.md`
+- hardening addenda
 - `Environment-References/`
 - `Object-References/`
 
-There is intentionally no legacy/source-archive fallback. Git history preserves retired files; decommissioned production material must not remain as a competing authority.
+No legacy/source-archive fallback. Git history preserves retired material; obsolete production files must not remain competing authority.

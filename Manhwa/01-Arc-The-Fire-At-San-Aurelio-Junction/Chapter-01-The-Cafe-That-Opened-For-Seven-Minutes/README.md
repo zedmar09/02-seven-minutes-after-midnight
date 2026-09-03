@@ -2,133 +2,141 @@
 
 This directory is the active production package for Chapter 1.
 
-Current status: **PHASE 1 CONTINUITY ARCHITECTURE LOCKED — LATER HARDENING AUDIT PENDING — REQUIRED CANONICAL WEBPS MISSING — BLOCKED BEFORE RENDERING — NOT PRODUCTION COMPLETE.**
+Current status: **180-BEAT / 36-STRIP PRODUCTION REBUILD COMPLETE — PHASE 1 CONTINUITY LOCKED — FORMAL HARDENING AUDIT PENDING — REQUIRED CANONICAL WEBPS MISSING — BLOCKED BEFORE RENDERING — NOT PRODUCTION COMPLETE.**
 
 ## Chapter Shape
 
 - one continuous reader-visible vertical chapter
-- 74 internal planning beats (`V001–V074`)
-- 16 technical production strips (`strip-001–strip-016`)
+- **180 internal read beats (`V001–V180`)**
+- **36 technical production strips (`strip-001–strip-036`)**
 - no reader-visible beat/strip/page numbering
-- begins with Daniel's archival suspicion and 11:41 PM entry into abandoned San Aurelio Junction
-- ends with `FIRE STARTS IN THE SERVICE CORRIDOR.` and the station clock fixed at `12:07`
+- movement-first presentation: continuity-critical actions show cause → motion → contact/result → reaction
+- dialogue is decompressed into readable question/answer/reaction handoffs
+- SFX is physically sourced and timed to action
+- begins with Daniel proving archival tampering before 11:41 PM station entry
+- ends with `FIRE STARTS IN THE SERVICE CORRIDOR.` and separate station clock fixed at `12:07`
+
+The former 74-beat / 16-strip package is retired and must not be restored.
+
+## Production-Strip Architecture
+
+`Production-Strips/production-strip-global-contract.md` binds every local strip prompt.
+
+The new strip split specifically prevents:
+- gate/window/object motion hidden between views
+- tray/contact/object-transfer jumps
+- compressed dialogue that skips listener reactions
+- unexplained flashlight/pencil/page state
+- clock-minute changes buried inside unrelated scenes
+- romantic contact without enough reader breathing room
+- technical seams that reset pose/object/emotion
 
 ## Chapter-Local State Resolution
 
-`chapter-01-state-resolution-addendum.md` is binding for temporary states that were previously ambiguous, including:
-- Daniel's glove state through the final touch
-- the broken-but-still-usable pencil mechanism
+`chapter-01-state-resolution-addendum.md` is binding for:
+- Daniel glove state
+- chipped-but-usable Daniel pencil
 - separate Cafe/station clocks
-- token/flashlight/pastry/saucer final locations
-- returned warning-page closing-boundary transit
-- pre-existing scratch visibility/authorship separation
-
-These clarifications do not change the 74-beat narrative order.
+- token/flashlight/pastry/saucer final state
+- visible returned-page closing-boundary setup
+- scratch visibility/authorship separation
 
 ## Required Character Authorities
 
-Before Strip 001 rendering:
+Before rendering:
 - `../../../Character-References/daniel-soriano-canonical-flat2d.webp`
 - `../../../Character-References/tomas-rivera-canonical-flat2d.webp`
 
-The Chapter 1 gate requires both core leads approved before sequential strip generation begins so the chapter cannot change identity midstream.
-
-Lilia Ramos is voice-only in the current Chapter 1 plan. If a future revision shows her body/face, create and approve her canonical before that strip.
+Lilia remains voice-only; no Chapter 1 Lilia body canonical is required unless story is later revised to show her.
 
 ## Required Environment Authorities
 
-Before Strip 001 rendering, exact approved WebPs must be committed for the Chapter 1-required Cafe Siete / San Aurelio references described in:
-- `../../Environment-References/Cafe-Siete/README.md`
-- `../../Environment-References/San-Aurelio-Junction/README.md`
+Before Strip 001 rendering, approved WebPs must cover at least:
+- San Aurelio Junction 2026 geometry/route
+- Cafe Siete shared structure
+- Cafe Siete 2026 state
+- Cafe Siete 1986 state
+- service-window/counter geometry
+- Cafe clock/menu-wall relationship
+- Cafe painted-glass/sign zone
+- sufficient reverse/angle views for 36-strip camera continuity
 
-The hardening pass must also ensure the Cafe clock and station clock are never visually merged into one object.
+Formal hardening should decide whether additional floor plan/angle atlas/service-window/state-sheet references are required before generation.
 
 ## Required Object Authorities
 
-Before dependent strips render, exact approved WebPs must be committed for at least:
-- Cafe Siete brass token
-- Cafe Siete brass-rimmed connection clock
+At minimum:
+- Cafe Siete token
+- Cafe Siete connection clock
+- distinct station-clock authority when detailed/reusable
 
-The station clock requires separate environment/object authority when production needs a reusable detailed view.
-
-Additional object canonicals become mandatory if the hardening audit determines notebook/paper/tongs need stronger repeatable visual authority.
+Hardening should also decide whether Tomas tongs/tray, Daniel notebook/paper system, and recurring service ware require approved reusable object WebPs.
 
 ## Production Authority
 
 1. current user instruction
-2. `../../Continuity/` creator-only story/time/evidence/provenance authority
+2. creator-only `../../Continuity/`
 3. `chapter-01-continuous-scroll-plan.md`
 4. `chapter-01-strip-manifest.md`
 5. `chapter-01-state-resolution-addendum.md`
-6. current `Production-Strips/strip-###-...md`
-7. approved character WebPs
-8. approved environment/object WebPs
-9. global Manhwa production rules and hardening addenda
-10. previous APPROVED strip for temporary state/seam only
+6. `Production-Strips/production-strip-global-contract.md`
+7. current local `Production-Strips/strip-###-...md`
+8. approved permanent character/environment/object WebPs
+9. global Manhwa style/layout/lettering/seam/readiness authorities
+10. immediately previous APPROVED strip for temporary state only
 
-Permanent canon always outranks previous render.
+## Clock Spine
 
-## Always Binding
+- `CLOCK-STATION-01`: separate 2026 historical clue fixed 12:07
+- `CLOCK-CAFE-01`: connection clock
+  - inactive baseline 12:07
+  - reset exact 12:00
+  - 12:01
+  - 12:02
+  - 12:03
+  - 12:04
+  - 12:05
+  - 12:06
+  - closure exact 12:07
 
-- `../../style-guide.md`
-- `../../vertical-scroll-layout-guide.md`
-- `../../seam-continuity-protocol.md`
-- `../../lettering-sfx-guide.md`
-- `../../generation-workflow.md`
-- `../../production-readiness-gate.md`
-- `../../prompt-template.md`
-- `../../seventh-hardening-visual-logic-addendum.md`
-- `../../eighth-hardening-presentation-integrity-addendum.md`
-- `../../ninth-hardening-character-topology-identity-addendum.md`
-- `../../tenth-hardening-pose-performance-continuity-addendum.md`
+## Object-Crossing Spine
 
-## Chapter 1 Clock Spine
-
-Two clocks exist:
-- station ticket-hall clock: fixed/stopped `12:07` clue in 2026
-- Cafe Siete clock: connection authority that resets to `12:00` and progresses through the active interval
-
-Chapter 1 Cafe-clock progression:
-- activation: 12:00
-- progression: 12:01 → 12:02 → 12:03 → 12:04 → 12:05 → 12:06 → 12:07
-- closure: exact 12:07
-
-Clock state may not be decorative or contradictory.
-
-## Chapter 1 Object-Crossing Spine
-
-1. fresh 1986 roll + saucer cross to 2026 and age forty years
-2. Daniel's clean 2026 archival sheet crosses to 1986 and enters Tomas's historical path
-3. Daniel's warning notebook page crosses to Tomas before closure
-4. Tomas re-inserts that SAME page into the closing aperture after adding his reply
-5. after closure that SAME page completes transit into 2026 forty years older
-
-No duplicates and no age-state resets.
+1. fresh 1986 roll + saucer cross visibly and age in 2026
+2. Daniel's clean `I AM REAL.` sheet crosses visibly to 1986 and Tomas pockets it
+3. Daniel writes/tears/sends one warning page
+4. Tomas receives it; warm fingertip contact is glove-to-bare-skin and pain-free
+5. Tomas visibly writes a hidden reply with a separate 1986 cafe pencil
+6. Tomas visibly re-inserts same page before closure
+7. 12:07 closes while page is in boundary transit
+8. post-closure same page returns aged with `I WILL BRING BETTER BREAD.`
 
 ## Current Blocking Findings
 
+- formal hardening audit pending
 - Daniel approved canonical WebP missing
 - Tomas approved canonical WebP missing
 - Cafe Siete approved environment WebP pack missing
-- San Aurelio Junction 2026 approved environment WebP missing
-- Cafe Siete token approved object WebP missing
-- Cafe Siete clock approved object WebP missing
-- current 16 strip prompts still require later hardening/rebuild to benchmark deterministic depth
-- fresh hardening audit of the newly added continuity architecture still pending
+- San Aurelio Junction approved 2026 environment WebP missing
+- Cafe token approved object WebP missing
+- Cafe clock approved object WebP missing
+- distinct station-clock visual authority pending if hardening requires separate reusable object sheet
+- no rendered strip has visual QA PASS
 
-## Current Next Action
+## Next Phase
 
-The next planned repository phase is **hardening audit**, not image generation and not Chapter 2 creation.
+**Hardening audit.**
 
-After hardening acceptance:
-1. generate and visually approve required canonical images
-2. convert/store approved canonicals as exact repository `.webp` authorities
-3. rebuild/synchronize dependent strip prompts to deterministic production depth
-4. verify all required paths resolve
-5. generate brand-new Strip 001
-6. visually audit actual pixels
-7. approve sequentially through Strip 016
-8. stitch
-9. run fresh final clean-room audit
+Audit must read current 001→036 prompts from repository state and test:
+- reader flow
+- micro-action completeness
+- dialogue continuity
+- SFX ownership
+- seam state
+- environment/reference coverage
+- object provenance
+- clock/time correctness
+- character/performance continuity
 
-`PRODUCTION COMPLETE` is forbidden until all rendered/stitch/final mandatory gates pass.
+Only after hardening acceptance should canonical image generation begin.
+
+`PRODUCTION COMPLETE` remains forbidden.

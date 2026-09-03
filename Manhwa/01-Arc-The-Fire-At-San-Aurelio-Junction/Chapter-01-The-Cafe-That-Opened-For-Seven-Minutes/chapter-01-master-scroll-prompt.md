@@ -1,100 +1,143 @@
 # Chapter 1 Master Scroll Prompt
 
-This file summarizes the complete reader-visible Chapter 1 shape. Technical strip prompts may be stricter, but may not contradict this authority, `chapter-01-state-resolution-addendum.md`, or creator continuity under `../../Continuity/`.
+This file summarizes the reader-visible Chapter 1 shape after the 180-beat / 36-strip production rebuild. Local strip prompts are stricter and must not contradict this file, the state-resolution addendum, or creator continuity under `../../Continuity/`.
 
 ## Format
 
-Create one continuous vertical Korean manhwa/webtoon chapter. Technical production strips are stitched invisibly. Never show page numbers, strip numbers, V-beat IDs, prompt labels, QA notes, or technical metadata.
+One continuous vertical Korean manhwa/webtoon chapter. Technical strips stitch invisibly. Never render page/strip/beat/prompt/QA metadata.
+
+## Reader-Motion Standard
+
+Important changes must be visible, not inferred between cuts:
+- entering station/cafe
+- gate opening
+- putting gloves on
+- token retrieval/drop
+- tray tilt/catch/set-down
+- counter failure/wrist catch/release
+- service-window opening
+- pastry preparation/crossing/aging
+- paper writing/transfer/pocketing
+- flashlight roll/fall/retrieval
+- pencil chip state
+- warning-page tear/write/transfer
+- final warm fingertip separation
+- Tomas reply writing/re-insertion
+- 12:07 closure
+- returned-page sleeving
+- final flashlight angle revealing scratch
 
 ## Absolute Style
 
-STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION. Clean intentional linework, flat colors, restrained hard-edged cel shading, matte materials, stable adult anatomy, natural hands, mobile-readable lettering.
+STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON. Clean linework, flat matte colors, restrained hard-edged cel shading, stable adult anatomy, natural hands, mobile-readable lettering.
 
-Reject photorealism, semi-realism, 3D/CGI, glossy/plastic skin/hair/metal/glass, painterly rendering, airbrush gradients, cinematic grading, bloom, lens flare, dramatic rim light, depth-of-field blur, or AI-polished over-rendering.
+Reject photorealism, 3D/CGI, glossy/plastic rendering, painterly/airbrush finish, cinematic grading, bloom, lens flare, excessive reflections, depth-of-field or AI-polished look.
 
 ## Canonicals
 
-Do not render until exact required approved WebPs exist and are attached/referenced:
-- Daniel Soriano
-- Tomas Rivera
-- Cafe Siete environment pack
-- San Aurelio Junction 2026 pack
-- Cafe Siete token
-- Cafe Siete connection clock
-- separate station-clock authority for detailed final/station clue use
-- any additional recurring object/environment authorities required by current audit
+Do not render until required approved WebPs exist for Daniel, Tomas, Cafe Siete geometry/states, San Aurelio 2026, token, Cafe connection clock, plus any extra references identified by hardening.
 
-## Clock Topology — Absolute
+## Clock Topology
 
-Two separate physical clocks exist:
-- `CLOCK-CAFE-01`: brass-rimmed Cafe Siete clock; resets to 12:00 and tracks the active connection
-- `CLOCK-STATION-01`: larger ticket-hall station clock; fixed at 12:07 in Daniel's 2026 baseline and never serves as the active countdown
+`CLOCK-CAFE-01` resets 12:00 and tracks connection.
+`CLOCK-STATION-01` is separate 2026 historical clue fixed 12:07.
+Never merge them.
 
-Never merge them into one object.
+## Story / Dialogue Spine
 
-## Story Spine
+Daniel proves the San Aurelio archive was physically tampered with: altered dates/signatures, fire-report electrical claim contradicting a maintenance diagram, repeated death-notice name strips cut at same width. At 11:41 PM he enters abandoned San Aurelio Junction.
 
-Daniel Soriano, 36, is a paper/photograph conservator investigating inconsistent records around the 1986 San Aurelio Junction fire. Witness statements are unsigned copies, the electrical-fault location conflicts with maintenance diagrams, and a narrow name-bearing strip has been cut from multiple death notices.
+He finds station clock fixed 12:07, then Cafe Siete and old scratched `TOMAS`. He physically opens the rusted gate, enters, puts on cotton gloves, retrieves brass token marked `7`.
 
-At 11:41 PM Daniel enters the abandoned 2026 station with flashlight and permit folder. Establish real historic railway architecture, redevelopment neglect, rain damage, and `CLOCK-STATION-01` stopped at 12:07.
+Cafe clock mechanically resets to 12:00. Practical lights activate; token falls to 2026 floor. Same cafe becomes accessible in operational 1986 state without portal VFX.
 
-He finds Cafe Siete beside the ticket hall. Old painted glass bears the scratch `TOMAS`. Inside the abandoned cafe he retrieves a small aged brass token: cup + `CAFE SIETE` on one side, `7` on the other. Daniel puts on thin cotton conservation gloves and keeps them on through the active connection.
+Tomas enters with one bread tray. He stops, tray tilts, both men visibly catch/stabilize the SAME tray before speaking.
 
-A click. `CLOCK-CAFE-01` moves from inactive 12:07 to exact 12:00. Practical lights activate and the same cafe becomes accessible in its operational 1986 state without becoming a fantasy portal. Daniel remains anchored to the ruined 2026 side. Daniel drops the same token; it lands on his 2026 floor near the counter and remains there through the chapter unless cropped.
+Tomas: `You're not from the evening train.`
+Daniel: `No.`
+Tomas: `Good. If the evening train is delivering museum ghosts now, I need to charge more.`
 
-Tomas Rivera, 28, appears carrying a tray of sugared bread. The tray tilts; Daniel and Tomas catch opposite edges of the same tray and their fingers touch. Tomas jokes that Daniel is not from the evening train and looks like a museum ghost. Daniel identifies himself as a museum conservator.
+They physically set tray down.
+Daniel: `Museum conservator.`
+Tomas: `That explains the gloves. Not the ghost part.`
+Daniel: `What year do you think it is?`
+Tomas: `That is a terrible opening line.`
+Daniel: `Please.`
 
-The two men confirm the impossible era split: Tomas is at Cafe Siete on October 17, 1986; Daniel is in 2026. A fresh coffee ring appearing on the shared counter immediately dries on Daniel's side. Cafe clock progresses to 12:01.
+Tomas answers `1986. October seventeenth...`; Daniel answers `Because it's 2026 where I'm standing.` A fresh coffee ring dries in Daniel's era. Cafe clock reaches 12:01.
 
-They exchange names. Daniel connects Tomas to the old scratched `TOMAS`; Tomas insists he has not written it. Their banter remains adult, warm, and controlled. Cafe clock progresses to 12:02; lights flicker.
+They exchange names. Daniel reacts to old `TOMAS` scratch; Tomas sees his 1986 glass is clear.
+Tomas: `I didn't write that.`
+Daniel: `Maybe you haven't yet.`
+Tomas: `You're accusing me of future vandalism?`
+Daniel: `I'm documenting possibilities.`
+Tomas: `That is somehow worse.`
+Cafe clock reaches 12:02; light flickers.
 
-Daniel's left hand momentarily loses stable relationship with the shared counter. Tomas catches his wrist/hand while Daniel remains cotton-gloved. Sustained unstable counter contact produces sharp phase-shear pain. Both release. The narrow service window slides open by itself. This is a physical existing window, clean in 1986 and charred along the lower edge in 2026.
+Daniel braces on unstable shared counter. His hand loses support; Tomas visibly reaches/catches his wrist. Sustained overlap causes `KZT!` phase pain. Daniel says `Let go—`; Tomas releases with `I am!`. Only after complete release does service-window latch sound and real window slide open.
 
-Tomas sends one fresh sugared roll on one white saucer through the service window. Show the same object crossing. In 2026 the bread dries/shrinks/darkens/cracks and the saucer yellows/crazes—approximately forty years of aging. Cafe clock reaches 12:03.
+Tomas prepares test through actual tongs→roll→saucer actions.
+Tomas: `We test with bread.`
+Daniel: `Why bread?`
+Tomas: `Because I have more bread than courage.`
 
-Daniel tests the opposite direction using one clean acid-free archival sheet. He writes exact text:
-`DANIEL SORIANO`
-`SAN AURELIO MUNICIPAL MUSEUM`
-`2026`
-`I AM REAL.`
+One roll/saucer crosses continuously and ages forty years. Tomas: `That was fresh.` Daniel: `I believe you.` 1986 PA continues ordinary station life. Cafe clock 12:03; Daniel: `Four minutes.`
 
-The same sheet crosses to Tomas, appearing unnaturally new/white in 1986. Tomas reads it, folds it, and puts it into his front apron pocket. `Then I am real too.` Cafe clock reaches 12:04.
+Tomas asks reverse-direction test. Daniel places flashlight securely, rejects electronics, selects paper.
+Tomas: `So paper.`
+Daniel: `Paper survives questions.`
 
-Daniel's flashlight rolls from the counter and hits the 2026 floor. It remains there unless visibly retrieved; no current Chapter 1 beat retrieves it. Lilia remains OFFSCREEN voice only: `Tomas! Are you charming the midnight customers again?` Tomas answers `Only the impossible ones, Tiya Lilia.` Lilia: `Impossible customers pay first.` Tomas explains, `My aunt. Not by blood. By volume.`
+Daniel visibly writes exact `DANIEL SORIANO / SAN AURELIO MUNICIPAL MUSEUM / 2026 / I AM REAL.` Sheet crosses to Tomas.
+Tomas: `This looks expensive.`
+Daniel: `It means it lasts.`
+Tomas: `You needed paper to tell me that?`
+Daniel: `I needed proof that could survive.`
+Tomas pockets same sheet, then: `Then I am real too.` Cafe clock 12:04.
 
-Daniel and Tomas infer the Cafe clock may define the interval. At exact 12:05 Daniel asks what unusual events happened that night. Tomas lists ordinary station incidents, a broker in a white suit, the failed southbound signal, a burned pan de leche tray, and jokes about the beautiful museum ghost. Daniel focuses on the broker. Tomas identifies Arturo Salcedo, who has been visiting station offices all month and `Smiles like a knife under a napkin.` Daniel writes Arturo's name. The graphite point of the same wooden pencil chips/snaps but leaves short blunt usable graphite.
+Daniel's sleeve visibly nudges flashlight; it rolls/falls `CLACK` to 2026 floor.
+Lilia OFFSCREEN: `Tomas! Are you charming the midnight customers again?`
+Tomas: `Only the impossible one, Tiya.`
+Lilia: `Impossible customers still pay.`
+Tomas: `My aunt. Not by blood. By volume.`
 
-At exact 12:06 the 1986 practical lights begin going out one by one behind Tomas. Fear reaches him clearly. Daniel asks him to return tomorrow at midnight. Tomas jokes that Daniel turns bread elderly but answers `Obviously.`
+Daniel and Tomas logically infer interval from clock. Tomas: `So we have three minutes.` Daniel: `If it closes at the same time.` Tomas: `You really know how to calm a man.`
 
-Daniel tears one notebook page and uses the SAME blunt-but-usable pencil to write exact warning:
+Cafe clock 12:05. Daniel asks: `Anything unusual tonight. Anything that shouldn't matter.` Tomas lists signal failure, burned tray, woman crying, soldiers arguing. Daniel: `Anything else?` Tomas isolates white-suit customer. Daniel asks `Name?`; Tomas gives Arturo Salcedo and `He smiles like a knife under a napkin.` Daniel writes name; pencil graphite chips but remains usable.
+
+Cafe clock 12:06. Practical lights fail one by one. Tomas: `Daniel.` Daniel: `Tomorrow. Midnight.` Tomas: `You plan quickly.` Daniel: `Will you be here?` Tomas: `You turned my bread into a fossil.` Daniel: `Tomas.` Tomas: `Obviously.`
+
+Daniel visibly tears one page and writes exact warning:
 `DO NOT TELL ANYONE ABOUT ME.`
 `KEEP THIS HIDDEN.`
 `COME BACK TOMORROW.`
+Spoken support: `Don't tell anyone about me. Not yet.`
 
-He sends that SAME page through the service window. Tomas takes it. Their fingers brush through the permitted window threshold; Tomas's bare fingertips meet Daniel's still cotton-gloved fingertips. Unlike the earlier unstable counter contact, this touch is warm and not painful; Daniel perceives warmth through the thin fabric.
+Same page crosses. Tomas bare fingertips brush Daniel cotton-gloved fingertips.
+Tomas: `No pain.`
+Daniel: `No.`
+Hands visibly separate.
 
-Cafe clock clicks to exact 12:07. The connection closes once. The operational 1986 state disappears from Daniel's access; Cafe Siete is fully abandoned 2026 again. Service window is sealed. Daniel is alone.
+Tomas sees final seconds, uses separate ordinary 1986 cafe pencil to write a hidden line on same warning page. Reader does NOT see reply wording yet. He visibly re-inserts same page. Daniel reaches.
 
-Creator-only transfer logic: in the unseen final fraction before closure, Tomas adds his reply and re-inserts the same warning page into the stable aperture. The object is already in closing-boundary transit when the visual connection seals.
+Cafe clock `KLIK` exact 12:07. Tomas/1986 access simply absent; service window sealed; Daniel fails to receive page because it is in closing-boundary transit.
 
-After a controlled silence, that SAME page completes transit from the sealed service-window area and lands on the counter forty years older: yellowed edges, faded pencil, brown smoke-like stain. Tomas has added exact text:
+After controlled silence, paper friction `FSSSH`; same warning page emerges aged forty years and lands `TAP`. Tomas's reply becomes readable for first time:
 `I WILL BRING BETTER BREAD.`
+Daniel laughs once, catches. He visibly sleeves page.
 
-Daniel laughs once and the sound breaks. He sleeves the page with a conservator's care.
-
-He turns toward the Cafe Siete painted glass/sign zone. `TOMAS` is still scratched there. Beneath it, newly noticed through shifted dust/angle but physically pre-existing, is exact warning:
+Daniel turns toward glass, retrieves same fallen flashlight from floor, raises beam to `TOMAS`, changes only beam angle, revealing second pre-existing scratch:
 `FIRE STARTS IN THE SERVICE CORRIDOR.`
 
-Final image: Daniel's realization / the warning / `CLOCK-STATION-01` fixed at `12:07`.
+Final same-moment echo: separate station clock still fixed `12:07`.
 
 ## Reader Experience
 
-The chapter should feel grounded and procedural before the impossible event; then intimate and gently funny without losing urgency; then increasingly time-pressured after 12:05; then emotionally quiet and threatening at the end.
+Procedural mystery → spatially understandable impossible event → cautious adult chemistry → material proof → tightening clock pressure → restrained intimacy → abrupt absence → quiet physical evidence → conspiracy hook.
 
-No chibi comedy, fantasy portal spectacle, glossy romance cover treatment, horror shadow person, supernatural conductor, or generic time-travel VFX.
+Humor follows comprehension. After 12:05 jokes shorten and never interrupt danger.
 
-## Final Temporary State
+No chibi comedy, fantasy portal spectacle, glossy romance-cover treatment, horror shadow-person staging or generic time-travel VFX.
 
-Do not invent a cleanup montage after the final hook.
+## Final State
 
-At chapter end, inherit the state-resolution addendum: returned page sleeved with Daniel; token/flashlight remain Daniel-side floor; aged pastry/saucer remain Daniel side; `I AM REAL.` sheet remains in Tomas's history; same blunt pencil remains Daniel's; service window sealed; Cafe inactive; station clock fixed 12:07.
+Returned page sleeved with Daniel; flashlight now retrieved/held; token remains floor; aged pastry/saucer remain Daniel-side; `I AM REAL.` sheet remains Tomas history; same blunt Daniel pencil retained; service window sealed; Cafe inactive 12:07; station clock separately fixed 12:07.

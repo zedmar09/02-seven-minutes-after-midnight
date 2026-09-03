@@ -1,155 +1,163 @@
 # Manhwa Production Readiness Gate
 
-A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in the current post-correction state. Earlier PASS labels never substitute for a fresh final audit.
+A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes current post-correction state. Earlier PASS labels never substitute for fresh final audit.
 
 ## Always-Binding Creator Authorities
 
-Before visual generation, all relevant creator continuity must agree:
-- `Continuity/` story/time/evidence/provenance authorities
+Before generation, relevant creator continuity must agree:
+- `Continuity/`
 - active arc chapter matrix
 - active chapter story package
-- chapter-local state-resolution addenda
+- chapter-local state addenda
 
-A chapter that contradicts creator continuity is blocked even if its image prompts are internally consistent.
+Contradictory creator continuity blocks production even if prompts are internally consistent.
 
 ## Always-Binding Hardening Authorities
 
-- `seventh-hardening-visual-logic-addendum.md`
-- `eighth-hardening-presentation-integrity-addendum.md`
-- `ninth-hardening-character-topology-identity-addendum.md`
-- `tenth-hardening-pose-performance-continuity-addendum.md`
-
-All gates below include those addenda. A chapter/strip may be stricter but never weaker.
+- seventh-hardening visual logic
+- eighth-hardening presentation integrity
+- ninth-hardening character topology/identity
+- tenth-hardening pose/performance continuity
 
 ## Mandatory Gates
 
-1. creator timeline/date state inherited correctly
-2. creator time-slip duration/cost state inherited correctly
-3. creator evidence/culprit/reveal discipline coherent
-4. creator temporal-object provenance coherent
-5. creator rewrite/settlement/memory rules coherent
-6. chapter-local state-resolution addenda synchronized into prompts
+1. creator timeline/date inherited
+2. creator duration/cost inherited
+3. evidence/culprit/reveal discipline coherent
+4. temporal-object provenance coherent
+5. rewrite/settlement/memory coherent
+6. chapter-local state synchronized
 7. continuous-scroll beat plan locked
 8. strip manifest locked
 9. story/event/timeline/causality coherent
-10. exact dialogue/narration/note/sign/clock text and ownership locked
+10. dialogue/narration/note/sign/clock ownership locked
 11. approved required character WebPs exist
 12. approved required environment WebPs exist
 13. approved required recurring-object WebPs exist
-14. previous approved strip used only for temporary state/seam continuity
-15. dual-era architecture remains one physically compatible structure
-16. Cafe connection clock and station clock remain two distinct identities
-17. exact active connection progression/close time is coherent to minute/second
-18. object crossings preserve one-object provenance and creator IDs
-19. forward/backward aging/history state follows story rules
-20. service-window geometry/mechanics remain stable
-21. unstable shared-counter mechanics remain distinct from stable window aperture
-22. every strip has deterministic START → CHANGES → END
-23. every critical action shows cause → visible mechanism → result
-24. hands/body support physically possible
-25. whole-body topology contains no extra/missing/duplicated limbs
-26. close-up limb ownership matches adjacent body state
-27. face/age/build/hair identity remains canonical
-28. wardrobe/accessory/glove/material state remains stable within continuous scenes
-29. pose/facing/gesture/emotional state persists across adjacent views until visibly changed
-30. same-object wide/detail views do not create duplicates
-31. recurring objects retain stable scale/construction
-32. broken/damaged props do not silently repair
-33. floor/placed objects do not silently return to hands
-34. camera axis/eyelines remain coherent around counter/service-window
-35. critical text remains on physical carrier and mobile-readable
-36. clocks never show contradictory decorative time or identity swap
-37. 1986-only and 2026-only state do not contaminate each other
-38. practical lighting/rain/steam sources remain physically coherent
-39. reflections/shadows do not invent duplicate people/objects
-40. grips/contact physically prove intended action rather than fake 2D overlap
-41. worn/attached items physically connect without clipping/floating/side swap
-42. camera perspective preserves canonical geometry and body/object scale
-43. continuity-critical proof remains legible at normal mobile scale
-44. crop/gutter/divider/seam placement never amputates decisive proof
-45. top-to-bottom reader order matches scripted cause/action/result
-46. lettering/SFX never cover decisive evidence/contact
-47. no reader-visible technical metadata
-48. strict flat 2D human-drawn Korean Manhwa style passes actual visual inspection
-49. every strip generated/approved sequentially
-50. stitched chapter has no seam duplicates, time jumps, pose resets, age resets, object teleports, architecture jumps, era contamination, clock swaps, or performance resets
-51. final ending matches locked script exactly
-52. final chapter-end physical/temporal/evidence state is written back to creator ledgers when production establishes a new permanent fact
-53. fresh clean-room final audit finds zero unresolved mandatory findings
+14. previous approved strip used only for temporary state
+15. dual-era architecture physically compatible
+16. Cafe/station clocks distinct
+17. exact connection progression/close coherent
+18. crossings preserve one-object IDs
+19. aging/history state follows rules
+20. service-window geometry stable
+21. unstable counter distinct from stable aperture
+22. every strip deterministic START→CHANGES→END
+23. every critical change shows **cause → visible movement → contact/source → result → reaction**
+24. no continuity-critical action occurs only between views/strips
+25. hands/body support physically possible
+26. whole-body topology valid
+27. close-up limb ownership valid
+28. face/age/build/hair canonical
+29. wardrobe/accessory/glove/material stable
+30. pose/facing/gesture/emotion persists until visibly changed
+31. same-object wide/detail does not duplicate
+32. recurring object scale/construction stable
+33. broken/damaged props do not silently repair
+34. placed/floor objects do not silently return to hand
+35. camera axis/eyelines coherent
+36. dialogue follows comprehensible question/answer/reaction order
+37. humor follows comprehension and never cancels unresolved danger
+38. critical text carrier/mobile readability passes
+39. clocks show no contradictory time/identity swap
+40. 1986/2026 state separation passes
+41. practical light/rain/steam sources coherent
+42. reflections/shadows do not invent duplicates
+43. grips/contact prove action rather than 2D overlap
+44. worn/attached items physically connect
+45. perspective preserves geometry/scale
+46. proof legible at mobile scale
+47. crop/gutter/divider/seam does not amputate proof
+48. top-to-bottom order matches cause/action/result/dialogue
+49. every SFX/offscreen voice has real source and exact timing
+50. lettering/SFX never cover evidence/contact
+51. no reader-visible metadata
+52. strict flat 2D human-drawn Korean Manhwa passes visual inspection
+53. every strip generated/approved sequentially
+54. stitched chapter has no duplicate/missing micro-action, time jump, pose reset, object teleport, geometry jump, era contamination, clock swap, dialogue reset, repeated SFX or performance reset
+55. final ending matches locked script
+56. final physical/temporal/evidence state written back to creator ledgers where new permanent fact established
+57. fresh clean-room final audit finds zero unresolved mandatory findings
+
+## Chapter 1 Rebuild Gate
+
+Current Chapter 1 package must additionally prove:
+- 180 read beats exist in exact causal order
+- 36 strip prompts exist and match manifest
+- retired 16-strip prompts are absent
+- `production-strip-global-contract.md` binds all local prompts
+- seam map 001→036 has no undefined state
+- station-entry/gate/gloves/token/tray/window/paper/flashlight/pencil/warning-page/final-scratch movements are visible
+- revised dialogue remains consistent with Phase 1 mystery canon
+- `I WILL BRING BETTER BREAD.` is hidden during Tomas writing and revealed only after closure
 
 ## Chapter 1 Mandatory Evidence / State
 
-The final Chapter 1 must visibly preserve the locked evidence chain in `characters.md`, chapter plan, and state-resolution addendum, including:
-- station clock fixed 12:07 as separate clue
+Must visibly preserve:
+- station clock 12:07 clue
 - brass token
-- `TOMAS` scratch
+- `TOMAS`
 - Cafe clock 12:00 activation
 - 1986/2026 reveal
-- service-window opening
-- pastry aging test
-- `I AM REAL.` paper exchange
-- Arturo mention
-- blunt-but-usable pencil after point chip
-- 12:06 shutdown pressure
-- warning-note exchange
+- service window opening
+- pastry aging
+- `I AM REAL.`
+- Arturo
+- blunt usable pencil after chip
+- 12:06 pressure
+- warning note
 - bare-to-cotton-glove warm touch
+- Tomas visible hidden-reply writing/reinsertion without exposing words
 - 12:07 closure
-- closing-boundary return of same warning page
-- returned forty-year-old page with `I WILL BRING BETTER BREAD.`
-- final `FIRE STARTS IN THE SERVICE CORRIDOR.` reveal
-- final station clock fixed 12:07
+- same page post-closure aged with `I WILL BRING BETTER BREAD.`
+- final fire warning
+- final station clock 12:07
 
-Chapter 1 final temporary object locations must match `chapter-01-state-resolution-addendum.md`.
+Final locations match state addendum.
 
-## Missing Asset Rule — BLOCKING
+## Blocking Failures
 
-Required WebP missing/stale/wrong-path/unapproved → STOP. Prompt Markdown is not a substitute for approved image authority.
+### Missing Assets
+Required approved WebP missing/stale/wrong-path → STOP.
 
-## Creator Continuity Failure — BLOCKING
+### Creator Continuity
+Reject contradiction in date, duration, rewrite timing, object history, evidence authorship, reveal order or threshold mechanics.
 
-Reject production if the chapter invents or contradicts:
-- date progression
-- connection duration/cost
-- rewrite timing
-- object identity/history
-- evidence authorship
-- mystery reveal order
-- established threshold mechanics
+### Invisible Action
+Reject if critical state changes only because camera/strip changed.
 
-Repair the canon/prompt before generation; do not use timeline magic to excuse a mistake.
+### Dialogue Flow
+Reject if speaker/listener order is confusing, answer missing, reaction skipped where needed, or joke replaces explanation.
 
-## Flat 2D Failure — BLOCKING
+### SFX Source
+Reject unowned/incorrectly timed/filler SFX.
 
-Reject photoreal, semi-realistic, 3D/CGI, glossy, cinematic, painterly, airbrushed, bloom-heavy, depth-of-field, plastic-skin/hair, or over-rendered output even if the prompt says `2D`.
+### Flat 2D
+Reject photoreal, semi-real, 3D/CGI, glossy, cinematic, painterly, airbrushed, bloom-heavy, DOF or over-rendered output.
 
-## Time / Clock Failure — BLOCKING
+### Time / Clock
+Reject wrong/skipped/duplicated/reversed/rounded time or clock identity swap.
 
-Reject wrong, skipped, duplicated, reversed, rounded, or visually contradictory active time state. Later shortened windows require exact second-level close state. Reject Cafe/station clock identity swaps.
+### Object Provenance
+Reject duplicated notes/pastries/saucers/token/tray/flashlight/pencils or age/history reset.
 
-## Object Provenance Failure — BLOCKING
+### Dual-Era Geometry
+Reject structural redesign between eras.
 
-Reject duplicated notes, pastries, saucers, token, tray, notebook page, photographs, or other crossing/evidence objects; reject aging/history that silently resets or occurs before crossing.
+### Pose / Performance
+Reject silent stance/facing/gesture/distance/emotion/clothing/glove/hair-tie change.
 
-## Dual-Era Geometry Failure — BLOCKING
-
-Reject a service window, counter, wall, clock location, station route, or structural opening that becomes a different building between 1986 and 2026 without story cause.
-
-## Pose / Performance Failure — BLOCKING
-
-Reject silent changes to stance/support, shoulder/hip/torso facing, hand gesture, relative scale/distance, emotional intensity, clothing layer, glasses/glove state, hair-tie state, or other temporary performance state across adjacent views/seams.
-
-## Presentation Failure — BLOCKING
-
-Reject technically present but microscopic evidence, wrong causal reader order, fisheye/forced perspective, decisive proof cut by crops/gutters/dividers, ambiguous hand/object ownership, or unreadable exact story text.
+### Presentation
+Reject microscopic proof, wrong reader order, forced perspective, decisive crop/seam, ambiguous ownership, unreadable text.
 
 ## Completion Language
 
-Allowed intermediate statuses include:
-- `PHASE 1 CONTINUITY ARCHITECTURE LOCKED — HARDENING AUDIT PENDING`
+Intermediate:
+- `PRODUCTION-STRIP REBUILD COMPLETE — HARDENING AUDIT PENDING`
 - `PREPRODUCTION AUDIT IN PROGRESS — NOT READY TO GENERATE`
 - `BLOCKED — REQUIRED CANONICAL VISUAL AUTHORITY MISSING`
 - `HARDENED PREPRODUCTION GATE PASS — READY TO GENERATE STRIP 001`
 - `VISUAL QA FAILED — REPAIR / REGENERATE`
 - `VISUAL QA IN PROGRESS — NOT PRODUCTION COMPLETE`
 
-Use `PRODUCTION COMPLETE` only after every creator-continuity, rendered, stitch, and fresh-final-audit gate passes.
+Use `PRODUCTION COMPLETE` only after creator, hardening, rendered, stitch and fresh-final gates all pass.

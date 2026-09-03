@@ -1,152 +1,142 @@
 # Chapter 1 Real-Scenario Continuity Audit
 
-Status: **PHASE 1 CONTINUITY-RESOLVED TEXTUAL PASS — FORMAL HARDENING AUDIT PENDING — RENDERING BLOCKED BY MISSING APPROVED CANONICAL WEBPS.**
+Status: **180-BEAT / 36-STRIP REBUILD TEXTUALLY SYNCHRONIZED — FORMAL HARDENING AUDIT PENDING — RENDERING BLOCKED BY MISSING APPROVED CANONICAL WEBPS.**
 
-This document records the current textual continuity status after the Phase 1 creator-architecture pass. It is **not** the later requested hardening audit and must not be used to skip that audit.
+This is a continuity-status record, not the requested later hardening audit.
 
-## Story Preservation
+## Story Preservation — PASS
 
-PASS — The current plan preserves the required narrative chain:
-- archive inconsistencies
-- 11:41 PM abandoned-station entry
-- separate station-clock 12:07 clue
-- Cafe Siete discovery
-- scratched `TOMAS`
-- token marked `7`
+The rebuilt presentation preserves the same required chain:
+- archival tampering / fire-report contradiction / missing names
+- 11:41 PM station entry
+- separate station clock 12:07 clue
+- Cafe Siete / `TOMAS` scratch
+- token `7`
 - Cafe clock 12:00 activation
-- Tomas first reveal / same-tray catch
-- 1986/2026 year exchange
-- Cafe-clock 12:01–12:07 progression
+- Tomas/tray encounter
+- 1986/2026 confirmation
+- 12:01–12:07 Cafe-clock progression
 - scratch denial
 - painful unstable counter contact
 - service-window opening
 - pastry/saucer aging test
-- `I AM REAL.` archival sheet exchange
-- Lilia voice-only beat
-- Arturo Salcedo / failed-signal clue
-- 12:06 shutdown pressure
+- `I AM REAL.` sheet
+- Lilia voice-only
+- Arturo/failed-signal clue
+- 12:06 failing lights
 - tomorrow promise
-- warning-page exchange
-- warm pain-free service-window finger brush
+- warning page
+- warm glove-to-bare fingertip contact
+- Tomas reply/re-insertion
 - 12:07 closure
-- returned forty-year-old page
+- same page returned aged
 - `I WILL BRING BETTER BREAD.`
-- `FIRE STARTS IN THE SERVICE CORRIDOR.`
-- final station clock fixed 12:07
+- final `FIRE STARTS IN THE SERVICE CORRIDOR.`
+- separate station clock fixed 12:07
 
-No required source event is intentionally removed.
+No required mystery event was removed.
 
-## Phase 1 Ambiguities Now Resolved
+## Presentation Granularity — IMPROVED / PENDING HARDENING
 
-### Separate Clocks — RESOLVED
-`CLOCK-STATION-01` is the 2026 historical station clue. `CLOCK-CAFE-01` is the active connection clock. They are not one object.
+Former 74 beats / 16 strips have been replaced by 180 beats / 36 strips.
 
-### Pencil Continuity — RESOLVED
-The graphite point chips/snaps at Arturo's name but leaves short blunt exposed graphite. Daniel writes the later warning with the same pencil. No new pencil/sharpener is invented.
+Major previously compressed actions now receive explicit movement:
+- archive evidence handling
+- station/cafe threshold movement
+- gate track opening
+- glove-on sequence
+- token fall path
+- tray tilt/catch/set-down
+- year-question reaction ladder
+- counter brace/depth failure/wrist catch/pain/release
+- service-window track opening
+- tongs→roll→saucer preparation
+- one-object threshold crossing/aging
+- paper writing/transfer/pocketing
+- flashlight nudge/roll/fall
+- pencil chip state
+- warning-page tear/write/transfer
+- final warm contact/release
+- Tomas hidden-reply writing/re-insertion
+- closing-boundary transit
+- returned-page sleeving
+- flashlight retrieval/final scratch reveal
 
-### Glove / Final Touch — RESOLVED
-Daniel's cotton conservation gloves remain ON through the active connection. The final warm touch is Tomas bare fingertip → Daniel cotton-gloved fingertip through the stable service window. No silent glove removal.
+Formal hardening must still audit whether any micro-action remains under-specified.
 
-### Returned Page — RESOLVED
-The same warning page is re-inserted by Tomas into the service aperture in the unseen final fraction before closure. It is in closing-boundary transit when the portal state seals, then arrives after settlement aged forty years. No spontaneous duplicate.
+## Dialogue Continuity — REBUILT / PENDING HARDENING
 
-### Token / Flashlight / Pastry / Saucer — RESOLVED
-Their Chapter 1 final locations are explicitly tracked by `chapter-01-state-resolution-addendum.md` and the temporal-object ledger rather than silently disappearing.
+Dialogue now follows question → answer → reaction → follow-up, with humor after comprehension.
 
-### Scratch State — RESOLVED
-Both scratches physically pre-exist in baseline 2026. The final warning is discovered, not created on-screen by Chapter 1.
+Key revisions improve readability:
+- museum-ghost joke follows first direct answer
+- year question receives Tomas joking reaction then Daniel's serious `Please.`
+- era answer is followed by physical coffee-ring proof
+- scratch joke follows explicit denial/possibility
+- bread test joke follows real test setup
+- paper choice is explained before `I AM REAL.`
+- interval reasoning explicitly derives three minutes
+- 12:05 investigation lists ordinary anomalies before white-suit clue
+- post-12:05 jokes shorten and preserve fear
+- `No pain.` / `No.` clarifies stable-window contact difference
 
-## Clock Causality
+Hardening must still inspect balloon density and exact line length against mobile layout.
 
-PASS at textual level.
+## SFX Causality — REBUILT / PENDING HARDENING
 
-Cafe connection progresses in one direction only:
-12:00 → 12:01 → 12:02 → 12:03 → 12:04 → 12:05 → 12:06 → 12:07.
+SFX is now specified at source/action moment for paper, door, steps, rain, gate, token, clock, lights, tray, counter instability, service window, tongs/saucer, aging, paper, pencil, flashlight and closure.
 
-The separate station clock remains a fixed 12:07 historical clue.
+No SFX should be added solely as filler.
 
-Later Arc 1 shortened close times are controlled by the creator state ledger and are outside Chapter 1's active clock progression.
+## Clock Causality — PASS TEXTUALLY
 
-## Object Provenance
+- station clock clue 12:07
+- Cafe clock resets 12:00
+- 12:01 Strip 014
+- 12:02 Strip 016
+- 12:03 Strip 022
+- 12:04 Strip 025
+- 12:05 Strip 028
+- 12:06 Strip 030
+- 12:07 closure Strip 034
+- final station clock 12:07 Strip 036
 
-PASS at textual level after Phase 1 resolution.
+No reversed/skipped minute in textual plan.
 
-### Brass Token
-One token is found beneath counter and dropped at activation. It remains on Daniel's 2026 floor through the final Chapter 1 image and must be retrieved during Chapter 2 opening before Daniel leaves.
+## Object Provenance — PASS TEXTUALLY
 
-### Tray
-One tray is caught by both men. No duplicate tray is required. It remains 1986-side.
+Token, tray, pastry/saucer, `PAPER-REAL-01`, warning page, Daniel pencil, Tomas temporary pencil, flashlight and sleeve have explicit movement/final states.
 
-### Pastry / Saucer
-One fresh 1986 roll + one white saucer cross to 2026 and age. They remain aged on Daniel side at chapter end.
+Returned warning page no longer relies on an unseen unexplained reinsertion: Strip 034 visibly shows Tomas write a hidden reply and reinsert same page before closure, while preserving reply wording reveal for Strip 035.
 
-### Archival `I AM REAL.` Sheet
-One modern archival sheet goes Daniel→Tomas and ends in Tomas's front apron pocket / historical path.
+## Physical Mechanisms — CONDITIONALLY PASS
 
-### Warning Page
-One notebook page goes Daniel→Tomas, receives Tomas reply, re-enters the closing aperture, and completes the same-object return aged forty years.
+Text defines plausible cause/action/result. Final geometric PASS remains blocked on approved Cafe/Station environment WebPs.
 
-### Pencil
-One wooden graphite pencil persists through point break and warning writing.
+## Character Continuity — CONDITIONALLY PASS
 
-### Flashlight
-One flashlight falls to Daniel's floor and is not silently teleported later.
+Written states are explicit; visual PASS blocked on approved Daniel/Tomas WebPs and actual pixel audit.
 
-## Physical Mechanisms
+## Lilia Visibility — PASS
 
-PASS at textual level, pending environment/image canon:
-- Daniel can retrieve token under counter
-- Daniel/Tomas can catch same tray around unstable shared-counter state
-- Tomas can catch Daniel's cotton-gloved wrist/hand during unstable contact
-- service window can open as a real physical stable aperture
-- plate/note/hand can pass through service window
-- full body cannot pass
-- closing-boundary object transit explains returned page
-
-Final geometric PASS cannot be assigned until approved Cafe Siete environment references prove the physical distances/opening scale.
-
-## Dual-Era Architecture
-
-CONDITIONALLY PASS — plan consistently treats Cafe Siete as one structure with 1986 and 2026 states. Final gate remains BLOCKED until canonical environment WebPs exist.
-
-## Character Continuity
-
-CONDITIONALLY PASS — Markdown locks Daniel and Tomas identities and forbids legacy-style redesign. Final visual PASS impossible until approved character WebPs exist and rendered pixels are inspected.
-
-## Lilia Visibility
-
-PASS — current plan keeps Lilia offscreen voice-only; therefore no Chapter 1 Lilia visual canonical is currently required.
-
-## Creator-Only Long-Range Continuity
-
-PHASE 1 LOCKED under `../../Continuity/`:
-- Arc 1 nightly calendar
-- exact shrinking-window ledger
-- fixed fire date and culprit mechanism
-- timeline rewrite/settlement rules
-- threshold/counter/window mechanics
-- temporal-object provenance
-- evidence/scratch causality
-- Arc 1 chapter matrix
-
-This has not yet undergone the separate later hardening audit requested by the user.
+Lilia remains offscreen voice-only.
 
 ## Known Blocking / Pending Findings
 
-1. Daniel approved canonical WebP missing.
-2. Tomas approved canonical WebP missing.
-3. Cafe Siete approved environment WebP pack missing.
-4. San Aurelio Junction 2026 approved environment WebP(s) missing.
-5. Cafe Siete token approved object WebP missing.
-6. Cafe Siete connection-clock approved object WebP missing.
-7. Distinct station-clock reusable authority still needs to be designed where required.
-8. Dependent strip prompts cannot name/attach approved WebP paths until those files exist.
-9. Existing strip prompts still require later deterministic hardening to benchmark depth.
-10. No rendered strip can receive visual PASS yet.
-11. Formal hardening audit of Phase 1 continuity is still pending.
+1. formal hardening audit not yet performed on rebuilt 001→036 package
+2. Daniel canonical WebP missing
+3. Tomas canonical WebP missing
+4. Cafe Siete environment WebP pack missing
+5. San Aurelio 2026 environment WebP missing
+6. token WebP missing
+7. Cafe clock WebP missing
+8. station-clock reusable visual authority pending if needed
+9. hardening must determine additional environment angle/geometry references
+10. hardening must determine tongs/tray/notebook/paper reusable object authority need
+11. no rendered strip visual PASS exists
 
-## Current Verdict
+## Verdict
 
-**STORY/CONTINUITY ARCHITECTURE IS NOW EXPLICIT ENOUGH TO AUDIT. VISUAL PRODUCTION REMAINS BLOCKED. HARDENING AUDIT IS THE NEXT REVIEW PHASE.**
+**READER-FLOW / PRODUCTION-STRIP PACKAGE HAS BEEN SUBSTANTIALLY DECOMPRESSED AND SYNCHRONIZED. IT IS NOW READY FOR THE REQUESTED FORMAL HARDENING AUDIT, NOT FOR IMAGE GENERATION.**
 
-Do not interpret this document as `PRODUCTION COMPLETE`.
+Do not interpret as `PRODUCTION COMPLETE`.

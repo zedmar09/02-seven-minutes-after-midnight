@@ -1,157 +1,159 @@
 # Chapter 1 Generation Checklist
 
-Use this checklist before and during sequential generation.
+Use only after formal hardening accepts the current 180-beat / 36-strip textual package.
 
-## Phase 1 / Creator Continuity
+## Creator Continuity
+- [ ] formal hardening audit of `../../Continuity/` completed
+- [ ] time-slip mechanics consistent
+- [ ] timeline rewrite protocol consistent
+- [ ] Chapter 1 full 7:00 interval preserved
+- [ ] temporal-object provenance matches 001→036
+- [ ] evidence/scratch causality matches final glass treatment
+- [ ] state-resolution addendum synchronized
 
-- [ ] later formal hardening audit of `../../Continuity/` completed and accepted
-- [ ] `../../Continuity/time-slip-mechanics-bible.md` consistent with Chapter 1
-- [ ] `../../Continuity/timeline-rewrite-protocol.md` consistent with Chapter 1
-- [ ] `../../Continuity/time-slip-state-ledger.md` preserves Chapter 1 full 7:00 interval
-- [ ] `../../Continuity/temporal-object-provenance-ledger.md` agrees with all Chapter 1 object states
-- [ ] `../../Continuity/evidence-causality-ledger.md` agrees with scratch/clock/evidence treatment
-- [ ] `chapter-01-state-resolution-addendum.md` synchronized into all hardened strip prompts
+## Preproduction Package
+- [ ] `chapter-01-continuous-scroll-plan.md` = 180 beats V001–V180
+- [ ] `chapter-01-strip-manifest.md` = 36 strips
+- [ ] master scroll prompt synchronized
+- [ ] `Production-Strips/production-strip-global-contract.md` current
+- [ ] all **36** local strip prompts exist
+- [ ] no retired 16-strip prompt remains
+- [ ] all local prompts agree with seam map
+- [ ] dialogue order matches 180-beat plan
+- [ ] every SFX has real source
 
-## Preproduction
+## Canonical Characters
+- [ ] Daniel approved WebP
+- [ ] Tomas approved WebP
+- [ ] no visible Lilia without canonical; Chapter 1 remains voice-only
 
-- [ ] `README.md` current status is truthful
-- [ ] `chapter-01-continuous-scroll-plan.md` locked
-- [ ] `chapter-01-strip-manifest.md` locked
-- [ ] `chapter-01-master-scroll-prompt.md` matches story canon
-- [ ] all 16 strip prompts exist and agree with manifest/addendum
-- [ ] no old page-production references remain active
+## Canonical Environments
+- [ ] San Aurelio 2026 route/geometry approved
+- [ ] Cafe shared structure approved
+- [ ] Cafe 2026 state approved
+- [ ] Cafe 1986 state approved
+- [ ] counter/service-window geometry proven
+- [ ] gate track/threshold proven
+- [ ] Cafe clock/menu-wall relationship proven
+- [ ] painted-glass/sign zone proven
+- [ ] enough reverse/angle views for 36-strip axis continuity
+- [ ] Cafe clock and station clock visually distinct
 
-## Required Character Canonicals
+## Canonical Objects
+- [ ] Cafe token approved
+- [ ] Cafe connection clock approved
+- [ ] station clock authority approved if required
+- [ ] audit decides tongs/tray/saucer recurring reference need
+- [ ] audit decides Daniel notebook/paper/pencil system reference need
 
-- [ ] Daniel approved WebP exists at exact repository path
-- [ ] Tomas approved WebP exists at exact repository path
-- [ ] any newly visible Lilia canonical exists before her first visible appearance
+## Movement / No-Invisible-Action Gate
+For every strip:
+- [ ] start state inherited exactly
+- [ ] cause shown before result
+- [ ] continuity-critical movement shown
+- [ ] contact/source visible
+- [ ] result supported physically
+- [ ] reaction/dialogue follows in causal order
+- [ ] no camera cut substitutes for movement
+- [ ] no object appears in hand without pickup/transfer
+- [ ] no object disappears without placement/occlusion
 
-## Required Environment Canonicals
-
-- [ ] San Aurelio Junction 2026 authority approved
-- [ ] Cafe Siete shared-structure authority approved
-- [ ] Cafe Siete 2026 state approved
-- [ ] Cafe Siete 1986 state approved
-- [ ] service-window/counter geometry proven
-- [ ] clock/menu-wall relationship proven
-- [ ] required reverse/angle views sufficient
-- [ ] Cafe clock and station clock exist as two distinct physical authorities and are never merged
-
-## Required Object Canonicals
-
-- [ ] Cafe Siete token approved WebP
-- [ ] Cafe Siete connection clock approved WebP with readable second hand for later chapters
-- [ ] distinct station-clock authority approved when detailed reusable rendering requires it
-- [ ] any additional recurring object required by audit approved before dependent strip
-
-## Style
-
-Every render:
-- [ ] strict flat 2D human-drawn Korean manhwa/webtoon
-- [ ] clean intentional linework
-- [ ] flat colors
-- [ ] restrained hard-edged cel shading only
-- [ ] matte materials
-- [ ] no photoreal/semi-real/3D/CGI
-- [ ] no glossy/plastic/wet character finish
-- [ ] no cinematic grading/bloom/DOF/lens flare
-- [ ] no painterly/airbrushed/AI-polished drift
-
-## Character QA
-
-- [ ] Daniel face/age/scar/hair/temple silver/build canonical
-- [ ] Daniel glasses/wardrobe state correct
-- [ ] Daniel cotton gloves stay ON through active Chapter 1 connection; no silent removal
-- [ ] Tomas face/age/hair length/low jade cord/build canonical
-- [ ] Tomas cafe shirt/apron state correct
-- [ ] one coherent body per character
-- [ ] no extra/missing/duplicated limbs
-- [ ] hands/feet belong to correct body/side
-- [ ] pose/facing/emotion persists across adjacent views
-
-## Environment QA
-
-- [ ] Cafe Siete remains same structure across 1986/2026
-- [ ] counter/service window do not move
-- [ ] Cafe connection-clock location stable
-- [ ] station clock remains separate object/location
-- [ ] 1986 condition does not contaminate 2026 after closure
-- [ ] 2026 damage does not overwrite 1986 structural truth
-- [ ] rain/steam/light sources physically plausible
+## Character / Performance
+- [ ] Daniel canonical face/age/scar/hair/build
+- [ ] Daniel gloves visibly ON Strip 008 and remain ON through active connection
+- [ ] Tomas canonical face/age/low jade cord/hair/apron/build
+- [ ] two hands per character
+- [ ] hand side/occupancy stable
+- [ ] pose/facing/feet/torso persist across slices
+- [ ] emotion changes only from story cause
+- [ ] jokes do not reset fear after 12:05
 
 ## Clock QA
-
-- [ ] station-clock initial stopped 12:07 clue correct
-- [ ] Cafe-clock activation exact 12:00
-- [ ] Cafe clock 12:01 correct
-- [ ] Cafe clock 12:02 correct
-- [ ] Cafe clock 12:03 correct
-- [ ] Cafe clock 12:04 correct
-- [ ] Cafe clock 12:05 correct
-- [ ] Cafe clock 12:06 correct
-- [ ] Cafe-clock closure exact 12:07
-- [ ] final station clock fixed at 12:07
-- [ ] no contradictory decorative times
-- [ ] no active use of station clock as if it were Cafe countdown
+- [ ] station clock 12:07 clue Strip 005
+- [ ] Cafe clock reset 12:00 Strip 009
+- [ ] 12:01 Strip 014
+- [ ] 12:02 Strip 016
+- [ ] 12:03 Strip 022
+- [ ] 12:04 Strip 025
+- [ ] 12:05 Strip 028
+- [ ] 12:06 Strip 030
+- [ ] 12:07 closure Strip 034
+- [ ] final station clock 12:07 Strip 036
+- [ ] no station/Cafe clock identity swap
 
 ## Object Provenance QA
-
-- [ ] one token only; drops once; remains Daniel-side floor through final Chapter 1 image
-- [ ] one tray interaction only
-- [ ] one crossing saucer/roll; aging follows crossing and remains aged
-- [ ] one `I AM REAL.` archival sheet; ends in Tomas apron pocket/history
-- [ ] one warning notebook page; goes Daniel→Tomas→closing-boundary transit→returns aged to Daniel
-- [ ] returned page carries Tomas reply without creating a second page
-- [ ] flashlight state persists on floor after falling unless visibly changed
-- [ ] Arturo note and same pencil state coherent
-- [ ] pencil graphite point chips once but remains blunt/usable for warning writing
+- [ ] one token: retrieve Strip 008 → drop Strip 010 → remains floor
+- [ ] one tray: tilt Strip 011 → catch Strip 012 → set down Strip 013
+- [ ] one roll/saucer: prepare 020 → cross/age 021 → place 022
+- [ ] one `PAPER-REAL-01`: write 024 → transfer/pocket 025
+- [ ] one flashlight: counter → visible nudge/roll/fall 026 → fixed floor → visible retrieval 036
+- [ ] one Daniel pencil: intact → point chip 029 → same blunt pencil warning 032
+- [ ] one warning page: tear/write 032 → transfer 033 → Tomas hidden reply/reinsert 034 → return/sleeve 035
+- [ ] Tomas temporary cafe pencil never confused with Daniel pencil
 
 ## Contact / Threshold QA
-
-- [ ] same unstable counter mechanism explains painful wrist contact
-- [ ] service window is stable exchange aperture
-- [ ] final warm touch is Tomas bare fingertips to Daniel cotton-gloved fingertips
-- [ ] no hidden glove removal
+- [ ] short incidental tray contact not treated as sustained pain
+- [ ] counter brace 017 visibly loses support
+- [ ] Tomas grip completes before pain in 018
+- [ ] release/air gap completes before window opens 019
+- [ ] service window real track open state stable 019–034
+- [ ] final warm touch = Tomas bare → Daniel cotton glove
+- [ ] hands visibly separate in 033
 - [ ] no full-body crossing implication
 
-## Exact Text QA
+## Dialogue Readability QA
+- [ ] question precedes answer
+- [ ] listener reaction receives room
+- [ ] humor follows comprehension
+- [ ] no dense multi-speaker balloon cluster
+- [ ] Tomas/ Daniel voices remain distinct
+- [ ] post-12:05 dialogue tighter/urgent
+- [ ] exact physical evidence text readable
 
+## SFX QA
+- [ ] SFX placed at action/source moment
+- [ ] no SFX before cause
+- [ ] no random filler SFX
+- [ ] station/rain audio respects era/location
+- [ ] Lilia/PA audio source direction correct
+- [ ] SFX never covers decisive contact/evidence
+
+## Exact Text QA
 - [ ] `CAFE SIETE`
 - [ ] `TOMAS`
+- [ ] `12:00` through `12:07` as scripted
 - [ ] `DANIEL SORIANO`
 - [ ] `SAN AURELIO MUNICIPAL MUSEUM`
 - [ ] `2026`
 - [ ] `I AM REAL.`
+- [ ] `ARTURO SALCEDO`
 - [ ] `DO NOT TELL ANYONE ABOUT ME.`
 - [ ] `KEEP THIS HIDDEN.`
 - [ ] `COME BACK TOMORROW.`
-- [ ] `I WILL BRING BETTER BREAD.`
+- [ ] `I WILL BRING BETTER BREAD.` only readable after closure
 - [ ] `FIRE STARTS IN THE SERVICE CORRIDOR.`
-- [ ] all story-critical text readable at mobile size
 
 ## Sequential Render Gate
-
-For each strip N:
+For Strip N:
 - [ ] required canonicals attached
-- [ ] START state matches previous approved strip + state-resolution addendum
-- [ ] actual pixels visually inspected
-- [ ] story/continuity/style/text gates pass
-- [ ] only after PASS, approve strip and use it as temporary state input for N+1
+- [ ] previous APPROVED render attached for N>1
+- [ ] start state matches previous seam
+- [ ] actual pixels inspected
+- [ ] movement/dialogue/SFX/story/style/text pass
+- [ ] only then approve N and proceed N+1
 
 ## Stitch Gate
-
-- [ ] all strips approved under current rules
-- [ ] stitch in exact order 001→016
-- [ ] no duplicate beats
-- [ ] no double-gap/dead seam
-- [ ] no clock identity swap/jump
-- [ ] no pose/identity/environment/object-age jump
+- [ ] all 36 strips approved
+- [ ] stitch exact `001→036`
+- [ ] no duplicate beat
+- [ ] no missing movement
+- [ ] no dead/double seam
+- [ ] no pose/emotion reset
+- [ ] no object/time/age jump
 - [ ] no reader-visible technical metadata
-- [ ] final warning and station-clock 12:07 ending exact
+- [ ] final warning + station clock exact
 
 ## Final Gate
-
-- [ ] run fresh clean-room audit without inheriting earlier PASS labels
+- [ ] fresh clean-room audit with no inherited PASS labels
 - [ ] zero unresolved mandatory findings
-- [ ] only then use `PRODUCTION COMPLETE`
+- [ ] only then `PRODUCTION COMPLETE`

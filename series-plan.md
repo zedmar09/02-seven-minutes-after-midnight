@@ -53,73 +53,71 @@ No arc should repeat the same letter/pastry/clock trick without creating new cau
 
 ## Creator-Only Continuity Authority
 
-The detailed Arc 1 solution is no longer left to improvisation.
-
-Binding creator files live under `Manhwa/Continuity/` and currently lock:
+Binding creator files under `Manhwa/Continuity/` lock:
 - Chapter 1 on October 17, 1986/2026
 - consecutive Arc 1 meetings through October 31
-- a fixed San Aurelio fire date of November 23, 1986
-- the human culprit chain and fire-night mechanism
-- separate Cafe/station clock identities
-- stable service-window/counter physics
-- exact Arc 1 shrinking-window durations and costs
+- fixed San Aurelio fire date November 23, 1986
+- human culprit chain/fire mechanism
+- separate Cafe/station clocks
+- service-window/counter physics
+- exact shrinking-window duration/cost ledger
 - timeline settlement/memory rules
-- mystery evidence authorship and reveal discipline
+- evidence authorship/reveal discipline
 - object provenance across forty years
-- the Chapter 1→Chapter 2 inherited physical state
+- Chapter 1→Chapter 2 inherited state
 
-If a future story revision changes one of these, update every affected continuity ledger rather than allowing contradictory chapter-specific exceptions.
+Future revisions must update all affected creator ledgers instead of adding contradictory chapter-local exceptions.
 
 ## Current Production Truth
 
 - Active arc: Arc 1.
-- Chapter 1 story canon exists as a 74-beat / 16-strip continuous-scroll production package.
-- Phase 1 continuity architecture is locked, but the planned hardening audit has not yet been run against the newly synchronized repository.
-- No Chapter 1 rendered Manhwa strip is approved merely because a prompt exists.
-- No Chapter 2 production folder currently exists in the repository.
+- Chapter 1 now exists as a **180-beat / 36-strip** continuous-scroll textual production package.
+- The former 74-beat / 16-strip package has been retired because it compressed reader movement/dialogue too aggressively.
+- The 36-strip rebuild makes continuity-critical motion, dialogue handoffs, physical SFX sources, object transfer, clock proof and seam state explicit.
+- Phase 1 continuity architecture is locked.
+- Formal hardening audit has **not yet** been run against the rebuilt 001→036 package.
+- No Chapter 1 rendered Manhwa strip is approved.
+- No Chapter 2 production folder currently exists.
 - Required approved character/environment/object WebPs are still missing.
 
 ## Chapter 1 Narrative Endpoint
 
-Chapter 1 begins with Daniel investigating suspicious San Aurelio archive material and entering the abandoned station before midnight.
+Chapter 1 begins with Daniel proving suspicious San Aurelio archive tampering and entering the abandoned station before midnight.
 
-It ends after the first seven-minute connection closes, when Daniel receives his warning page forty years older with Tomas's added line `I WILL BRING BETTER BREAD.` and discovers the scratched warning `FIRE STARTS IN THE SERVICE CORRIDOR.` while the station clock remains fixed at 12:07.
+It ends after first healthy seven-minute connection closes: Tomas's warning page returns forty years older with `I WILL BRING BETTER BREAD.`, Daniel reveals the pre-existing scratch `FIRE STARTS IN THE SERVICE CORRIDOR.`, and the separate station clock remains fixed 12:07.
 
-Temporary physical state inherited by Chapter 2 is controlled by the Chapter 1 state-resolution addendum and temporal-object ledger.
+Temporary physical state inherited by Chapter 2 is controlled by Chapter 1 state addendum and temporal-object ledger.
 
 ## Long-Range Mystery Locks
 
-- The 1986 station fire is officially recorded as an electrical accident but the surviving archive is compromised.
-- Tomas is not merely an incidental casualty; evidence increasingly proves he was targeted.
-- Arturo Salcedo and redevelopment interests form part of the human conspiracy rather than a supernatural villain system.
-- The full creator-only fire solution is stored in `Manhwa/Continuity/arc-01-fire-conspiracy-bible.md` and must be revealed gradually.
-- Missing names, cut documents, altered testimony, signal failures, locked service access, and removed evidence converge causally rather than function as unrelated spooky clues.
-- The cafe/time-slip is a fragile temporal wound, not free time travel.
-- Historical interference has a cost expressed through connection instability, lost seconds/minutes, altered archives, memory risk, or changed physical history.
-- Saving Tomas too strongly may erase the abandoned conditions that allow Daniel to meet him.
-- Other midnight crossings may eventually exist, but they must broaden the railway/time-slip mythology without making Cafe Siete ordinary.
-- The romance remains rare, adult, restrained, and materially tied to time, objects, preservation, food, handwriting, and touch across an impossible threshold.
+- official fire record falsely describes an electrical accident
+- Tomas was a target, not incidental casualty
+- Arturo Salcedo/redevelopment interests are human conspiracy, not supernatural villain system
+- full fire solution lives in `Manhwa/Continuity/arc-01-fire-conspiracy-bible.md`
+- missing names, cut documents, altered testimony, signal failures, locked service access and removed evidence converge causally
+- Cafe/time-slip is fragile temporal wound, not free time travel
+- historical interference costs connection time, archives, memory or physical history
+- saving Tomas too strongly may erase abandoned conditions enabling Daniel to meet him
+- other crossings may broaden mythology without making Cafe Siete ordinary
+- romance remains adult/restrained and tied to preservation, food, handwriting, objects and touch
 
 ## Expansion Policy
 
-Potential expansion slots if the 105-chapter version needs more room:
-- object-exchange cases between Arcs 2 and 3
-- additional witnesses and contradictory records between Arcs 3 and 4
-- one or two carefully differentiated railway crossings between Arcs 4 and 5
-- targeted 1986 flashback chapters between Arcs 6 and 7
+Potential expansion slots if 105-chapter version needs room:
+- object-exchange cases between Arcs 2–3
+- witnesses/contradictory records between Arcs 3–4
+- carefully differentiated railway crossings between Arcs 4–5
+- targeted 1986 flashback chapters between Arcs 6–7
 
-Do not stretch the story beyond 150 chapters without enough new causal material, recurring factions, and historical consequences to justify the length.
+Do not stretch beyond 150 chapters without enough causal material/factions/historical consequence.
 
 ## Folder Policy
 
-Create a future arc/chapter folder only when production of that chapter begins **after inheriting the current continuity ledgers**.
-
-Active production shape:
+Create future chapter/arc production only after inheriting current continuity state.
 
 ```text
 Manhwa/
   Continuity/
-    <creator-only ledgers>
   <NN-Arc-Title>/
     README.md
     Chapter-<NN>-<Title>/
