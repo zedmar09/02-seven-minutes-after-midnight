@@ -5,12 +5,32 @@
 Scope: V006–V010. Same 2026 archive session, directly after approved Strip 001.
 
 ## Required Inputs
-- Daniel canonical WebP
+- `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
+- `../../../Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp`
+- `../../../Object-References/daniel-conservation-evidence-kit-canonical-reference.webp`
 - APPROVED rendered Strip 001
-- any approved archive/evidence reference required by later hardening
 
-## START STATE
-Daniel is seated/positioned exactly as approved Strip 001 ends. Same notebook/pencil/documents remain on the worktable. No time/location cut.
+## START STATE — INHERIT STRIP 001 EXACTLY
+
+No time/location/light reset.
+
+Daniel:
+- seated at exact approved Strip 001 work position
+- glasses ON
+- same archive cotton gloves ON
+- same work clothing/identity
+- both hands free
+- same controlled concern level
+
+Worktable:
+- fire-report open at CENTER on Strip 001's current tampering page
+- original-signature source + copied witness statement aligned LEFT-OF-CENTER
+- same sleeved trimmed photograph supported on dark backing UPPER-LEFT
+- same loupe returned to UPPER-RIGHT tool tray
+- same open notebook LOWER-RIGHT showing `TAMPERING IS CONSISTENT.`
+- same intact `PENCIL-DANIEL-01` resting horizontally immediately above notebook
+
+No object may disappear, move, close, reorient or return to a hand simply because Strip 002 begins.
 
 ## Reader Goal
 By the end, a reader should understand one simple contradiction without needing to reread: the official report says the fire started from an electrical fault in the service corridor; the maintenance diagram says no active circuit existed at that point.
@@ -19,10 +39,12 @@ By the end, a reader should understand one simple contradiction without needing 
 V006 18% / V007 20% / V008 24% / V009 18% / V010 20%.
 
 ## V006 — Official Claim
-Daniel opens the official report to the real line/carrier:
+Daniel turns the SAME official report from the inherited tampering page to the real listed-origin page; do not spawn another fire report.
+
+Readable carrier text:
 `ELECTRICAL FAULT — SERVICE CORRIDOR`
 
-Use readable same-document detail with enough page edge/folder context to avoid floating text.
+Use same-document detail with enough page edge/folder context to avoid floating text.
 
 ## V007 — Bring the Diagram Beside It
 Action chain:

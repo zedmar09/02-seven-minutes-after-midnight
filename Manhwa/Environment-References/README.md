@@ -12,5 +12,6 @@ Recurring locations use approved canonical environment WebPs as permanent geomet
 
 ## Priority Packs
 
+- `San-Aurelio-Municipal-Archive/` — recurring 2026 museum archive/conservation workroom; required for Chapter 1 Strips 001–003
 - `Cafe-Siete/`
 - `San-Aurelio-Junction/`

@@ -6,7 +6,20 @@ This addendum resolves temporary state questions without changing the Phase 1 my
 
 If a local strip prompt is less specific about a state below, this addendum and the creator provenance/mechanics ledgers win.
 
-## 1. Daniel Gloves — Absolute
+## 0. Archive-Session Gloves / Handedness — Strip 001 Hardening Lock
+
+During the uninterrupted museum archive sequence in Strips 001–003:
+- Daniel's thin white cotton archive gloves are ON at Strip 001 start and remain ON through the archive evidence session
+- Daniel's **right anatomical hand** is his stable writing/pencil hand
+- reverse shots may flip screen position but may not make Daniel left-handed
+- Strip 003 must visibly remove/store the archive gloves before Daniel leaves the museum for the station
+- Strip 004 therefore begins the station visit bare-handed
+- Strip 008 later shows Daniel visibly putting on the cotton gloves again before retrieving the brass Cafe token
+- the active seven-minute glove lock begins from that visible Strip 008 donning action
+
+This section preserves the current V001 `gloved archival care` presentation while preventing the later Strip 008 glove-on action from becoming a duplicate/continuity error.
+
+## 1. Daniel Gloves — Active Connection Absolute
 
 Daniel puts on thin white cotton conservation gloves visibly in Strip 008 and **does not remove them during the active seven-minute connection**.
 
@@ -24,7 +37,7 @@ After closure the gloves may remain on through final evidence handling unless a 
 `PENCIL-DANIEL-01` is one ordinary wooden graphite pencil.
 
 State:
-1. intact through `I AM REAL.` writing
+1. intact through archive notes and `I AM REAL.` writing
 2. Daniel writes `ARTURO SALCEDO` in Strip 029
 3. graphite point chips/snaps once with wooden body still whole
 4. short blunt graphite remains exposed/usable

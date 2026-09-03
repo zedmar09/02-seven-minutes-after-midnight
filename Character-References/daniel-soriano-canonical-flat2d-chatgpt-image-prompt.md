@@ -22,6 +22,10 @@ Daniel Soriano, Filipino-Spanish adult man, exactly 36 years old in 2026.
 - careful, precise conservator posture
 - mature and quietly attractive, not idol-pretty or teenage
 
+## Production Side Lock
+
+Daniel is **right-hand dominant for writing/pencil work**. His right anatomical hand is the chapter's default `WRITING HAND`; reverse camera shots may flip screen position but may never silently make him left-handed. His left hand normally performs document support/loupe support when the script does not require another action.
+
 ## Wardrobe
 
 Primary work look:

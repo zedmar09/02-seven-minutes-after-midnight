@@ -11,6 +11,13 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 - [ ] evidence/scratch causality matches final glass treatment
 - [ ] state-resolution addendum synchronized
 
+## Sequential Strip Hardening
+- [x] Strip 001 local textual hardening audit completed
+- [ ] Strip 002 local textual hardening audit completed
+- [ ] Strip 003 local textual hardening audit completed
+- [ ] continue sequentially through Strip 036
+- [ ] no later strip inherits a PASS merely because an earlier strip passed
+
 ## Preproduction Package
 - [ ] `chapter-01-continuous-scroll-plan.md` = 180 beats V001–V180
 - [ ] `chapter-01-strip-manifest.md` = 36 strips
@@ -28,6 +35,7 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 - [ ] no visible Lilia without canonical; Chapter 1 remains voice-only
 
 ## Canonical Environments
+- [ ] **San Aurelio Municipal Museum archive/conservation workroom authority approved for Strips 001–003**
 - [ ] San Aurelio 2026 route/geometry approved
 - [ ] Cafe shared structure approved
 - [ ] Cafe 2026 state approved
@@ -40,11 +48,11 @@ Use only after formal hardening accepts the current 180-beat / 36-strip textual 
 - [ ] Cafe clock and station clock visually distinct
 
 ## Canonical Objects
+- [ ] **Daniel conservation/evidence kit approved: notebook, pencil, loupe, archival sheet/sleeve, removable cotton-glove identity**
 - [ ] Cafe token approved
 - [ ] Cafe connection clock approved
 - [ ] station clock authority approved if required
 - [ ] audit decides tongs/tray/saucer recurring reference need
-- [ ] audit decides Daniel notebook/paper/pencil system reference need
 
 ## Movement / No-Invisible-Action Gate
 For every strip:
@@ -60,7 +68,10 @@ For every strip:
 
 ## Character / Performance
 - [ ] Daniel canonical face/age/scar/hair/build
-- [ ] Daniel gloves visibly ON Strip 008 and remain ON through active connection
+- [ ] Daniel right-hand writing dominance remains stable
+- [ ] archive gloves remain ON Strips 001–003 and are visibly removed/stored before station departure
+- [ ] Strip 004 starts station visit bare-handed
+- [ ] Daniel gloves visibly ON again Strip 008 and remain ON through active connection
 - [ ] Tomas canonical face/age/low jade cord/hair/apron/build
 - [ ] two hands per character
 - [ ] hand side/occupancy stable
@@ -82,6 +93,7 @@ For every strip:
 - [ ] no station/Cafe clock identity swap
 
 ## Object Provenance QA
+- [ ] one notebook/pencil/loupe kit identity begins Strip 001 and persists where scripted
 - [ ] one token: retrieve Strip 008 → drop Strip 010 → remains floor
 - [ ] one tray: tilt Strip 011 → catch Strip 012 → set down Strip 013
 - [ ] one roll/saucer: prepare 020 → cross/age 021 → place 022

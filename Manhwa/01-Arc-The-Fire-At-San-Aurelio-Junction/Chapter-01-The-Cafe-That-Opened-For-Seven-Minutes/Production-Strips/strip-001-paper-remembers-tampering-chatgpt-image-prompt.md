@@ -1,85 +1,257 @@
-# Strip 001 — Paper Remembers Tampering — Deterministic Generation Prompt
+# Strip 001 — Paper Remembers Tampering — FIRST-STRIP HARDENED DETERMINISTIC GENERATION PROMPT
 
-**RENDER BLOCKED until required approved canonicals exist.**
+**LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED until the required approved WebPs exist.**
 
 Scope: V001–V005. Pre-station archive sequence. No time-slip active.
 
-Binding: `production-strip-global-contract.md` plus current chapter/continuity authorities.
+Binding: `production-strip-global-contract.md`, `../chapter-01-state-resolution-addendum.md`, current chapter/continuity authorities, and this local prompt.
 
-## Required Canonicals
+THIS IS THE FIRST STRIP. THERE IS NO PREVIOUS-STRIP CONTINUITY AUTHORITY.
 
-- `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
-- approved/archive-work micro-environment authority if hardening creates one; otherwise use only minimal neutral municipal archive context subordinate to story canon
+## ATTACH — REQUIRED — EXACT SET
+
+1. `../../../../Character-References/daniel-soriano-canonical-flat2d.webp`
+2. `../../../Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp`
+3. `../../../Object-References/daniel-conservation-evidence-kit-canonical-reference.webp`
+
+Missing authority = STOP. Do not substitute a generic archive room, generic notebook, generic pencil, generic loupe or improvised Daniel design.
 
 No Tomas. No Cafe Siete. No supernatural effects.
 
-## START STATE
+## FIRST-STRIP PURPOSE
 
-This is the first strip; there is no previous rendered-strip authority. Daniel is at his 2026 municipal-museum archive worktable during the same investigation session. Glasses/work clothing/canonical scar/hair/build are fully established here.
+Strip 001 must establish the first approved rendering of:
+- Daniel's current face/age/hair/scar/glasses/work-clothing identity
+- Daniel's right-hand writing dominance
+- the San Aurelio Municipal Museum archive/conservation workroom
+- the primary conservation worktable scale/topology
+- `NOTEBOOK-DANIEL-01`
+- `PENCIL-DANIEL-01`
+- `LOUPE-DANIEL-01`
+- archive-session cotton-glove state
+- a grounded procedural tone inherited by Strips 002–003
 
-## Vertical Rhythm
+This strip must make the reader understand **physical tampering happened** before Daniel writes his conclusion.
 
-- V001 hook + page turn: 21%
-- V002 paper-fiber proof: 20%
-- V003 signature comparison: 19%
-- V004 trimmed photograph: 20%
-- V005 notebook conclusion: 20%
+## SESSION / LIGHTING BASELINE
 
-Compact gutters. No equal comic-page grid. Evidence details must remain readable on phone.
+Same late-evening museum archive session that continues uninterrupted through Strips 002–003.
 
-## V001 — Hook / Real Page Turn
+- neutral practical workroom lighting
+- no changing daylight baseline
+- no rain inside archive
+- no mystery fog
+- no supernatural light/effect
+- no cinematic crime-lab blue/orange grade
 
-Camera: medium-close 3/4 Daniel at worktable, enough hands/page context to prove handling.
+## DANIEL — ABSOLUTE STRIP 001 STATE
 
-Action:
-1. one brittle fire-report page lies supported
-2. Daniel's fingertips contact the page edge
-3. he turns the same page once
-4. page settles flat
-5. `FLIP` occurs during real movement
+Use current Daniel canonical exactly:
+- 36-year-old adult
+- warm brown skin
+- long narrow mature face
+- tired dark eyes
+- close-cropped black curls
+- early silver at both temples
+- healed nose-bridge scar
+- thin rectangular amber-tinted conservation glasses **ON**
+- slate-blue matte chore jacket / neutral shirt / dark trousers
+- careful controlled conservator posture
 
-Narration, not dialogue:
+Archive-session hand state:
+- thin white cotton conservation gloves are already **ON both hands** at Strip 001 START
+- `WRITING HAND` = Daniel's **right anatomical hand**
+- `SUPPORT / LOUPE HAND` = Daniel's left anatomical hand when free
+- reverse views may flip screen position, never anatomical handedness
+
+The archive gloves persist through Strips 001–003 until Strip 003 visibly removes/stores them before Daniel leaves the museum. Strip 008 later shows a new visible glove-donning action before the Cafe token.
+
+## ARCHIVE ENVIRONMENT — ABSOLUTE
+
+Use `san-aurelio-municipal-archive-workroom-reference.webp` exactly once approved.
+
+Primary story-world table topology from Daniel's seated orientation:
+- CENTER = active fire-report/document zone
+- LEFT-OF-CENTER = signature/witness comparison zone
+- UPPER-LEFT = sleeved photograph on dark archival backing zone
+- LOWER-RIGHT = open Daniel notebook zone
+- directly ABOVE notebook = fixed pencil rest position when released
+- UPPER-RIGHT = compact conservation-tool tray / loupe rest
+
+Background must read as the same San Aurelio collection workroom, with a representative stable subset of damaged source boxes and the established tin-trunk/storage context. Do not turn the shot into a box-counting puzzle.
+
+The prior source context of a large water-damaged collection and redevelopment pressure must remain visually present through ordinary collection/project materials rather than cinematic exposition.
+
+## STRIP 001 OBJECT INVENTORY — ONE OF EACH
+
+- one active brittle fire-report folder/page cluster
+- one original-signature comparison document
+- one copied witness statement
+- one sleeved archival/newspaper photograph with a physically trimmed edge
+- `NOTEBOOK-DANIEL-01`, open to the current investigation page
+- `PENCIL-DANIEL-01`, intact point at Strip start
+- `LOUPE-DANIEL-01`, initially resting in its tool tray
+- one dark archival backing under/near the photograph zone
+
+No duplicates. Close-ups are same-object details.
+
+## START STATE — EXACT
+
+Daniel is seated at the canonical work position.
+
+Table before V001:
+- active fire-report open/supported at CENTER
+- comparison documents already present but not yet aligned at LEFT-OF-CENTER
+- sleeved trimmed photograph resting in UPPER-LEFT photo zone
+- notebook OPEN at LOWER-RIGHT
+- pencil resting horizontally immediately above notebook
+- loupe in UPPER-RIGHT tool tray
+
+Both gloved hands are free. Glasses ON. Daniel is calm, concentrated, not yet alarmed.
+
+## VERTICAL RHYTHM — READER FRIENDLY
+
+Approximate usable story-art allocation:
+- V001 environment/identity hook + page turn: **25%**
+- V002 altered-date proof / loupe mechanism: **18%**
+- V003 signature comparison: **18%**
+- V004 trimmed-photo proof: **22%**
+- V005 written conclusion / seam state: **17%**
+
+Do not make five equal boxes. V001 establishes the world; V004 receives extra room because the physical cut must be obvious at phone size.
+
+Use compact dark gutters. No giant dead bottom.
+
+## V001 — ARCHIVE HOOK / REAL PAGE TURN
+
+Camera:
+- medium-wide to medium 3/4 view
+- enough of Daniel, chair, worktable and stable archive background to establish subject/environment scale
+- Daniel's face/glasses/nose scar/hair/upper work outfit readable without glamour close-up
+
+Action chain:
+1. same brittle fire-report page lies fully supported at CENTER
+2. Daniel's left gloved fingertips contact a safe page edge
+3. right hand remains clear
+4. he turns exactly one page
+5. page travels through a real arc
+6. page settles flat before the view changes
+7. `FLIP` occurs during movement
+
+Narration:
 `DANIEL SORIANO TRUSTED PAPER MORE THAN PEOPLE.`
 
-Do not glamour-light Daniel. Procedural concentration only.
+No dialogue. No detective pose. No cinematic spotlight.
 
-## V002 — Paper Keeps the Damage
+## V002 — ALTERED DATE / LOUPE USE AND RETURN
 
-Use an adjacent same-document detail; do not create a second report.
+Same report; no second document.
 
-Show disturbed fibers/pressure marks around an altered old date. Daniel's loupe/magnification can be used only if physically supported and consistent with his canonical work kit.
+Action chain:
+1. left hand leaves the settled report only after table support is secure
+2. left hand reaches the real UPPER-RIGHT tool tray
+3. fingers grip `LOUPE-DANIEL-01`
+4. loupe travels to the altered-date area
+5. same page remains supported on table
+6. readable detail shows disturbed fibers/pressure marks around an altered old date
+7. Daniel's eye line aims through the real loupe toward that date
+8. after inspection, left hand returns the SAME loupe to its exact tray position
+9. fingers release; visible air gap proves release before V003
 
 Narration:
 `PAPER KEPT THE MARKS PEOPLE TRIED TO REMOVE.`
 
-No floating forensic UI.
+No floating forensic UI. No magical highlight.
 
-## V003 — Signature Mismatch
+## V003 — SIGNATURE COMPARISON / REAL PAPER SLIDE
 
-Return enough Daniel hand/desk context to prove same work session.
+Start only after the loupe has been released.
 
-- one original signature and one copied witness statement are compared
-- Daniel's pencil makes one restrained `TAP` beside the mismatch
-- pencil remains same object through later archive beats
-- no writing yet
+Action chain:
+1. left hand moves to the two existing comparison documents
+2. slides the original-signature source and copied witness statement into side-by-side alignment
+3. `SHFF` occurs during the real paper movement
+4. table fully supports both documents
+5. right `WRITING HAND` reaches to fixed pencil-rest position
+6. grips the SAME `PENCIL-DANIEL-01`
+7. pencil tip approaches the mismatch without touching fragile evidence directly
+8. one restrained `TAP` occurs on the safe adjacent folder/backing area beside the mismatch
+9. pencil remains in Daniel's right hand at V003 end
 
-## V004 — Trimmed Photograph
+Reader must understand that the signatures do not naturally match / one statement is a copy, without floating labels or fake digital overlays.
 
-Daniel slides one archival photograph beside the document. Show a real cut edge where the image has been physically trimmed.
+## V004 — TRIMMED PHOTOGRAPH / MATERIAL PROOF
 
-The reader must understand tampering from material evidence, not narration alone.
+All V003 documents remain on the table; they do not disappear when camera changes.
 
-No ghost face, mystery silhouette, or speculative missing-person reconstruction.
+Hand state:
+- right hand continues holding the same pencil low/clear of the photograph
+- left hand handles the **sleeve**, not a floating bare photograph
 
-## V005 — Written Conclusion
+Action chain:
+1. left gloved hand contacts the clear sleeve at UPPER-LEFT
+2. slides the SAME sleeved photograph onto the dark backing area
+3. restrained paper/plastic `SHFF`
+4. sleeve remains table-supported
+5. view makes the physical cut edge obvious: one clean trimmed edge interrupts/cuts through a partial anonymous shoulder/coat continuation at the photograph boundary
+6. no missing person's face is reconstructed or invented
+7. Daniel studies the edge; pencil never touches the photograph/sleeve
 
-Daniel opens/uses his notebook with real support. One hand stabilizes; writing hand writes:
+The reader should understand: this photograph was physically trimmed after printing, not merely composed tightly by a photographer.
+
+## V005 — NOTEBOOK CONCLUSION / EXACT SEAM STATE
+
+Notebook is already open from START; do not invent a new notebook or hidden opening action.
+
+Action chain:
+1. left hand moves from photograph sleeve to stabilize the open notebook at LOWER-RIGHT
+2. right hand brings SAME pencil from V003/V004 to the notebook
+3. pencil contacts real page
+4. Daniel writes exactly:
 `TAMPERING IS CONSISTENT.`
+5. subtle `SCRITCH...` follows the real graphite movement
+6. writing finishes
+7. pencil lifts clear
+8. right hand returns SAME pencil to the fixed horizontal rest position immediately above notebook
+9. fingers release before seam-out
 
-End only after pencil lifts and notebook remains supported.
+Daniel remains controlled. His certainty increases; no horror reaction.
 
-## END STATE / SEAM OUT
+## END STATE / STRIP 001 → 002 SEAM — ABSOLUTE
 
-Daniel remains at same archive desk/investigation session, calm but more certain. Fire-report documents, notebook, pencil and photograph are physically accounted for. Strip 002 continues immediately with the official fire-report contradiction.
+No time/location cut.
 
-Reject if evidence appears as abstract montage without real carriers, if hands duplicate, or if the visual tone becomes crime-thriller cinematic.
+Daniel:
+- same seated work position
+- same late-evening practical light
+- glasses ON
+- archive cotton gloves ON
+- calm but more certain
+- both hands free after pencil release
+
+Table:
+- fire-report open at CENTER on the current tampering page
+- original-signature document + copied witness statement aligned LEFT-OF-CENTER
+- same sleeved trimmed photograph supported on dark backing UPPER-LEFT
+- same loupe returned to UPPER-RIGHT tool tray
+- same notebook open LOWER-RIGHT with `TAMPERING IS CONSISTENT.` visible
+- same intact pencil resting horizontally above notebook
+
+Strip 002 must begin from this exact physical state before Daniel turns the fire report to the recorded service-corridor origin page.
+
+## REJECT STRIP 001 IF
+
+- generic/unapproved archive background substitutes for required workroom authority
+- Daniel's identity/age/scar/glasses/hair drifts
+- handedness flips
+- gloves vanish/change between slices
+- loupe appears/disappears without pickup/return
+- comparison documents appear already moved without the V003 slide
+- photo leaves its sleeve or duplicates
+- photograph crop does not visibly prove physical trimming
+- pencil duplicates, changes shape, switches hands or touches fragile evidence as a pointer
+- notebook appears only at V005 without existing at START
+- any SFX has no physical source
+- the five beats read as five equal page boxes
+- evidence becomes abstract floating montage
+- visual tone becomes glossy/cinematic crime thriller

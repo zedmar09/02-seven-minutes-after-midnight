@@ -4,17 +4,17 @@ Strip IDs are production-only. The reader sees one uninterrupted vertical chapte
 
 ## Current Status
 
-**PRODUCTION-STRIP REBUILD COMPLETE — 180-BEAT / 36-STRIP TEXTUAL PACKAGE — FORMAL HARDENING AUDIT PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
+**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIP 001 LOCAL TEXTUAL PASS — STRIPS 002–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
 
-This manifest replaces the former 16-strip map. The increase is not filler: it separates continuity-critical movement, dialogue handoffs, contact, object transfer, clock proof, SFX source, and reactions that were previously compressed into single large chunks.
+The 36-strip map separates continuity-critical movement, dialogue handoffs, contact, object transfer, clock proof, SFX source and reactions that were previously compressed.
 
 ## Strip Map
 
 | Strip | Beats | Purpose | Critical seam-out |
 |---:|---|---|---|
-| 001 | V001–V005 | paper-tampering hook / Daniel procedural identity | notebook records consistent tampering |
+| 001 | V001–V005 | paper-tampering hook / Daniel procedural identity | notebook records consistent tampering; exact archive desk frozen |
 | 002 | V006–V010 | official fire report vs maintenance diagram | contradiction written and preserved |
-| 003 | V011–V015 | repeated missing-name cuts / decision to visit | Daniel leaves archive with permit/flashlight |
+| 003 | V011–V015 | repeated missing-name cuts / decision to visit | Daniel leaves archive with permit/flashlight; archive gloves must be removed/stored visibly |
 | 004 | V016–V020 | 11:41 station threshold entry | Daniel inside; access door closed |
 | 005 | V021–V025 | station geometry / fixed 12:07 clue | Daniel moving toward Cafe Siete |
 | 006 | V026–V030 | Cafe sign / old `TOMAS` scratch / photo | scratch documented before Tomas appears |
@@ -51,31 +51,30 @@ This manifest replaces the former 16-strip map. The increase is not filler: it s
 
 ## Why 36 Strips
 
-A technical strip should contain one coherent micro-sequence that can be generated and audited without forcing the image model to improvise missing movement. The old 16-strip package frequently asked one generation chunk to establish several unrelated mechanisms at once.
+A technical strip should contain one coherent micro-sequence that can be generated and audited without forcing the image model to improvise missing movement.
 
-The new split follows these gates:
-- a physical action begins and reaches a readable result inside one strip whenever possible
-- a strip may end on a deliberate handoff state, but never on an undefined teleport/reset
-- dialogue and reaction remain in the same uninterrupted scene unless the seam explicitly carries pose/eyeline/emotion
-- object transfers are never split so source and destination become ambiguous
-- clock minute changes receive their own readable evidence beat
-- sound-first moments identify real direction/source before the next action
-- romance beats receive enough vertical room to read as adult performance rather than compressed exposition
+Global gates:
+- physical action reaches a readable result inside one strip whenever possible
+- a seam may carry a deliberate state but never an undefined teleport/reset
+- dialogue/reaction remain causally connected
+- object transfers preserve source→motion→receipt→support
+- clock minute changes receive readable proof
+- sound-first moments identify real direction/source
+- romance beats receive enough vertical room to read as adult performance
 
 ## Seam Types
 
-Use the following internal seam classes:
-- **G** — geometry/state carry: exact pose/object/location state persists
-- **A** — action handoff: next strip begins from a completed, explicitly named physical action state
-- **E** — emotional handoff: same scene; emotional intensity and eyeline persist
-- **T** — exact clock/time-state handoff
+- **G** — geometry/state carry
+- **A** — action handoff
+- **E** — emotional handoff
+- **T** — exact time-state handoff
 - **END** — chapter termination only
 
 | Boundary | Type | Required carry |
 |---|---|---|
-| 001→002 | G | archive desk, Daniel work state, same evidence session |
+| 001→002 | G | exact hardened archive desk; Daniel seated, glasses/archive gloves ON; both hands free; report center; comparison docs aligned; sleeved photo on backing; loupe returned; notebook open with conclusion; pencil resting above notebook |
 | 002→003 | G/E | contradiction concern persists into missing-name comparison |
-| 003→004 | T | legal location transition to 11:41 station visit; same clothing/permit/flashlight identity |
+| 003→004 | T | legal location transition; archive gloves visibly removed/stored before departure; station begins bare-handed with same clothing/permit/flashlight identity |
 | 004→005 | G | Daniel inside same station visit; door closed; rain state unchanged |
 | 005→006 | G | ticket-hall geometry and station-clock clue remain established |
 | 006→007 | G/A | scratch photo complete; Daniel at Cafe gate before opening |
@@ -91,20 +90,20 @@ Use the following internal seam classes:
 | 016→017 | T/A | 12:02 flicker just occurred; Daniel remains at same counter position |
 | 017→018 | A | Tomas wrist grip already complete; pain has not yet fired |
 | 018→019 | A/G | hands fully separated; service-window latch has sounded but not opened |
-| 019→020 | G | service window OPEN; both understand it as stable aperture |
+| 019→020 | G | service window OPEN; both understand stable aperture |
 | 020→021 | A | fresh roll on one saucer at Tomas-side sill |
 | 021→022 | G | same aged saucer fully Daniel-side and supported |
 | 022→023 | T/E | 12:03 established; proof accepted; urgency increased |
 | 023→024 | G/A | flashlight horizontal counter; clean archival sheet selected |
-| 024→025 | A | completed `I AM REAL.` sheet remains Daniel-side ready to pass |
+| 024→025 | A | completed `I AM REAL.` sheet Daniel-side ready to pass |
 | 025→026 | T/G | 12:04; archival sheet Tomas pocket; flashlight still counter until sleeve nudge |
-| 026→027 | G/E | flashlight floor; Lilia exchange complete; both back to each other |
+| 026→027 | G/E | flashlight floor; Lilia exchange complete; both return attention to each other |
 | 027→028 | T/E | inferred limit; next minute visibly becomes 12:05 |
-| 028→029 | E | white-suit detail isolated; Daniel immediately follows with name question |
+| 028→029 | E | white-suit detail isolated; Daniel follows with name question |
 | 029→030 | T/G | Arturo recorded; pencil blunt-usable; next visible clock state 12:06 |
-| 030→031 | E | Tomas fear exposed; `Daniel.` has just been spoken |
+| 030→031 | E | Tomas fear exposed; `Daniel.` just spoken |
 | 031→032 | E/G | tomorrow commitment established; service window OPEN |
-| 032→033 | A | exact warning page finished and Daniel-side |
+| 032→033 | A | exact warning page finished Daniel-side |
 | 033→034 | E/A | warm contact fully released; warning page Tomas-side |
 | 034→035 | T/A | connection CLOSED at 12:07; page in closing-boundary transit |
 | 035→036 | G/E | aged reply sleeved; Daniel turns toward final glass evidence |
@@ -112,33 +111,34 @@ Use the following internal seam classes:
 
 ## Canonical Attachment / Reference Audit Map
 
-This is a **hardening audit map**, not a claim that the listed WebPs already exist. Approved visual authorities are still missing. Where an authority is marked `PENDING HARDENING`, the audit must create/approve it before any dependent strip can render.
+This is a hardening map, not a claim that approved WebPs already exist.
 
 ### Planned permanent authority paths
 
 - `DANIEL` → `Character-References/daniel-soriano-canonical-flat2d.webp`
 - `TOMAS` → `Character-References/tomas-rivera-canonical-flat2d.webp`
+- `ARCHIVE` → `Manhwa/Environment-References/San-Aurelio-Municipal-Archive/san-aurelio-municipal-archive-workroom-reference.webp` — **REQUIRED by Strip 001 hardening decision**
+- `PAPER-KIT` → `Manhwa/Object-References/daniel-conservation-evidence-kit-canonical-reference.webp` — **REQUIRED by Strip 001 hardening decision**
 - `SJ26` → `Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-reference.webp`
 - `CAFE-S` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-shared-structure-reference.webp`
 - `CAFE-D` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-dual-era-state-reference.webp`
 - `TOKEN` → `Manhwa/Object-References/cafe-siete-token-canonical-reference.webp`
 - `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp`
 - `SCLOCK` → **PENDING HARDENING:** separate station-clock reusable authority if detailed recurring use requires one
-- `ARCHIVE` → **PENDING HARDENING:** decide whether Daniel archive worktable/document-handling micro-environment needs a reusable visual authority
-- `SERVICE` → **PENDING HARDENING:** decide whether service-window hardware/detail sheet is needed beyond Cafe environment pack
-- `BAKERY-TOOLS` → **PENDING HARDENING:** decide whether tongs/tray/saucer recurring object authority is required
-- `PAPER-KIT` → **PENDING HARDENING:** decide whether notebook/pencil/archival-sheet/sleeve authority is required
+- `SERVICE` → **PENDING HARDENING:** decide whether service-window hardware/detail sheet is needed beyond Cafe pack
+- `BAKERY-TOOLS` → **PENDING HARDENING:** decide whether tongs/tray/saucer recurring authority is required
 
 `PREV` means immediately previous **APPROVED rendered strip**, used only for temporary seam state after rendering begins.
 
 | Strip(s) | Characters | Environment | Core objects/details | Previous render |
 |---|---|---|---|---|
-| 001–003 | DANIEL | ARCHIVE if hardened | PAPER-KIT if hardened; archive evidence carriers | PREV for 002–003 |
+| 001 | DANIEL | ARCHIVE | PAPER-KIT + story-specific archive evidence carriers | none |
+| 002–003 | DANIEL | ARCHIVE | PAPER-KIT + archive evidence carriers | PREV |
 | 004 | DANIEL | SJ26 | access door/permit/flashlight state | PREV |
 | 005 | DANIEL | SJ26 | SCLOCK | PREV |
 | 006 | DANIEL | SJ26 + CAFE-S | painted-glass/sign zone | PREV |
 | 007 | DANIEL | CAFE-S + 2026 state from CAFE-D | gate/track/threshold geometry | PREV |
-| 008 | DANIEL | CAFE-S + 2026 state | TOKEN; PAPER-KIT only if required | PREV |
+| 008 | DANIEL | CAFE-S + 2026 state | TOKEN + PAPER-KIT glove identity | PREV |
 | 009 | DANIEL | CAFE-S + 2026 state | TOKEN + CCLOCK | PREV |
 | 010 | DANIEL | CAFE-S + CAFE-D | TOKEN + CCLOCK | PREV |
 | 011–013 | DANIEL + TOMAS | CAFE-S + CAFE-D | tray geometry / BAKERY-TOOLS if hardened | PREV |
@@ -146,31 +146,32 @@ This is a **hardening audit map**, not a claim that the listed WebPs already exi
 | 017–019 | DANIEL + TOMAS | CAFE-S + CAFE-D | SERVICE; exact counter/window geometry | PREV |
 | 020–022 | DANIEL + TOMAS | CAFE-S + CAFE-D | BAKERY-TOOLS; CCLOCK Strip 022 | PREV |
 | 023–025 | DANIEL + TOMAS | CAFE-S + CAFE-D | PAPER-KIT; CCLOCK Strip 025 | PREV |
-| 026–027 | DANIEL + TOMAS | CAFE-S + CAFE-D | flashlight; PAPER-KIT if hardened | PREV |
+| 026–027 | DANIEL + TOMAS | CAFE-S + CAFE-D | flashlight; PAPER-KIT | PREV |
 | 028–030 | DANIEL + TOMAS | CAFE-S + CAFE-D | CCLOCK; PAPER-KIT/pencil; practical-light state | PREV |
 | 031–033 | DANIEL + TOMAS | CAFE-S + CAFE-D | PAPER-KIT; SERVICE | PREV |
 | 034 | DANIEL + TOMAS | CAFE-S + CAFE-D | CCLOCK + SERVICE + warning page + Tomas temporary pencil | PREV |
-| 035 | DANIEL | CAFE-S + 2026 state | warning page / sleeve; SERVICE sealed state | PREV |
+| 035 | DANIEL | CAFE-S + 2026 state | warning page / PAPER-KIT sleeve; SERVICE sealed state | PREV |
 | 036 | DANIEL | CAFE-S + 2026 state + SJ26 | flashlight + painted glass + SCLOCK | PREV |
 
-### Hardening rule for this map
+### Reference Hardening Rule
 
-A strip cannot downgrade a `PENDING HARDENING` reference into improvised visual canon. The formal audit must decide whether the existing Cafe/Station packs are sufficient or create the additional authority before rendering. If a recurring object becomes identity-critical in two or more strips, default toward a canonical reference instead of relying on textual repetition.
+`ARCHIVE` and `PAPER-KIT` are no longer optional/pending for the Chapter 1 archive sequence. Their prompts/bibles now exist, but the actual approved WebPs are still missing and therefore block rendering.
+
+A remaining `PENDING HARDENING` reference cannot be downgraded into improvised visual canon. If a recurring object becomes identity-critical in two or more strips, default toward a canonical reference.
 
 ## Dialogue Flow Gate
 
-Every dialogue chain must remain comprehensible without relying on narration to explain the joke:
-- Tomas humor follows a concrete observation first
-- Daniel answers directly before shifting into analysis
+- humor follows a concrete observation first
+- Daniel answers directly before analysis
 - exposition is broken by reaction/verification beats
-- no character asks a question that the previous line already answered
-- no joke interrupts an unresolved physical danger beat
-- after 12:05 humor becomes shorter and functions as tension release, not scene derailment
+- no question repeats an answer already given
+- no joke interrupts unresolved physical danger
+- after 12:05 humor becomes shorter tension release
 
 ## SFX Source Gate
 
-Chapter 1 approved source vocabulary includes:
-- archive: `FLIP`, `TAP`, `SHFF`, `TIK`
+Approved source vocabulary includes:
+- archive: `FLIP`, `TAP`, `SHFF`, `TIK`, `SCRITCH...`
 - station/rain: `KLAK`, `TAP... TAP...`, `TIK... TIK...`, `PLIK`, `THUNK`
 - gate/cafe: `KRRK`, `SKRRRNNK`, `TINK`, `KLIK`, `TK`, `TICK`, `FZZT—THUM`
 - tray/service: `CLINK-CLINK`, `THK`, `TZK`, `KZT!`, `SKRRRRK`, `CLINK`, `SHHK`
@@ -178,7 +179,7 @@ Chapter 1 approved source vocabulary includes:
 - flashlight/pencil: `RRR...`, `CLACK`, `TK`, `SSSH`
 - lights/closure: `FZZT`, `KLIK`, `TAP`
 
-Exact lettering may be adjusted for legibility during hardening, but every SFX must remain physically sourced and correctly timed.
+Every SFX remains physically sourced and correctly timed.
 
 ## Authority Order
 
@@ -196,6 +197,6 @@ Permanent canon always outranks a previous strip.
 
 ## Render Gate
 
-The existence of 36 detailed prompt files does **not** mean ready to generate. Formal hardening audit and missing canonical WebPs remain blocking.
+Strip 001's local textual PASS does not mean it can render. Required approved WebPs are still missing.
 
-After those gates pass, generation is strictly `001 → 002 → ... → 036`; no skipping ahead.
+After all sequential hardening and canonical gates pass, generation remains strictly `001 → 002 → ... → 036`; no skipping ahead.
