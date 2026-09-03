@@ -9,7 +9,8 @@ Every continuity-critical object has one identity. Close-up, before/after state,
 | `GLOVES-DANIEL-01` | one pair white cotton conservation gloves | Daniel museum work kit | ON Strips 001–003 → visibly removed after evidence secured V015 → stored in `GLOVE-ENVELOPE-DANIEL-01` inside folio → visibly re-donned Strip 008 → remain ON through active connection/final evidence handling unless explicit removal | with Daniel; one pair only |
 | `PERMIT-FOLIO-SJ-01` | Daniel San Aurelio Junction field-access folio | 2026 museum field-gear zone | visibly retrieved Strip 003 → packed with notebook/pencil/clean supplies/glove envelope → carried under LEFT arm Strip 004 → persists into station/Cafe until visible placement/retrieval changes state | Daniel-side/possessed |
 | `KEY-ACCESS-SJ-01` | one authorized station mechanical key | clipped to folio exterior | carried out Strip 003 → Strip 004 V016 visibly unclipped → inserted/turned → `KLAK` latch release → withdrawn → re-clipped BEFORE door opening → remains clipped at Strip 004 end | with Daniel/folio; never duplicate key/fob |
-| `FLASHLIGHT-DANIEL-01` | Daniel compact flashlight | 2026 museum field-gear zone | visible pickup Strip 003 **OFF** → Strip 004 V016 visible right-thumb switch **ON** → remains ON through Strip 004→005 unless later visible toggle → station/Cafe search → later counter-supported → sleeve nudge 026 → roll/fall → fixed floor → retrieval 036 | held by Daniel final |
+| `FLASHLIGHT-DANIEL-01` | Daniel compact flashlight | 2026 museum field-gear zone | visible pickup Strip 003 **OFF** → Strip 004 V016 visible right-thumb switch **ON** → remains ON through Strip 004→006 unless later visible toggle → station/Cafe search → later counter-supported → sleeve nudge 026 → roll/fall → fixed floor → retrieval 036 | held by Daniel final |
+| `PHONE-DANIEL-01` | one unbranded matte 2026 smartphone | Daniel personal carry; concealed in canonical LEFT chest jacket pocket from Chapter 1 start | remains pocketed Strips 001–005 → first visible retrieval Strip 006 → LEFT-hand documentation of `TOMAS` while RIGHT hand retains flashlight → visibly returns to same LEFT chest pocket before 006→007 seam → later same phone reappears Strip 023 for “glowing brick” exchange → never crosses service window | remains Daniel's 2026 personal phone; no duplicate device |
 | `NOTEBOOK-DANIEL-01` | Daniel field notebook | 2026 archive table | archive notes → packed folio Strip 003 → later visibly available/retrieved for Cafe writing → source warning page | with Daniel; may preserve pre-rewrite notes |
 | `PENCIL-DANIEL-01` | Daniel wooden graphite pencil | 2026 archive table | archive notes → packed folio Strip 003 → later Cafe writing / Arturo → point chips 029 → blunt usable → warning 032 | same blunt chipped pencil with Daniel |
 | `TOKEN-01` | brass Cafe Siete token marked `7` | ordinary 1980s token surviving under counter | Daniel retrieves 008 → holds → drops 010 → floor impact/skitter | Daniel 2026 floor near counter; Chapter 2 retrieve/bag |
@@ -37,6 +38,7 @@ At Strip 004 START:
 - key clipped folio exterior
 - flashlight RIGHT hand OFF
 - hands bare
+- phone remains concealed in LEFT chest pocket
 
 V016:
 - flashlight switches ON visibly and remains same object
@@ -47,13 +49,29 @@ V017–V020:
 - folio remains LEFT-arm supported
 - key remains clipped
 - flashlight remains RIGHT hand ON
-- no object is stored in a pocket/offscreen substitute
+- phone remains pocketed
+- no object is stored in an offscreen substitute
 
 Strip 004 END / Strip 005 START:
 - folio LEFT arm
 - key clipped exterior
 - flashlight RIGHT hand ON
+- phone LEFT chest pocket
 - notebook/pencil/gloves/clean paper remain packed inside folio
+
+## Strip 006 Phone / Digital Documentation Lock
+
+Strip 006 begins with `PHONE-DANIEL-01` still concealed in the LEFT chest patch pocket.
+
+V030:
+1. LEFT upper arm keeps `PERMIT-FOLIO-SJ-01` clamped to torso.
+2. LEFT hand visibly retrieves the SAME phone from the LEFT chest pocket.
+3. RIGHT hand keeps the SAME ON flashlight illuminating `SCRATCH-TOMAS-01`.
+4. LEFT hand performs one actual camera capture with one `SNAP`.
+5. Capture documents the existing physical scratch only; it does not alter glass/history.
+6. SAME phone visibly returns to the SAME LEFT chest pocket before Strip 006 seam-out.
+
+The resulting digital image is data stored on the same phone, not a second physical photograph. No printed copy is created in Chapter 1 unless later explicitly scripted.
 
 ## Contact / Carrier Locks
 
@@ -66,6 +84,7 @@ Strip 004 END / Strip 005 START:
 - same archive gloves stored Strip 003/re-donned Strip 008; no second pair.
 - folio is a carrier, not magic inventory: later retrieval requires visible action when continuity-critical.
 - key is never a fob/card/second key and must not remain in station lock after V016.
+- `PHONE-DANIEL-01` is one device only and returns to the LEFT chest pocket whenever not visibly used.
 
 ## Planned Arc 1 / Mystery Objects
 
@@ -90,6 +109,8 @@ Strip 004 END / Strip 005 START:
 ## Scratch Evidence Is Environmental
 
 `SCRATCH-TOMAS-01` and `SCRATCH-FIRE-01` belong to Cafe glass/sign zone and are tracked in evidence ledger.
+
+Strip 006 documents only `SCRATCH-TOMAS-01`; `SCRATCH-FIRE-01` remains physically present but unreadable until the final reveal.
 
 ## Audit Rule
 

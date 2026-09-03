@@ -40,6 +40,19 @@ Primary work look:
 - soft-soled practical shoes
 - white cotton conservation gloves shown as removable working equipment, not permanently fused to hands
 
+### Chore-Jacket Pocket Lock
+
+The slate-blue chore jacket includes one stable rectangular **LEFT chest patch pocket with a real top opening**.
+
+This pocket is large enough to carry `PHONE-DANIEL-01` in ordinary vertical orientation without changing Daniel's silhouette dramatically.
+
+Continuity:
+- `PHONE-DANIEL-01` may remain concealed inside this pocket when unused
+- Strip 006 is the first Chapter 1 scene that visibly retrieves the phone
+- phone retrieval does not authorize a new pocket, jacket redesign, hidden holster or second device
+
+Do not swap the pocket to Daniel's right side in reverse shots. Camera reversal may flip screen position, never story-world garment construction.
+
 ## Reference Views
 
 Include:
@@ -49,10 +62,11 @@ Include:
 4. full-body standing neutral view
 5. three-quarter-back/full-body view showing haircut/jacket silhouette
 6. restrained expression row: neutral concentration, dry amusement, startled disbelief, controlled fear/tenderness
+7. one small wardrobe-construction detail proving the LEFT chest patch pocket placement/opening
 
 ## Identity Notes
 
-Keep the same face, age, scar, hairline, temple-silver pattern, build and wardrobe construction in every view. Natural asymmetry is welcome; redesign is not.
+Keep the same face, age, scar, hairline, temple-silver pattern, build, wardrobe construction and left-chest pocket placement in every view. Natural asymmetry is welcome; redesign is not.
 
 Do not give Daniel real-country identity props, round schoolboy glasses, fashionable undercut, long hair, beard, fantasy clothing, corporate power suit, gothic coat, superhero proportions, or glossy cinematic styling.
 

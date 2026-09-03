@@ -20,6 +20,26 @@ The approved pack must establish one shared physical cafe structure across both 
 - fixed wall/opening geometry
 - physically plausible Daniel/Tomas sightlines and hand-contact positions
 
+## 2026 Entrance / Sign / Painted-Glass Authority — Required
+
+Strip 006 hardening requires an additional reusable frontage authority:
+
+`cafe-siete-2026-entrance-sign-glass-reference.webp`
+
+Generated from:
+`cafe-siete-2026-entrance-sign-glass-reference-prompt.md`
+
+It locks:
+- ticket-hall approach → Cafe frontage relationship
+- exact `CAFE SIETE` fascia sign placement
+- half-collapsed sliding-grille gate geometry/track/leading edge
+- fixed RIGHT-side painted-glass evidence panel
+- `TOMAS` scratch position/scale/age treatment
+- lower fire-warning evidence zone remaining unreadable until final reveal
+- fixed shallow sill/ledge beneath the glass for later physically valid gear support
+
+This reference is additional to the shared structural/floor-layout authority and must not contradict it.
+
 ## 1986 State
 
 Operational fictional railway cafe:
@@ -48,9 +68,10 @@ At minimum approve WebPs for:
 1. shared structural/floor-layout authority
 2. 2026 cafe wide
 3. 1986 cafe wide
-4. counter + service-window geometry authority
-5. clock/menu-wall authority
-6. dual-era state sheet or compatible paired reference proving one structure
-7. useful reverse-angle/angle-atlas authority
+4. **2026 entrance/sign/gate/painted-glass evidence authority**
+5. counter + service-window geometry authority
+6. clock/menu-wall authority
+7. dual-era state sheet or compatible paired reference proving one structure
+8. useful reverse-angle/angle-atlas authority
 
 Exact filenames must be committed and referenced by Chapter 1 production Markdown before generation.

@@ -1,6 +1,6 @@
 # Chapter 1 Sequential Strip Hardening Audit Log
 
-Status: **IN PROGRESS — STRIPS 001–005 LOCAL TEXTUAL HARDENING PASS — STRIPS 006–036 PENDING.**
+Status: **IN PROGRESS — STRIPS 001–006 LOCAL TEXTUAL HARDENING PASS — STRIPS 007–036 PENDING.**
 
 A PASS here is textual/preproduction only; it does not approve missing canonical WebPs or rendered pixels.
 
@@ -20,226 +20,236 @@ Each strip checks:
 
 ---
 
-## Strip 001 — Paper Remembers Tampering
+## Strips 001–004 — Existing Local Passes
 
-Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES STILL BLOCK RENDERING.**
+Prior accepted hardening remains binding:
+- 001 establishes the deterministic archive desk, Daniel identity/handedness and evidence handling
+- 002 proves the fire-report / maintenance-diagram contradiction through visible document retrieval/comparison
+- 003 proves repeated death-notice cuts, secures originals and visibly transitions Daniel into field mode
+- 004 performs authorized station entry using the same key/folio/flashlight, one real threshold crossing and one delayed door closer
 
-Accepted repairs:
-- archive environment mandatory
-- evidence kit/document authorities established
-- real page/loupe/document/photo/notebook movements shown
-- right-hand writing dominance + archive gloves locked
-- exact 001→002 desk state frozen
-- maintenance diagram exists off-table in fixed rack
-
----
-
-## Strip 002 — The Fire Report Does Not Match
-
-Previous: Strip 001 PASS.
-
-Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 001 STILL BLOCK RENDERING.**
-
-Accepted repairs:
-- same `REPORT-FIRE-01`
-- maintenance diagram visibly retrieved from fixed rack
-- trace occurs on protective sleeve
-- silent report→diagram→report verification before `That doesn't match.`
-- same pencil writes and returns to rest
-- exact 002→003 desk state frozen
-
----
-
-## Strip 003 — The Missing Names
-
-Previous: Strip 002 PASS.
-
-Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 002 STILL BLOCK RENDERING.**
-
-Accepted repairs:
-- inherited 002 evidence visibly reconfigured, not deleted
-- A/B/C are three distinct sleeved notices from one casualty folder
-- one ruler proves same-width/same-position cuts before `Same width.`
-- originals secured before Daniel leaves
-- same gloves removed/stored one at a time
-- notebook/pencil/clean paper packed
-- field folio/key/flashlight carry established
-- Strip 003 end flashlight state = OFF
-- exact 003→004 field carry frozen
-
----
-
-## Strip 004 — 11:41 PM / Station Entry
-
-Previous: Strip 003 PASS.
-
-Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 003 STILL BLOCK RENDERING.**
-
-Accepted repairs:
-- legal travel cut changes only location/weather/pose
-- same folio/key/flashlight carried
-- flashlight visibly switched OFF→ON
-- one real key unlock chain; key re-clipped before door use
-- exact access-door hinge/lock geometry authority added
-- one delayed hydraulic closer controls entire door close
-- complete threshold crossing shown
-- localized wetness only
-- `KLAK`, `TAP... TAP...`, rain/drip and `THUNK` have physical sources
-- station clock deliberately withheld until Strip 005
-- exact 004→005 paused entry state frozen
+No later PASS overrides those states.
 
 ---
 
 ## Strip 005 — The Station Clock
 
-Previous: **Strip 004 — LOCAL TEXTUAL PASS**.
+Previous: Strip 004 PASS.
 
-Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / SJ26 / SJ26-ENTRY / FIELD-KIT / STATION-CLOCK WEBPS AND APPROVED RENDERED STRIP 004.**
+Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 004 STILL BLOCK RENDERING.**
+
+Accepted repairs:
+- real continuation from Strip 004 pause, no teleport to clock
+- deeper 5–6m walk clears first iron-column sightline
+- one real `PLIK` drop/puddle source
+- same flashlight scan leads physically to `CLOCK-STATION-01`
+- dedicated large dark-iron station-clock authority established
+- exact `12:07`, hour/minute hands only, no second hand/ticking
+- Daniel says only `Stopped.`
+- Daniel pivots toward Cafe but first Cafe-bound step is withheld for Strip 006
+
+---
+
+## Strip 006 — Cafe Siete / TOMAS
+
+Previous: **Strip 005 — LOCAL TEXTUAL PASS**.
+
+Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / SJ26 / CAFE-S / CAFE-ENTRY / FIELD-KIT / STATION-CLOCK WEBPS AND APPROVED RENDERED STRIP 005.**
 
 ### Script / Reader Logic — PASS AFTER REPAIR
 
-Strip 005 now performs one clear clue sequence:
-1. Daniel physically continues walking from the exact Strip 004 pause
-2. station architecture opens naturally as he clears the first iron-column line
-3. one real drip/puddle sound briefly redirects his attention
-4. the same flashlight scan rises and discovers the station clock in context
-5. same-object detail proves exact `12:07`
-6. Daniel says only `Stopped.`
-7. he pivots toward Cafe Siete route but does not take the next step yet
+Strip 006 now performs one connected evidence sequence:
+1. Daniel takes the first actual Cafe-bound step from the exact Strip 005 pivot
+2. he walks the real station route before `CAFE SIETE` becomes readable
+3. continued approach proves the Cafe frontage/gate/glass topology
+4. a raking flashlight angle reveals the old physical `TOMAS` scratch
+5. Daniel completes a visible stop before reaching for any documentation device
+6. the same carried phone is visibly retrieved, used once, and returned
+7. Daniel says only `That's not recent.`
+8. the gate remains closed and untouched for Strip 007
 
-The strip does not explain why 12:07 matters and does not connect the clue to the time-slip yet.
+No supernatural event occurs and Tomas does not appear.
 
-### 004 → 005 Continuity — PASS
+### 005 → 006 Continuity — PASS
 
 No reset:
-- Daniel begins about 2–3m inside side ticket-hall route
-- access door closed/latched behind
-- hands bare
+- Daniel starts at the exact Strip 005 clock-view waypoint
+- feet/body already pivoted toward Cafe route
+- first Cafe-bound step has NOT happened yet
 - folio LEFT arm
 - key clipped exterior
-- flashlight RIGHT hand ON / beam low-forward
-- same lightly damp clothing
-- station clock not yet visible/readable
+- flashlight RIGHT hand ON and lowered toward Cafe route
+- hands bare
+- station clock fixed behind/up-left
+- `PHONE-DANIEL-01` concealed in canonical LEFT chest pocket
 
-### Walking / Route Movement — PASS AFTER REPAIR
+### Clock → Cafe Route Movement — PASS AFTER REPAIR
 
-Old prompt could still jump from the side entry to a generic ticket-hall view.
+The old prompt allowed Cafe signage to appear too quickly after the clock clue.
 
 Hardening now requires:
-- first visible step from V020 planted stance
-- real weight transfer
-- two to three additional ordinary walking steps
-- roughly another 5–6m of approved deeper route
-- first major iron-column line physically cleared
-- access door recedes by room depth rather than disappearing
+- first visible step from Strip 005 planted stance
+- another ordinary step before the sign becomes active evidence
+- roughly 5–7m of approved station travel from clock waypoint to Cafe frontage
+- V027 continues two to three steps and reaches roughly 1.5–2.5m from the gate
+- station clock remains fixed behind/side and recedes naturally
 
-No teleport to the clock.
+No clock→Cafe teleport.
 
-### Station Environment / Clock Bay — TEXTUAL PASS / VISUAL BLOCKER
+### Cafe Frontage Authority — TEXTUAL PASS / VISUAL BLOCKER
 
-San Aurelio 2026 authority now locks:
-- `CLOCK-STATION-01` high on deep ticket-hall wall
-- clock above central old ticket-window run
-- threshold sightline blocked by column/depth
-- first legal readable sightline only after Strip 005 deeper movement
-- Cafe Siete forward-right beyond the clock-view waypoint
-- one minor leak path adjacent to the clock bay but not over the clock
+New required reusable authority:
+`Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-entrance-sign-glass-reference.webp`
 
-### `CLOCK-STATION-01` Canonical — REQUIRED AFTER HARDENING
+It locks:
+- `CAFE SIETE` fascia above frontage
+- gate/opening LEFT/CENTER
+- fixed painted-glass panel RIGHT
+- gate slides/stacks LEFT
+- gate leading pull edge RIGHT nearest glass
+- shallow fixed sill beneath glass
+- route from ticket hall to frontage
+- `TOMAS` scratch position
+- lower fire-warning evidence zone remaining unreadable
 
-New required authority:
-`Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp`
+This removes model freedom to move the sign, glass, scratch or gate between views.
 
-Permanent design:
-- 70–80cm institutional wall clock
-- matte blackened/dark-iron frame
-- warm-ivory enamel face
-- bold numerals/minute ticks
-- thick hour/minute hands only
-- **NO second hand**
-- exact 2026 state `12:07`
+### `TOMAS` Scratch Reveal — PASS
 
-This makes it impossible to confuse with `CLOCK-CAFE-01`, the smaller brass-rimmed connection clock with a second hand.
+`SCRATCH-TOMAS-01`:
+- exact `TOMAS`
+- fixed upper-middle glass position
+- old incised physical grooves with dirt/grime
+- revealed only when Daniel's right-hand flashlight rakes the glass at the scripted angle
+- no glow/self-writing/magical lettering
 
-### V022 Sound / Environment — PASS
+V028 is the primary evidence reveal.
 
-One controlled sound only:
-`PLIK`
+### Final Fire-Warning Concealment — PASS
 
-Mechanism:
-- visible drop forms/falls from approved damaged transom/roof-plaster seam
-- impacts one small shallow puddle at floor margin
-- Daniel glances/redirects beam toward the source
+`SCRATCH-FIRE-01` already exists physically on the same glass but remains reader-unreadable.
 
-No generic rain SFX layer and no glossy flooded floor.
+Strip 006 protects the final hook through:
+- lower physical position
+- heavier grime/damaged paint/dust
+- strongest beam remaining on the upper `TOMAS` zone
+- explicit rejection of partial readable warning wording
 
-### V023 Beam → Clock Discovery — PASS
+Strip 006 does not create the later warning and does not reveal it early.
 
-Same right-hand flashlight:
-- rises from puddle/damaged wall scan
-- crosses real ticket-window wall geometry
-- reaches station-clock outer rim
-- Daniel's eyeline follows
-- final half-step plants
-- Daniel stops before the close proof
+### Stop Before Documentation — PASS
 
-The first clock view remains contextual; V024 owns the exact time proof.
+V029 now performs a complete walking result:
+- leading foot plants
+- trailing foot settles
+- shoulders/torso stop
+- flashlight steadies
+- Daniel studies the scratch
 
-### V024 `12:07` Proof — PASS
+Phone remains pocketed until this stop is complete.
 
-Same physical clock only.
+This prevents discovery → instant photo compression.
 
-Mobile-readable proof:
-- minute hand = seventh minute tick
-- hour hand slightly past 12
-- no second hand
-- no movement/ticking SFX
-- exact `12:07`
+### Photography Device Provenance — PASS AFTER REPAIR
 
-A close-up cannot become a second clock.
+The prior prompt had an unresolved “phone/camera if available” state. That was rejected.
+
+`PHONE-DANIEL-01` is now one permanent recurring personal object:
+- ordinary unbranded 2026 smartphone
+- defined in Daniel's field-access-kit authority
+- carried in Daniel's canonical LEFT chest patch pocket
+- concealed throughout Strips 001–005
+- first visible retrieval Strip 006
+- same phone later supports Strip 023's “glowing brick” exchange
+- never crosses the service window in Chapter 1
+
+No second camera/phone.
+
+### V030 Hand Occupancy / Photo Chain — PASS
+
+Physical support is exact:
+- RIGHT hand keeps `FLASHLIGHT-DANIEL-01` ON and illuminating `TOMAS`
+- LEFT upper arm clamps `PERMIT-FOLIO-SJ-01` against torso
+- LEFT hand retrieves phone from LEFT chest pocket
+- left thumb performs wake/camera action
+- LEFT hand frames the same physical scratch
+- one capture owns one `SNAP`
+- Daniel inspects physical age and says `That's not recent.`
+- SAME phone locks/darkens and returns visibly to SAME LEFT chest pocket
+
+Strip ends with left hand free again.
+
+Exactly two hands; folio does not float.
+
+### Digital Evidence / Object Provenance — PASS
+
+The phone capture is data stored on `PHONE-DANIEL-01`, not a new physical evidence object.
+
+It does not:
+- alter the glass
+- duplicate the scratch
+- create a printed photograph
+- automatically bypass future timeline rewrite rules
+
+The physical glass remains the primary evidence carrier.
+
+### SFX — PASS
+
+Required:
+- `SNAP` — one actual phone-camera capture only
+
+Optional:
+- one restrained walking `TAP...` only if visibly attached to a real V027 foot plant
+
+No scratch SFX. No gate SFX. Gate is untouched until Strip 007.
 
 ### Dialogue / Performance — PASS
 
-Daniel line remains:
-`Stopped.`
+Only spoken line:
+`That's not recent.`
 
-It follows the clock proof. His reaction stays controlled/procedural, not supernatural horror.
+It follows documentation and physical-age observation.
 
-No extra exposition such as `Why twelve-oh-seven?` is permitted yet.
+Daniel does not infer who Tomas is, mention time travel, or expose the lower warning.
 
 ### Vertical Rhythm — PASS
 
 Current target:
-- V021 25%
-- V022 12%
-- V023 22%
-- V024 27%
-- V025 14%
+- V026 20%
+- V027 18%
+- V028 24%
+- V029 12%
+- V030 26%
 
-V024 dominates as clue proof; V021 gets room for real spatial continuity.
+V028 owns the scratch reveal; V030 gets room for the complete phone action chain.
 
-### Strip 005 → 006 Seam-Out — PASS AFTER REPAIR
+### Strip 006 → 007 Seam-Out — PASS AFTER REPAIR
 
 Exact state:
-- Daniel remains planted at fixed clock-view waypoint, roughly 7–9m total from side access
-- body/feet pivoted toward forward-right Cafe Siete route
-- first Cafe-bound step has NOT happened yet
+- Daniel planted immediately outside/at the closed Cafe gate/frontage
+- Cafe threshold NOT crossed
+- gate closed enough to block entry and stationary
+- fascia above; painted glass RIGHT; sill beneath glass EMPTY
+- `TOMAS` remains on same glass and is digitally documented
+- lower fire warning unreadable
 - hands bare
-- folio left arm
+- folio LEFT arm
 - key clipped exterior
-- flashlight right hand ON / beam lowered toward Cafe-route darkness
-- `CLOCK-STATION-01` remains fixed `12:07` behind/up-left relative to Daniel's new facing
+- flashlight RIGHT hand ON
+- phone fully returned LEFT chest pocket
+- left hand free/lightly steadying folio
+- no gate contact has occurred
 
-Strip 006 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
+Strip 007 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
 
 ### Next-Strip Finding Preserved
 
-Strip 006 still has unresolved photography-device provenance. Hardening did **not** invent a phone/camera offscreen. The Strip 006 audit must establish the real device identity/source before V030 can photograph `TOMAS`.
+Strip 007 requires two real hands to test/drag the gate. It must therefore visibly place/support the folio and flashlight before gate contact. The new fixed glass sill provides a physically valid support zone, but exact support orientation, flashlight power state, gate leverage and 007→008 seam must be decided during Strip 007 hardening rather than assumed here.
 
 ---
 
 ## Next Audit
 
-**Strip 006 — Cafe Siete / TOMAS**
+**Strip 007 — Opening the Gate / Abandoned Cafe**
 
-Do not inherit Strip 005 PASS into Strip 006. Audit the clock→Cafe walking route, sign/scratch geometry, flashlight beam continuity, exact stop before photography, camera/phone provenance, `SNAP` source, concealed second scratch and 006→007 gate position independently.
+Do not inherit Strip 006 PASS into Strip 007. Audit gear placement, flashlight power/support, two-hand gate test, gate-track movement, body leverage, dust/SFX source, gear reacquisition, threshold crossing, 2026 Cafe-wide geography and 007→008 glove/token-search state independently.

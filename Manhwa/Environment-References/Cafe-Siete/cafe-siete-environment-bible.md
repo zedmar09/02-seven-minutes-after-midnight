@@ -32,6 +32,39 @@ Until approved WebPs establish exact measured geometry, generation remains block
 - cafe glass/sign zone where `TOMAS` and later fire warning are scratched in 2026
 - floor/wall relationships and circulation space
 
+## Entrance / Frontage Geometry — Strip 006+ Absolute
+
+The dedicated 2026 entrance authority further locks the ticket-hall-facing frontage.
+
+From the ticket hall while facing Cafe Siete:
+- main gate/opening occupies LEFT/CENTER frontage
+- fixed painted-glass evidence panel occupies RIGHT frontage
+- `CAFE SIETE` fascia sign spans above the entrance/glass relationship
+- collapsible metal gate slides/stacks toward the LEFT when opened
+- gate leading pull edge remains on the RIGHT side nearest the painted-glass panel
+- shallow fixed sill/ledge sits below the painted-glass panel and remains a later valid gear-support surface
+
+The Cafe frontage is approximately another 5–7 m forward-right from Strip 005's station-clock viewing waypoint. Daniel must visibly walk that distance/route; no camera cut may move him directly to the gate.
+
+## Painted-Glass Evidence — Absolute
+
+One fixed RIGHT-side painted-glass panel carries both Chapter 1 scratches.
+
+`SCRATCH-TOMAS-01`:
+- exact visible text `TOMAS`
+- upper-middle evidence zone, approximately 1.35–1.50 m above floor
+- visibly old physical incision with grime in grooves
+- reader-visible in Strip 006 under a raking flashlight angle
+
+`SCRATCH-FIRE-01`:
+- same glass, lower zone approximately 0.90–1.10 m above floor
+- physically exists in baseline 2026 before Chapter 1
+- heavier grime/damaged paint/dust plus normal approach angle keep it unreadable in Strip 006
+- must not become readable merely because `TOMAS` is lit
+- exact final wording remains withheld until Strip 036
+
+No glowing letters, self-writing effect, magical highlight, or moving scratch geometry.
+
 ## 1986 Material / State Vocabulary
 
 - intact green-and-cream station/cafe tile relationships where visible
@@ -65,4 +98,4 @@ Daniel and Tomas must be able to catch opposite edges of the same tray/counter i
 
 ## Final Evidence Geometry
 
-After 12:07 the cafe is fully 2026 again. The returned aged page lands on the counter. Daniel can then discover `FIRE STARTS IN THE SERVICE CORRIDOR.` on the same Cafe Siete glass/sign zone that already carried `TOMAS`.
+After 12:07 the cafe is fully 2026 again. The returned aged page lands on the counter. Daniel can then discover `FIRE STARTS IN THE SERVICE CORRIDOR.` on the same fixed Cafe Siete glass/sign panel that already carried `TOMAS`. The final discovery changes only flashlight angle/attention; the scratch does not appear or move.

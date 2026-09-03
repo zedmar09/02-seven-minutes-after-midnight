@@ -9,7 +9,7 @@ Recurring plot-critical objects use approved canonical WebPs as permanent produc
 - **San Aurelio station clock `CLOCK-STATION-01`** — large dark-iron institutional ticket-hall clock; fixed `12:07` clue in Strip 005 and final Strip 036 echo
 - **Daniel conservation/evidence kit** — notebook, pencil, loupe, ruler, archival sheet/sleeve and one removable cotton-glove pair
 - **San Aurelio fire-evidence document system** — official fire report, maintenance diagram, trimmed photograph, casualty folder and three cut death notices
-- **Daniel station field-access kit** — permit folio, station access key, same flashlight and glove envelope; locks archive→station→Cafe carry continuity
+- **Daniel station field-access kit** — permit folio, station access key, same flashlight, glove envelope, and `PHONE-DANIEL-01`; locks archive→station→Cafe carry continuity
 - Tomas brass pastry tongs if repeated prominently
 - recurring evidence photographs/letters when exact physical identity becomes continuity-critical
 
@@ -19,6 +19,20 @@ Planned authorities:
 - `daniel-conservation-evidence-kit-canonical-reference-prompt.md` → `daniel-conservation-evidence-kit-canonical-reference.webp`
 - `san-aurelio-fire-evidence-document-system-canonical-reference-prompt.md` → `san-aurelio-fire-evidence-document-system-canonical-reference.webp`
 - `daniel-station-field-access-kit-canonical-reference-prompt.md` → `daniel-station-field-access-kit-canonical-reference.webp`
+
+## `PHONE-DANIEL-01` Continuity — Absolute
+
+The phone is one recurring personal object, not a generic device that may redesign per strip.
+
+Locked carry/use:
+- unbranded matte 2026 smartphone design is defined inside the Daniel field-access-kit authority
+- stored in Daniel's canonical LEFT chest patch pocket when unused
+- first visible Chapter 1 retrieval = Strip 006 to photograph `TOMAS`
+- returned visibly to the same pocket before Strip 006 seam-out
+- later same phone is available in Strip 023 for the “glowing brick” exchange
+- phone does not cross the service window in Chapter 1
+
+No second phone/camera may appear.
 
 ## Two-Clock Object Rule — Absolute
 

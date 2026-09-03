@@ -1,6 +1,6 @@
 # Chapter 1 State Resolution Addendum
 
-Status: **BINDING CHAPTER-LOCAL CONTINUITY CLARIFICATION — SYNCHRONIZED THROUGH STRIP 004 HARDENING.**
+Status: **BINDING CHAPTER-LOCAL CONTINUITY CLARIFICATION — SYNCHRONIZED THROUGH STRIP 006 HARDENING.**
 
 This addendum resolves temporary state questions without changing Phase 1 mystery solution or Chapter 1 endpoint.
 
@@ -27,11 +27,14 @@ Strip 003 V015 visibly:
 
 **Flashlight Strip 003 END state = OFF in Daniel's RIGHT hand.** Strip 004 must visibly switch it ON; legal travel cut cannot silently activate it.
 
+`PHONE-DANIEL-01` is already Daniel's personal pocket carry and remains concealed in the canonical LEFT chest patch pocket through Strips 001–005. No visible pocket retrieval occurs before Strip 006.
+
 Strip 004 begins:
 - hands BARE
 - folio under/against LEFT arm
 - flashlight RIGHT hand OFF
 - station access key clipped until visibly used
+- phone remains LEFT chest pocket
 
 Strip 008 later visibly re-dons SAME cotton glove pair before Cafe token. No second pair.
 
@@ -57,6 +60,7 @@ V017:
 - key stays clipped
 - flashlight remains RIGHT hand ON
 - folio remains LEFT-arm supported
+- phone remains pocketed
 
 V018–V019:
 - Daniel moves 2–3 meters into ticket-hall side route
@@ -76,9 +80,28 @@ Strip 004 END / Strip 005 START:
 - folio LEFT arm
 - key clipped exterior
 - flashlight RIGHT hand ON, beam low-forward
+- phone LEFT chest pocket
 - no station-clock clue revealed yet
 
 No silent flashlight toggle, key duplication, door reset or alternate closing mechanism.
+
+## 0B. Strip 005 → 006 Clock / Cafe Route — Absolute
+
+Strip 005 establishes `CLOCK-STATION-01` only after real deeper walking.
+
+Strip 005 END:
+- Daniel remains at the fixed station-clock viewing waypoint
+- body/feet pivoted toward forward-right Cafe Siete route
+- first Cafe-bound walking step has NOT occurred yet
+- folio LEFT arm
+- key clipped exterior
+- flashlight RIGHT hand ON and lowered toward Cafe-route darkness
+- phone remains LEFT chest pocket
+- station clock remains fixed `12:07` behind/up-left relative to Daniel's Cafe-facing orientation
+
+Strip 006 must begin with the first visible walking step away from this waypoint before the Cafe frontage/sign can become the active clue.
+
+No clock-to-Cafe teleport.
 
 ## 1. Daniel Gloves — Active Connection Absolute
 
@@ -107,11 +130,62 @@ At Strip 003 END it contains:
 `KEY-ACCESS-SJ-01`:
 - clipped exterior at Strip 003 end
 - visibly unclipped/used/re-clipped Strip 004 V016
-- Strip 004 END = clipped to same exterior position
+- Strip 004 END onward = clipped to same exterior position unless later visible change
 
 Folio persists as supported field gear through station/Cafe sequence unless later audited strip visibly changes position.
 
 Notebook/pencil/paper cannot reappear later without retrieval from inherited carrier or another explicit support state.
+
+## 2A. `PHONE-DANIEL-01` / Scratch Documentation — Absolute
+
+`PHONE-DANIEL-01` is one recurring personal 2026 smartphone defined inside Daniel's field-access-kit authority.
+
+Permanent carry:
+- concealed in Daniel's canonical LEFT chest patch pocket when unused
+- not stored inside `PERMIT-FOLIO-SJ-01`
+- no second phone/camera
+
+Strip 006 first visible use:
+1. Daniel completes the physical stop in front of the Cafe Siete painted-glass zone before reaching for the phone.
+2. RIGHT hand continues holding `FLASHLIGHT-DANIEL-01` ON and keeps `SCRATCH-TOMAS-01` illuminated.
+3. LEFT upper arm clamps/supports `PERMIT-FOLIO-SJ-01`.
+4. LEFT hand visibly retrieves SAME phone from LEFT chest pocket.
+5. LEFT hand performs one actual photo capture; one `SNAP` at capture.
+6. Capture documents the existing physical `TOMAS` scratch only.
+7. LEFT hand visibly returns SAME phone to SAME LEFT chest pocket before Strip 006 seam-out.
+
+Strip 006 END / Strip 007 START:
+- phone fully pocketed
+- flashlight RIGHT hand ON
+- folio LEFT arm
+- key clipped
+- hands bare
+- Daniel outside closed Cafe gate
+
+Strip 023 later reuses this SAME phone for the “glowing brick” exchange. It does not cross the service window in Chapter 1.
+
+## 2B. Cafe Siete Entrance / Scratch Visibility — Absolute
+
+Strip 006 uses the fixed 2026 frontage authority.
+
+From ticket hall facing Cafe:
+- gate = LEFT/CENTER frontage
+- painted-glass evidence panel = RIGHT frontage
+- `CAFE SIETE` fascia = above
+- shallow support sill = beneath glass
+
+`SCRATCH-TOMAS-01`:
+- upper-middle painted-glass zone
+- reader-visible in Strip 006 under raking flashlight
+- old physical damage, no glow/self-writing
+
+`SCRATCH-FIRE-01`:
+- lower on same glass
+- physically present baseline 2026
+- heavier grime/damaged paint/dust plus Strip 006 beam angle keep wording unreadable
+- must remain concealed until Strip 036
+
+Strip 006 does not touch/open the gate. Strip 007 inherits the exact outside-gate state and must visibly free both hands before gate work.
 
 ## 3. Pencil Break — Deterministic Mechanism
 
@@ -141,14 +215,15 @@ Chapter 2 opening visibly retrieves/bags same token before departure.
 1. starts Strip 003 in archive field-gear zone OFF
 2. Daniel visibly picks it up Strip 003 V015; remains OFF at archive departure
 3. Strip 004 V016 RIGHT thumb visibly switches SAME flashlight ON before key/door work
-4. remains ON through Strip 004 END and must be inherited ON by Strip 005
-5. later station/Cafe strips may change power state only through visible audited action; no silent toggle
-6. later lies horizontally on 2026 counter before reverse-transfer test
-7. Daniel sleeve visibly nudges it Strip 026
-8. rolls `RRR...`
-9. falls/hits floor `CLACK`
-10. remains fixed floor location through Strip 035
-11. Daniel visibly retrieves SAME flashlight Strip 036 before final glass inspection
+4. remains ON through Strip 004→006 unless later visible audited action toggles it
+5. Strip 006 RIGHT hand retains flashlight throughout phone documentation
+6. later station/Cafe strips may change power state only through visible audited action; no silent toggle
+7. later lies horizontally on 2026 counter before reverse-transfer test
+8. Daniel sleeve visibly nudges it Strip 026
+9. rolls `RRR...`
+10. falls/hits floor `CLACK`
+11. remains fixed floor location through Strip 035
+12. Daniel visibly retrieves SAME flashlight Strip 036 before final glass inspection
 
 Final Chapter 1 flashlight state = held by Daniel.
 
@@ -192,7 +267,7 @@ Both `TOMAS` and `FIRE STARTS IN THE SERVICE CORRIDOR.` exist physically in base
 
 Second warning initially hidden by grime/dust/damage/view angle.
 
-Strip 036 reveals by changing flashlight angle, not self-writing history.
+Strip 006 documents only `TOMAS` using the same phone. Strip 036 reveals the lower warning by changing flashlight angle, not by self-writing history.
 
 ## 10. Service Window
 
@@ -223,6 +298,7 @@ At V180 / end Strip 036:
 - `TOKEN-01` 2026 floor near counter
 - `PASTRY-01` + `SAUCER-01` aged Daniel-side
 - `FLASHLIGHT-DANIEL-01` retrieved/held Daniel
+- `PHONE-DANIEL-01` remains Daniel's 2026 personal device unless a later audited strip changes exact pocket/support state
 - `PENCIL-DANIEL-01` same blunt chipped pencil
 - `TRAY-01` 1986 path
 - `PERMIT-FOLIO-SJ-01` Daniel-side supported/possessed unless later audit fixes exact support
