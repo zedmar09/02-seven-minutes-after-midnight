@@ -7,8 +7,22 @@ Use this template for every production strip. Strip Markdown is production-only;
 - Chapter:
 - Strip:
 - Beat range:
-- Clock start/end:
+- Cafe clock start/end:
+- Station clock state if visible:
 - Era state:
+- current chapter connection duration:
+
+## Creator Continuity Inputs
+
+List exact creator authorities relevant to this strip:
+- timeline/date state
+- time-slip state ledger entry
+- chapter-local state-resolution addendum
+- evidence causality entries
+- temporal-object provenance entries
+- any creator-only mystery fact required for correct physical staging but not reader revelation
+
+If the strip contradicts creator continuity, STOP and repair the prompt/story authority before generation.
 
 ## Required Attached Canonicals
 
@@ -19,22 +33,45 @@ List exact approved repository `.webp` paths for:
 
 If a required WebP is missing or unapproved, STOP.
 
+## Continuity-Critical Object IDs
+
+List creator ledger IDs used in this strip, for example:
+- `TOKEN-01`
+- `PAPER-REAL-01`
+- `NOTE-WARN-01`
+- `PENCIL-DANIEL-01`
+- `CLOCK-CAFE-01`
+- `CLOCK-STATION-01`
+
+No ID may refer to two physical objects.
+
 ## START STATE
 
 Define exact inherited state:
 - character pose/facing/location
 - hand occupancy/gestures
-- wardrobe/accessories
+- wardrobe/accessories/glove state
 - object locations/count/orientation/age
 - service-window state
-- clock minute
+- Cafe-clock minute/second
+- station-clock state if visible
 - 1986/2026 environment state
 - lighting/rain/steam/audio state
 - emotional intensity
+- historical settlement state
 
 ## ALLOWED CHANGES
 
 List only scripted changes permitted during this strip.
+
+Do not silently:
+- repair a broken prop
+- recover missing time
+- retrieve a floor object
+- remove/add gloves/accessories
+- change clock identity
+- change object age/provenance
+- rewrite external history before legal settlement
 
 ## MANDATORY STORY BEATS
 
@@ -47,19 +84,23 @@ For every continuity-critical action define one mechanism with visible contact/s
 ## TIME-SLIP / OBJECT PROVENANCE
 
 For each crossing object specify:
+- creator object ID
 - same physical object identity
 - origin era
 - source hand/surface
 - threshold crossing
 - age/state transformation
 - destination hand/surface
-- final location
+- final location/history state
+
+For historical-change beats, also specify whether the external rewrite occurs now or only after connection closure under the rewrite protocol.
 
 ## CAMERA / GEOGRAPHY
 
 - preserve approved environment geometry
 - preserve world-space character sides
 - preserve service-window/counter/clock relationships
+- distinguish Cafe connection clock from station clock
 - no fisheye or forced scale distortion
 - use same-object detail views when mobile proof needs enlargement
 
@@ -77,13 +118,27 @@ Reject photorealism, 3D/CGI, glossy/plastic rendering, airbrush/painterly realis
 
 Record exact state inherited by the next strip:
 - pose/facing/gesture
-- held/placed props
-- exact clock minute
+- held/placed props and creator IDs
+- exact Cafe-clock minute/second
+- station-clock state if shown
 - object provenance/age/location
 - service-window state
 - era activation state
 - lighting/weather/audio
 - emotional intensity
+- historical settlement status
+
+## CHAPTER-END STATE — When Final Strip
+
+If this is the final strip, explicitly record:
+- every unresolved physical object location
+- current connection duration for next standard meeting
+- settled historical changes
+- memory/knowledge state
+- unresolved evidence
+- required next-chapter opening cleanup/retrieval actions
+
+Synchronize permanent new facts back into creator ledgers before declaring chapter production complete.
 
 ## VISUAL QA GATE
 

@@ -2,7 +2,9 @@
 
 **RENDER BLOCKED until required approved WebPs exist.**
 
-Beat range: V031–V037. Clock: 12:00 → 12:01.
+Beat range: V031–V037. Clock: `CLOCK-CAFE-01` 12:00 → 12:01.
+
+`CLOCK-STATION-01` remains a separate 2026 station clue and is not the active countdown clock.
 
 ## Required Canonicals
 
@@ -14,7 +16,7 @@ Beat range: V031–V037. Clock: 12:00 → 12:01.
 
 ## START STATE
 
-Same uninterrupted conversation from Strip 004 at 12:00. Daniel/Tomas positions, clothing, hair, glasses/gloves, tray state, and cafe geometry persist.
+Same uninterrupted conversation from Strip 004 at Cafe clock 12:00. Daniel/Tomas positions, clothing, hair, glasses/gloves, tray state, token-floor state, and cafe geometry persist.
 
 ## Mandatory Reader Beats
 
@@ -24,16 +26,19 @@ Same uninterrupted conversation from Strip 004 at 12:00. Daniel/Tomas positions,
 4. Tomas: `Nineteen eighty-six. October seventeenth. San Aurelio Junction. Cafe Siete. Midnight shift, unfortunately. Your turn.`
 5. Daniel grips the shared counter. A fresh coffee ring from Tomas's side appears near him and visibly dries immediately in 2026.
 6. Daniel: `Twenty twenty-six.`
-7. Clock advances to exact `12:01` only after the year reveal.
-8. Tomas notes: `That clock has been broken for two years.` Daniel: `On my side, it stopped at twelve oh seven.`
+7. Cafe clock advances to exact `12:01` only after the year reveal.
+8. Tomas notes: `That clock has been broken for two years.` This refers to `CLOCK-CAFE-01`.
+9. Daniel: `On my side, it stopped at twelve oh seven.` This also refers to the inactive 2026 state of the same Cafe clock, not the separate station clock.
 
 ## Physical / Era Locks
 
 - Do not merge the eras into one generic room.
 - Same counter geometry across both states.
 - Coffee ring is one cross-era state event; do not duplicate multiple rings unless script explicitly shows them.
-- Clock time must be exact and readable.
+- Cafe clock time must be exact and readable.
+- Avoid including `CLOCK-STATION-01` in the same active-time composition unless the later hardening pass explicitly designs a non-confusing contrast.
+- Daniel cotton gloves remain ON.
 
 ## END STATE
 
-Both understand the 1986/2026 split. Clock exact 12:01. Conversation continues without pose/emotion reset into Strip 006.
+Both understand the 1986/2026 split. Cafe clock exact 12:01. Conversation continues without pose/emotion/glove reset into Strip 006.

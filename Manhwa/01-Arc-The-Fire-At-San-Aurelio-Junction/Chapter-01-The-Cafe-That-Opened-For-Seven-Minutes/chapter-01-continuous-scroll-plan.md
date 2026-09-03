@@ -2,6 +2,8 @@
 
 Internal beat IDs are production-only and must never appear in reader-facing art.
 
+`chapter-01-state-resolution-addendum.md` is binding for temporary-state details that this beat plan originally left ambiguous.
+
 ## Chapter Intent
 
 Open as grounded archival mystery, transition into impossible but physically specific time-slip contact, build adult chemistry through short exchanges and material evidence, then close on a sharper historical-conspiracy hook.
@@ -24,7 +26,7 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V007** — Rain through plausible roof damage; station architecture establishes arched windows, tile, iron, brass, boarded ticket windows.
 
-**V008** — Station clock clue: stopped at 12:07.
+**V008** — `CLOCK-STATION-01` clue: the large 2026 ticket-hall station clock is stopped at exact `12:07`. This is separate from the Cafe Siete connection clock.
 
 ### Cafe Siete Discovery
 
@@ -40,7 +42,7 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V014** — Daniel's flashlight catches brass beneath counter lip.
 
-**V015** — He sets folder safely, puts on cotton gloves, retrieves object.
+**V015** — He sets folder safely, puts on thin white cotton conservation gloves, retrieves object. The gloves remain ON through the active connection unless an explicit later beat removes them; Chapter 1 contains no such removal.
 
 **V016** — Brass Cafe Siete token proof: cup + `CAFE SIETE`; reverse `7`; aged green corrosion edge.
 
@@ -48,17 +50,17 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 ### Activation — 12:00
 
-**V018** — Station/cafe answers with a distinct click; Daniel freezes and identifies it as not rain/settling metal.
+**V018** — Cafe answers with a distinct click; Daniel freezes and identifies it as not rain/settling metal.
 
-**V019** — Brass-rimmed cafe clock visibly moves from the stopped 12:07 state.
+**V019** — `CLOCK-CAFE-01`, the brass-rimmed Cafe Siete wall clock, visibly moves from its inactive stopped `12:07` state. Do not use `CLOCK-STATION-01` for this reset.
 
-**V020** — Clock snaps to exact `12:00`.
+**V020** — Cafe clock snaps to exact `12:00`.
 
-**V021** — Cafe practical lights activate; Daniel drops the same token.
+**V021** — Cafe practical lights activate; Daniel drops the same token. `TOKEN-01` lands on Daniel's 2026-side floor near the counter and remains there through Chapter 1 unless cropped/occluded.
 
 **V022** — Sensory/visual state shift: real warmth, coffee steam, butter/bread, wet coats, station voices/announcement.
 
-**V023** — Broken stools / pastry case / painted glass resolve into operational 1986 state while Daniel remains anchored to the 2026 side.
+**V023** — Broken stools / pastry case / painted glass resolve into operational 1986 access while Daniel remains anchored to the 2026 side.
 
 ### Tomas Reveal / Shared Tray
 
@@ -66,7 +68,7 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V025** — Tray tilts; Daniel catches one edge by reflex.
 
-**V026** — Tomas catches the same tray; their fingers touch against brass; one tray only.
+**V026** — Tomas catches the same tray; their fingers touch against brass/tray edge; one tray only. Daniel remains cotton-gloved.
 
 **V027** — Both freeze; Tomas looks from Daniel's gloved hand to Daniel's face to the ruined 2026 cafe behind him.
 
@@ -90,7 +92,7 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V036** — Daniel: `Twenty twenty-six.`
 
-**V037** — Clock progresses to exact `12:01`; Tomas notes his clock has been broken for two years; Daniel says his side stopped at 12:07.
+**V037** — `CLOCK-CAFE-01` progresses to exact `12:01`; Tomas notes that **the cafe clock** has been broken for two years; Daniel says on his 2026 side it rests at 12:07. `CLOCK-STATION-01` remains a separate station clue and should not be used as the active countdown.
 
 ### Names / Scratch / 12:02
 
@@ -108,13 +110,13 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V044** — Wax-paper joke / `That is a private accusation.`
 
-**V045** — Clock exact `12:02`; lights flicker.
+**V045** — Cafe clock exact `12:02`; lights flicker.
 
 ### Unstable Contact / Service Window
 
 **V046** — Daniel's left hand partially loses stable counter contact; same physical hand/body remains readable.
 
-**V047** — Tomas catches Daniel's wrist; skin-through-cotton contact, pulse, sharp pain; both release/react.
+**V047** — Tomas catches Daniel's wrist/hand during unstable counter overlap; Tomas is bare-handed, Daniel remains in thin cotton glove. Sustained contact causes sharp phase-shear pain; both release/react.
 
 **V048** — Service window slides open by itself; same structural opening, 2026 lower char versus clean 1986 condition.
 
@@ -132,7 +134,7 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V054** — 1986 station announcement: `Last southbound service delayed.`
 
-**V055** — Clock exact `12:03`.
+**V055** — Cafe clock exact `12:03`.
 
 ### Daniel Sends Proof — 12:04
 
@@ -152,45 +154,63 @@ Open as grounded archival mystery, transition into impossible but physically spe
 
 **V061** — Tomas reads `I am real`, folds same sheet, stores it in front apron pocket; `Then I am real too.`
 
-**V062** — Clock exact `12:04`; cafe lights flicker harder.
+**V062** — Cafe clock exact `12:04`; cafe lights flicker harder.
 
 ### Lilia Voice / 12:05 / Arturo
 
-**V063** — Daniel's flashlight rolls from counter and hits 2026 floor; sound crosses the scene.
+**V063** — Daniel's flashlight rolls from counter and hits 2026 floor; it remains there unless a later beat visibly retrieves it. Chapter 1 contains no required retrieval.
 
 **V064** — Lilia remains offscreen voice: `Tomas! Are you charming the midnight customers again?` Tomas: `Only the impossible ones, Tiya Lilia.` Lilia: `Impossible customers pay first.`
 
 **V065** — Tomas explains: `My aunt. Not by blood. By volume.` Daniel quietly memorizes Tomas's visual details without glamour recasting.
 
-**V066** — Daniel asks whether this happens every night; Tomas jokes about charging admission; they recognize the clock may define the interval.
+**V066** — Daniel asks whether this happens every night; Tomas jokes about charging admission; they recognize the Cafe clock may define the interval.
 
-**V067** — Clock exact `12:05`; narration/acting communicates two minutes left.
+**V067** — Cafe clock exact `12:05`; narration/acting communicates two minutes left.
 
 **V068** — Daniel asks for unusual events. Tomas lists station incidents, a broker in a white suit, failed southbound signal, burned first pan de leche tray, and the `beautiful museum ghost` joke.
 
 **V069** — Daniel focuses on white suit. Tomas identifies `Arturo Salcedo`, says he has visited station offices all month and `Smiles like a knife under a napkin.`
 
-**V070** — Daniel writes Arturo's name; pencil lead snaps; dust shifts on Daniel's side.
+**V070** — Daniel writes Arturo's name with `PENCIL-DANIEL-01`. The graphite point chips/snaps once; a short blunt graphite section remains exposed and physically usable. Dust shifts on Daniel's side.
 
 ### 12:06 Promise / Warning Page
 
-**V071** — Clock exact `12:06`; 1986 practical lights begin going out one by one behind Tomas; his fear becomes undisguised.
+**V071** — Cafe clock exact `12:06`; 1986 practical lights begin going out one by one behind Tomas; his fear becomes undisguised.
 
 **V072** — Tomas: `Daniel.` Daniel: `Tomorrow. Come back tomorrow at midnight.` Tomas jokes about Daniel turning bread elderly; when asked `Will you?`, answers `Obviously.`
 
-**V073** — Daniel tears one notebook page and writes exact warning:
+**V073** — Daniel tears one notebook page and writes with the SAME blunt-but-usable pencil:
 `DO NOT TELL ANYONE ABOUT ME.`
 `KEEP THIS HIDDEN.`
 `COME BACK TOMORROW.`
-He pushes that same page through the service window; Tomas takes it; fingers brush without the earlier pain—only warmth.
+He pushes that same page through the service window; Tomas takes it. Tomas's bare fingertips brush Daniel's still cotton-gloved fingertips without the earlier pain—Daniel feels warmth through the thin fabric. Fingers separate naturally.
 
 ### Closure / Returned Evidence / Final Hook
 
-**V074** — Clock clicks to exact `12:07`; connection closes. Operational 1986 cafe disappears from Daniel's access and full 2026 abandoned state returns. After a controlled silence, the SAME warning page slips from the sealed window forty years older: yellowed edges, faded pencil, brown smoke stain, Tomas's added `I WILL BRING BETTER BREAD.` Daniel carefully sleeves it, turns toward the Cafe Siete glass, and discovers beneath `TOMAS` the second scratch `FIRE STARTS IN THE SERVICE CORRIDOR.` Final image confirms station clock fixed at `12:07`.
+**V074** — Cafe clock clicks to exact `12:07`; connection closes. Operational 1986 access disappears and full 2026 abandoned state returns. Service window seals. After a controlled silence, the SAME warning page completes closing-boundary transit and slips from the sealed service-window area forty years older: yellowed edges, faded pencil, brown smoke stain, Tomas's added `I WILL BRING BETTER BREAD.` Daniel carefully sleeves it, turns toward the Cafe Siete painted glass/sign zone, and discovers beneath `TOMAS` the second pre-existing scratch `FIRE STARTS IN THE SERVICE CORRIDOR.` Final image confirms `CLOCK-STATION-01` fixed at `12:07`.
+
+Creator-only transfer clarification: Tomas adds his reply and re-inserts the same page into the service-window aperture during the unseen final fraction before closure; the object is already in boundary transit when the visual connection seals. Do not show a magical duplicate page creation.
 
 ## Non-Negotiable Order
 
-Do not move Arturo after the closure, reveal the fire warning before the returned page, show `I WILL BRING BETTER BREAD.` before 12:07, or let the pastry aging test occur before the service window opens.
+Do not move Arturo after the closure, reveal the fire warning before the returned page, show `I WILL BRING BETTER BREAD.` before the post-closure arrival, or let the pastry aging test occur before the service window opens.
+
+## Chapter 1 Final Temporary State
+
+The exact Chapter 2 inheritance state is defined by `chapter-01-state-resolution-addendum.md` and `../../Continuity/temporal-object-provenance-ledger.md`.
+
+Important end states include:
+- aged reply page sleeved with Daniel
+- `I AM REAL.` sheet remains in Tomas's 1986 historical path
+- token remains on Daniel's 2026 floor near counter
+- aged pastry/saucer remain on Daniel side
+- flashlight remains on Daniel-side floor unless visibly retrieved
+- same blunt pencil remains Daniel's
+- service window sealed
+- Cafe connection inactive
+- Cafe clock inactive at 12:07
+- station clock separately fixed at 12:07
 
 ## Production Note
 

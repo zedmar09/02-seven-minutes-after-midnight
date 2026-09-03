@@ -2,7 +2,7 @@
 
 **RENDER BLOCKED until required approved WebPs exist.**
 
-Beat range: V071–V072. Clock: exact 12:06.
+Beat range: V071–V072. Clock: `CLOCK-CAFE-01` exact 12:06.
 
 ## Required Canonicals
 
@@ -14,11 +14,11 @@ Beat range: V071–V072. Clock: exact 12:06.
 
 ## START STATE
 
-Arturo name already recorded; pencil lead broken; flashlight remains on Daniel-side floor; archival sheet remains Tomas apron pocket. Service window OPEN.
+Arturo name already recorded. Same pencil graphite point is chipped/snapped but a short blunt section remains usable. Flashlight remains on Daniel-side floor. Archival sheet remains Tomas apron pocket. Service window OPEN. Daniel cotton gloves remain ON.
 
 ## Mandatory Reader Beats
 
-1. Clock exact `12:06`.
+1. Cafe clock exact `12:06`.
 2. Operational 1986 practical lights begin going out one by one behind Tomas. Preserve one real light-state progression rather than random cinematic flashes.
 3. Tomas looks over shoulder toward the failing cafe and then back. Fear reaches his face clearly for the first time without recasting him.
 4. Tomas: `Daniel.`
@@ -31,10 +31,18 @@ Arturo name already recorded; pencil lead broken; flashlight remains on Daniel-s
 
 Emotion progresses from earlier humor into real fear/tenderness. No crying collapse, villainous lighting, seductive glamour, or chibi joke acting.
 
+## Prop Locks
+
+- `PENCIL-DANIEL-01` remains the same blunt-but-usable pencil; do not sharpen/replace it offscreen.
+- flashlight remains floor
+- `PAPER-REAL-01` remains Tomas apron pocket
+- token remains Daniel-side floor near counter, even if cropped
+- Daniel gloves remain ON
+
 ## Time Locks
 
 Hold exact 12:06 through the end. Do not show 12:07 until closure Strip 014.
 
 ## END STATE
 
-Tomas has verbally committed to return tomorrow. 1986 lights are progressively failing. Service window remains open. Daniel prepares to send warning page in Strip 013.
+Tomas has verbally committed to return tomorrow. 1986 lights are progressively failing. Service window remains open. Daniel prepares to send warning page in Strip 013 using the same blunt pencil.

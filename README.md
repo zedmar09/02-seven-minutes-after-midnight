@@ -22,11 +22,12 @@ Reader-facing chapters are continuous vertical-scroll Korean manhwa/webtoon chap
 
 For active Manhwa production, authority is:
 1. current user instruction
-2. current audited chapter/strip script
-3. approved character canonical WebP(s)
-4. approved environment canonical WebP(s)
-5. approved recurring-object canonical WebP(s)
-6. immediately previous approved strip for temporary pose/prop/time/seam state only
+2. creator-only continuity authority under `Manhwa/Continuity/`
+3. current audited chapter/strip script and chapter-local state addenda
+4. approved character canonical WebP(s)
+5. approved environment canonical WebP(s)
+6. approved recurring-object canonical WebP(s)
+7. immediately previous approved strip for temporary pose/prop/time/seam state only
 
 Permanent canon always outranks a previous rendered strip. Missing, stale, wrong-path, or unapproved required canonical assets are blocking.
 
@@ -50,18 +51,20 @@ Reject photorealism, semi-photorealism, 3D/CGI/game-render appearance, painterly
 
 ## Core Time-Slip Rules
 
-1. Cafe Siete opens the connection at 12:00 AM and closes at 12:07 AM.
-2. Daniel occupies 2026; Tomas occupies 1986.
-3. Both can share the counter/service-window threshold while the connection is active, but living bodies cannot fully cross.
-4. The service window is the reliable exchange point for small objects and controlled hand contact.
-5. Objects sent from 1986 to 2026 acquire forty years of aging unless the story explicitly establishes temporary protection.
-6. Objects sent from 2026 to 1986 appear unnaturally new and then adapt to the older era after the connection closes.
-7. Direct attempts to alter major history damage or shorten the connection.
-8. The brass cafe clock expresses the connection state and remaining time.
-9. Lost connection time is not assumed to recover unless the story explicitly proves it.
-10. The station fire is a fixed archival event, but the surviving record may be incomplete, falsified, or deliberately damaged.
+1. Cafe Siete opens the standard connection at 12:00 AM.
+2. The original healthy interval is seven minutes; historical interference or boundary damage can permanently shorten later windows.
+3. Daniel occupies 2026; Tomas occupies 1986, normally on the same calendar month/day forty years apart.
+4. Both can share limited co-registered counter contact, but the service window is the stable exchange/contact aperture.
+5. Living bodies cannot fully cross.
+6. Objects sent from 1986 to 2026 acquire approximately forty years of material aging unless the story explicitly establishes another state.
+7. Objects sent from 2026 to 1986 enter real 1986 causal history after closure and age forward normally.
+8. Direct attempts to alter major history or force living-boundary crossing can reduce future connection time.
+9. The brass Cafe Siete clock is the connection-state clock; the larger 2026 station clock is a separate historical clue.
+10. Lost connection time is not assumed to recover unless the story explicitly earns a stabilization/recovery mechanism.
 11. The 1986 and 2026 cafe are the same physical architecture in different historical states; camera changes may not redesign the building.
-12. If Tomas survives through a sufficiently large historical change, Daniel may lose the abandoned cafe and possibly the memories created through it.
+12. Saving Tomas too strongly may erase the abandoned cafe and possibly the memories created through it.
+
+Detailed creator-only mechanics live under `Manhwa/Continuity/`.
 
 ## Character Canonical Status
 
@@ -88,25 +91,45 @@ Recurring plot-critical objects belong under `Manhwa/Object-References/`.
 
 Priority objects include:
 - brass Cafe Siete token marked `7`
-- brass-rimmed cafe clock
+- brass-rimmed Cafe Siete connection clock
+- separate San Aurelio station-clock authority
 - service-window hardware where treated as a recurring mechanism
 - Tomas's brass pastry tongs
 - Daniel's conservation notebook / archival paper system
 - recurring photographs, letters, and fire evidence when their physical identity matters to continuity
 
+## Creator-Only Continuity Architecture
+
+`Manhwa/Continuity/` now contains the Phase 1 continuity system for later chapter creation and audit:
+- Arc 1 date/timeline authority
+- shrinking-window state ledger
+- time-slip/threshold mechanics
+- timeline rewrite/settlement protocol
+- temporal object provenance
+- evidence causality/authorship
+- Arc 1 chapter continuity matrix
+- creator-only San Aurelio fire solution
+
+These files may contain unrevealed spoilers and must not be copied wholesale into reader-facing chapter text.
+
 ## Current Production Status
 
-Arc 1 is planned for 15 chapters. Chapter 1 story canon exists and is being rebuilt as a continuous vertical Manhwa production package.
+Arc 1 is planned for 15 chapters.
 
-There is no active Chapter 2 production folder in the current repository. Earlier documentation that claimed Chapter 2 files or completed Chapter 1 reader WebPs existed was stale and has been retired.
+Chapter 1 story canon exists as a 74-beat / 16-strip continuous-scroll package. Phase 1 story/continuity architecture is now locked for a later hardening audit.
 
-`PRODUCTION COMPLETE` is forbidden until required canonicals exist, all strips are generated and visually approved sequentially, the stitched chapter passes seam/continuity QA, and a fresh final clean-room audit finds zero unresolved mandatory findings.
+There is no active Chapter 2 production folder yet. Chapter 2 should inherit the new continuity ledgers only after the planned hardening audit and Chapter 1 authority synchronization are accepted.
+
+No rendered Chapter 1 strip is approved. Required canonical WebPs are still missing.
+
+`PRODUCTION COMPLETE` is forbidden until required canonicals exist, all strips are rebuilt/hardened as needed, generated and visually approved sequentially, the stitched chapter passes seam/continuity QA, and a fresh final clean-room audit finds zero unresolved mandatory findings.
 
 ## Project Structure
 
 - `Character-References/` — canonical character prompts and approved WebPs
 - `Covers/` — story/promotional cover prompt material
 - `Manhwa/` — sole active vertical-manhwa production pipeline
+- `Manhwa/Continuity/` — creator-only story/causality/time-slip/evidence ledgers
 - `Manhwa/Environment-References/` — canonical location geometry/state authorities
 - `Manhwa/Object-References/` — recurring plot-critical object authorities
 - `Manhwa/01-Arc-The-Fire-At-San-Aurelio-Junction/` — active Arc 1 production

@@ -13,6 +13,14 @@ The active visual-production format is vertical Korean Manhwa under `Manhwa/`. T
 
 Expansion beyond 105 chapters is allowed only if the time-slip system, archive mystery, railway history, and recurring factions genuinely deepen without displacing Daniel and Tomas as the emotional center.
 
+## Story Engines
+
+- Romance engine: Daniel and Tomas receive increasingly limited physical/conversational time across a real historical divide.
+- Mystery engine: falsified archive material, railway records, land interests, witnesses, and physical artifacts converge on the San Aurelio fire.
+- Time-slip engine: object crossings, historical settlement, shrinking connection time, memory risk, and the danger that saving Tomas may erase the meeting place itself.
+
+No arc should repeat the same letter/pastry/clock trick without creating new causal or emotional consequences.
+
 ## Arc Roadmap
 
 | Arc | Folder Name | Chapter Range | Count | Purpose |
@@ -43,13 +51,33 @@ Expansion beyond 105 chapters is allowed only if the time-slip system, archive m
 14. The Night The Cafe Burned Twice
 15. Seven Minutes Before Morning
 
+## Creator-Only Continuity Authority
+
+The detailed Arc 1 solution is no longer left to improvisation.
+
+Binding creator files live under `Manhwa/Continuity/` and currently lock:
+- Chapter 1 on October 17, 1986/2026
+- consecutive Arc 1 meetings through October 31
+- a fixed San Aurelio fire date of November 23, 1986
+- the human culprit chain and fire-night mechanism
+- separate Cafe/station clock identities
+- stable service-window/counter physics
+- exact Arc 1 shrinking-window durations and costs
+- timeline settlement/memory rules
+- mystery evidence authorship and reveal discipline
+- object provenance across forty years
+- the Chapter 1→Chapter 2 inherited physical state
+
+If a future story revision changes one of these, update every affected continuity ledger rather than allowing contradictory chapter-specific exceptions.
+
 ## Current Production Truth
 
 - Active arc: Arc 1.
-- Chapter 1 story canon exists and is being converted into the hardened continuous-scroll Manhwa pipeline.
-- No Chapter 1 rendered Manhwa strip is approved merely because an old page prompt existed.
+- Chapter 1 story canon exists as a 74-beat / 16-strip continuous-scroll production package.
+- Phase 1 continuity architecture is locked, but the planned hardening audit has not yet been run against the newly synchronized repository.
+- No Chapter 1 rendered Manhwa strip is approved merely because a prompt exists.
 - No Chapter 2 production folder currently exists in the repository.
-- Earlier statements claiming Chapter 2 prose/prompts or completed Chapter 1 WebP reader assets were present were stale and must not be used as authority.
+- Required approved character/environment/object WebPs are still missing.
 
 ## Chapter 1 Narrative Endpoint
 
@@ -57,14 +85,17 @@ Chapter 1 begins with Daniel investigating suspicious San Aurelio archive materi
 
 It ends after the first seven-minute connection closes, when Daniel receives his warning page forty years older with Tomas's added line `I WILL BRING BETTER BREAD.` and discovers the scratched warning `FIRE STARTS IN THE SERVICE CORRIDOR.` while the station clock remains fixed at 12:07.
 
+Temporary physical state inherited by Chapter 2 is controlled by the Chapter 1 state-resolution addendum and temporal-object ledger.
+
 ## Long-Range Mystery Locks
 
 - The 1986 station fire is officially recorded as an electrical accident but the surviving archive is compromised.
-- Tomas is not merely an incidental casualty; evidence increasingly suggests he or what he knew was a target.
+- Tomas is not merely an incidental casualty; evidence increasingly proves he was targeted.
 - Arturo Salcedo and redevelopment interests form part of the human conspiracy rather than a supernatural villain system.
-- Missing names, cut documents, altered testimony, signal failures, locked service access, and removed evidence should converge causally rather than function as unrelated spooky clues.
+- The full creator-only fire solution is stored in `Manhwa/Continuity/arc-01-fire-conspiracy-bible.md` and must be revealed gradually.
+- Missing names, cut documents, altered testimony, signal failures, locked service access, and removed evidence converge causally rather than function as unrelated spooky clues.
 - The cafe/time-slip is a fragile temporal wound, not free time travel.
-- Historical interference has a cost expressed through connection instability, lost minutes, altered archives, memory risk, or changed physical history.
+- Historical interference has a cost expressed through connection instability, lost seconds/minutes, altered archives, memory risk, or changed physical history.
 - Saving Tomas too strongly may erase the abandoned conditions that allow Daniel to meet him.
 - Other midnight crossings may eventually exist, but they must broaden the railway/time-slip mythology without making Cafe Siete ordinary.
 - The romance remains rare, adult, restrained, and materially tied to time, objects, preservation, food, handwriting, and touch across an impossible threshold.
@@ -81,12 +112,14 @@ Do not stretch the story beyond 150 chapters without enough new causal material,
 
 ## Folder Policy
 
-Create a future arc folder only when production of that arc begins.
+Create a future arc/chapter folder only when production of that chapter begins **after inheriting the current continuity ledgers**.
 
 Active production shape:
 
 ```text
 Manhwa/
+  Continuity/
+    <creator-only ledgers>
   <NN-Arc-Title>/
     README.md
     Chapter-<NN>-<Title>/
