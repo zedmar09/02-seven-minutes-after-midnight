@@ -1,6 +1,6 @@
 # Chapter 1 Sequential Strip Hardening Audit Log
 
-Status: **IN PROGRESS — STRIPS 001–003 LOCAL TEXTUAL HARDENING PASS — STRIPS 004–036 PENDING.**
+Status: **IN PROGRESS — STRIPS 001–004 LOCAL TEXTUAL HARDENING PASS — STRIPS 005–036 PENDING.**
 
 A PASS here is textual/preproduction only; it does not approve missing canonical WebPs or rendered pixels.
 
@@ -24,16 +24,13 @@ Each strip checks:
 
 Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES STILL BLOCK RENDERING.**
 
-Key accepted repairs:
-- archive environment made mandatory
-- one Daniel evidence kit established
+Accepted repairs:
+- archive environment mandatory
+- evidence kit/document authorities established
 - real page/loupe/document/photo/notebook movements shown
-- right-hand writing dominance locked
-- archive gloves ON
+- right-hand writing dominance + archive gloves locked
 - exact 001→002 desk state frozen
-- maintenance diagram exists off-table in fixed rack for later retrieval
-
-Current rhythm: 25 / 18 / 18 / 22 / 17.
+- maintenance diagram exists off-table in fixed rack
 
 ---
 
@@ -43,172 +40,186 @@ Previous: Strip 001 PASS.
 
 Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 001 STILL BLOCK RENDERING.**
 
-Accepted logic:
-- same `REPORT-FIRE-01` turns to official origin page
-- `DIAGRAM-MAINT-01` visibly retrieved from fixed plan rack
-- left gloved index traces on protective sleeve to `NO ACTIVE CIRCUIT`
-- silent report→diagram→report verification before dialogue
-- `That doesn't match.` precedes notebook writing
-- same intact pencil returns to rest state
-
-002→003 exact seam:
-- Daniel seated, glasses/archive gloves ON, both hands free
-- report CENTER origin page
-- diagram CENTER-RIGHT
-- signature/witness pair LEFT
-- trimmed photo UPPER-LEFT
-- loupe UPPER-RIGHT
-- notebook LOWER-RIGHT with two lines
-- intact pencil above notebook
-- diagram rack slot empty
+Accepted repairs:
+- same `REPORT-FIRE-01`
+- maintenance diagram visibly retrieved from fixed rack
+- trace occurs on protective sleeve
+- silent report→diagram→report verification before `That doesn't match.`
+- same pencil writes and returns to rest
+- exact 002→003 desk state frozen
 
 ---
 
 ## Strip 003 — The Missing Names
 
-Previous: **Strip 002 — LOCAL TEXTUAL PASS**.
+Previous: Strip 002 PASS.
 
-Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / ARCHIVE / PAPER-KIT / FIRE-DOC / FIELD-KIT WEBPS AND APPROVED RENDERED STRIP 002.**
+Verdict: **LOCAL TEXTUAL HARDENING PASS — VISUAL AUTHORITIES + APPROVED STRIP 002 STILL BLOCK RENDERING.**
+
+Accepted repairs:
+- inherited 002 evidence visibly reconfigured, not deleted
+- A/B/C are three distinct sleeved notices from one casualty folder
+- one ruler proves same-width/same-position cuts before `Same width.`
+- originals secured before Daniel leaves
+- same gloves removed/stored one at a time
+- notebook/pencil/clean paper packed
+- field folio/key/flashlight carry established
+- Strip 003 end flashlight state resolved as **OFF**
+- exact 003→004 field carry frozen
+
+---
+
+## Strip 004 — 11:41 PM / Station Entry
+
+Previous: **Strip 003 — LOCAL TEXTUAL PASS**.
+
+Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / SJ26 / SJ26-ENTRY / FIELD-KIT WEBPS AND APPROVED RENDERED STRIP 003.**
 
 ### Script / Reader Logic — PASS AFTER REPAIR
 
-Strip 003 now has one clear evidence claim and one clear mode transition.
+Strip 004 now performs one clear reader function:
 
-Evidence claim:
-1. inherited Strip 002 evidence is visibly secured/reconfigured
-2. first death notice comes from one real casualty source folder
-3. second distinct notice joins it
-4. third distinct notice joins it
-5. one real ruler proves identical width/position of removed name strips
-6. Daniel says only `Same width.`
+**Daniel enters San Aurelio Junction through ordinary authorized physical access and is fully inside with the door latched behind him before the station-clock clue begins.**
 
-The reader is not told whose names were removed or why. The full conspiracy remains creator-only.
+No supernatural access behavior appears. The `12:07` station-clock clue remains withheld until Strip 005.
 
-Transition claim:
-- Daniel behaves like a conservator: he secures originals before leaving
-- then visibly changes from archive handling mode to field investigation mode
+### 003 → 004 Continuity — PASS
 
-### 002 → 003 Continuity — PASS
+Legal travel cut changes location/weather/standing pose only.
 
-No reset:
-- same Daniel seat/light/glasses/gloves
-- same report/diagram/signature/photo/loupe/notebook/pencil states
-- diagram rack slot begins empty
+Inherited exactly:
+- same Daniel identity/clothing/glasses
+- hands BARE
+- folio under LEFT arm
+- same access key clipped exterior
+- notebook/pencil/clean paper/same gloves packed inside
+- same flashlight RIGHT hand
+- flashlight state resolved as OFF at Strip 004 start
 
-Strip 003 first returns the one diagram to that exact slot, rather than making Strip 002 evidence disappear.
+No new bag/umbrella/key/flashlight appears.
 
-### Death-Notice Source / Table Reorganization — PASS AFTER REPAIR
+### Environment Authority — PASS TEXTUALLY / VISUAL BLOCKER
 
-New fixed workroom relationships:
-- UPPER-CENTER completed-source staging tray
-- BACK-RIGHT source-file stand containing `FOLDER-CASUALTY-01`
-- SIDE-NEAR-EXIT field-gear zone
+New required reusable authority:
+`Manhwa/Environment-References/San-Aurelio-Junction/san-aurelio-junction-2026-access-threshold-reference.webp`
 
-V011 visibly:
-- returns diagram to rack
-- closes/stages report + comparison sources
-- retrieves casualty folder
-- places first sleeved notice
+It locks:
+- exact authorized side-access position
+- exterior hinge RIGHT / lock+handle LEFT world-sides
+- inward opening arc
+- mechanical key fit
+- delayed hydraulic closer
+- canopy/landing/sill
+- localized wet threshold zone
+- first 2–3m ticket-hall route
+- clock sightline blocked until deeper Strip 005 movement
 
-No cleaned desk appears between strips.
+This prevents the access door from redesigning inside one strip or later return visits.
 
-### Notice / Ruler Mechanism — PASS
+### Flashlight Power — PASS AFTER REPAIR
 
-`NOTICE-DEATH-01A/B/C` are three distinct sleeved sheets.
+The previous continuity did not define whether carried flashlight was ON or OFF.
 
-V012 adds B by real retrieval.
-V013 adds C by real retrieval.
-`RULER-DANIEL-01` is retrieved from tool tray and placed across protected sleeves.
-`TIK` is owned by physical ruler/support contact.
+Hardening now locks:
+- Strip 003 END = OFF
+- Strip 004 V016 = right thumb visibly switches SAME flashlight ON
+- flashlight stays ON throughout 004
+- Strip 004 END / Strip 005 START = ON
 
-The proof is same-width AND same-position cut.
-No digital ruler/UI, no collage duplicates.
+No camera cut may toggle power.
 
-### Dialogue / Narration — PASS
+### V016 Key / Door Mechanics — PASS
 
-Spoken line only:
-`Same width.`
+Exact physical chain:
+1. flashlight switched ON
+2. left upper arm clamps folio
+3. left hand unclips same access key
+4. key inserts/turns real lock
+5. `KLAK` at latch release
+6. key withdraws
+7. same key re-clips to folio **before** handle action
+8. left hand operates handle
+9. same door opens inward to about 75–85°
+10. left hand releases after clearance
 
-It follows the physical ruler proof.
+No key remains in lock. No fob/card. No third hand.
 
-Existing bridge narration remains:
-`BY ELEVEN FORTY-ONE, HE WANTED TO SEE THE BUILDING THAT KEPT PRODUCING THE SAME LIE.`
+### Door Closing Mechanism — PASS AFTER REPAIR
 
-Hardening interpretation prevents timeline confusion: it bridges departure/travel; Strip 004 alone shows exact `11:41 PM — SAN AURELIO JUNCTION`. Do not show archive clock proving he is still there at 11:41.
+Old prompt allowed two mechanisms (`allows closer` OR `physically pulls`). That was rejected.
 
-### SFX — PASS
+One mechanism now controls the entire strip:
+**delayed hydraulic closer**.
 
-- `SHFF` only for real supported document/folder movement where useful
-- `TIK` for ruler contact
+Door:
+- open V016
+- released/slow return V017
+- smaller return angle V018/V019 where visible
+- reaches frame only V020
+- `THUNK` at actual latch/frame impact
 
-No glove-removal, key-jingle, zipper or filler SFX required.
+A camera cut cannot close it.
 
-### Daniel / Character Logic — PASS
+### Threshold / Body Movement — PASS
 
-Daniel does not abandon fragile originals open on worktable.
+V017 shows:
+- leading foot crosses/contact
+- real weight transfer
+- torso/hips cross door plane
+- trailing foot clears sill
+- both feet station-side before closing door can intersect him
 
-V015 visibly:
-- returns ruler
-- re-files three notice sleeves
-- secures casualty folder/report/photo sources
-- packs own notebook/pencil
-- only then removes archive gloves
-- gloves removed one at a time, both hands visibly bare
-- SAME pair stored in glove envelope
+V018 is not a duplicate crossing. It contains two additional interior walking steps with `TAP... TAP...`.
 
-This preserves careful conservator behavior.
+### Weather / SFX — PASS
 
-### Field Carry / Objects — PASS AFTER REPAIR
+- `KLAK` = access latch release
+- `TAP... TAP...` = two post-threshold shoe contacts
+- `TIK... TIK...` = rain/drip only after beam identifies plausible damage source
+- `THUNK` = same delayed-closer door seating/latching
 
-New required authority:
-`daniel-station-field-access-kit-canonical-reference.webp`
+Wetness is localized around threshold/damage paths. No glossy full-hall flood treatment.
 
-V015 visibly establishes:
-- `PERMIT-FOLIO-SJ-01`
-- `KEY-ACCESS-SJ-01` clipped exterior
-- `FLASHLIGHT-DANIEL-01`
-- notebook + intact pencil inside folio
-- clean paper/sleeves inside folio
-- same glove pair inside glove envelope/folio
+### Clock Reveal Discipline — PASS
 
-This fixes three future hidden-appearance problems at once:
-- key no longer appears from nowhere at Strip 004 door
-- notebook/pencil no longer reappear magically in Cafe Siete
-- gloves re-donned in Strip 008 are demonstrably the same carried pair
+`CLOCK-STATION-01` cannot be readable from access threshold.
+
+Strip 004 beam path explicitly avoids the clock. The first valid sightline opens only after Strip 005's deeper walking movement.
+
+This prevents the 12:07 clue from being spoiled one strip early.
 
 ### Vertical Rhythm — PASS
 
 Current target:
-- V011 22%
-- V012 16%
-- V013 23%
-- V014 10%
-- V015 29%
+- V016 31%
+- V017 18%
+- V018 15%
+- V019 20%
+- V020 16%
 
-V015 receives largest share because archive shutdown/field packing is a real continuity transition, not a throwaway montage.
+V016 gets room for the full access mechanism; V019 gets enough space for grounded station-condition proof.
 
-### Strip 003 → 004 Seam-Out — PASS AFTER REPAIR
+### Strip 004 → 005 Seam-Out — PASS AFTER REPAIR
 
-Archive:
-- diagram back exact rack slot
-- report/comparison/casualty folder/photo secured
-- loupe + ruler tool tray
-- no loose original evidence abandoned
-
-Daniel:
-- same clothing/glasses
+Exact state:
+- Daniel fully inside at SIDE EDGE ticket hall, ~2–3m beyond threshold
+- access door CLOSED + LATCHED behind
+- delayed closer at rest
+- Daniel reoriented to deeper ticket hall in stable paused stance
 - hands BARE
-- folio under left arm
-- inside folio: notebook, intact pencil, clean paper/sleeves, same glove pair in envelope
-- access key clipped to folio exterior
-- same flashlight right hand
+- folio LEFT arm
+- key clipped folio exterior
+- flashlight RIGHT hand ON / beam low-forward
+- localized threshold dampness behind
+- established deeper drip source
+- station clock not yet revealed
 
-Strip 004 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
+Strip 005 is synchronized to this start only and remains NOT YET LOCALLY HARDENED.
 
 ---
 
 ## Next Audit
 
-**Strip 004 — 11:41 PM / Station Entry**
+**Strip 005 — The Station Clock**
 
-Do not inherit Strip 003 PASS into Strip 004. Audit door/key mechanics, rain/weather continuity, hand occupancy, threshold crossing, folio/flashlight support, access-door close and 004→005 station geometry independently.
+Do not inherit Strip 004 PASS into Strip 005. Audit walking route, environment geometry, drip source, beam→clock discovery, `CLOCK-STATION-01` authority/identity, exact 12:07 legibility, dialogue and 005→006 Cafe approach independently.
