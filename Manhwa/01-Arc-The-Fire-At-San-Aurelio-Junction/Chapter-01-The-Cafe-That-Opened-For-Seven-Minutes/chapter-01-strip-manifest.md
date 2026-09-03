@@ -4,7 +4,7 @@ Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 
 ## Current Status
 
-**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–008 LOCAL TEXTUAL PASS — STRIPS 009–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
+**SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–009 LOCAL TEXTUAL PASS — STRIPS 010–036 PENDING — CANONICAL WEBPS MISSING — NOT READY TO RENDER.**
 
 ## Strip Map
 
@@ -16,10 +16,10 @@ Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 | 004 | V016–V020 | authorized station entry | door closed; key re-clipped; flashlight ON |
 | 005 | V021–V025 | station walk / fixed `12:07` station clock | pivot toward Cafe route |
 | 006 | V026–V030 | Cafe approach / `TOMAS` / phone photo | outside closed gate; phone pocketed |
-| 007 | V031–V035 | gear support → gate drag → threshold crossing | Daniel 1.0–1.5m inside Cafe; gate open; gear carried |
-| 008 | V036–V040 | real counter approach / brass glint / SAME gloves / one-token retrieval | Daniel standing at counter waypoint; SAME gloves ON; token RIGHT gloved hand; flashlight+folio supported |
-| 009 | V041–V045 | Cafe-clock source click / reset to 12:00 | active clock 12:00 |
-| 010 | V046–V050 | lights / token fall / dual-era activation | token floor; 1986 access active |
+| 007 | V031–V035 | gear support → gate drag → threshold crossing | Daniel inside Cafe; gate open; gear carried |
+| 008 | V036–V040 | counter approach / brass glint / SAME gloves / token retrieval | Daniel standing counter-side; token RIGHT gloved hand; flashlight+folio supported |
+| 009 | V041–V045 | midnight Cafe-clock source / dead `12:07` proof / physical reset | Cafe clock exact `12:00:00` ACTIVE; token still RIGHT hand; lights still OFF |
+| 010 | V046–V050 | practical lights / token fall / dual-era activation | token floor; 1986 access active |
 | 011 | V051–V055 | Tomas approach / reveal / tray begins falling | tray tilted |
 | 012 | V056–V060 | same-tray catch / incidental contact / first dialogue | tray stabilized |
 | 013 | V061–V065 | tray set down / conservator / year question | Tomas realizes Daniel serious |
@@ -59,13 +59,13 @@ Strip IDs are production-only. Reader sees one uninterrupted vertical chapter.
 |---|---|---|
 | 001→002 | G | hardened archive desk / Daniel seated / gloves ON |
 | 002→003 | G/E | exact desk; concern persists |
-| 003→004 | T | legal travel cut; hands bare; folio/key/flashlight/phone carry |
+| 003→004 | T | legal travel cut; bare hands; folio/key/flashlight/phone carry |
 | 004→005 | G | Daniel inside station; flashlight ON; clock not revealed |
 | 005→006 | G/E | planted clock waypoint; first Cafe-bound step not yet happened |
 | 006→007 | G/A | outside closed gate; gear carried; `TOMAS` documented |
-| 007→008 | G | Daniel ~1.0–1.5m inside Cafe; hands BARE; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone pocketed; gloves stored; clock inactive; token hidden |
-| 008→009 | G | Daniel standing at fixed customer-side counter waypoint; SAME gloves ON; `TOKEN-01` RIGHT gloved hand at chest height; flashlight ON/supported on fixed counter zone; folio CLOSED/supported beside it; key clipped; phone pocketed; gate open; service window closed; Cafe clock inactive before first `KLIK` |
-| 009→010 | T/A | Cafe clock exact 12:00; token held until activation response |
+| 007→008 | G | Daniel ~1.0–1.5m inside Cafe; hands BARE; folio LEFT arm; key clipped; flashlight RIGHT hand ON; phone pocketed; gloves stored; Cafe clock inactive; token hidden |
+| 008→009 | G | Daniel standing counter-side; SAME gloves ON; token RIGHT hand; flashlight ON/supported; folio CLOSED/supported; key clipped; phone pocketed; Cafe clock inactive exact `12:07` before first sound |
+| 009→010 | T/A | same Cafe clock exact `12:00:00` ACTIVE; token still RIGHT hand; flashlight/folio support unchanged; Cafe practical fixtures still OFF; no 1986 visible state yet |
 | 010→011 | G/E | dual era active; token floor; Daniel startled; Tomas not seen |
 | 011→012 | A | tray tilting |
 | 012→013 | G/E | tray stabilized |
@@ -108,10 +108,11 @@ Planned permanent authorities:
 - `SCLOCK` → `Manhwa/Object-References/san-aurelio-station-clock-canonical-reference.webp`
 - `CAFE-S` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-shared-structure-reference.webp`
 - `CAFE-ENTRY` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-entrance-sign-glass-reference.webp`
-- `CAFE-SEARCH` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-counter-search-reference.webp` — **REQUIRED by Strip 008 hardening**
+- `CAFE-SEARCH` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-counter-search-reference.webp`
+- `CAFE-CLOCK-WALL` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-clock-menu-wall-reference.webp` — **REQUIRED by Strip 009 hardening**
 - `CAFE-D` → `Manhwa/Environment-References/Cafe-Siete/cafe-siete-dual-era-state-reference.webp`
 - `TOKEN` → `Manhwa/Object-References/cafe-siete-token-canonical-reference.webp`
-- `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp`
+- `CCLOCK` → `Manhwa/Object-References/cafe-siete-clock-canonical-reference.webp` — **hardened Strip 009: second hand + inactive 12:07 + physical midnight reset**
 - `SERVICE` → PENDING HARDENING
 - `BAKERY-TOOLS` → PENDING HARDENING
 
@@ -126,9 +127,9 @@ Planned permanent authorities:
 | 005 | DANIEL | SJ26 | FIELD-KIT + SCLOCK | PREV |
 | 006 | DANIEL | SJ26 + CAFE-S + CAFE-ENTRY | FIELD-KIT/PHONE + painted glass | PREV |
 | 007 | DANIEL | CAFE-S + CAFE-ENTRY + CAFE-D 2026 | FIELD-KIT + gate mechanics | PREV |
-| 008 | DANIEL | CAFE-S + CAFE-D 2026 + **CAFE-SEARCH** | FIELD-KIT + PAPER-KIT SAME gloves + TOKEN | PREV |
-| 009 | DANIEL | CAFE-S + CAFE-D 2026 + CAFE-SEARCH carry | TOKEN + CCLOCK + inherited supported field gear | PREV |
-| 010 | DANIEL | CAFE-S + CAFE-D | TOKEN + CCLOCK | PREV |
+| 008 | DANIEL | CAFE-S + CAFE-D 2026 + CAFE-SEARCH | FIELD-KIT + PAPER-KIT gloves + TOKEN | PREV |
+| 009 | DANIEL | CAFE-S + CAFE-D 2026 + CAFE-SEARCH + **CAFE-CLOCK-WALL** | TOKEN + **CCLOCK** + inherited supported field gear | PREV |
+| 010 | DANIEL | CAFE-S + CAFE-D + CAFE-CLOCK-WALL | TOKEN + CCLOCK | PREV |
 | 011–013 | DANIEL+TOMAS | CAFE-S+CAFE-D | tray / BAKERY-TOOLS if hardened | PREV |
 | 014–016 | DANIEL+TOMAS | CAFE-S+CAFE-D | CCLOCK / painted glass | PREV |
 | 017–019 | DANIEL+TOMAS | CAFE-S+CAFE-D | SERVICE | PREV |
@@ -141,28 +142,34 @@ Planned permanent authorities:
 | 035 | DANIEL | CAFE-S 2026 | warning/sleeve + SERVICE sealed | PREV |
 | 036 | DANIEL | CAFE-S 2026 + CAFE-ENTRY + SJ26 | flashlight + glass + SCLOCK | PREV |
 
-## Strip 008 Counter / Token Gate — Absolute
+## Midnight / Cafe Clock Gate — Absolute
 
-- first move from 007 interior pause to the real counter-search waypoint
-- token invisible until beam reaches fixed toe-kick recess
-- flashlight visibly supported ON on CAFE-SEARCH dry counter zone
-- folio visibly supported/opened beside it; key remains clipped; phone stays pocketed
-- SAME glove pair: LEFT glove first, RIGHT glove second; both fully seated before contact
-- token retrieved by RIGHT gloved hand from fixed recess
-- `TINK` only when token edge contacts fixed lower metal trim
-- Daniel visibly rises before seam-out
-- token remains RIGHT gloved hand through 008→009
+Strip 009 teaches one rule only:
+**midnight opens the connection; the token does not.**
 
-## Scratch / Gate / Clock Gates
+Sequence:
+- token remains still in RIGHT gloved hand
+- actual clock-source `KLIK`
+- Daniel reacts toward source before close-up
+- same brass Cafe clock proved dead at exact `12:07`
+- second hand present and stopped at `12`
+- one internal `TK`
+- minute/hour hands visibly move BACKWARD seven minutes toward `12`
+- second hand only tremors at `12`
+- exact `12:00:00`
+- one first active `TICK`
+- Cafe lights remain OFF until Strip 010
 
-- gate stays LEFT-stacked/open until visibly moved later
-- both scratches remain on same glass; lower warning unreadable until 036
-- `CLOCK-STATION-01` and `CLOCK-CAFE-01` remain distinct
-- Cafe clock stays inactive through Strip 008; Strip 009 owns first `KLIK`
+`CLOCK-STATION-01` never substitutes for this clock.
 
 ## SFX Source Gate
 
-Approved families include archive, station/rain, Cafe approach, gate, Cafe clock/service and paper sounds. Strip 008 specifically uses one `TINK` only at brass-token/fixed-metal-trim contact. No magical glint SFX.
+Strip 009:
+- `KLIK` = Cafe-clock reset latch
+- `TK` = Cafe-clock gear engagement
+- `TICK` = first active connection-clock tick at exact `12:00:00`
+
+No token SFX and no Cafe-light SFX in Strip 009.
 
 ## Authority Order
 
@@ -178,4 +185,4 @@ Approved families include archive, station/rain, Cafe approach, gate, Cafe clock
 
 ## Render Gate
 
-Local textual PASS for Strips 001–008 does not mean they can render. Required approved WebPs remain missing. Generation remains strict `001 → 002 → ... → 036` after all gates pass.
+Local textual PASS for Strips 001–009 does not mean they can render. Required approved WebPs remain missing. Generation remains strict `001 → 002 → ... → 036` after all gates pass.

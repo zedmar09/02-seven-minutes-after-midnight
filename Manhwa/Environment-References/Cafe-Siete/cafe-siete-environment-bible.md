@@ -51,62 +51,97 @@ Strip 007 END / Strip 008 START:
 
 ## 2026 Counter / Token Search Geometry — Strip 008 Absolute
 
-Use the dedicated:
+Use:
 `cafe-siete-2026-counter-search-reference.webp`
 
 This is a detail authority for the SAME main counter, not a second counter.
 
 Route:
-- from Strip 007 pause, the customer-side main-counter search waypoint lies approximately another 1.8–2.4 m deeper into the Cafe
-- Daniel approaches through clear customer circulation; he does not move behind the counter
-- gate remains visible/receding behind when composition permits
+- customer-side search waypoint another ~1.8–2.4 m deeper from Strip 007 pause
+- clear customer circulation only; Daniel does not move behind counter
 
 Counter search zone:
 - ordinary counter height ~0.95–1.05 m
-- one dry stable 45–55 cm top support area near the search waypoint
-- fixed 1–2 cm raised inner trim/backstop helps stabilize the supported flashlight
-- enough adjacent room for the folio to lie flat/open without overlapping flashlight
-- customer-facing toe-kick/recess extends ~18–25 cm beneath the counter body
-- fixed muted-metal lower trim defines the recess mouth
+- dry stable 45–55 cm top support area
+- fixed raised trim/backstop stabilizes flashlight
+- room for folio beside flashlight
+- customer-facing toe-kick/recess beneath counter
+- fixed muted-metal lower trim defines recess mouth
 
-`TOKEN-01` baseline before contact:
+`TOKEN-01` baseline:
 - one token only
-- rests ~20–30 cm inward in the customer-side toe-kick recess
-- mostly flat in dust, with one exposed rim/edge available to catch an ordinary flashlight highlight
-- no glow or spontaneous movement
+- rests ~20–30 cm inward in recess
+- mostly flat in dust with one exposed rim
+- no glow/spontaneous movement
 
-Strip 008 support state:
-- flashlight may be visibly placed ON on the dry counter support zone, stabilized by fixed trim/backstop, lens aimed diagonally down/out into the search recess
-- folio may be visibly placed flat/open beside it
-- key stays clipped exterior
-- phone stays LEFT chest pocket
-- glove envelope is accessed from the SAME folio
+Strip 008 support/retrieval:
+- flashlight visibly supported ON
+- folio visibly supported/opened
+- SAME gloves re-donned left then right
+- empty glove envelope returned and folio closed
+- RIGHT gloved hand retrieves same token
+- `TINK` belongs only to token edge touching fixed lower trim
 
-Glove donning:
-- both carried objects must be supported before the sequence
-- SAME glove pair only
-- left glove is donned first using right bare hand
-- right glove is donned second using left gloved hand
-- both cuffs/fingers fully seated before token retrieval
-- empty glove envelope returns/closes; folio closes again before Daniel crouches
-
-Retrieval:
-- Daniel uses a real low squat/crouch from customer side
-- LEFT gloved hand braces on Daniel's own thigh/knee rather than a dirty counter surface
-- RIGHT gloved hand reaches into recess
-- same token is pinched/lifted and drawn continuously out
-- one token edge lightly contacts fixed lower metal trim while clearing the recess
-- `TINK` belongs only to that contact
-
-Strip 008 END target:
-- Daniel standing at customer-side counter-search waypoint
+Strip 008 END / Strip 009 START:
+- Daniel standing at counter-search waypoint
 - both SAME gloves ON
-- token RIGHT gloved hand at chest-level inspection height
-- flashlight remains ON/supported on dry counter zone
-- folio closed/supported beside it; key clipped
+- token RIGHT gloved hand at chest height
+- flashlight ON/supported
+- folio closed/supported beside flashlight; key clipped
 - phone pocketed
 - gate remains open
-- Cafe clock still inactive until Strip 009 source event
+- service window CLOSED
+- Cafe clock still inactive at baseline `12:07`
+
+## Clock / Menu Wall Geometry — Strip 009+ Absolute
+
+Use:
+`cafe-siete-clock-menu-wall-reference.webp`
+
+Permanent relationship from Daniel's CUSTOMER-SIDE main-counter orientation:
+- `CLOCK-CAFE-01` high on fixed back/menu wall behind main counter
+- clock center roughly 2.15–2.35 m above floor
+- clock LEFT-OF-CENTER in back-wall composition
+- main menu-board zone to clock's RIGHT with clear gap
+- service-window opening lower in same broader wall system and not overlapping clock
+- pastry/service zone remains lower/separate
+- no `CLOCK-STATION-01` on this wall
+
+The clock remains reachable by ordinary sightline/head turn from the Strip 008/009 counter waypoint. Daniel does not walk to a new location merely to see it.
+
+### 2026 pre-activation state
+- Cafe remains dark/inactive
+- practical fixtures OFF
+- service window CLOSED
+- clock body aged but readable
+- clock exact inactive `12:07`
+- second hand stopped straight UP at `12`
+- no ticking
+
+### Strip 009 reset sequence
+Strip 009 decomposes the same midnight opening instant for reader clarity. Panel count does not equal multiple seconds/minutes.
+
+Causal order:
+1. standard midnight boundary arrives; token is not the cause
+2. internal `KLIK` comes from real clock position
+3. Daniel turns eyes/head toward source while token stays still
+4. same clock is proved at baseline `12:07`
+5. internal `TK` engages gear train
+6. minute/hour hands visibly travel backward/counterclockwise to `12`
+7. stopped second hand only tremors at `12`; it does not spin
+8. all hands settle at exact `12:00:00`
+9. one first active `TICK` marks connection-clock state
+
+No glow, portal, duplicate clock or floating time UI.
+
+### Strip 009 END / Strip 010 START
+- same clock exact `12:00:00`, active
+- practical Cafe fixtures still OFF
+- no 1986 co-registration yet
+- Daniel still at same counter waypoint holding token
+- flashlight/folio support unchanged
+
+Strip 010 owns the practical-light sequence and first visible dual-era consequence.
 
 ## Painted-Glass Evidence — Absolute
 
@@ -142,7 +177,11 @@ No glowing letters, self-writing effect, magical highlight, or moving scratch ge
 
 ## Time-Slip Activation
 
-At 12:00 Chapter 1 presents an impossible simultaneous relationship: Daniel remains anchored to 2026 while Tomas and active 1986 Cafe Siete life become accessible across the shared counter/window logic. Historical disagreement must read without magical portal VFX.
+At exactly `12:00:00 AM` Chapter 1 begins the connection opening. The reset of `CLOCK-CAFE-01` is the first physical manifestation; Strip 010 then makes practical lights and 1986 co-registration reader-visible.
+
+Daniel remains anchored to 2026 while Tomas/1986 Cafe state becomes accessible inside the same structural footprint. No fantasy portal VFX.
+
+`TOKEN-01` is ordinary Cafe material evidence and does not trigger the opening.
 
 ## Contact Geometry
 

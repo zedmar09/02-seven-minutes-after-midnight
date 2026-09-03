@@ -1,6 +1,6 @@
 # Chapter 1 Sequential Strip Hardening Audit Log
 
-Status: **IN PROGRESS — STRIPS 001–008 LOCAL TEXTUAL HARDENING PASS — STRIPS 009–036 PENDING.**
+Status: **IN PROGRESS — STRIPS 001–009 LOCAL TEXTUAL HARDENING PASS — STRIPS 010–036 PENDING.**
 
 A PASS here is textual/preproduction only; it does not approve missing canonical WebPs or rendered pixels.
 
@@ -10,7 +10,7 @@ Each strip checks story causality, visible movement, dialogue, SFX ownership, en
 
 ---
 
-## Strips 001–007 — Existing Local Passes
+## Strips 001–008 — Existing Local Passes
 
 Prior accepted hardening remains binding:
 - 001 archive/evidence baseline
@@ -20,209 +20,230 @@ Prior accepted hardening remains binding:
 - 005 separate station-clock `12:07` clue
 - 006 Cafe approach / `TOMAS` / phone documentation
 - 007 two-hand gate mechanics / real Cafe threshold crossing
+- 008 real counter approach / SAME glove re-donning / one-token retrieval
 
 ---
 
-## Strip 008 — The Brass Token
+## Strip 009 — The Cafe Clock Wakes
 
-Previous: **Strip 007 — LOCAL TEXTUAL PASS**.
+Previous: **Strip 008 — LOCAL TEXTUAL PASS**.
 
-Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / CAFE-S / CAFE-D / CAFE-SEARCH / FIELD-KIT / PAPER-KIT / TOKEN WEBPS AND APPROVED RENDERED STRIP 007.**
+Verdict: **LOCAL TEXTUAL HARDENING PASS — RENDER BLOCKED BY MISSING APPROVED DANIEL / CAFE-S / CAFE-D / CAFE-SEARCH / CAFE-CLOCK-WALL / CCLOCK / TOKEN / FIELD-KIT / PAPER-KIT WEBPS AND APPROVED RENDERED STRIP 008.**
 
-### Script / Reader Logic — PASS AFTER REPAIR
+### Script / Causality — PASS AFTER REPAIR
 
-Strip 008 now performs one continuous evidence-handling sequence:
-1. Daniel physically walks from the Strip 007 interior pause to the customer-side counter-search waypoint
-2. his same flashlight reveals one restrained brass edge under the counter
-3. he visibly supports the flashlight + folio on a real counter zone
-4. he re-dons the SAME archive glove pair one hand at a time
-5. he physically crouches/reaches/retrieves one token
-6. one real metal contact owns `TINK`
-7. he visibly rises and inspects the same token
-8. `Cute.` ends the strip before any Cafe-clock event
+The key story rule is now explicit:
 
-No supernatural token behavior occurs.
+**midnight opens the connection; `TOKEN-01` does not.**
 
-### 007 → 008 Continuity — PASS
+Strip 009 therefore performs one clean causal sequence:
+1. Daniel remains in the exact Strip 008 state with token still in RIGHT gloved hand
+2. exact midnight arrives
+3. the real Cafe-clock mechanism produces `KLIK`
+4. Daniel looks toward that source before any clock close-up
+5. same brass Cafe clock is proved dead at exact `12:07`
+6. internal `TK` begins physical backward reset
+7. same hands visibly move to exact `12:00:00`
+8. one first active `TICK` marks connection-clock state
+9. Cafe practical fixtures remain OFF for Strip 010
 
-Inherited exactly:
-- Daniel ~1.0–1.5 m inside Cafe entrance
-- hands BARE
-- folio LEFT arm
+This prevents a false `token pickup → clock activation` rule.
+
+### 008 → 009 Continuity — PASS
+
+No reset:
+- Daniel standing customer-side at fixed counter waypoint
+- both SAME gloves ON
+- token RIGHT gloved hand at chest height
+- LEFT gloved hand free
+- flashlight ON/supported on same dry counter zone
+- folio CLOSED/supported beside flashlight
 - key clipped
-- flashlight RIGHT hand ON
-- phone LEFT chest pocket
-- gloves stored inside folio
-- gate LEFT-stacked/open
+- phone pocketed
+- gate open
 - service window CLOSED
-- Cafe clock inactive
-- token hidden
+- Cafe practical fixtures OFF
+- Cafe clock inactive exact `12:07`
+- no 1986 state
 
-No location/time reset.
+### Midnight Timing — PASS AFTER REPAIR
 
-### Counter Search Environment — TEXTUAL PASS / VISUAL BLOCKER
+The 11:41 station-entry visit and careful exploration across Strips 004–008 naturally carry the scene to midnight.
 
-New required reusable authority:
-`Manhwa/Environment-References/Cafe-Siete/cafe-siete-2026-counter-search-reference.webp`
+V041–V045 are **reader-decompressed slices of the same opening instant at `12:00:00 AM`**. Technical panel count does not imply several additional seconds/minutes.
+
+No supernatural time jump is inserted between Strip 008 and Strip 009.
+
+### Cafe Clock / Menu Wall — TEXTUAL PASS / VISUAL BLOCKER
+
+New required environment authority:
+`Manhwa/Environment-References/Cafe-Siete/cafe-siete-clock-menu-wall-reference.webp`
 
 It locks:
-- Strip 007 pause → ~1.8–2.4 m customer-side route
-- main counter search waypoint
-- dry 45–55 cm counter support zone
-- fixed raised trim/backstop
-- toe-kick/search recess
-- token baseline location
-- fixed lower metal trim that owns `TINK`
+- clock high on fixed back/menu wall
+- clock LEFT-OF-CENTER
+- menu zone to RIGHT
+- service window lower in same broader wall system without overlap
+- customer-side counter waypoint → clock sightline
+- same wall geometry in 1986/2026
+- no station-clock substitution
 
-This prevents counter underside/support geometry from redesigning between V036–V040 and later Cafe views.
+### Pre-Activation Lighting — PASS
 
-### V036 Real Approach — PASS
+Strip 008 left the flashlight supported and aimed down/out toward the counter recess.
 
-Daniel does not start crouched under the counter.
+Strip 009 does **not** silently redirect it to the clock.
 
-He visibly:
-- initiates first step
-- walks the approved customer-side route
-- reaches ~0.5–0.8 m from counter front
-- stops
-- only then lowers the SAME right-hand flashlight into the toe-kick recess
+Clock readability uses:
+- faint open-gate/ticket-hall spill
+- weak reflected flashlight spill
+- ordinary dim-scene exposure
 
-Gate recedes through real room depth.
+Cafe fixtures remain OFF and there is no supernatural glow.
 
-### V037 Brass Highlight — PASS
+### `CLOCK-CAFE-01` Canonical — HARDENED / VISUAL BLOCKER
 
-The highlight occurs only after the beam reaches the exposed rim of `TOKEN-01`.
+Clock identity now locks:
+- ~31–35 cm diameter
+- matte aged brass rim
+- cream/ivory dial
+- hour/minute hands
+- thin readable second hand
+- fixed back-wall mount
 
-The token:
-- remains ~20–30 cm inward in the recess
-- lies mostly flat in dust
-- does not move
-- does not glow
+Inactive state:
+- exact `12:07`
+- minute hand seventh-minute tick
+- hour hand slightly past `12`
+- second hand stopped straight UP at `12`
+- no ticking
 
-No SFX is required.
+This remains visually distinct from the large dark-iron no-second-hand station clock.
 
-### V038 Flashlight / Folio Support — PASS
+### V041 `KLIK` Source — PASS
 
-Flashlight:
-- visibly leaves RIGHT hand
-- stays ON
-- rests on the fixed dry counter zone
-- raised trim/backstop prevents rolling
-- lens remains aimed down/out into the same search recess
+The first new event is the clock itself:
+- midnight boundary arrives
+- internal reset/escapement latch engages
+- `KLIK` belongs to actual wall-clock location
+- Daniel eyes turn first, then head/shoulders
+- feet stay planted
+- token remains still in RIGHT hand
+- flashlight/folio remain supported
 
-Folio:
-- visibly leaves LEFT-arm carry
-- lies flat beside flashlight
-- key stays clipped
-- phone stays pocketed
-- folio opens only to access same glove envelope
+Camera cannot show a clock close-up before Daniel has reacted to the source.
 
-No invented stool/table/floor support.
+### V042 Source Confirmation — PASS
 
-### Same Glove Pair / Donning Order — PASS
+A short silent beat keeps Daniel fixed on the clock source.
 
-No second glove pair.
+No:
+- second `KLIK`
+- token motion
+- gate movement
+- service-window movement
+- Cafe-light activation
 
-Exact order:
-1. both bare hands open same envelope
-2. RIGHT bare hand holds LEFT glove cuff
-3. LEFT hand inserts/seats fully
-4. LEFT glove ON
-5. LEFT gloved hand holds RIGHT glove cuff
-6. RIGHT hand inserts/seats fully
-7. both SAME gloves ON
-8. empty envelope returns/closes inside folio
-9. folio closes
+This makes the sound source unambiguous.
 
-Token contact cannot occur before both gloves are fully seated.
+### V043 Dead `12:07` Proof — PASS
 
-### V039 Body Support / Token Retrieval — PASS
+Same Cafe clock only:
+- brass rim
+- second hand present
+- second hand stopped at `12`
+- minute hand seventh-minute tick
+- hour hand slightly past `12`
+- exact `12:07`
 
-Daniel lowers into a real stable squat/low crouch.
+No ticking or movement yet.
 
-- LEFT gloved hand braces on his own left thigh/knee
-- RIGHT gloved hand reaches into fixed recess
-- right fingers contact/pinch/lift SAME token
-- token travels continuously toward opening
-- one edge lightly contacts fixed lower metal trim
-- `TINK` occurs exactly there
-- token fully clears into RIGHT gloved hand
+### V044 Physical Reset — PASS
 
-No token teleport or duplicate.
+One internal gear engagement/shudder owns:
+`TK`
 
-### `TOKEN-01` Canonical — PASS TEXTUALLY / VISUAL BLOCKER
+Then:
+- minute hand visibly travels **backward/counterclockwise** from seventh-minute tick toward `12`
+- hour hand correspondingly returns toward exact `12`
+- second hand only tremors at its stopped `12` position
+- second hand does not spin around dial
+- clock stays mounted in same wall position
 
-Token identity tightened:
-- ~29–31 mm diameter
-- ~2 mm thick
-- cup + `CAFE SIETE` front
-- reverse `7`
-- one stable green-corrosion edge
-- matte tarnished brass
+The reset cannot occur solely between camera cuts.
 
-Front/reverse close-ups remain the SAME object.
+### V045 Exact `12:00:00` — PASS
 
-### V040 Rise / Inspection — PASS
+Same-object completion:
+- hour hand exact `12`
+- minute hand exact `12`
+- second hand exact `12`
+- one first active `TICK`
+- clock becomes the active connection-state authority
 
-The strip no longer ends with an unexplained posture reset.
+Cafe practical fixtures still remain OFF in this final frame.
 
-Daniel visibly:
-- keeps token secure RIGHT hand
-- rises from crouch
-- settles standing at same counter waypoint
-- raises token to chest/inspection height
-- rotates same token front → reverse
-- preserves corrosion-edge identity
-- says only `Cute.`
+### Token Causality — PASS
+
+`TOKEN-01` remains one ordinary material object throughout Strip 009:
+- no glow
+- no vibration
+- no warmth cue
+- no insertion/contact trigger
+- no movement/drop
+
+It remains RIGHT gloved hand through the 009→010 seam.
 
 ### SFX — PASS
 
-Strip 008 uses one required sound:
-`TINK`
+- `KLIK` = Cafe-clock reset latch
+- `TK` = internal gear engagement/shudder
+- `TICK` = first active clock tick when exact `12:00:00` settles
 
-Source = same token edge touching the fixed lower metal counter trim during withdrawal.
-
-No magical-glint or glove filler SFX.
-No Cafe-clock sound yet.
+No token SFX.
+No Cafe-light SFX until Strip 010.
 
 ### Vertical Rhythm — PASS
 
 Target:
-- V036 20%
-- V037 13%
-- V038 31%
-- V039 20%
-- V040 16%
+- V041 19%
+- V042 12%
+- V043 24%
+- V044 21%
+- V045 24%
 
-V038 gets the largest allocation because it contains multiple state-critical movements.
+V043 and V045 are the major time-proof beats.
 
-### Strip 008 → 009 Seam-Out — PASS AFTER REPAIR
+### Strip 009 → 010 Seam-Out — PASS AFTER REPAIR
 
 Exact state:
-- Daniel standing at fixed customer-side counter-search waypoint
-- both SAME cotton gloves ON
-- SAME `TOKEN-01` RIGHT gloved hand at chest/inspection height
-- LEFT gloved hand free
-- flashlight ON/supported on fixed dry counter zone
-- folio CLOSED/supported beside flashlight
-- key clipped exterior
-- phone LEFT chest pocket
-- glove envelope empty/closed inside folio
-- gate LEFT-stacked/open behind
+- Daniel same customer-side counter waypoint
+- both SAME gloves ON
+- token still RIGHT gloved hand at chest height
+- LEFT hand free
+- attention toward clock
+- flashlight ON/supported, beam still down/out
+- folio CLOSED/supported; key clipped
+- phone pocketed
+- gate open
 - service window CLOSED
-- Cafe clock inactive at baseline stopped `12:07`
-- no lights/1986 state
+- `CLOCK-CAFE-01` exact `12:00:00` ACTIVE
+- Cafe practical fixtures OFF
+- no visible 1986 co-registration
+- no Tomas
 
-Strip 009 is synchronized to this start only and remains **NOT YET LOCALLY HARDENED**.
+Strip 010 is synchronized to this start only and remains **NOT YET LOCALLY HARDENED**.
 
 ### Next-Strip Finding Preserved
 
-Strip 009's first new event must be the real Cafe-clock source `KLIK` while Daniel and all inherited objects stay still. The dedicated Strip 009 audit must still prove the clock mechanism, exact hand movement to `12:00`, SFX timing and 009→010 activation seam.
+Strip 010 must make the first new visible consequence the real Cafe practical-light/electrical sequence. Only after that consequence visibly startles Daniel may the same token fall from his RIGHT gloved hand.
+
+The exact fixture order, `FZZT—THUM` source, token fall/skitter path, 1986 sensory-source reveal, dual-era co-registration and safe Daniel support remain for Strip 010 audit.
 
 ---
 
 ## Next Audit
 
-**Strip 009 — The Cafe Clock Wakes**
+**Strip 010 — 12:00 / Dual-Era Activation**
 
-Do not inherit Strip 008 PASS into Strip 009.
+Do not inherit Strip 009 PASS into Strip 010.

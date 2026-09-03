@@ -22,23 +22,48 @@ Historical interference and boundary damage can permanently shorten later window
 
 Lost time never silently recovers.
 
+### Chapter 1 Midnight Opening Sequence — Absolute
+
+Strip 009 and Strip 010 decompose one opening event for reader clarity.
+
+The technical panels are not separate minutes/seconds of elapsed real time.
+
+Order:
+1. Daniel's ordinary 2026 station/Cafe investigation reaches the midnight boundary after beginning at 11:41 PM.
+2. At exactly `12:00:00 AM`, `CLOCK-CAFE-01` is the first physical source to react.
+3. its internal reset latch produces `KLIK`
+4. Daniel reacts toward the actual clock source; `TOKEN-01` stays still in his hand
+5. same clock is still visibly in inactive baseline `12:07` state before hand travel begins
+6. internal gear train engages with one `TK`
+7. hour/minute hands visibly reset backward to `12`; second hand only tremors at its stopped `12` position
+8. all hands settle at exact `12:00:00`
+9. one first active `TICK` marks the Cafe clock entering connection-counting state
+10. Strip 010 then shows practical Cafe fixtures activating and the 1986 state becoming perceptible/co-registered
+
+`TOKEN-01` does **not** trigger the connection. It is ordinary Cafe material evidence that Daniel happens to be holding when midnight arrives.
+
+Do not teach a false `token pickup → activation` rule.
+
 ## 3. Two Separate Clocks — Absolute
 
 There are two physically separate recurring clocks.
 
 ### `CLOCK-CAFE-01` — Cafe Siete clock
-- brass-rimmed wall clock inside Cafe Siete
-- has hour/minute hands and a readable second hand because seconds become story-critical from Chapter 4 onward
-- in Tomas's ordinary 1986 experience it has been broken for roughly two years and normally rests at `12:07`
-- on connection activation it resets to `12:00:00` and becomes the **connection-state clock**
+- modest brass-rimmed wall clock inside Cafe Siete
+- hour/minute hands plus one readable thin second hand
+- in Tomas's ordinary 1986 experience it has been broken for roughly two years and normally rests at exact `12:07`
+- inactive second-hand rest position = straight UP at `12`
+- at the standard midnight opening it physically resets to `12:00:00` and becomes the **connection-state clock**
+- reset is visible physical hand travel/mechanical engagement, not glowing UI or teleporting hand positions
 - it advances continuously until the current allowed duration expires
-- when the connection closes it returns/settles to the inactive `12:07` state
+- when the connection closes it returns/settles to the inactive `12:07` state according to the audited closing sequence
 
 ### `CLOCK-STATION-01` — San Aurelio ticket-hall clock
 - separate larger station clock in the ticket hall
 - in Daniel's 2026 baseline it is physically stopped at `12:07`
 - creator cause: the fire-night sabotage cuts the relevant station feed at 12:07 on November 23, 1986
 - it does **not** reset to 12:00 during Daniel/Tomas meetings
+- it has no second hand
 
 During an active interval, avoid showing both clocks in one composition unless the story explicitly needs the contrast. The Cafe clock is the countdown authority. The station clock is the historical clue.
 
@@ -151,6 +176,7 @@ Daniel and Tomas can eventually search for a survival path that preserves enough
 ## 12. No Automatic Rule Exceptions
 
 Do not introduce:
+- token-triggered activation
 - free full-body crossing
 - daytime openings
 - arbitrary extra minutes

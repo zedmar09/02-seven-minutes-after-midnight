@@ -2,7 +2,7 @@
 
 This directory contains 36 technical generation chunks for Chapter 1. Reader never sees strip numbers; approved strips stitch into one continuous vertical chapter.
 
-Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–008 LOCAL TEXTUAL PASS — STRIPS 009–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
+Current status: **SEQUENTIAL HARDENING AUDIT IN PROGRESS — STRIPS 001–009 LOCAL TEXTUAL PASS — STRIPS 010–036 PENDING — REQUIRED CANONICAL WEBPS MISSING — RENDERING BLOCKED.**
 
 ## Binding Files
 
@@ -17,7 +17,7 @@ Every local strip prompt inherits:
 
 ## Why 36 Strips
 
-The former compressed package allowed movement/dialogue to be implied between views. Current package separates real body movement, source/contact/result, one-object provenance, clock proof, dialogue/reaction rhythm, SFX source/timing, emotional progression and deterministic seam state.
+The package separates real body movement, source/contact/result, one-object provenance, clock proof, dialogue/reaction rhythm, SFX source/timing, emotional progression and deterministic seam state.
 
 ## Sequential Hardening Rule
 
@@ -32,8 +32,9 @@ Current audit position:
 - Strip 006 — local textual PASS
 - Strip 007 — local textual PASS
 - Strip 008 — local textual PASS
-- Strip 009 — NEXT
-- Strip 010–036 — pending
+- Strip 009 — local textual PASS
+- Strip 010 — NEXT
+- Strip 011–036 — pending
 
 ## Sequential Render Rule
 

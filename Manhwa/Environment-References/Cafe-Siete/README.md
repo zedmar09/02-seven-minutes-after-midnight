@@ -23,41 +23,41 @@ The approved pack must establish one shared physical cafe structure across both 
 ## 2026 Entrance / Sign / Painted-Glass Authority — Required
 
 Strips 006–007 require:
-
 `cafe-siete-2026-entrance-sign-glass-reference.webp`
 
 Generated from:
 `cafe-siete-2026-entrance-sign-glass-reference-prompt.md`
 
-It locks:
-- ticket-hall approach → Cafe frontage relationship
-- exact `CAFE SIETE` fascia sign placement
-- sliding/collapsible gate geometry/track/leading edge/friction-held open state
-- fixed RIGHT-side painted-glass evidence panel
-- `TOMAS` scratch position/scale/age treatment
-- lower fire-warning evidence zone remaining unreadable until final reveal
-- fixed shallow sill/jamb for physically valid Strip 007 gear support
+It locks the Cafe frontage, gate mechanics, painted-glass scratches and Strip 007 sill/jamb gear support.
 
 ## 2026 Counter / Token Search Authority — Required
 
 Strip 008 requires:
-
 `cafe-siete-2026-counter-search-reference.webp`
 
 Generated from:
 `cafe-siete-2026-counter-search-reference-prompt.md`
 
-It locks:
-- Strip 007 interior pause → main-counter search route
-- customer-side counter height and approach
-- fixed dry counter-top support zone
-- flashlight/folio/glove-envelope support relationship
-- customer-side toe-kick recess
-- `TOKEN-01` baseline hidden location
-- physically reachable retrieval route
-- fixed lower metal trim that owns the retrieval `TINK`
+It locks the customer-side counter-search route, dry support zone, toe-kick recess, token baseline location and physical `TINK` source.
 
-This authority is additional to the shared structure and dual-era state references. It may clarify the same counter; it may not move or redesign it.
+## Clock / Menu Wall Authority — Required
+
+Strip 009 and all later Cafe-clock beats require:
+`cafe-siete-clock-menu-wall-reference.webp`
+
+Generated from:
+`cafe-siete-clock-menu-wall-reference-prompt.md`
+
+It locks:
+- `CLOCK-CAFE-01` high on the fixed Cafe back/menu wall
+- clock LEFT-OF-CENTER in the wall composition
+- menu-board zone to the clock's RIGHT
+- service-window opening lower in the same broader wall system without overlap
+- Daniel's customer-side counter waypoint → clock sightline
+- exact same wall/clock geometry across 1986 and 2026
+- no station-clock substitution
+
+This environment authority works together with `cafe-siete-clock-canonical-reference.webp`, which controls clock construction and hand states.
 
 ## 1986 State
 
@@ -66,7 +66,7 @@ Operational fictional railway cafe:
 - active pastry case
 - working practical bulbs
 - ceiling fan where established
-- handwritten menu use using fictional/local wording only
+- handwritten fictional-local menu use
 - active kitchen/station sound/traffic
 - internally consistent fictional-period equipment and removable furniture
 
@@ -81,6 +81,26 @@ Abandoned cafe:
 - redevelopment-era intrusion outside the cafe where relevant
 - no accidental active 1986 fixtures after the connection closes
 
+## Midnight Activation Separation — Absolute
+
+Strip 009 and Strip 010 are two phases of one midnight opening event:
+
+Strip 009:
+- clock-source `KLIK`
+- same clock baseline `12:07` proof
+- physical mechanical reset
+- clock exact `12:00:00`
+- no Cafe practical lights yet
+- no 1986 co-registration yet
+
+Strip 010:
+- practical fixtures activate
+- token fall
+- sensory 1986 state appears
+- dual-era co-registration becomes reader-visible
+
+`TOKEN-01` does not trigger the clock. Midnight does.
+
 ## Required Canonical Outputs Before Chapter 1 Rendering
 
 At minimum approve WebPs for:
@@ -88,10 +108,11 @@ At minimum approve WebPs for:
 2. 2026 cafe wide
 3. 1986 cafe wide
 4. 2026 entrance/sign/gate/painted-glass evidence authority
-5. **2026 counter/token-search/support authority**
+5. 2026 counter/token-search/support authority
 6. counter + service-window geometry authority
-7. clock/menu-wall authority
-8. dual-era state sheet or compatible paired reference proving one structure
-9. useful reverse-angle/angle-atlas authority
+7. **clock/menu-wall authority**
+8. Cafe connection clock object authority
+9. dual-era state sheet or compatible paired reference proving one structure
+10. useful reverse-angle/angle-atlas authority
 
 Exact filenames must be committed and referenced by Chapter 1 production Markdown before generation.
