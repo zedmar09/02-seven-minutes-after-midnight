@@ -86,6 +86,7 @@ new_paths = [
     ".manga-studio/maintenance/storyboard-v001/build.py",
     ".manga-studio/maintenance/storyboard-v001/finalize.py",
     ".manga-studio/maintenance/storyboard-v001/validation.json",
+    ".manga-studio/maintenance/remote-reconciliation-v001/record.json",
     ".manga-studio/storyboard/chapter-001-page-turns-v001.md",
     ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
     ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",

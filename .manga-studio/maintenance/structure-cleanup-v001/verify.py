@@ -325,6 +325,12 @@ assert storyboard_validation['storyboard']['sha256'] == sha(storyboard_path)
 assert storyboard_validation['checks']['storyboard_approved'] is False
 assert storyboard_validation['checks']['storyboard_locked'] is False
 assert storyboard_validation['checks']['image_generation_enabled'] is False
+remote_reconciliation = read(WORK / 'maintenance/remote-reconciliation-v001/record.json')
+assert remote_reconciliation['status'] == 'preserved_in_git_history_not_active_workspace'
+assert remote_reconciliation['remote']['tip_before_reconciliation'] == '0faafe2'
+assert remote_reconciliation['remote']['divergent_commits_preserved'] == 99
+assert remote_reconciliation['active_authority_after_reconciliation']['canon_sha256'] == authority['active_canon_sha256']
+assert remote_reconciliation['active_authority_after_reconciliation']['storyboard_sha256'] == sha(storyboard_path)
 for directory in WORKSPACE_DIRECTORIES:
     assert (WORK / directory).is_dir()
 root_names = {p.name for p in ROOT.iterdir() if not p.name.startswith('._')}

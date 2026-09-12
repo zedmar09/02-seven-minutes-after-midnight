@@ -1,0 +1,32 @@
+{
+  "record_type": "remote_main_reconciliation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-12T14:10:00Z",
+  "status": "preserved_in_git_history_not_active_workspace",
+  "remote": {
+    "name": "origin",
+    "branch": "main",
+    "tip_before_reconciliation": "0faafe2",
+    "common_ancestor": "3e22585863e81d44db2cd008aa6a430345d9743b",
+    "divergent_commits_preserved": 99
+  },
+  "alternate_working_roots": [
+    "Character-References",
+    "Covers",
+    "Manhwa"
+  ],
+  "disposition": "Do not reintroduce the remote alternate Manhwa/vertical-strip workspace into the active root. Preserve all remote commits as merge ancestry while keeping the user-approved Manga Studio structure modeled on 01-My Roommate Only Appears During Blackouts.",
+  "reasons": [
+    "The user explicitly approved a major cleanup and fresh story-01-compatible folder structure.",
+    "The alternate remote tree uses a second production hierarchy that would create competing authorities.",
+    "The alternate history includes a Caligo Vale setting lock that conflicts with the active approved San Aurelio canon v002.",
+    "The active Chapter 1 storyboard uses a 36-page black-and-white manga format, while the alternate tree uses vertical production strips.",
+    "Git merge ancestry preserves every remote commit for recovery without leaving obsolete working files in the clean root."
+  ],
+  "active_authority_after_reconciliation": {
+    "canon": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+    "canon_sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762",
+    "storyboard_candidate": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+    "storyboard_sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b"
+  }
+}

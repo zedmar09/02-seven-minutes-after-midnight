@@ -651,6 +651,11 @@
       "sha256": "d6600402edad09cd938a7f27075a061b86ecc6ce028b6e5d374d97d89501e9b1"
     },
     {
+      "relative_path": ".manga-studio/maintenance/remote-reconciliation-v001/record.json",
+      "evidence": [],
+      "sha256": "2ddd815a7fafdb05144c13c1c75782cc88f26043c070640048a54e824a543b43"
+    },
+    {
       "relative_path": ".manga-studio/maintenance/storyboard-v001/build.py",
       "evidence": [],
       "sha256": "cf3286446a9c2854292ca6c426d5b5ed87fb68ce55a0f9238e51bcd5b9ecbc85"
@@ -658,7 +663,7 @@
     {
       "relative_path": ".manga-studio/maintenance/storyboard-v001/finalize.py",
       "evidence": [],
-      "sha256": "5b481027e3d2181b980feee4d7fafe312718f81ed7c9410f319d4515a47b0959"
+      "sha256": "a1d2b2cb83e02962199ede38252aefe86dead8010a850476e36b06a612261bad"
     },
     {
       "relative_path": ".manga-studio/maintenance/storyboard-v001/validation.json",
@@ -668,7 +673,7 @@
     {
       "relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
       "evidence": [],
-      "sha256": "48a707dc7eea508f94ea42aa23471885ccdfcbb3f31fe80ac037c86cedbc9dd7"
+      "sha256": "000ad5554fc8a4c7cb649c3e86315d4e0b5a9c9400268ba462d872474751bb6b"
     },
     {
       "relative_path": ".manga-studio/maintenance/tomas-reference-review-v001/finalize.py",
@@ -1699,7 +1704,7 @@
   ],
   "inventory_semantics": "As-imported classification paths; current storage is provenance.original_path. All historical lookups require path plus expected hash.",
   "path_relocation_receipt": ".manga-studio/maintenance/structure-cleanup-v001/path-relocations.json",
-  "updated_at": "2026-09-12T14:04:57.828460+00:00",
+  "updated_at": "2026-09-12T14:08:19.120761+00:00",
   "current_authority": {
     "manuscript_status": "approved_active",
     "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
