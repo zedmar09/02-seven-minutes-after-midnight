@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-3fbababa82a6464fb8ceb7c32fca4077",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "change_set",
+  "target_relative_path": ".manga-studio/revisions/change-sets/sma-ch01-balanced-v001.json",
+  "target_version": "v001",
+  "target_sha256": "e153b390bb498aac3b535ad3d93d87b2da8272a0b14681de54df28a61557c0bb",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-05T06:35:38Z",
+  "actor": "user",
+  "notes": "User explicitly said 'Yes approved' in response to approval of the exact Chapter 1 changes for a new inactive manuscript draft. Approves payload SHA-256 e153b390bb498aac3b535ad3d93d87b2da8272a0b14681de54df28a61557c0bb and its exact reviewed text, not manuscript activation, canon adoption, locks or artwork. The same request authorizes a Manga Creator folder refactor using Blackouts only as a structural reference.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

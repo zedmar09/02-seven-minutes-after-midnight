@@ -1,0 +1,34 @@
+{
+  "record_type": "series_direction_index",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "active_canon": null,
+  "entries": [
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+      "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211",
+      "role": "Accepted creative direction through the approved parent-plan manifest"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/success-plan-v001.md",
+      "sha256": "66dff812febd50db05a9fa2e393c068e1a4b0cc8890231d65b9e676b551e480c",
+      "role": "Accepted success plan, no validated market result"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+      "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d",
+      "role": "Fourteen accepted reconstruction directions; unresolved details not adopted"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/AUDIT-v001.md",
+      "sha256": "dbb1eb8ddecabc92f75d99d15b12d567db3da7592877fa0110039e23d59351c1",
+      "role": "Historical evidence-based audit"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+      "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c",
+      "role": "Working continuity, not adopted canon"
+    }
+  ],
+  "parent_plan_approval_relative_path": ".manga-studio/approvals/approval-8300f092c2fb44d98842a89d829e3fb3.json"
+}

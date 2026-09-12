@@ -1,0 +1,24 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-6c62ca565b514e4293790568f544ce00",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "CANON_APPROVED",
+  "status": "locked",
+  "lock_version": "v003",
+  "recorded_at": "2026-09-12T13:51:06Z",
+  "actor": "user",
+  "notes": "User approved Chapter 1 canon v002 as the active one-fact correction before storyboard drafting.",
+  "prerequisite_gates": [
+    "SOURCE_LOCKED"
+  ],
+  "approval_ids": [
+    "approval-179120b070e94a71a22d4af7677e67b9"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+      "sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762"
+    }
+  ],
+  "supersedes_lock_id": "lock-8eaf841ca0c946f2b7b45d8df965a0e2"
+}

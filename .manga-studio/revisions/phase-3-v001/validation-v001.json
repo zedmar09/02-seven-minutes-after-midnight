@@ -1,0 +1,62 @@
+{
+  "record_type": "phase_3_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "checked_at": "2026-09-05T04:05:50.572916+00:00",
+  "status": "pass",
+  "errors": [],
+  "approved_diagnostic": {
+    "approval_id": "approval-8a2e8e6a05744edd9034972bf780a058",
+    "target_relative_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+    "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b"
+  },
+  "original_candidates_byte_identical": 25,
+  "original_story_sources_byte_identical": 24,
+  "prior_audit_artifact_hashes_unchanged": 13,
+  "snapshot_normalized_and_source_map_integrity": "passed",
+  "review_package_artifacts_hash_checked": 26,
+  "revision_plan_schemas_checked": 14,
+  "revision_policy_schemas_checked": 1,
+  "strict_source_evidence_locators_checked": 420,
+  "issues_mapped": 30,
+  "work_packages": 13,
+  "decision_proposals": 14,
+  "dependency_graph": "acyclic",
+  "stage_locks": {
+    "SOURCE_LOCKED": false,
+    "CANON_APPROVED": false,
+    "DIAGNOSTIC_APPROVED": false,
+    "REVISION_PLAN_APPROVED": false,
+    "MANUSCRIPT_APPROVED": false,
+    "STORY_LOCKED": false,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "active_approved_versions": {
+    "canon": null,
+    "manuscript": null,
+    "storyboard": null
+  },
+  "new_approval_count": 1,
+  "new_approval_scope": "User-approved audit only",
+  "new_manuscript_count": 0,
+  "new_change_set_count": 0,
+  "new_image_job_count": 0,
+  "image_generation_enabled": false,
+  "package_manifest": {
+    "relative_path": ".manga-studio/revisions/phase-3-v001/package-manifest-v001.json",
+    "sha256": "39a56110a135bccb13cb9ccbf0b0d03600ef4e621a6992d7b08362ee54dd976a"
+  },
+  "parent_revision_plan": {
+    "relative_path": ".manga-studio/revisions/plans/sma-reconstruction-v001.json",
+    "sha256": "426e11d146f23f61b98e34f30f7918df51caebc4b3dbe9bf188ac170196dec60"
+  },
+  "readiness": "Phase 3 proposals are complete and await user review; no execution or stage-lock readiness is implied.",
+  "limits": [
+    "All proposed story choices remain unapproved.",
+    "Calendar dates, cost calibration, and other continuation-only unknowns remain explicit blockers before dependent new chapters.",
+    "No reader, market, historical, legal, or artistic result is validated by schema or provenance checks.",
+    "No page-quality review applies because no approved composed or lettered pages exist."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "version": "v001",
+  "mode": "balanced",
+  "description": "Proposed Option B: preserve the supplied Chapter 1's title, core sequence, voice, and intimacy while repairing causal, identity, spatial, and rule continuity. All narrative additions are proposals in .manga-studio/revisions/phase-3-v001/decision-proposals-v001.json. This policy permits only versioned text operations after plan, relevant decisions, and exact change-set approval; it grants no automatic approvals, locks, publishing, or artwork operations.",
+  "allowed_operations": [
+    "replace_text",
+    "insert_after",
+    "append_text"
+  ],
+  "preserve": [
+    "Original source bytes, names, and directory layout.",
+    "All audit v001 files and their hash-bound approval.",
+    "Daniel and Tomas as adults, occupational distinctions, reciprocal agency, and chosen family.",
+    "Close Daniel viewpoint, dry humor, tactile detail, and restrained emotional exposition.",
+    "The two separate paper exchanges, aging pastry, seven-minute first meeting, and better-bread reply before the fire-warning reveal.",
+    "Existing chapter title, core sequence, and source IDs; no new chapter quota.",
+    "Intentional mysteries remain unknown unless an explicitly approved proposal resolves them.",
+    "All new artifacts remain separate versions; no automatic canon adoption or stage-lock activation."
+  ],
+  "requires_issue_ids": true,
+  "approval_status": "proposed"
+}

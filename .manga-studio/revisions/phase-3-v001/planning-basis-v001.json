@@ -1,0 +1,25 @@
+{
+  "record_type": "planning_authorization_and_gate_review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "user_approval_message": "yes",
+  "preceding_question": "Do you approve audit v001 so I can prepare the Phase 3 creative brief, success plan, reconstruction options, and revision plan?",
+  "audit_approval_path": ".manga-studio/approvals/approval-8a2e8e6a05744edd9034972bf780a058.json",
+  "audit_approval_id": "approval-8a2e8e6a05744edd9034972bf780a058",
+  "approved_diagnostic_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+  "approved_diagnostic_sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b",
+  "authorization_scope": "User-approved audit and explicit preparation of Phase 3 proposals only.",
+  "diagnostic_approval_record_valid": true,
+  "DIAGNOSTIC_APPROVED_stage_lock": false,
+  "SOURCE_LOCKED_stage_lock": false,
+  "gate_interpretation": "The revision-planner skill asks to verify DIAGNOSTIC_APPROVED. The installed stage lock also requires SOURCE_LOCKED. The user explicitly authorized Phase 3 planning and prohibited automatic lock activation. Draft proposals therefore proceed under that user authorization with a verified diagnostic approval record; no stage-lock gate is represented as passed, and no activation or application is attempted.",
+  "active_canon_version": null,
+  "reference_conflicts": "Lilia/Inez and Arturo/Rafael are proposed identity resolutions, not adopted aliases or canon.",
+  "not_authorized": [
+    "automatic source or diagnostic locks",
+    "approval of new creative choices or plans",
+    "manuscript reconstruction",
+    "artwork operations",
+    "publishing or external manuscript research"
+  ]
+}

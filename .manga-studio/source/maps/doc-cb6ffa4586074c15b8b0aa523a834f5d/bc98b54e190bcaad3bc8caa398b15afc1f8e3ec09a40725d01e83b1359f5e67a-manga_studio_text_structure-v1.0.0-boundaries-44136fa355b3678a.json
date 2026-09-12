@@ -1,0 +1,264 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+  "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "display_title": "Page 013 ChatGPT Image Prompt",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Page 013 ChatGPT Image Prompt",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-5f94d71db8af45fa864f66f55775dc7a",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 33,
+      "byte_end": 295,
+      "content_fingerprint": "207992d390aadf67058dcdcd3d390b7af89ad45178753dc38e10b4854b5fc2e6",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-00dde1f71e42440e8c7369e2bfb42a50",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 5,
+      "line_end": 6,
+      "byte_start": 296,
+      "byte_end": 447,
+      "content_fingerprint": "868afc148fcd88a9d60af5532f4c6dadb6af6d102a2e7c59793b00d1ee803e0f",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d619aa8ca64e4935893e0a8d1e5fb8dc",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 8,
+      "line_end": 9,
+      "byte_start": 448,
+      "byte_end": 629,
+      "content_fingerprint": "1a61843c094f3e07412a2f90575b764b1d85c79ef2c0dba7971623c589cf1db5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-90f9aeeab4f5475aa7793fbee25c2d25",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 11,
+      "line_end": 12,
+      "byte_start": 630,
+      "byte_end": 818,
+      "content_fingerprint": "a2a20b6b66353ae09b6e84eb77530d93db1fe6bcff94ac87dafc871a09b5622b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-ffafa18fd0724b2ca4753cd7c0ae8a9e",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 14,
+      "line_end": 15,
+      "byte_start": 819,
+      "byte_end": 916,
+      "content_fingerprint": "7855e0a341c3ca7229832532b84868248f4c9fa5931208c799199dc200f41aa4",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-f0e800fb84934b7f99fc1721ae5eb0c6",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 17,
+      "line_end": 21,
+      "byte_start": 917,
+      "byte_end": 1006,
+      "content_fingerprint": "7967ca54dec877a7909e70c5c3d5213f73fb2d2f154b44ce03da79e05ba409ca",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-8e05500a1fcb4b65a92df3327f889be6",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 23,
+      "line_end": 26,
+      "byte_start": 1007,
+      "byte_end": 1207,
+      "content_fingerprint": "1c986413aac0a9d2cb25f5431c96f0ab0a9f37ae693c474512075174f294d2c7",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-513c2e9096e34fd4be066cc51342ab6b",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 28,
+      "line_end": 31,
+      "byte_start": 1208,
+      "byte_end": 1389,
+      "content_fingerprint": "c09df4d050a9f8666c56ac54798b98eb4cbaf35110fb176ba010da32001ea04d",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-998274dcd23f4fac9c6c695880e41639",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 9,
+      "unit_type": "paragraph",
+      "line_start": 33,
+      "line_end": 36,
+      "byte_start": 1390,
+      "byte_end": 1548,
+      "content_fingerprint": "78a0e374f84d1bec671a4196dfa4ada0c778a49e0df760862602e9cadb831d57",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-71e322e6b2e643b5a57282192936c938",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 10,
+      "unit_type": "paragraph",
+      "line_start": 38,
+      "line_end": 41,
+      "byte_start": 1549,
+      "byte_end": 1780,
+      "content_fingerprint": "b4042a3c123ea4bc1d2f35b9ab194909b29cac7a4b6b5962e45bff3e66e56923",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-5619626a8501416280efddd762a3239f",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 11,
+      "unit_type": "paragraph",
+      "line_start": 43,
+      "line_end": 44,
+      "byte_start": 1781,
+      "byte_end": 1907,
+      "content_fingerprint": "6e2ce67906c4dada7897c98af8c2145775bac278b54a5725dc3d092cce36637a",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d9f1aec22da84b03afb74af3426bac56",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "heading_path": [
+        "Page 013 ChatGPT Image Prompt"
+      ],
+      "source_order": 12,
+      "unit_type": "paragraph",
+      "line_start": 46,
+      "line_end": 48,
+      "byte_start": 1908,
+      "byte_end": 2061,
+      "content_fingerprint": "0036e7dbca32fd10982c45c394443258eda3d9cbbe0737a3585197245499c374",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

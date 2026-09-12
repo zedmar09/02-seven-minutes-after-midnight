@@ -1,0 +1,21 @@
+{
+  "record_type": "audit_parameters",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "operational_settings_and_unapproved_recommendations",
+  "project_root": ".",
+  "source_language": "en",
+  "output_language": "en",
+  "analysis_depth": "comprehensive",
+  "production_quality_profile": "high",
+  "user_root_confirmation": "yes use that root",
+  "classification_authorization": "Resolve obvious classifications from evidence. Consolidate only genuinely ambiguous classifications into one approval request. Import only approved sources.",
+  "classification_interpretation": "Agent may resolve obvious usage roles under the user's delegated instruction. The inventory approved status denotes permission to import evidence only, not adoption of canon or approval of any creative artifact. Record the basis for each source; do not create approval records.",
+  "source_priority_for_analysis": ["actual chapter prose", "character and rule reference as author intent", "outlines as planned events", "legacy prompts as adaptation evidence"],
+  "source_priority_status": "analytical distinction, not a new canon decision",
+  "reading_direction": {"value": "left-to-right", "status": "reversible recommendation", "basis": "English output, no explicit reading direction in supplied story files; existing pages are vertical multi-panel pages."},
+  "page_dimensions": {"width_px": 1654, "height_px": 2339, "status": "runtime placeholder only; no print specification or production approval"},
+  "scene_boundaries": {"status": "analytical segmentation for evidence; not an approved story structure", "basis": "Chapter 1 archive prelude followed by the station encounter; preserve original chapter and titles."},
+  "prohibited_actions": ["modify originals", "generate or edit artwork", "online manuscript research", "upload or publish manuscript", "automatic artifact approval", "automatic stage locking", "reconstruction before approvals"],
+  "checkpoint": "Complete Phases 1 and 2; request audit approval before Phase 3; require separate option and revision-plan approval before Phase 4."
+}

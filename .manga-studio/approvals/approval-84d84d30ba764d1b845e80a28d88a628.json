@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-84d84d30ba764d1b845e80a28d88a628",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "canon",
+  "target_relative_path": ".manga-studio/canon/versions/chapter-001-canon-v001.json",
+  "target_version": "v001",
+  "target_sha256": "8e99db551f9eda9f3b56116b15cd6425a807d27b439df3a493864385612cfb58",
+  "status": "superseded",
+  "decision": "approved",
+  "decided_at": "2026-09-11T10:41:41Z",
+  "actor": "user",
+  "notes": "User explicitly approved adoption of Chapter 1 canon v001 and authorized prerequisite locks through STORY_LOCKED. The content matches reviewed proposal SHA-256 3319ff4fe3e13f23a1b91997357b214d94b25e485a6d93d96d8695e9aef1c4ff; only the authorized status transition from proposed to approved changed before this final hash-bound approval.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": "approval-179120b070e94a71a22d4af7677e67b9",
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

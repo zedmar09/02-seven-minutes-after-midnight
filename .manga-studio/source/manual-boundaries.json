@@ -1,0 +1,18 @@
+{
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_status": "analytical segmentation only; not approved or locked",
+  "boundaries": [
+    {
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "line": 10,
+      "kind": "scene",
+      "title": "Archive prelude"
+    },
+    {
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "line": 28,
+      "kind": "scene",
+      "title": "Station encounter and aftermath"
+    }
+  ]
+}

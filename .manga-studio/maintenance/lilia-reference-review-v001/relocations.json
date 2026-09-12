@@ -1,0 +1,13 @@
+{
+  "record_type": "lilia_reference_review_v001_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-12T12:39:43.570970+00:00",
+  "reason": "Preserve the pre-review register before recording a non-approved, byte-identical external Lilia reference candidate and its v001 review.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/lilia-reference-review-v001/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "642b45d62f543905ebc65d9aa2a543f69fab574ef0e50b13ef58597b7a5205b7"
+    }
+  ]
+}

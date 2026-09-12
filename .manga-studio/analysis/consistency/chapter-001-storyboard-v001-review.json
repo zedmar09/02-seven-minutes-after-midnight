@@ -1,0 +1,27 @@
+{
+  "record_type": "storyboard_consistency_review",
+  "schema_version": "3.0.0",
+  "review_id": "review-chapter-001-storyboard-v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "target": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+  "status": "review_ready",
+  "authority": {
+    "canon": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+    "canon_sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762",
+    "manuscript": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+    "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+  },
+  "checks": {
+    "page_count": 36,
+    "page_numbers_contiguous": true,
+    "scene_order_preserved": true,
+    "clock_sequence_preserved": true,
+    "two_clocks_distinct": true,
+    "counter_and_hatch_distinct": true,
+    "paper_transfers_distinct": true,
+    "final_warning_matches_canon_v002": true,
+    "unsupported_story_additions": 0,
+    "blocking_findings": 0
+  },
+  "approval_required": true
+}

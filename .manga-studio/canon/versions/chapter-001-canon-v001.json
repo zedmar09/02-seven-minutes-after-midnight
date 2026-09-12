@@ -1,0 +1,641 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "canon_id": "canon-chapter-001-v001",
+  "version": "v001",
+  "status": "approved",
+  "confirmed_facts": [
+    {
+      "fact_id": "canon-fact-ch001-001",
+      "subject_id": "character-7aa0419823314e0787fe55c54aa83047",
+      "predicate": "identity_role_and_era",
+      "value": {
+        "name": "Daniel Soriano",
+        "occupation": "museum conservator",
+        "era": 2026,
+        "chapter_viewpoint": true
+      },
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-002",
+      "subject_id": "character-7aa0419823314e0787fe55c54aa83047",
+      "predicate": "chapter_001_visual_identity",
+      "value": {
+        "hair": "close-cropped black curls with early silver at the temples",
+        "face": "narrow nose-bridge scar",
+        "glasses": "amber-tinted conservation glasses",
+        "wardrobe": "slate-blue chore jacket and cotton gloves",
+        "posture": "careful conservator posture"
+      },
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-003",
+      "subject_id": "character-7aa0419823314e0787fe55c54aa83047",
+      "predicate": "chapter_001_behavior",
+      "value": "Dry professional humor, paper-based reasoning, evidence-first caution, careful object handling, and restrained attraction to Tomas.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-004",
+      "subject_id": "character-a096cba8416847d4947a94012733a09b",
+      "predicate": "identity_role_and_era",
+      "value": {
+        "name": "Tomas Rivera",
+        "occupation": "Cafe Siete baker and cafe worker",
+        "era": 1986,
+        "stated_date": "October 17, 1986"
+      },
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-005",
+      "subject_id": "character-a096cba8416847d4947a94012733a09b",
+      "predicate": "chapter_001_visual_identity",
+      "value": {
+        "hair": "long dark wavy hair tied loosely with a jade-green cord, with stray strands across the face",
+        "eyes": "warm bright eyes",
+        "wardrobe": "cream long-sleeved 1980s cafe shirt rolled to the elbows, flour-marked sleeves, brown waist apron",
+        "body_language": "cheerful and competent cafe-worker movement"
+      },
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-006",
+      "subject_id": "character-a096cba8416847d4947a94012733a09b",
+      "predicate": "chapter_001_behavior",
+      "value": "Uses teasing practical humor under fear, demonstrates bread-making and service competence, initiates reciprocal proof, and chooses to return the next night.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-007",
+      "subject_id": "character-3f6621b20e6e4c0da53cb42678b5c277",
+      "predicate": "relationship_and_presence",
+      "value": "Lilia Ramos is Tomas's aunt by chosen family rather than blood and is heard calling from the 1986 kitchen during the first contact.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-008",
+      "subject_id": "character-eac21dd0fae140d0b5fc6cd85bbbac0c",
+      "predicate": "role_in_archive_prelude",
+      "value": "Maribel Santos leads the museum archive department and assigns Daniel the first inventory of the San Aurelio railway collection.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-009",
+      "subject_id": "character-28e7610c7be1473aa1d5fb041293cf19",
+      "predicate": "chapter_001_reported_role",
+      "value": "Arturo Salcedo is a broker in a white suit who has been visiting station offices; Tomas distrusts him, but Chapter 1 does not establish guilt.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-010",
+      "subject_id": "organization-2f727c5b2401437c8d90ae6e1c78d4e3",
+      "predicate": "railway_archive_intake",
+      "value": "The municipal museum receives forty-two water-stained boxes, three tin trunks, and one locked station cash drawer from San Aurelio Junction.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-011",
+      "subject_id": "location-e3d6a8be72a14872bb4be3930a5ac297",
+      "predicate": "architecture",
+      "value": "San Aurelio Junction has arched windows, green-and-cream tile, iron beams, brass signs, ticket windows, and a large station clock above the ticket hall.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-012",
+      "subject_id": "location-e3d6a8be72a14872bb4be3930a5ac297",
+      "predicate": "chapter_001_2026_state",
+      "value": "The station is abandoned and rain-damaged in 2026, with boarded ticket windows, plywood-covered doors, redevelopment preparation, broken tile, rust, cracked glass, and darkness.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-013",
+      "subject_id": "location-ec00909b6a1244d0ae35b1f2881055a5",
+      "predicate": "fixed_spatial_relationships",
+      "value": "Cafe Siete sits beside the old ticket hall. Its customer counter is separate from a narrow service hatch in the back kitchen wall, and a full kitchen doorway stands beside that hatch.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-014",
+      "subject_id": "location-ec00909b6a1244d0ae35b1f2881055a5",
+      "predicate": "parallel_era_state",
+      "value": "During the connection, Daniel's stools, tile, painted glass door, and surrounding cafe remain ruined in 2026 while the 1986 counter, kitchen, heat, light, steam, sound, and limited contact become perceptible across shared surfaces.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-015",
+      "subject_id": "prop-85802b3ff61346bd923496744e595278",
+      "predicate": "appearance_and_chapter_state",
+      "value": "The cafe token is coin-sized brass with green corrosion, a cup and CAFE SIETE on one side, and the number 7 on the other. Daniel drops it in his present before the connection opens; Chapter 1 does not prove causality.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-016",
+      "subject_id": "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+      "predicate": "seven_minute_clock_sequence",
+      "value": "The smaller brass-rimmed cafe clock is above the cafe door, snaps from 12:07 to 12:00, advances minute by minute, and the connection closes at 12:07.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-017",
+      "subject_id": "prop-abfd3210cb6e4133ab15d662bd6aa138",
+      "predicate": "separate_station_clock",
+      "value": "The large station clock is above the ticket hall, is stopped at 12:07 in 2026, and is a separate object from the cafe countdown clock.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-018",
+      "subject_id": "prop-d988556780d44dbb999ac13c70c7aaad",
+      "predicate": "unstable_contact_surface",
+      "value": "The customer counter initially supports shared tray contact, then becomes unstable at 12:02 and permits a brief painful wrist catch without established injury.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-019",
+      "subject_id": "prop-ce6d2b5f51db4da0a3de67a809c13925",
+      "predicate": "stable_limited_contact_surface",
+      "value": "The narrow service hatch opens at 12:02, permits plate, paper, and fingertip contact, and does not permit bodily passage. Its 2026 lower frame is charred and split.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-020",
+      "subject_id": "prop-d12d36e4106949ac8be1873a74057a59",
+      "predicate": "completed_forward_transfer_state",
+      "value": "A fresh sugared roll and white saucer remain fresh while shared, then age after Tomas releases and Daniel draws them fully into 2026: the bread shrinks, darkens, cracks and flakes; the saucer yellows at the rim and develops a hairline glaze fracture.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-021",
+      "subject_id": "prop-84030ef95dc848289c02a5c81ccff4fb",
+      "predicate": "backward_transfer_state",
+      "value": "Daniel's acid-free archival sleeve passes backward to Tomas and remains white and crisp. Tomas pockets it and does not return it in Chapter 1.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-022",
+      "subject_id": "prop-1461014f20054066aa266d61a245d1b6",
+      "predicate": "returned_reply_state",
+      "value": "The later torn notebook page is distinct from the archival sleeve, returns toward Daniel, catches in the charred hatch split, and becomes yellowed, brittle, and curled after clearing into 2026.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-023",
+      "subject_id": "prop-3c56d67fe71743d58ecaf605e59e5c46",
+      "predicate": "chapter_001_door_messages",
+      "value": "The 2026 cafe door glass is painted over. The name TOMAS is already scratched into it, and after closure dust reveals the separate warning HE DIED HERE / DO NOT LET HIM STAY.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-024",
+      "subject_id": "timeline-event-73260402244841a98e27554edb5a421a",
+      "predicate": "first_contact_opening",
+      "value": "At 12:00 the 2026 and 1986 cafe states connect; Daniel and Tomas share the tray, exchange eras, and introduce themselves.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-025",
+      "subject_id": "timeline-event-356fb605f0b748f5833cbd468dc5ca5b",
+      "predicate": "reported_clues",
+      "value": "Before closure, Tomas reports a failed southbound signal and Arturo Salcedo's month-long visits to station offices. Daniel records both as leads, not answers.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-026",
+      "subject_id": "timeline-event-3c8b5e1517c648d5959bf66ce04329b0",
+      "predicate": "return_promise",
+      "value": "Daniel asks Tomas to return the next night at midnight; Tomas agrees and writes I WILL BRING BETTER BREAD on the returned notebook page.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-027",
+      "subject_id": "timeline-event-2f64cf17d1e14569b0b878056b9b4b86",
+      "predicate": "first_contact_closure",
+      "value": "At 12:07 the 1986 cafe view vanishes, Daniel remains in the 2026 ruin, the returned reply finishes crossing, and the final warning becomes visible on the door.",
+      "status": "confirmed",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    }
+  ],
+  "provisional_facts": [
+    {
+      "fact_id": "canon-fact-ch001-p001",
+      "subject_id": "location-ec00909b6a1244d0ae35b1f2881055a5",
+      "predicate": "future_recurrence_direction",
+      "value": "Ordinary daily recurrence at midnight is the accepted development direction, but Chapter 1 only proves the first seven-minute contact.",
+      "status": "provisional",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-p002",
+      "subject_id": "plot-thread-fc72b7ce9c224f38abeb96727d0d5268",
+      "predicate": "series_dilemma_direction",
+      "value": "A future attempt to save Tomas may threaten the connection or their shared memory, but no outcome or exact cost is adopted in Chapter 1 canon.",
+      "status": "provisional",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    }
+  ],
+  "inferred_facts": [
+    {
+      "fact_id": "canon-fact-ch001-i001",
+      "subject_id": "timeline-event-22ea55bc2e8a495b997c7ca68a5228c9",
+      "predicate": "approximate_clock_failure_year",
+      "value": "Tomas's statement that the cafe clock has been broken for two years implies approximately 1984, but no exact failure date or cause is known.",
+      "status": "inferred",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-i002",
+      "subject_id": "prop-d12d36e4106949ac8be1873a74057a59",
+      "predicate": "observed_age_gap",
+      "value": "The roll and saucer's approximately forty-year aging corresponds to the stated 1986-to-2026 gap, without proving the behavior of every material.",
+      "status": "inferred",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    }
+  ],
+  "contradictions": [],
+  "deprecated_facts": [
+    {
+      "fact_id": "canon-fact-ch001-d001",
+      "subject_id": "character-3f6621b20e6e4c0da53cb42678b5c277",
+      "predicate": "legacy_visual_prompt_name",
+      "value": "Inez in legacy page prompts is a retired source error and is not an alias for Lilia Ramos.",
+      "status": "deprecated",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-d002",
+      "subject_id": "character-28e7610c7be1473aa1d5fb041293cf19",
+      "predicate": "legacy_visual_prompt_name",
+      "value": "Rafael in legacy page prompts is a retired source error and is not an alias for Arturo Salcedo.",
+      "status": "deprecated",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    }
+  ],
+  "unknowns": [
+    {
+      "fact_id": "canon-fact-ch001-u001",
+      "subject_id": "timeline-event-f282eafaa2a74ae591db06da0e294b6c",
+      "predicate": "daniel_2026_calendar_date",
+      "value": "Unknown. Chapter 1 states Daniel's year and time but not his exact calendar date.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u002",
+      "subject_id": "prop-85802b3ff61346bd923496744e595278",
+      "predicate": "causal_role",
+      "value": "Unknown. Token handling precedes the clock reset but is not proven to cause the connection.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u003",
+      "subject_id": "timeline-event-90f17a5260ce4c1b8049b5912c8f45ba",
+      "predicate": "fire_truth",
+      "value": "Unknown. Exact fire date, cause, victims, Tomas's fate, culprit, escape routes, and Arturo's involvement are not established by Chapter 1.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u004",
+      "subject_id": "plot-thread-27af1407c9ec4b3eb380c66d8046aa6b",
+      "predicate": "scratch_and_warning_authorship",
+      "value": "Unknown. The author, time, method, and intended recipient of the name scratch and warning are unresolved.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u005",
+      "subject_id": "prop-0b3caadd963c437787cd95d5af12ca9e",
+      "predicate": "photograph_contents_and_change",
+      "value": "Unknown. Chapter 1 does not compare the first photograph after contact or prove that the door message changed within it.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u006",
+      "subject_id": "location-ec00909b6a1244d0ae35b1f2881055a5",
+      "predicate": "recurrence_calendar",
+      "value": "Unknown. The progression of each side, number of available meetings, historical deadline, and whether every midnight produces contact remain unsettled.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u007",
+      "subject_id": "prop-ce6d2b5f51db4da0a3de67a809c13925",
+      "predicate": "untested_transfer_rules",
+      "value": "Unknown. Second passage, already-aged objects, biological transfer, unlimited preservation, coded messages, and permanent time costs are untested.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u008",
+      "subject_id": "location-ec00909b6a1244d0ae35b1f2881055a5",
+      "predicate": "exact_geometry",
+      "value": "Unknown. Cafe and station dimensions, measured floor plan, screen direction, and exact panel geometry await approved visual references and storyboard planning.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u009",
+      "subject_id": "character-3f6621b20e6e4c0da53cb42678b5c277",
+      "predicate": "visual_appearance_and_perception",
+      "value": "Unknown. Lilia's physical appearance and what she can perceive of Daniel or the time boundary are not established.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    },
+    {
+      "fact_id": "canon-fact-ch001-u010",
+      "subject_id": "organization-2f727c5b2401437c8d90ae6e1c78d4e3",
+      "predicate": "cash_drawer_story_role",
+      "value": "Unknown. The locked station cash drawer may remain atmosphere; no key, contents, or plot function is established.",
+      "status": "unknown",
+      "basis": {
+        "basis_type": "approved_decision",
+        "decision": {
+          "decision_id": "SMA-DEC-APPLY-CHAPTER-001-V001",
+          "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.0.0",
+  "decision_id": "SMA-DEC-CH001-REFERENCE-GENERATION-BRIEFS-V001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566"
+  ],
+  "decision": "Prepare eight evidence-based, high-quality visual-reference generation briefs for Chapter 1 while keeping every brief deferred and leaving all production locks and image-generation settings unchanged.",
+  "rationale": "The user approved the previously identified eight-reference package. The briefs cover the station in both eras, Cafe Siete geometry and perspective, the museum archive, transfer props, clocks and clue surfaces, and the time-slip visual language. Deferred status preserves the Manga Studio gate sequence and prevents unapproved geometry or effects from becoming canon.",
+  "actor": "user",
+  "decided_at": "2026-09-11T09:33:53Z",
+  "evidence": [],
+  "result_artifacts": [
+    "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
+    "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
+    "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
+    "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
+    "manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
+    "manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
+    "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
+    "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
+    ".manga-studio/continuity/reviews/chapter-001-reference-generation-briefs-v001-review.json",
+    ".manga-studio/continuity/reviews/chapter-001-reference-generation-briefs-v001-review.md"
+  ],
+  "supersedes_decision_id": null
+}

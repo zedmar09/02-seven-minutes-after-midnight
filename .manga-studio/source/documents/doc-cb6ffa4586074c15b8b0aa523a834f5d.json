@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+  "display_title": "page-013-chatgpt-image-prompt",
+  "aliases": [
+    "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md"
+  ],
+  "source_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+  "usage_role": "author_notes",
+  "classification": "author_notes",
+  "classification_status": "approved",
+  "source_status": "active",
+  "structure_status": "parsed",
+  "provenance_original_sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+  "source_map_path": ".manga-studio/source/maps/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+  "source_map_checksum": "17926c5a953ad6ed1880e981012c9d6a3d2a7e2cbf997dbecb34814ae8df8f93"
+}

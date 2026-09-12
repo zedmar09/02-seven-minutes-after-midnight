@@ -1,0 +1,93 @@
+{
+  "record_type": "reference_generation_briefs_v002_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-12T01:19:21.446690+00:00",
+  "reason": "Preserve the exact pre-correction references, indexes, project instructions, working register, and verifier before adopting thirteen corrected deferred Chapter 1 reference-generation briefs.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "5fdfa745e7a8ff8275e5698924d6595a95f453dd8542f94f7dfdaea4f6e70a06"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "a7d15427deaea9aea6d3665838b0dbf37ca0011584729bd9d71ea52a801b2840"
+    },
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/.manga-studio/project.json",
+      "sha256": "cbf3e99f280a2a2e6189b51205706f798d10989aea6c700c3b6cd66a6ae85ada"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/AGENTS.md",
+      "sha256": "adfc1708fc406ec1c99bd6e68aac45370af265504d72c8ae9a30f2d0209eae0c"
+    },
+    {
+      "original_relative_path": "manga/02-references/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/README.md",
+      "sha256": "23cdd880494bc1bb658fc270f91b4e561c5bb3cc76af97a367742f1396d004ba"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/characters/README.md",
+      "sha256": "0310b1e099c0fa444413b5501c80bd251c9ddf3e5e040a08a1def67586aee136"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/README.md",
+      "sha256": "5d04aa8ba4daf58cee4c6f62d7a171e7b3c65780e387183e80a70e8a1733decc"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
+      "sha256": "efd48014c406e0a018b9e5d6ce1b6589a29b08e77caa0c4853951dddd7035d7a"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
+      "sha256": "5d5e2ef2aaa6cc8c8ba1ee1934a881bf404f135547284eb891870800b85c2e1c"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
+      "sha256": "4d4d8b69b6ce5ef0a2234e00adad326ea389b342e52aaeceec5f65bad59675c4"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
+      "sha256": "ca4c76a75738b536f624fe7fdb5b950e941c5813a88ce20f10d63c68905203d9"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
+      "sha256": "5a299956507f9ca373b77c741e6de98ee90e198b26e0b8a4689ae1a8d79920e4"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/objects/README.md",
+      "sha256": "caadf09cc737a5840d0fb8b7626aebf7b908b71484cb30bec4be91b98d4d7e8a"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
+      "sha256": "c75cbfd1c004192c7197ce2d4dd33f1ace46fccbd20c242f32f5e65b85bdfe22"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
+      "sha256": "c7e9bfb7a5a148c0e1e56afd36983be55ec2cac84b7d30b4b929203215b855a7"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
+      "sha256": "8c5f109fe0f0762e3ea27075ff9fd81c58e794d4a9456ab183c768e67da853bd"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v002/before/manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "sha256": "26a79e3c936bd1a64a0586782e4e533bf6d85e4212ef2791eaed41d6fc213066"
+    }
+  ]
+}

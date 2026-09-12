@@ -1,0 +1,52 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-maribel-santos-reference-v001-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/maribel-santos-v001/candidate.png",
+  "status": "changes_requested",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "MARIBEL-V001-OUT-001",
+      "message": "The received file is a 1024x1536 PNG with SHA-256 8e50dc91c814e77da92f42cf5815ae783d771a748422dd430cf68ab3168d6d99 and contains Maribel Santos only."
+    },
+    {
+      "severity": "info",
+      "code": "MARIBEL-V001-OUT-002",
+      "message": "Layout and core identifiers pass. The sheet contains exactly six separated studies in the required two-column, three-row order with consistent short silver-black hair, close sides, cat-eye reading glasses on a chain, linen blazer, plain blouse, trousers, archive-work hands, and the ink stain on Maribel's anatomical left cuff."
+    },
+    {
+      "severity": "error",
+      "code": "MARIBEL-V001-OUT-003",
+      "message": "Build and age presentation do not meet the brief. The full-body studies use a narrow-waisted, long-legged fashion-model silhouette that reads younger and slimmer than the required sturdy, practical 44-year-old adult build. This also pushes the character toward the explicitly excluded glamorous presentation and would propagate the wrong body canon into later panels."
+    },
+    {
+      "severity": "error",
+      "code": "MARIBEL-V001-OUT-004",
+      "message": "The outer shoulder and lower bust edges in the head studies dissolve through feathered gray texture. The locked reference finish excludes vignette-like fading and requires clean ink contours or crisp flat-tone boundaries on white paper."
+    },
+    {
+      "severity": "info",
+      "code": "MARIBEL-V001-OUT-005",
+      "message": "The candidate otherwise preserves useful proposed identity details: dry observant expression, coherent short-hair construction, stable glasses and chain, practical archive clothing, readable hands and feet, matte monochrome rendering, and no environment, props, text, logo, signature, or watermark."
+    },
+    {
+      "severity": "warning",
+      "code": "MARIBEL-V001-OUT-006",
+      "message": "Maribel's reference remains storyboard-conditional and no approved storyboard currently confirms her visible appearance. Even a corrected visual candidate cannot be promoted until that condition and the normal approval requirements are satisfied."
+    },
+    {
+      "severity": "warning",
+      "code": "MARIBEL-V001-OUT-007",
+      "message": "The exact executed image job was not supplied and the Downloads filename omits the planned version suffix. A correction must be a distinct file named maribel-santos-reference-v002.png rather than overwriting or promoting this candidate."
+    },
+    {
+      "severity": "info",
+      "code": "MARIBEL-V001-OUT-008",
+      "message": "No image was edited, regenerated, converted, renamed, or promoted. The Downloads original remains unchanged and a byte-identical copy is retained only as internal review evidence."
+    }
+  ]
+}

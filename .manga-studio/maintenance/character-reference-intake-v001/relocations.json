@@ -1,0 +1,78 @@
+{
+  "record_type": "character_reference_intake_v001_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T09:14:51.467310+00:00",
+  "reason": "Preserve the exact pre-intake working state before registering the user-supplied Daniel-and-Tomas character reference.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "2dc1f5f682ee0237465605576dee92f5bfbdb994d7492a92676d1fab6acb9b1f"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "9dedc69ea6b58b6c458e22dadfc8ca11409eaf6b3801508a7b84de847a8f0363"
+    },
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/.manga-studio/project.json",
+      "sha256": "355916da57dd4c77a1d9c3c8b23babc1e1bf853531eb85328b38e6f6ca1faab2"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/AGENTS.md",
+      "sha256": "24be70a2d88eb59ef4c4bda18ff0f0c32ae0bd5213d08f8bedc839673fbfc9cc"
+    },
+    {
+      "original_relative_path": "manga/02-references/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/README.md",
+      "sha256": "d8faa87c1b3fa8364c0b1b8ca5cc93ef6262ea8c28b433d7a8bbb17500e4299e"
+    },
+    {
+      "original_relative_path": "manga/02-references/approve-png/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/approve-png/README.md",
+      "sha256": "baff6aa8cca1ffdc34890427b3721244c7a3b965a5c88ba35201b71928f0b6b9"
+    },
+    {
+      "original_relative_path": "manga/02-references/approved-webp/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/approved-webp/README.md",
+      "sha256": "92ac4cd6b4fe5884289af94673b678f27c832d07cd0340f269fdefac0be88918"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/characters/README.md",
+      "sha256": "a04833d8acb4387f0661534100127bca1718129a79c742155285074e2c84fc00"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+      "sha256": "2e2d2c0800c25177e4ed7f69e18b81c1284abebf2f66782384ed2c2e2228ea24"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/tomas-rivera/tomas-rivera.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/02-references/characters/tomas-rivera/tomas-rivera.md",
+      "sha256": "d3e2cb30c39ee8b0afee97163230a4bf2a02dfdf707ae4f624406463ea8659b0"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "sha256": "9e00b3eb8aae1a1424edcc42a9c0448a6610da7a014cc873421c099172cbe2ee"
+    },
+    {
+      "original_relative_path": "manga/04-production/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/04-production/README.md",
+      "sha256": "58622e042a4ae6d1d3d525ec7241b3ffc8122ae1ed9b4ab27bc775ad462c9c21"
+    },
+    {
+      "original_relative_path": "manga/04-production/arc-01/chapter-001/README.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/04-production/arc-01/chapter-001/README.md",
+      "sha256": "7b6192b3f6f682893abd5cd2a3a7ea364fca24cc4d5177cf5b0e7afad1ba367b"
+    },
+    {
+      "original_relative_path": "manga/04-production/page-standard.md",
+      "archived_relative_path": ".manga-studio/history/character-reference-intake-v001/before/manga/04-production/page-standard.md",
+      "sha256": "73a8c3af7e63ad19b153e61b6b43693647ac1ac4220f143cbec5645b6444576e"
+    }
+  ]
+}

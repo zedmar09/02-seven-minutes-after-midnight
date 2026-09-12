@@ -1,0 +1,141 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-003",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "location-ec00909b6a1244d0ae35b1f2881055a5",
+    "prop-ce6d2b5f51db4da0a3de67a809c13925",
+    "prop-d988556780d44dbb999ac13c70c7aaad",
+    "prop-1461014f20054066aa266d61a245d1b6",
+    "prop-84030ef95dc848289c02a5c81ccff4fb",
+    "prop-d12d36e4106949ac8be1873a74057a59",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-005",
+    "SMA-ISS-006",
+    "SMA-ISS-007",
+    "SMA-ISS-008"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-ad5f0a5daa3946b49ba41ba395edbb95",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 51,
+      "line_end": 51,
+      "byte_start": 3719,
+      "byte_end": 3980,
+      "content_fingerprint": "6980558e27650d4460a78b1d757ef4ec0b2489492fee0dd1b746604fe757186b"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-259c5c14baf545699aa54063d980ba91",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 253,
+      "line_end": 253,
+      "byte_start": 10140,
+      "byte_end": 10194,
+      "content_fingerprint": "6ba4357538e9c8e34943a8ef6093d1b924facdd48025e5c4527b8b2a06ee3d00"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-43ac3a99bb66476483aa417a3e39185b",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 85,
+      "line_end": 85,
+      "byte_start": 5097,
+      "byte_end": 5124,
+      "content_fingerprint": "397db94c87822338325c519f44185e8fb2343b92b0e643472c99941b04891f36"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-3a7388a34d734921b5b07ab8dc5b0104",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 137,
+      "line_end": 137,
+      "byte_start": 6984,
+      "byte_end": 7097,
+      "content_fingerprint": "4f14d49c664c9919e7f595db0fa3c92c426f3db56b9563ce6b17c69f7a71f608"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+      "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+      "scene_id": null,
+      "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+      "source_relative_path": "README.md",
+      "line_start": 40,
+      "line_end": 51,
+      "byte_start": 4163,
+      "byte_end": 5740,
+      "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-a7bbc928754345c89e3d5f430a22b28c",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 441,
+      "line_end": 441,
+      "byte_start": 15793,
+      "byte_end": 15830,
+      "content_fingerprint": "ffbc49fe9f3feff5a23df8925ccab16589a7316aaa6e4a69404576ab98ba7b29"
+    }
+  ],
+  "proposed_operation": "Resolve the hatch, overlap, and transfer model. Owner: manga-world-bible and manga-canon-manager for proposals. Stage: Phase 4 prerequisites. Prepare one coherent text rule sheet and movement ledger for the recommended physical model; record what is source-supported and what is a proposed addition. Risk: Clarifying mechanics can overexplain a lyrical scene; keep the rule sheet private and prose changes minimal. Specific recommendations require separate adoption: SMA-PROP-003, SMA-PROP-004, SMA-PROP-005, SMA-PROP-006.",
+  "expected_result": "Chapter 1 can show safe exchanges and a bounded after-closure reply without moving a person through time.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Sensory miracle, narrow window, dangerous wrist contact, safe fingertips, and returned-note reveal.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Sensory miracle, narrow window, dangerous wrist contact, safe fingertips, and returned-note reveal."
+  },
+  "canon_impact": {
+    "level": "high",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "high",
+    "notes": "Chapter 1 can show safe exchanges and a bounded after-closure reply without moving a person through time."
+  },
+  "structural_impact": {
+    "level": "low",
+    "notes": "Scope and dependencies: Phase 4 prerequisites. Clarifying mechanics can overexplain a lyrical scene; keep the rule sheet private and prose changes minimal."
+  },
+  "dependencies": [
+    "SMA-PLAN-001"
+  ],
+  "acceptance_criteria": [
+    "Each man remains within his own era while reaching the hatch.",
+    "Ruined and restored objects have explicit sides.",
+    "The reply crosses before closure and falls free later.",
+    "Two paper objects remain separate.",
+    "Protection does not create an unlimited fresh-object loophole."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

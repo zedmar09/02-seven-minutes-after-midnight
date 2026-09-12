@@ -1,0 +1,805 @@
+{
+  "record_type": "unapproved_analysis_register_input",
+  "version": "v001",
+  "aliases": {
+    "readme": "README.md",
+    "series": "series-plan.md",
+    "characters": "characters.md",
+    "style": "Comics/style-guide.md",
+    "comics": "Comics/README.md",
+    "arc": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+    "app": "AppCover/README.md",
+    "chapter": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+    "p01": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+    "p02": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+    "p03": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+    "p04": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+    "p05": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+    "p06": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+    "p07": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+    "p08": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+    "p09": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+    "p10": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+    "p11": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+    "p12": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+    "p13": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+    "p14": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+    "front": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+    "back": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md"
+  },
+  "entities": [
+    [
+      "Daniel Soriano",
+      "characters",
+      "chapter",
+      "My name is Daniel Soriano"
+    ],
+    [
+      "Tomas Rivera",
+      "characters",
+      "chapter",
+      "Tomas Rivera."
+    ],
+    [
+      "Maribel Santos",
+      "characters",
+      "chapter",
+      "Maribel Santos, who had run"
+    ],
+    [
+      "Lilia Ramos",
+      "characters",
+      "characters",
+      "- Role: Owner of Cafe Siete in 1986"
+    ],
+    [
+      "Benjamin Manalo",
+      "characters",
+      "characters",
+      "- Role: 1986 night patrol officer"
+    ],
+    [
+      "Arturo Salcedo",
+      "characters",
+      "chapter",
+      "Arturo Salcedo. He has been visiting"
+    ],
+    [
+      "Ernesto Galang",
+      "characters",
+      "characters",
+      "- Role: Present-day retired rail mechanic"
+    ],
+    [
+      "Inez",
+      "characters",
+      "p10",
+      "SUPPORTING VOICE - INEZ"
+    ],
+    [
+      "Rafael Aragon",
+      "characters",
+      "p11",
+      "BACKGROUND FIGURE - RAFAEL ARAGON"
+    ],
+    [
+      "San Aurelio Junction",
+      "locations",
+      "chapter",
+      "San Aurelio Junction had once been grand"
+    ],
+    [
+      "Cafe Siete",
+      "locations",
+      "chapter",
+      "Cafe Siete,"
+    ],
+    [
+      "municipal museum",
+      "organizations",
+      "chapter",
+      "The railway archive had arrived at the municipal museum"
+    ],
+    [
+      "redevelopment board",
+      "organizations",
+      "chapter",
+      "The redevelopment board called"
+    ],
+    [
+      "service window",
+      "props",
+      "chapter",
+      "Behind the counter, a narrow service window"
+    ],
+    [
+      "shared counter",
+      "props",
+      "chapter",
+      "The shared wood felt smooth"
+    ],
+    [
+      "cafe clock",
+      "props",
+      "chapter",
+      "Above the cafe door"
+    ],
+    [
+      "station clock",
+      "props",
+      "chapter",
+      "a clock above the ticket hall"
+    ],
+    [
+      "flashlight",
+      "props",
+      "chapter",
+      "Daniel's flashlight rolled off the counter"
+    ],
+    [
+      "cafe token",
+      "props",
+      "chapter",
+      "It was a cafe token"
+    ],
+    [
+      "aged pastry",
+      "props",
+      "chapter",
+      "The sugar dulled."
+    ],
+    [
+      "archival sleeve",
+      "props",
+      "chapter",
+      "Tomas folded the sleeve and tucked it"
+    ],
+    [
+      "notebook reply",
+      "props",
+      "chapter",
+      "Below Daniel's warning, in different handwriting"
+    ],
+    [
+      "door scratches",
+      "props",
+      "chapter",
+      "FIRE STARTS IN THE SERVICE CORRIDOR."
+    ],
+    [
+      "phone photograph",
+      "props",
+      "chapter",
+      "He photographed the glass"
+    ],
+    [
+      "cafe order notebook",
+      "props",
+      "characters",
+      "whose cafe notebook records meetings"
+    ],
+    [
+      "first meeting",
+      "timeline_events",
+      "chapter",
+      "October seventeenth."
+    ],
+    [
+      "station fire",
+      "timeline_events",
+      "chapter",
+      "The station fire report listed"
+    ],
+    [
+      "connection cost",
+      "plot_threads",
+      "readme",
+      "8. Direct warnings about major historical events"
+    ]
+  ],
+  "threads": [
+    {
+      "id": "SMA-THR-001",
+      "name": "Removed name in death notices",
+      "state": "Open, demonstrated in Chapter 1",
+      "setup": [
+        "chapter",
+        "someone had cut a narrow strip from every article"
+      ],
+      "payoff": "No identity or actor proved. Planned newspaper-photograph chapter may address it, but no manuscript is present.",
+      "test": "Track which original, copy, and newspaper contains each cut; a missing name alone does not identify Tomas.",
+      "entities": [
+        "Daniel Soriano",
+        "station fire"
+      ],
+      "issues": [
+        1,
+        13,
+        18
+      ]
+    },
+    {
+      "id": "SMA-THR-002",
+      "name": "Electrical-fault report versus wiring diagrams",
+      "state": "Open, demonstrated discrepancy",
+      "setup": [
+        "chapter",
+        "maintenance diagrams showed no active wiring in that wall"
+      ],
+      "payoff": "No arson proof yet; the final scratch repeats the corridor location.",
+      "test": "Corroborate diagrams' dates and the report's authority before interpreting deliberate fire.",
+      "entities": [
+        "station fire"
+      ],
+      "issues": [
+        13,
+        17
+      ]
+    },
+    {
+      "id": "SMA-THR-003",
+      "name": "Who scratched TOMAS and the fire warning?",
+      "state": "Intentional mystery",
+      "setup": [
+        "chapter",
+        "I did not write that"
+      ],
+      "payoff": "Warning discovered at ending; author, date, and relation to Tomas remain unknown.",
+      "test": "Compare Daniel's first photograph and current glass before assigning a time-loop author.",
+      "entities": [
+        "door scratches",
+        "phone photograph",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        6,
+        30
+      ]
+    },
+    {
+      "id": "SMA-THR-004",
+      "name": "Token and opening trigger",
+      "state": "Open association, not proven causality",
+      "setup": [
+        "chapter",
+        "The station answered with a click."
+      ],
+      "payoff": "Opening follows token handling, but midnight is a confounder; token remains on floor at last explicit mention.",
+      "test": "Record possession and whether recurrence depends on the token; do not assume it is a magic key.",
+      "entities": [
+        "cafe token",
+        "first meeting"
+      ],
+      "issues": [
+        10,
+        26
+      ]
+    },
+    {
+      "id": "SMA-THR-005",
+      "name": "Two clocks and prior stoppage",
+      "state": "Open mechanism",
+      "setup": [
+        "chapter",
+        "That clock has been broken for two years."
+      ],
+      "payoff": "Cafe clock runs 12:00-12:07; station clock stays at 12:07. No connection or origin explained.",
+      "test": "Separate station and cafe clocks in the location plan and chronological ledger.",
+      "entities": [
+        "cafe clock",
+        "station clock"
+      ],
+      "issues": [
+        9,
+        10,
+        26
+      ]
+    },
+    {
+      "id": "SMA-THR-006",
+      "name": "Dangerous wrist touch versus safe window touch",
+      "state": "Partial local payoff",
+      "setup": [
+        "chapter",
+        "Pain snapped up Daniel's arm"
+      ],
+      "payoff": "Later fingertips meet through the window without pain. Initial tray contact is brief and also causes no reported pain.",
+      "test": "Distinguish shared-object contact, unstable counter overlap, and window contact before defining a universal rule.",
+      "entities": [
+        "shared counter",
+        "service window"
+      ],
+      "issues": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "SMA-THR-007",
+      "name": "Forward aging and fresh bread",
+      "state": "Demonstrated rule with open exception",
+      "setup": [
+        "chapter",
+        "By the time Daniel lifted it, the roll was forty years old."
+      ],
+      "payoff": "Proof of temporal separation; better bread is a romantic promise, not a demonstrated solution to aging.",
+      "test": "Future pastry scene must change knowledge or stakes, not merely repeat this test.",
+      "entities": [
+        "aged pastry"
+      ],
+      "issues": [
+        8,
+        18
+      ]
+    },
+    {
+      "id": "SMA-THR-008",
+      "name": "The first archival sleeve",
+      "state": "Local emotional payoff; future custody open",
+      "setup": [
+        "chapter",
+        "It means it lasts."
+      ],
+      "payoff": "Tomas answers Then I am real too and pockets the sleeve. It is not the later torn notebook reply.",
+      "test": "Track material, writing, custody, and aging separately for both pieces of paper.",
+      "entities": [
+        "archival sleeve",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        8,
+        26
+      ]
+    },
+    {
+      "id": "SMA-THR-009",
+      "name": "Returned notebook page and smoke stain",
+      "state": "Partial payoff; mechanism open",
+      "setup": [
+        "chapter",
+        "DO NOT TELL ANYONE ABOUT ME."
+      ],
+      "payoff": "Reply confirms responsive contact and a promise to return; smoke stain does not independently prove the fire's date or Tomas's death.",
+      "test": "Establish when Tomas writes and how the paper is delivered after closure.",
+      "entities": [
+        "notebook reply",
+        "service window"
+      ],
+      "issues": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "SMA-THR-010",
+      "name": "Tomorrow's meeting",
+      "state": "Earned promise; unavailable continuation",
+      "setup": [
+        "chapter",
+        "Come back tomorrow at midnight."
+      ],
+      "payoff": "No second meeting in the available manuscript.",
+      "test": "Chapter 2 must deliver or purposefully complicate the promise with visible consequences.",
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        1,
+        10,
+        18
+      ]
+    },
+    {
+      "id": "SMA-THR-011",
+      "name": "The broker and undrunk coffee",
+      "state": "Reported event, open suspicion",
+      "setup": [
+        "chapter",
+        "A broker in a white suit bought coffee and did not drink it."
+      ],
+      "payoff": "Tomas names Arturo; no criminal act witnessed in Chapter 1. Page 11 uses unsupported Rafael identity.",
+      "test": "Tie inquiry to evidence and preserve alternative explanations until corroboration.",
+      "entities": [
+        "Arturo Salcedo",
+        "Rafael Aragon"
+      ],
+      "issues": [
+        3,
+        12,
+        17
+      ]
+    },
+    {
+      "id": "SMA-THR-012",
+      "name": "Failed southbound signal and delayed service",
+      "state": "Demonstrated report, unresolved relevance",
+      "setup": [
+        "chapter",
+        "The southbound signal failed."
+      ],
+      "payoff": "Earlier announcement mentions delay; notes later connect tampered signals to Ernesto. No causal chain yet.",
+      "test": "Preserve clue visibility in adaptation and differentiate ordinary failure from sabotage.",
+      "entities": [
+        "Ernesto Galang",
+        "station fire"
+      ],
+      "issues": [
+        17,
+        25
+      ]
+    },
+    {
+      "id": "SMA-THR-013",
+      "name": "Lilia's hidden object and Tomas's notebook",
+      "state": "Planned only",
+      "setup": [
+        "characters",
+        "may have hidden one object"
+      ],
+      "payoff": "No hiding scene, recovered object, or proved dangerous notebook contents.",
+      "test": "Decide what each knows, why it threatens someone, and who controls the object.",
+      "entities": [
+        "Lilia Ramos",
+        "cafe order notebook"
+      ],
+      "issues": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "SMA-THR-014",
+      "name": "Compromised witnesses",
+      "state": "Planned only",
+      "setup": [
+        "characters",
+        "leaves behind conflicting testimony"
+      ],
+      "payoff": "Benjamin's statement and Ernesto's recollections are not dramatized.",
+      "test": "Give each witness an independent incentive, cost, and observable contradiction.",
+      "entities": [
+        "Benjamin Manalo",
+        "Ernesto Galang"
+      ],
+      "issues": [
+        17
+      ]
+    },
+    {
+      "id": "SMA-THR-015",
+      "name": "Demolition and the present-day archive",
+      "state": "Present pressure established; deadline unknown",
+      "setup": [
+        "chapter",
+        "A plastic banner outside announced luxury residences coming soon"
+      ],
+      "payoff": "No exact demolition date, present antagonist identity, or archive-change observation in prose.",
+      "test": "Use the present to change stakes between meetings; do not assume Arturo still controls redevelopment in 2026.",
+      "entities": [
+        "redevelopment board",
+        "Maribel Santos"
+      ],
+      "issues": [
+        10,
+        14,
+        17
+      ]
+    },
+    {
+      "id": "SMA-THR-016",
+      "name": "Warnings consume time",
+      "state": "Author rule and future promise only",
+      "setup": [
+        "readme",
+        "8. Direct warnings about major historical events"
+      ],
+      "payoff": "Not yet observed; first meeting reaches 12:07.",
+      "test": "Establish baseline and repeated effects without explaining away every ordinary flicker as a warning penalty.",
+      "entities": [
+        "connection cost",
+        "cafe clock"
+      ],
+      "issues": [
+        9
+      ]
+    },
+    {
+      "id": "SMA-THR-017",
+      "name": "Rescue erases relationship or memory",
+      "state": "Planned central dilemma",
+      "setup": [
+        "readme",
+        "If Tomas survives by changing the past too strongly"
+      ],
+      "payoff": "No outcome selected in the files; no guaranteed happy or tragic ending.",
+      "test": "Make the eventual choice jointly meaningful and preserve some consequence of earned intimacy.",
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        15,
+        21,
+        29
+      ]
+    },
+    {
+      "id": "SMA-THR-018",
+      "name": "Cash drawer and archive containers",
+      "state": "Low-priority atmospheric setup candidate",
+      "setup": [
+        "chapter",
+        "one locked station cash drawer nobody had found a key for"
+      ],
+      "payoff": "No subsequent mention. Could remain texture; not every described object requires a twist.",
+      "test": "Promote to a mystery prop only if it materially affects the approved arc; otherwise avoid repetitive emphasis.",
+      "entities": [
+        "municipal museum"
+      ],
+      "issues": [
+        18,
+        28
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "SMA-TL-001",
+      "time": "1930s",
+      "status": "Author reference, not dramatized",
+      "event": "Station construction period.",
+      "evidence": [
+        "characters",
+        "station built in the 1930s"
+      ],
+      "unknown": "Country and exact year are not specified."
+    },
+    {
+      "id": "SMA-TL-002",
+      "time": "Approximately 1984",
+      "status": "Inference from dialogue",
+      "event": "Cafe clock reportedly stopped two years before Tomas's 1986 statement.",
+      "evidence": [
+        "chapter",
+        "That clock has been broken for two years."
+      ],
+      "unknown": "Exact date and cause; do not turn an approximate inference into canon."
+    },
+    {
+      "id": "SMA-TL-003",
+      "time": "Three weeks before station visit, approximate",
+      "status": "Narrated background",
+      "event": "Daniel inventories the railway archive and identifies altered records.",
+      "evidence": [
+        "chapter",
+        "By the third week, he agreed with her."
+      ],
+      "unknown": "Accession date, demolition date, and complete investigation chronology."
+    },
+    {
+      "id": "SMA-TL-004",
+      "time": "11:41 PM in 2026; calendar date unknown",
+      "status": "Explicit prose",
+      "event": "Daniel is inside the station with permits and flashlight.",
+      "evidence": [
+        "chapter",
+        "At 11:41 PM"
+      ],
+      "unknown": "Reason for this hour and elapsed inspection duration until midnight."
+    },
+    {
+      "id": "SMA-TL-005",
+      "time": "12:00; Tomas reports October 17, 1986",
+      "status": "Observed opening plus character testimony",
+      "event": "Token handling precedes cafe clock reset; first encounter, shared tray, and names.",
+      "evidence": [
+        "chapter",
+        "October seventeenth."
+      ],
+      "unknown": "Daniel's date; token causality; precise mapping of the two nights."
+    },
+    {
+      "id": "SMA-TL-006",
+      "time": "12:01",
+      "status": "Explicit prose clock beat",
+      "event": "Tomas reports a two-year-broken clock; identity and name-scratch exchange follows.",
+      "evidence": [
+        "chapter",
+        "12:01."
+      ],
+      "unknown": "The station clock is a separate object; their causal relationship is unspecified."
+    },
+    {
+      "id": "SMA-TL-007",
+      "time": "12:02",
+      "status": "Explicit prose sequence",
+      "event": "Counter instability, painful wrist catch, window opening, and forward-aging pastry.",
+      "evidence": [
+        "chapter",
+        "12:02."
+      ],
+      "unknown": "Mechanism behind the new stable exchange point."
+    },
+    {
+      "id": "SMA-TL-008",
+      "time": "12:03",
+      "status": "Explicit prose sequence",
+      "event": "Daniel sends the archival sleeve; Tomas pockets it after reciprocal affirmation.",
+      "evidence": [
+        "chapter",
+        "12:03."
+      ],
+      "unknown": "What backward adaptation later does to that sleeve."
+    },
+    {
+      "id": "SMA-TL-009",
+      "time": "12:04",
+      "status": "Explicit prose sequence",
+      "event": "Flashlight falls; Lilia calls from kitchen; Daniel attends to Tomas.",
+      "evidence": [
+        "chapter",
+        "12:04."
+      ],
+      "unknown": "What Lilia can perceive of Daniel or the time boundary."
+    },
+    {
+      "id": "SMA-TL-010",
+      "time": "12:05",
+      "status": "Explicit prose sequence",
+      "event": "Two minutes remain; Tomas reports broker and signal failure.",
+      "evidence": [
+        "chapter",
+        "12:05."
+      ],
+      "unknown": "Why Daniel prioritizes the broker over the other anomalies."
+    },
+    {
+      "id": "SMA-TL-011",
+      "time": "12:06",
+      "status": "Explicit prose sequence",
+      "event": "Closing lights, tomorrow promise, notebook instruction, safe fingertip touch.",
+      "evidence": [
+        "chapter",
+        "12:06."
+      ],
+      "unknown": "When Tomas writes the reply between receipt and apparent return."
+    },
+    {
+      "id": "SMA-TL-012",
+      "time": "12:07 and seconds later",
+      "status": "Explicit prose sequence",
+      "event": "Cafe closes; aged reply arrives; dust reveals warning; station clock still stopped.",
+      "evidence": [
+        "chapter",
+        "For several seconds he did not move."
+      ],
+      "unknown": "Delivery mechanism and whether the warning existed in Daniel's original photo."
+    },
+    {
+      "id": "SMA-TL-013",
+      "time": "Stormy night in 1986, exact date unavailable",
+      "status": "Archive event/reference; not witnessed",
+      "event": "Station fire is recorded as electrical accident; Tomas's death is in the premise.",
+      "evidence": [
+        "characters",
+        "Officially an electrical accident on a stormy night in 1986."
+      ],
+      "unknown": "Relationship to the first meeting, actual victims, arson mechanism, escape routes, and evidence tampering."
+    }
+  ],
+  "cast": [
+    {
+      "name": "Daniel Soriano",
+      "status": "On-page protagonist; age 36 is reference fact",
+      "want": "Opening: understand altered fire records and the encounter. Romance/rescue becomes planned longer-term want.",
+      "need": "Interpretation: accept uncertainty and Tomas's agency without reducing him to preservable evidence.",
+      "fear": "Immediate connection loss; future memory erasure is author intent, not learned in Chapter 1.",
+      "flaw": "Possible overcontrol and emotional avoidance; not an approved diagnosis.",
+      "agency": "Investigates, documents, catches tray, sends proof, requests next meeting.",
+      "voice": "Literal professional corrections, dry institutional humor, brief replies under pressure.",
+      "relations": "Tomas: stranger to reciprocal recognition and promised return. Maribel: supervisor, mentioned in background.",
+      "guardrail": "No invented dead lover, family tragedy, or confirmed foreknowledge.",
+      "evidence": [
+        "chapter",
+        "because his mind had chosen collapse by etiquette"
+      ]
+    },
+    {
+      "name": "Tomas Rivera",
+      "status": "On-page romantic lead; age 28 is reference fact",
+      "want": "Immediate: understand visitor, share hospitality, exchange proof, meet again. Independent long-term goal unspecified.",
+      "need": "Interpretation: be heard beyond the expectation that he remain cheerful; retain agency in any rescue.",
+      "fear": "Shown alarm at aging and closure; documented-death countdown is a future premise.",
+      "flaw": "Cheer may conceal needs, but manipulation or naivety is not demonstrated.",
+      "agency": "Catches tray and wrist, offers pastry, initiates return test, supplies observations, chooses tomorrow.",
+      "voice": "Teasing hospitality, concrete cafe metaphors, jokes giving way to short vulnerable statements.",
+      "relations": "Daniel: mutual curiosity and tenderness, not an established couple. Lilia: chosen aunt/employer.",
+      "guardrail": "Do not treat him as passive cargo or confuse youthful warmth with being a minor.",
+      "evidence": [
+        "chapter",
+        "Can you send something back?"
+      ]
+    },
+    {
+      "name": "Maribel Santos",
+      "status": "Named in narrated archive background; age 44 in reference",
+      "want": "Assign and protect meaningful archive work; later access and changing records are planned.",
+      "need": "Unknown; no complete arc supplied.",
+      "fear": "Unknown; protective professionalism is described.",
+      "flaw": "No demonstrated flaw; skepticism can be useful rather than obstruction.",
+      "agency": "Assigns Daniel the inventory.",
+      "voice": "One reported phrase, box of worms; broader dry voice is only reference intent.",
+      "relations": "Daniel's supervisor/ally. Avoid inventing knowledge of his meetings.",
+      "guardrail": "Her own archival objective should matter before she becomes an exposition source.",
+      "evidence": [
+        "chapter",
+        "called it a box of worms and assigned Daniel"
+      ]
+    },
+    {
+      "name": "Lilia Ramos",
+      "status": "Off-panel voice in prose; full name and age 53 in reference",
+      "want": "Run the cafe; care for Tomas; hidden-object function is provisional.",
+      "need": "Unknown.",
+      "fear": "Unknown.",
+      "flaw": "No demonstrated flaw.",
+      "agency": "Interrupts the exchange as a working cafe owner; no evidence she sees Daniel.",
+      "voice": "Blunt, practical affection, payment punchline.",
+      "relations": "Chosen aunt, explicitly not blood relative; Inez in Page 10 is unresolved substitution.",
+      "guardrail": "Preserve chosen-family meaning and give later secret-keeping a motive.",
+      "evidence": [
+        "chapter",
+        "My aunt. Not by blood. By volume."
+      ]
+    },
+    {
+      "name": "Arturo Salcedo",
+      "status": "Named in Tomas's report; age 41 in reference",
+      "want": "Reference: land/redevelopment interests; precise evidence and arson motive unproved.",
+      "need": "Not yet developed.",
+      "fear": "Inferred exposure of meetings is a planning possibility, not a fact.",
+      "flaw": "Reference: belief in erasing poor witnesses; no direct on-page conduct proves crime.",
+      "agency": "Reported visits, coffee purchase; arson is alleged/planned.",
+      "voice": "No on-page speech. Polite menace is reference intent only.",
+      "relations": "Tomas observes him; relation to present redevelopment unspecified.",
+      "guardrail": "Rafael Aragon is a conflicting source label, not an established alias; avoid declaring guilt early.",
+      "evidence": [
+        "chapter",
+        "He has been visiting the station offices all month."
+      ]
+    },
+    {
+      "name": "Benjamin Manalo",
+      "status": "Reference only; age 33 in 1986",
+      "want": "Do right while surviving power, per reference.",
+      "need": "Potential accountability arc; not dramatized.",
+      "fear": "Powerful people, per reference.",
+      "flaw": "Survival through selective witnessing, per reference.",
+      "agency": "Planned patrol/testimony; no scene supplied.",
+      "voice": "No dialogue sample; tired discipline is a proposed voice constraint.",
+      "relations": "Possible ally/compromised witness; detailed ties unknown.",
+      "guardrail": "Do not assign actions on fire night beyond supplied notes.",
+      "evidence": [
+        "characters",
+        "He wants to do the right thing but has survived"
+      ]
+    },
+    {
+      "name": "Ernesto Galang",
+      "status": "Reference only; age 72 in 2026 and 32 in 1986",
+      "want": "Unspecified beyond evasiveness and attachment to machines.",
+      "need": "Potential truthful recollection/accountability, inferred only.",
+      "fear": "Unspecified source of guilt.",
+      "flaw": "Avoidance described, not tested in scene.",
+      "agency": "Planned bridge to signals and locked corridor.",
+      "voice": "No dialogue sample; gruff evasiveness only reference intent.",
+      "relations": "Survivor and mechanic; who changed his memory is unknown.",
+      "guardrail": "Do not confuse an unreliable witness with a proven supernatural memory alteration.",
+      "evidence": [
+        "characters",
+        "- Role: Present-day retired rail mechanic"
+      ]
+    }
+  ]
+}

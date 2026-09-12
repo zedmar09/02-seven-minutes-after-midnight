@@ -1,0 +1,112 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "title": "Seven Minutes After Midnight",
+  "source_language": "en",
+  "output_language": "en",
+  "project_type": "existing_story",
+  "genre": [
+    "adult BL time-slip romance",
+    "historical mystery",
+    "emotional thriller"
+  ],
+  "source_roots": [
+    "."
+  ],
+  "source_inclusion_patterns": [
+    "**/*",
+    "*"
+  ],
+  "source_exclusion_patterns": [
+    ".manga-studio/**",
+    ".git/**",
+    "build/**",
+    "dist/**",
+    "out/**",
+    "target/**",
+    "node_modules/**",
+    "__pycache__/**",
+    ".pytest_cache/**",
+    ".mypy_cache/**",
+    ".ruff_cache/**",
+    "*.tmp",
+    "*.temp",
+    "*.swp",
+    "._*",
+    "**/._*",
+    "AGENTS.md",
+    "manga/**",
+    ".DS_Store",
+    "README.md"
+  ],
+  "chapter_detection_strategy": {
+    "mode": "manual",
+    "filename_patterns": [
+      "chapter*",
+      "ch-*",
+      "ch_*"
+    ],
+    "heading_levels": [
+      1,
+      2
+    ],
+    "require_review_on_ambiguity": true
+  },
+  "existing_structure_preservation": {
+    "preserve_original_paths": true,
+    "preserve_chapter_order": true,
+    "preserve_titles": true,
+    "never_rewrite_originals": true
+  },
+  "revision_mode": "approved_versions_only",
+  "author_voice_preservation": {
+    "required": true,
+    "notes": [
+      "Preserve dry occupational humor, tactile archival detail, restrained adult intimacy, and Daniel's close perspective."
+    ]
+  },
+  "reading_direction": "left-to-right",
+  "target_manga_format": {
+    "color_mode": "black-and-white",
+    "page_width_px": 1654,
+    "page_height_px": 2339
+  },
+  "workflow_phase": "phase_4_manuscript_v001_approved_active_awaiting_canon_and_stage_locks",
+  "operating_mode": "repair_existing",
+  "stage_locks": {
+    "SOURCE_LOCKED": false,
+    "CANON_APPROVED": false,
+    "DIAGNOSTIC_APPROVED": false,
+    "REVISION_PLAN_APPROVED": false,
+    "MANUSCRIPT_APPROVED": false,
+    "STORY_LOCKED": false,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "stage_lock_records": {
+    "SOURCE_LOCKED": null,
+    "CANON_APPROVED": null,
+    "DIAGNOSTIC_APPROVED": null,
+    "REVISION_PLAN_APPROVED": null,
+    "MANUSCRIPT_APPROVED": null,
+    "STORY_LOCKED": null,
+    "STORYBOARD_APPROVED": null,
+    "STORYBOARD_LOCKED": null,
+    "IMAGE_READY": null
+  },
+  "image_generation_enabled": false,
+  "active_manuscript_version": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+  "active_canon_version": null,
+  "active_storyboard_version": null,
+  "blocking_reasons": [
+    "Audit v001 and the manifest-bound Option B Phase 3 v001 package have explicit hash-bound user approvals.",
+    "Claimed Chapter 2 and reader images are absent from the available source root.",
+    "Chapter 1 manuscript v001 is user-approved and active at SHA-256 f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500; seven disclosed consistency warnings remain recorded.",
+    "Continuation must resolve the calendar, historical-warning costs and next-visit access; scratch authorship and the first photograph's contents remain intentionally unknown.",
+    "The approved Chapter 1 visual direction is a provisional 36 interior pages within a 32-40 page working range, with event-driven composition and the existing panel_first pipeline.",
+    "All stage locks remain false; no source, canon, diagnostic, revision-plan, manuscript, story, storyboard, or image-ready lock has been automatically activated.",
+    "No canon or storyboard has been adopted or locked.",
+    "Image generation remains disabled; no approved visual references are available."
+  ]
+}

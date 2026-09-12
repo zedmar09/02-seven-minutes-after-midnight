@@ -1,0 +1,34 @@
+{
+  "record_type": "chapter_production_readiness",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+  "status": "not_started",
+  "draft_relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+  "draft_is_active": false,
+  "storyboard_relative_path": null,
+  "nemu_relative_path": null,
+  "image_jobs": [],
+  "approved_assets": [],
+  "stage_locks": {
+    "SOURCE_LOCKED": false,
+    "CANON_APPROVED": false,
+    "DIAGNOSTIC_APPROVED": false,
+    "REVISION_PLAN_APPROVED": false,
+    "MANUSCRIPT_APPROVED": false,
+    "STORY_LOCKED": false,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "image_generation_enabled": false,
+  "required_quality_profile": "high",
+  "blocking_reasons": [
+    "Manuscript not adopted",
+    "Canon not adopted",
+    "Story and storyboard locks not authorized",
+    "No approved reference artwork",
+    "No approved storyboard, geometry-only nemu or panel plans"
+  ],
+  "original_page_prompts": "Preserved source evidence only, not revised production scripts."
+}

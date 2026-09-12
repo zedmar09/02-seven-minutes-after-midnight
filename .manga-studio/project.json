@@ -1,0 +1,113 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "title": "Seven Minutes After Midnight",
+  "source_language": "en",
+  "output_language": "en",
+  "project_type": "existing_story",
+  "genre": [
+    "adult BL time-slip romance",
+    "historical mystery",
+    "emotional thriller"
+  ],
+  "source_roots": [
+    "."
+  ],
+  "source_inclusion_patterns": [
+    "**/*",
+    "*"
+  ],
+  "source_exclusion_patterns": [
+    ".manga-studio/**",
+    ".git/**",
+    "build/**",
+    "dist/**",
+    "out/**",
+    "target/**",
+    "node_modules/**",
+    "__pycache__/**",
+    ".pytest_cache/**",
+    ".mypy_cache/**",
+    ".ruff_cache/**",
+    "*.tmp",
+    "*.temp",
+    "*.swp",
+    "._*",
+    "**/._*",
+    "AGENTS.md",
+    "manga/**",
+    ".DS_Store",
+    "README.md"
+  ],
+  "chapter_detection_strategy": {
+    "mode": "manual",
+    "filename_patterns": [
+      "chapter*",
+      "ch-*",
+      "ch_*"
+    ],
+    "heading_levels": [
+      1,
+      2
+    ],
+    "require_review_on_ambiguity": true
+  },
+  "existing_structure_preservation": {
+    "preserve_original_paths": true,
+    "preserve_chapter_order": true,
+    "preserve_titles": true,
+    "never_rewrite_originals": true
+  },
+  "revision_mode": "approved_versions_only",
+  "author_voice_preservation": {
+    "required": true,
+    "notes": [
+      "Preserve dry occupational humor, tactile archival detail, restrained adult intimacy, and Daniel's close perspective."
+    ]
+  },
+  "reading_direction": "left-to-right",
+  "target_manga_format": {
+    "color_mode": "black-and-white",
+    "page_width_px": 1654,
+    "page_height_px": 2339
+  },
+  "workflow_phase": "phase_5_story_locked_canon_v002_storyboard_v001_review_ready",
+  "operating_mode": "repair_existing",
+  "stage_locks": {
+    "SOURCE_LOCKED": true,
+    "CANON_APPROVED": true,
+    "DIAGNOSTIC_APPROVED": true,
+    "REVISION_PLAN_APPROVED": true,
+    "MANUSCRIPT_APPROVED": true,
+    "STORY_LOCKED": true,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "stage_lock_records": {
+    "SOURCE_LOCKED": ".manga-studio/locks/SOURCE_LOCKED-v001.json",
+    "CANON_APPROVED": ".manga-studio/locks/CANON_APPROVED-v003.json",
+    "DIAGNOSTIC_APPROVED": ".manga-studio/locks/DIAGNOSTIC_APPROVED-v001.json",
+    "REVISION_PLAN_APPROVED": ".manga-studio/locks/REVISION_PLAN_APPROVED-v001.json",
+    "MANUSCRIPT_APPROVED": ".manga-studio/locks/MANUSCRIPT_APPROVED-v001.json",
+    "STORY_LOCKED": ".manga-studio/locks/STORY_LOCKED-v003.json",
+    "STORYBOARD_APPROVED": null,
+    "STORYBOARD_LOCKED": null,
+    "IMAGE_READY": null
+  },
+  "image_generation_enabled": false,
+  "active_manuscript_version": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+  "active_canon_version": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+  "active_storyboard_version": null,
+  "blocking_reasons": [
+    "Audit v001 and the manifest-bound Option B Phase 3 v001 package have explicit hash-bound user approvals.",
+    "Claimed Chapter 2 and reader images are absent from the available source root.",
+    "Chapter 1 manuscript v001 is user-approved and active at SHA-256 f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500; seven disclosed consistency warnings remain recorded.",
+    "Continuation must resolve the calendar, historical-warning costs and next-visit access; scratch authorship and the first photograph's contents remain intentionally unknown.",
+    "The approved Chapter 1 visual direction v002 is a provisional 36 interior pages within a 32-40 page working range, with event-driven composition, no fixed total panel count, controlled overlap when narratively justified, and the existing panel_first pipeline.",
+    "Source, canon v002, diagnostic, revision plan, manuscript, and story gates are locked under the user's explicit authorization; storyboard and image-ready gates remain false.",
+    "Canon v002 is active at SHA-256 537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762 and corrects only canon-fact-ch001-023 so the final warning matches approved manuscript lines 475-477.",
+    "Chapter 1 storyboard v001 is a 36-page review-ready proposal with no blocking consistency finding; it remains inactive and requires separate explicit user approval before STORYBOARD_APPROVED or STORYBOARD_LOCKED can be set.",
+    "Image generation remains disabled; one shared Daniel-and-Tomas identity input is approved, character candidates remain unpromoted, and thirteen corrected black-and-white manga reference-generation briefs remain deferred until their release gates and visual dependencies are satisfied."
+  ]
+}

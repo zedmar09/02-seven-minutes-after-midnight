@@ -1,0 +1,16 @@
+{
+  "record_type": "reference_availability_register",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "no_approved_visual_assets",
+  "assets": [],
+  "category_directories": [
+    "manga/02-references/characters",
+    "manga/02-references/environments",
+    "manga/02-references/objects",
+    "manga/02-references/effects"
+  ],
+  "job_generation_started": false,
+  "reference_image_paths": [],
+  "note": "These are organizational directories, not reference images. No external project assets or nonexistent attachment paths have been imported."
+}

@@ -1,0 +1,806 @@
+{
+  "record_type": "phase_3_proposed_plan_input",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "proposed_not_approved",
+  "audit_approval_id": "approval-8a2e8e6a05744edd9034972bf780a058",
+  "decision_proposals": [
+    {
+      "id": "SMA-PROP-001",
+      "title": "Available-source scope",
+      "issues": [
+        1
+      ],
+      "recommendation": "Reconstruct only the supplied Chapter 1 in the next manuscript pass. Keep Chapter 2 marked unavailable and later chapters planned. Recovered originals must receive new inventory/provenance before comparison.",
+      "basis": "Evidence-bound scope; not a conclusion that Chapter 2 never existed.",
+      "alternative": "Delay the manuscript pass until the author supplies the claimed Chapter 2 and images.",
+      "tradeoff": "Proceeding permits a bounded repair but recovered text may later require reconciliation; waiting expands coverage but pauses a repair that Chapter 1 does not depend on.",
+      "new_fact": false,
+      "boundary": "No automatic filesystem-wide search, retrieval from other projects, new Chapter 2 prose, or correction of original status notes."
+    },
+    {
+      "id": "SMA-PROP-002",
+      "title": "Character identities",
+      "issues": [
+        2,
+        3,
+        4
+      ],
+      "recommendation": "Use Lilia Ramos and Arturo Salcedo in all future derivative references and scripts. Preserve Inez and Rafael Aragon as disputed legacy labels only, without inventing aliases or additional people. Restore mutual introductions before the name clue.",
+      "basis": "Prose and character reference agree; two isolated legacy scripts diverge.",
+      "alternative": "Approve a deliberate cast rename, with explicit mapping and a full dependent-reference review.",
+      "tradeoff": "The recommendation minimizes change. Renaming preserves the legacy script labels but expands repair across prose and reference sources.",
+      "new_fact": false,
+      "boundary": "No source overwrite or adoption of a new canon version occurs on approval of planning alone."
+    },
+    {
+      "id": "SMA-PROP-003",
+      "title": "A fixed counter and kitchen hatch",
+      "issues": [
+        5,
+        6,
+        26
+      ],
+      "recommendation": "Keep the service hatch in the back wall behind the customer counter. When it opens, Daniel walks around the counter within his own ruined 2026 room; Tomas moves into his own 1986 kitchen. They then face opposite sides of the same hatch. Movement within one's own era never transfers a body across time.",
+      "basis": "The source puts the hatch behind the counter into the kitchen but omits movement before exchange.",
+      "alternative": "Make the original shared counter the hatch sill and alter the early architecture accordingly.",
+      "tradeoff": "The recommendation adds a short movement beat while preserving existing architectural descriptions; the alternative is simpler to stage but changes more of the opening.",
+      "new_fact": true,
+      "boundary": "Proposed choreography, not an observed floor plan or rendered reference. No geometry artwork is created at this stage."
+    },
+    {
+      "id": "SMA-PROP-004",
+      "title": "What restores during the overlap",
+      "issues": [
+        6,
+        26
+      ],
+      "recommendation": "Keep Daniel's own present-day room physically ruined. The restored stools, clear glass, living station, and warmth belong to the perceived 1986 side of the overlap; define the shared counter and open hatch as contact surfaces. Clarify viewpoint when the same door is shown in two states.",
+      "basis": "Later prose explicitly retains ruined surroundings and scratched painted glass on Daniel's side.",
+      "alternative": "Introduce a momentary whole-room restoration followed by separation.",
+      "tradeoff": "The recommendation reduces exceptions and makes damage trackable. Whole-room restoration preserves the most enveloping image but adds a physical state change requiring further rules.",
+      "new_fact": true,
+      "boundary": "No new ability to restore present-day evidence or make people cross."
+    },
+    {
+      "id": "SMA-PROP-005",
+      "title": "A reply caught at closure",
+      "issues": [
+        7,
+        8,
+        30
+      ],
+      "recommendation": "Tomas writes the brief reply before the last instant of the meeting and passes it back. A corner reaches Daniel's side before closure and catches at the sill; after closure, the already-crossed paper falls free. Preserve Daniel discovering the reply several seconds later and laughing before seeing the warning.",
+      "basis": "The source requires the reply after closure but does not establish a fresh post-closure crossing.",
+      "alternative": "Define a repeatable delayed-delivery exception to the seven-minute connection.",
+      "tradeoff": "The recommendation preserves the emotional reveal without a second communication channel. A delayed-delivery rule retains more mystery but needs strict costs and limits.",
+      "new_fact": true,
+      "boundary": "The proposal changes transfer timing, not the reply text; the rewritten passage must leave enough time for the short reply to be written."
+    },
+    {
+      "id": "SMA-PROP-006",
+      "title": "Transfer versus shared contact",
+      "issues": [
+        5,
+        7,
+        8,
+        26
+      ],
+      "recommendation": "Use a private planning rule that shared or partly held objects remain in their origin state until released across the stable hatch. Completing a forward transfer gives the demonstrated aging effect; backward paper arrives in its present condition. Keep the first sleeve and later notebook page separate. Treat protection by the interval as incomplete/shared transfer, not a preservation spell that allows unlimited fresh gifts.",
+      "basis": "Tray contact, a momentarily perfect saucer, aged bread, and too-new backward paper are demonstrated. The protection exception is undefined.",
+      "alternative": "Retain a separate protection technique and backward adaptation effect, but define and test both before relying on them.",
+      "tradeoff": "The recommendation is simpler and preserves the opening tests, but narrows future fresh-food possibilities and revises the reference's undefined backward-adaptation claim. The alternative supports more plot tools but raises loophole risk.",
+      "new_fact": true,
+      "boundary": "No numerical material-aging science is claimed. No repeated-transfer exploit, evidence restoration, or body transfer is allowed without a later explicit rule decision."
+    },
+    {
+      "id": "SMA-PROP-007",
+      "title": "Warning cost and baseline behavior",
+      "issues": [
+        9,
+        10,
+        18,
+        21
+      ],
+      "recommendation": "Preserve a full seven-minute first meeting. Ordinary flicker and contact pain do not prove permanent time loss. Before the first shortening scene, define one repeatable causal trigger: a future-derived, event-specific intervention changes a past person's actionable knowledge or choices. Coded clues can carry a cost; wording alone cannot evade it. Repeating an already-known message without a new consequence does not automatically deduct time. No automatic recovery is assumed.",
+      "basis": "Warnings and coded clues are author rules, but no permanent loss occurs in the supplied chapter.",
+      "alternative": "Keep an intentionally unknowable sentient-cafe penalty model and dramatize only patterns of correlation.",
+      "tradeoff": "The recommendation improves fair choices but requires author-facing calibration before continuation. A sentient rule retains uncanny discretion but risks arbitrary punishment.",
+      "new_fact": true,
+      "boundary": "Penalty amounts, recovery mechanisms, and the first 17-second loss are not established facts. Specify and approve those before writing a later scene that depends on them; they do not block Chapter 1 repair."
+    },
+    {
+      "id": "SMA-PROP-008",
+      "title": "Calendar and rescue deadline",
+      "issues": [
+        10,
+        18,
+        19,
+        21
+      ],
+      "recommendation": "Prefer paired ordinary nights advancing one calendar day per meeting, with the existing 1986/2026 years preserved. Keep Tomas's October 17 statement; do not add an unproved date for Daniel or an exact fire date to Chapter 1. Require a privately approved calendar and fire deadline before Chapter 2 continuation. Never infer one chapter equals one night.",
+      "basis": "Nightly recurrence and tomorrow are explicit; the exact future date and fire date are not.",
+      "alternative": "Use repeated or nonconsecutive past nights with an explicit mapping system.",
+      "tradeoff": "Daily progression is clearer and easier to sustain as a countdown. Nonlinear nights may support the long outline but require more exposition and memory-state tracking.",
+      "new_fact": true,
+      "boundary": "The precise fire date and its relationship to the first meeting remain designated continuation decisions, not silently filled-in canon."
+    },
+    {
+      "id": "SMA-PROP-009",
+      "title": "Motivation and fair inference",
+      "issues": [
+        11,
+        12,
+        13,
+        14,
+        25,
+        30
+      ],
+      "recommendation": "Add one proposed practical reason for the late visit: Daniel's existing permit gives him the final evening access slot before morning clearance work. Frame his 1986 recognition as an archive-based guess until Tomas confirms it. Have him pursue both the failed signal and the broker rather than treating a white suit as proof. Keep the ending as a personal fire connection, not proof of Tomas's murder.",
+      "basis": "Permits, impending demolition, altered reports, and both observations already exist; the access-slot detail is new.",
+      "alternative": "Retain the unexplained late visit as evidence of personal obsession, and later justify Daniel's white-suit inference with another record.",
+      "tradeoff": "The recommendation uses one small operational addition and protects the evidence-minded protagonist. The alternative preserves literal prose but adds characterization and a future evidentiary obligation.",
+      "new_fact": true,
+      "boundary": "The proposed permit detail needs approval and must not be presented as historical fact or an existing source statement."
+    },
+    {
+      "id": "SMA-PROP-010",
+      "title": "Independent character goals",
+      "issues": [
+        15,
+        16,
+        17,
+        21
+      ],
+      "recommendation": "Develop Tomas's longer-term goal around keeping Lilia's cafe and its people secure while retaining control of what he knows; let this create a real disagreement with a rescue shortcut. Develop Daniel through learning to share decisions rather than preserve a person by controlling him. Use their existing work and chosen family before adding trauma backstory.",
+      "basis": "The reference supplies Lilia, Tomas's work and dangerous notebook, and Daniel's caution; this is proposed character development.",
+      "alternative": "Keep goals almost entirely romantic and make a shorter, tightly focused rescue story.",
+      "tradeoff": "Independent goals support a longer mystery and mutual agency, but require scenes beyond the window. A romance-only focus is leaner but may not support 105 chapters.",
+      "new_fact": true,
+      "boundary": "No specific hidden notebook content, prior bereavement, criminal act, or completed supporting-character arc is invented as fact."
+    },
+    {
+      "id": "SMA-PROP-011",
+      "title": "The warning and first photograph",
+      "issues": [
+        13,
+        30
+      ],
+      "recommendation": "Keep the scratch's author unknown. Treat Daniel's first photograph as an evidence obligation: the next approved continuation must compare it with the visible warning and record a result. Do not claim the photograph proves a changed past or proves the warning was always present until the image contents are explicitly chosen in a future canon proposal.",
+      "basis": "The source already photographs TOMAS before the encounter and reveals the warning afterward.",
+      "alternative": "Specify in advance that the lower warning was physically obscured in the original photo, then use another independent test.",
+      "tradeoff": "The recommendation preserves both live mystery branches while preventing Daniel from ignoring his own evidence. Choosing obscuration now simplifies the mechanism but can feel convenient if repeated.",
+      "new_fact": false,
+      "boundary": "Chapter 1 can be repaired without selecting the scratch's author or creating/editing the photograph."
+    },
+    {
+      "id": "SMA-PROP-012",
+      "title": "Scope, medium, setting, and ending promise",
+      "issues": [
+        18,
+        19,
+        20,
+        21,
+        24,
+        29
+      ],
+      "recommendation": "Preserve the existing Chapter 1 title and core events; use Arc 1's fifteen titles as a provisional planning envelope and evaluate the opening three-chapter sequence before a 105-chapter commitment. Prefer English left-to-right paged monochrome interiors and separate color covers. Retain the setting's current cultural cues without assigning a country in Chapter 1. Aim for an earned hopeful relationship resolution with meaningful cost, while leaving its mechanism and exact ending unchosen.",
+      "basis": "The source supports the medium, adults, intimacy, and existing outline; reading direction, staging scope, and a hopeful ending preference are recommendations.",
+      "alternative": "Commit to the seven-arc serial and a more radical nonlinear or tragic resolution from the outset.",
+      "tradeoff": "The recommendation protects sustainable development and the emotional investment in the couple. Early long-series commitment offers a larger horizon but requires more architecture and an explicit ending promise.",
+      "new_fact": true,
+      "boundary": "No formal rating, distribution venue, country, finale event, page count, or commercial expectation is approved by the audit."
+    },
+    {
+      "id": "SMA-PROP-013",
+      "title": "Reference-text continuity and voice",
+      "issues": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "recommendation": "Keep the cafe clock above the cafe door and the larger station clock separate. Prefer Tomas's long sleeves rolled to the elbows, matching the prose's action. Track flashlight placement, fall, and recovery. Retain purposeful hair gestures, professional humor, practical cafe language, and the chosen-family exchange; trim only duplicates that do not change meaning.",
+      "basis": "The prose and references disagree on clock position and sleeve construction; prop transitions are incompletely adapted.",
+      "alternative": "Choose the reference's short-sleeved shirt and menu-board clock position, changing later prose accordingly.",
+      "tradeoff": "The recommendation minimizes changes to the narrated physical scene. Either choice is workable once approved, but mixing them is not.",
+      "new_fact": true,
+      "boundary": "These are proposed text-continuity choices; no visual reference image is created or approved."
+    },
+    {
+      "id": "SMA-PROP-014",
+      "title": "Future production contract",
+      "issues": [
+        22,
+        23,
+        24,
+        27
+      ],
+      "recommendation": "After story and storyboard approval, replace executable use of legacy whole-page prompts with structured versioned reference and panel jobs, separate lettering and composition, a high quality profile, and exact attachment checklists from real approved images. Keep every legacy prompt as evidence.",
+      "basis": "Required directly by the user's production rules; current prompts contain in-image lettering and unverified conditional references.",
+      "alternative": "Retain the legacy page scripts solely as historical comparison and rebuild later preproduction from the approved manuscript.",
+      "tradeoff": "Reusing corrected script events saves planning effort; rebuilding may improve page design but costs more editorial work.",
+      "new_fact": false,
+      "boundary": "No jobs are released and no image generation, editing, correction, lettering, or composition occurs in Phase 3."
+    }
+  ],
+  "work_packages": [
+    {
+      "id": "SMA-WP-001",
+      "title": "Bind the repair to available sources",
+      "issues": [
+        1
+      ],
+      "deps": [],
+      "decisions": [
+        "SMA-PROP-001"
+      ],
+      "stage": "Phase 4 preparation",
+      "owner": "manga-source-ingestor with manga-creator",
+      "targets": [],
+      "operation": "Use the existing snapshot/manuscript document as the sole prose base; record the absent-source limitation in the derivative status report. Inventory recovered material only if supplied and authorized.",
+      "expected": "Every later revision is attributable to actual sources and does not imply unseen Chapter 2 coverage.",
+      "acceptance": [
+        "Original-source hashes still match.",
+        "Chapter 2 and image absence remain explicit.",
+        "No new source is imported without reviewed usage and provenance."
+      ],
+      "risk": "A recovered source could require a new plan version.",
+      "preserve": "Original files and all prior audit versions.",
+      "impacts": [
+        "none",
+        "none",
+        "low",
+        "none"
+      ]
+    },
+    {
+      "id": "SMA-WP-002",
+      "title": "Adopt explicit identity and reference-text choices",
+      "issues": [
+        2,
+        3,
+        26
+      ],
+      "deps": [
+        "SMA-WP-001"
+      ],
+      "decisions": [
+        "SMA-PROP-002",
+        "SMA-PROP-013"
+      ],
+      "stage": "Phase 4 text planning; visual derivatives in Phase 5",
+      "owner": "manga-canon-manager for proposed facts; manga-revision-planner for edits",
+      "targets": [
+        "Lilia Ramos",
+        "Inez",
+        "Arturo Salcedo",
+        "Rafael Aragon",
+        "cafe clock",
+        "station clock",
+        "Tomas Rivera",
+        "flashlight"
+      ],
+      "operation": "Prepare proposed identity and physical-state records using the selected recommendations. Use them in new derivative text only after approval; do not merge disputed IDs silently.",
+      "expected": "Names, clocks, clothing, and object states agree across new text artifacts.",
+      "acceptance": [
+        "Lilia and Arturo have one approved textual identity each.",
+        "Legacy alternative labels remain traceable as conflicts.",
+        "Clock identities and placement are unambiguous.",
+        "No original character/reference text is overwritten."
+      ],
+      "risk": "Unseen images may later need a separate reconciliation plan.",
+      "preserve": "Adult silhouettes, occupational detail, chosen-family role, and civic antagonist.",
+      "impacts": [
+        "low",
+        "medium",
+        "high",
+        "low"
+      ]
+    },
+    {
+      "id": "SMA-WP-003",
+      "title": "Resolve the hatch, overlap, and transfer model",
+      "issues": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "deps": [
+        "SMA-WP-001"
+      ],
+      "decisions": [
+        "SMA-PROP-003",
+        "SMA-PROP-004",
+        "SMA-PROP-005",
+        "SMA-PROP-006"
+      ],
+      "stage": "Phase 4 prerequisites",
+      "owner": "manga-world-bible and manga-canon-manager for proposals",
+      "targets": [
+        "Cafe Siete",
+        "service window",
+        "shared counter",
+        "notebook reply",
+        "archival sleeve",
+        "aged pastry"
+      ],
+      "operation": "Prepare one coherent text rule sheet and movement ledger for the recommended physical model; record what is source-supported and what is a proposed addition.",
+      "expected": "Chapter 1 can show safe exchanges and a bounded after-closure reply without moving a person through time.",
+      "acceptance": [
+        "Each man remains within his own era while reaching the hatch.",
+        "Ruined and restored objects have explicit sides.",
+        "The reply crosses before closure and falls free later.",
+        "Two paper objects remain separate.",
+        "Protection does not create an unlimited fresh-object loophole."
+      ],
+      "risk": "Clarifying mechanics can overexplain a lyrical scene; keep the rule sheet private and prose changes minimal.",
+      "preserve": "Sensory miracle, narrow window, dangerous wrist contact, safe fingertips, and returned-note reveal.",
+      "impacts": [
+        "low",
+        "high",
+        "high",
+        "low"
+      ]
+    },
+    {
+      "id": "SMA-WP-004",
+      "title": "Specify the calendar and cost boundaries for continuation",
+      "issues": [
+        9,
+        10
+      ],
+      "deps": [
+        "SMA-WP-003"
+      ],
+      "decisions": [
+        "SMA-PROP-007",
+        "SMA-PROP-008"
+      ],
+      "stage": "Phase 4 baseline; exact schedule before any continuation",
+      "owner": "manga-story-architect with manga-world-bible",
+      "targets": [
+        "first meeting",
+        "station fire",
+        "connection cost",
+        "cafe clock"
+      ],
+      "operation": "Document the intact first meeting, paired-day recommendation, and distinction between elapsed minutes and lost capacity. Reserve exact dates, penalty calibration, and recovery for a separate proposed continuation rule table before they enter prose.",
+      "expected": "The repaired opening makes no unsupported permanent-loss or fire-deadline claim.",
+      "acceptance": [
+        "Chapter 1 retains 12:00-12:07.",
+        "Tomas's October 17 statement is preserved.",
+        "No exact date for Daniel or fire date is silently added.",
+        "No later chapter is drafted until its calendar, intervention cost, and evidence model are explicitly approved."
+      ],
+      "risk": "A long outline may require a different calendar; that must produce a new proposal rather than a silent exception.",
+      "preserve": "Scarcity and the forty-year separation.",
+      "impacts": [
+        "none",
+        "medium",
+        "high",
+        "medium"
+      ]
+    },
+    {
+      "id": "SMA-WP-005",
+      "title": "Restore causal knowledge and investigation sequence",
+      "issues": [
+        4,
+        11,
+        12,
+        13,
+        14,
+        25,
+        30
+      ],
+      "deps": [
+        "SMA-WP-002",
+        "SMA-WP-003",
+        "SMA-WP-004"
+      ],
+      "decisions": [
+        "SMA-PROP-002",
+        "SMA-PROP-009",
+        "SMA-PROP-011"
+      ],
+      "stage": "Phase 4 manuscript; adapted dialogue in Phase 5",
+      "owner": "manga-chapter-writer and manga-dialogue-writer after required approvals",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Arturo Salcedo",
+        "phone photograph",
+        "door scratches",
+        "station fire"
+      ],
+      "operation": "Plan localized changes to the visit motive, guessed year, suspect inquiry, question/response chain, and knowledge ledger. Restore introductions and the signal clue when adapting the approved prose. Preserve an explicit future comparison obligation for the photograph.",
+      "expected": "Every conclusion follows evidence available to its speaker; the final warning increases danger without proving murder.",
+      "acceptance": [
+        "Late access has one approved reason.",
+        "1986 is a hypothesis until confirmed.",
+        "The name is learned before it is recognized on glass.",
+        "The broker and signal are both investigated as leads, not convictions.",
+        "Daniel does not know a proved death or arson from the scratch alone.",
+        "The photo is not silently assigned contents."
+      ],
+      "risk": "Added bridges could crowd banter; offset by selective trimming only where meaning is redundant.",
+      "preserve": "Opening line, dry corrections, mutual introductions, untouched-coffee clue, and ending order.",
+      "impacts": [
+        "low",
+        "medium",
+        "high",
+        "low"
+      ]
+    },
+    {
+      "id": "SMA-WP-006",
+      "title": "Build independent goals and witness knowledge",
+      "issues": [
+        15,
+        16,
+        17
+      ],
+      "deps": [
+        "SMA-WP-002",
+        "SMA-WP-004"
+      ],
+      "decisions": [
+        "SMA-PROP-010"
+      ],
+      "stage": "Phase 4 architecture proposals; later development before continuation",
+      "owner": "manga-character-bible with manga-story-architect",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Lilia Ramos",
+        "Maribel Santos",
+        "Benjamin Manalo",
+        "Ernesto Galang",
+        "Arturo Salcedo"
+      ],
+      "operation": "Prepare goal/knowledge/cost proposals from existing work and chosen-family relationships. Identify who witnessed versus inferred each clue. Do not insert unapproved trauma or secret notebook contents.",
+      "expected": "Tomas can make a choice Daniel must respect; every witness has an independent reason to act or stay silent.",
+      "acceptance": [
+        "Tomas has an independent proposed goal and a possible rescue conflict.",
+        "Daniel's growth is expressed as behavior, not an invented bereavement.",
+        "All witness facts are marked observed, reported, inferred, or proposed.",
+        "No unsupported character voice is treated as an existing dialogue sample."
+      ],
+      "risk": "A larger cast can inflate the opening; most material belongs to future approved architecture, not Chapter 1 exposition.",
+      "preserve": "Tomas's present initiative, Lilia's chosen-family warmth, and Maribel's competence.",
+      "impacts": [
+        "low",
+        "medium",
+        "medium",
+        "medium"
+      ]
+    },
+    {
+      "id": "SMA-WP-007",
+      "title": "Define a revelation ladder and scope checkpoints",
+      "issues": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "deps": [
+        "SMA-WP-004",
+        "SMA-WP-006"
+      ],
+      "decisions": [
+        "SMA-PROP-007",
+        "SMA-PROP-008",
+        "SMA-PROP-012"
+      ],
+      "stage": "Phase 4 architecture proposal, not additional chapter drafting",
+      "owner": "manga-story-architect",
+      "targets": [
+        "station fire",
+        "connection cost",
+        "Cafe Siete",
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "operation": "Use existing Arc 1 titles to propose distinct knowledge, agency, danger, or relationship changes. Treat the first three chapters as a development checkpoint and later arcs as conditional proposals. Distinguish a repeated motif from a repeated first discovery.",
+      "expected": "The existing long-series ambition has staged commitments rather than filler obligations.",
+      "acceptance": [
+        "Each proposed early chapter changes at least one meaningful state.",
+        "Chapter 5's pastry and Arc 2's false archive material add something beyond Chapter 1.",
+        "Arc 3 and Arc 6 do not simply reveal Arc 1's culprit/fire again.",
+        "Any memory change preserves consequences and mutual choice.",
+        "Other cafes remain deferred until their necessity is demonstrated."
+      ],
+      "risk": "Scope may reduce or vary chapter counts; no original titles or arc folders are changed without explicit approval.",
+      "preserve": "Daniel and Tomas as the center and San Aurelio as the anchor.",
+      "impacts": [
+        "low",
+        "medium",
+        "high",
+        "high"
+      ]
+    },
+    {
+      "id": "SMA-WP-008",
+      "title": "Set reader, content, and release boundaries",
+      "issues": [
+        19,
+        29
+      ],
+      "deps": [
+        "SMA-WP-001"
+      ],
+      "decisions": [
+        "SMA-PROP-012"
+      ],
+      "stage": "Phase 3 proposal; adoption only by user",
+      "owner": "manga-creator",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "San Aurelio Junction"
+      ],
+      "operation": "Review the creative brief and success plan: provisional audience/rating, unnamed-country boundary, preferred hopeful outcome, sustainable scope, offline feedback conditions, and publication assumptions.",
+      "expected": "Production and audience decisions are intentional and distinguish hypotheses from evidence.",
+      "acceptance": [
+        "No country, historical accuracy, formal rating, commercial demand, or IP clearance is claimed without evidence.",
+        "Reader and capacity metrics are defined but not fabricated as measured.",
+        "No sharing, payment, release, or research is executed by this plan."
+      ],
+      "risk": "Real reader or capacity evidence may change the recommended scope.",
+      "preserve": "Adult queer dignity, cultural texture, author control, and creator-health boundaries.",
+      "impacts": [
+        "none",
+        "medium",
+        "low",
+        "medium"
+      ]
+    },
+    {
+      "id": "SMA-WP-009",
+      "title": "Apply approved repairs to a new Chapter 1 version",
+      "issues": [
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        14,
+        26,
+        28
+      ],
+      "deps": [
+        "SMA-WP-002",
+        "SMA-WP-003",
+        "SMA-WP-004",
+        "SMA-WP-005",
+        "SMA-WP-006",
+        "SMA-WP-008"
+      ],
+      "decisions": [
+        "SMA-PROP-003",
+        "SMA-PROP-004",
+        "SMA-PROP-005",
+        "SMA-PROP-006",
+        "SMA-PROP-009",
+        "SMA-PROP-013"
+      ],
+      "stage": "Phase 4, blocked until plan, relevant decisions, and exact change-set approval",
+      "owner": "manga-chapter-writer",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Cafe Siete"
+      ],
+      "operation": "Prepare an exact proposed change set against hashed source units, then after its approval create a separate Chapter 1 manuscript version. Keep title, core sequence, relationship exchanges, and ending order. Trim only repetitions that do not change state or meaning.",
+      "expected": "A recognizable, causally clearer opening with no source overwrite.",
+      "acceptance": [
+        "Every edit has an issue ID, source-unit target, and an approved change set.",
+        "The original first line and three anchor exchanges remain recognizable.",
+        "No forced new chapter split or cliffhanger is introduced.",
+        "Both analytical scenes retain a meaningful state change.",
+        "The new manuscript remains unapproved until separately reviewed."
+      ],
+      "risk": "Mechanical repair can flatten voice; reject changes that explain what an action already makes clear.",
+      "preserve": "Paper-worldview voice, museum humor, bread joke, I am real reciprocity, and better-bread reply.",
+      "impacts": [
+        "medium",
+        "medium",
+        "high",
+        "low"
+      ]
+    },
+    {
+      "id": "SMA-WP-010",
+      "title": "Verify differences, continuity, and approvals",
+      "issues": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "deps": [
+        "SMA-WP-007",
+        "SMA-WP-009"
+      ],
+      "decisions": [],
+      "stage": "Phase 4 review",
+      "owner": "manga-consistency-manager with manga-creator",
+      "targets": [],
+      "operation": "Produce deterministic diffs and an issue disposition matrix distinguishing fixed, proposed, deferred, and not applicable. Check original hashes, knowledge, time, props, relationships, source locators, and voice anchors. Present the manuscript for review.",
+      "expected": "Every audit finding remains accounted for; future-production issues are not falsely marked resolved by prose edits.",
+      "acceptance": [
+        "All 30 issues have a disposition and evidence of the current state.",
+        "Deferred items retain owners and prerequisites.",
+        "No original or approved audit bytes change.",
+        "No manuscript or story lock is activated by a validation result.",
+        "Exact diff/review package is presented before manuscript approval."
+      ],
+      "risk": "A technical pass cannot prove emotional success; use author review and authorized reader checks as separate evidence.",
+      "preserve": "Source traceability, explicit uncertainty, and separate approvals.",
+      "impacts": [
+        "none",
+        "none",
+        "high",
+        "none"
+      ]
+    },
+    {
+      "id": "SMA-WP-011",
+      "title": "Reconcile legacy scripts after story approval",
+      "issues": [
+        2,
+        3,
+        4,
+        13,
+        22,
+        24,
+        25,
+        26,
+        28
+      ],
+      "deps": [
+        "SMA-WP-010"
+      ],
+      "decisions": [
+        "SMA-PROP-002",
+        "SMA-PROP-013",
+        "SMA-PROP-014"
+      ],
+      "stage": "Phase 5 only",
+      "owner": "manga-dialogue-writer with manga-storyboard-director",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Lilia Ramos",
+        "Arturo Salcedo",
+        "cafe clock",
+        "flashlight"
+      ],
+      "operation": "Create new script versions from the approved manuscript, using legacy scripts only as comparison. Restore causal dialogue, correct identities, and redistribute events by reading pressure rather than preserving every five/six-panel page.",
+      "expected": "A story-faithful, clearly readable proposed adaptation.",
+      "acceptance": [
+        "Introductions and connective questions precede responses.",
+        "All clue captions match character knowledge.",
+        "The fifteen-title arc envelope does not dictate a uniform panel count.",
+        "Text corrections remain separate from artwork and original prompts."
+      ],
+      "risk": "Fourteen pages may no longer be the best allocation; page count is a proposal until approved.",
+      "preserve": "Strong existing images and quiet reaction beats.",
+      "impacts": [
+        "medium",
+        "low",
+        "high",
+        "medium"
+      ]
+    },
+    {
+      "id": "SMA-WP-012",
+      "title": "Specify readable preproduction and SFX",
+      "issues": [
+        22,
+        24,
+        27
+      ],
+      "deps": [
+        "SMA-WP-011"
+      ],
+      "decisions": [
+        "SMA-PROP-014"
+      ],
+      "stage": "Phase 5 only, after required story approvals and locks",
+      "owner": "manga-storyboard-director, manga-panel-director, manga-lettering",
+      "targets": [
+        "service window",
+        "cafe clock",
+        "aged pastry"
+      ],
+      "operation": "Prepare event-driven page intents, explicit reading sequence, geometry-only nemu, one dominant panel event, motivated camera directions, dialogue-safe areas, and complete SFX fields.",
+      "expected": "A reviewable storyboard and lettering plan ready for appropriate preproduction checks.",
+      "acceptance": [
+        "Every SFX has source, reader meaning, intensity, English language, translation context, and lettering intent.",
+        "Every panel has one dominant event.",
+        "All dynamic layouts have a stated narrative reason.",
+        "Reading order and text-space checks pass before artwork handoff."
+      ],
+      "risk": "No current image exists to validate rendered clarity; a planning score cannot confer approval.",
+      "preserve": "Rain and clock soundscape, silence at closure, and deliberate negative space.",
+      "impacts": [
+        "low",
+        "none",
+        "high",
+        "medium"
+      ]
+    },
+    {
+      "id": "SMA-WP-013",
+      "title": "Prepare gated ChatGPT handoffs",
+      "issues": [
+        22,
+        23,
+        27
+      ],
+      "deps": [
+        "SMA-WP-012"
+      ],
+      "decisions": [
+        "SMA-PROP-014"
+      ],
+      "stage": "Phase 6 only",
+      "owner": "manga-image-job-builder with manga-continuity-reviewer",
+      "targets": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Cafe Siete",
+        "service window"
+      ],
+      "operation": "After all required approvals and locks, create structured jobs for needed references and later panels/covers. Release dependent jobs only with actual approved hash-locked references and deterministic Markdown attachment checklists.",
+      "expected": "External ChatGPT handoffs satisfy the high-quality contract and have no invented reference paths.",
+      "acceptance": [
+        "No image is generated, edited, or retouched by Codex.",
+        "Panel artwork jobs forbid dialogue, captions, balloons, SFX text, borders, page numbers, signatures, watermarks, and color.",
+        "All attachment paths exist and hashes match approvals.",
+        "A pending reference blocks only its dependent jobs; no fallback prompt is called an approved reference."
+      ],
+      "risk": "Reference turnaround and revisions can change schedule; measure them before public commitments.",
+      "preserve": "Distinct adult designs and the user's complete artwork prohibition.",
+      "impacts": [
+        "none",
+        "none",
+        "high",
+        "none"
+      ]
+    }
+  ]
+}

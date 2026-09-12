@@ -1,0 +1,177 @@
+{
+  "record_type": "workspace_refactor_and_manuscript_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "checked_at": "2026-09-05T06:45:14.751100+00:00",
+  "status": "pass",
+  "errors": [],
+  "runtime_story_profile": "pass",
+  "original_candidate_hashes_unchanged": 25,
+  "original_story_sources_unchanged": 24,
+  "source_inventory_candidates_after_exclusions": 25,
+  "historical_package_hash_checks": {
+    ".manga-studio/analysis/validation-v001.json": 13,
+    ".manga-studio/revisions/phase-3-v001/package-manifest-v001.json": 26,
+    ".manga-studio/revisions/phase-4-proposal-v001/package-manifest-v001.json": 18
+  },
+  "source_provenance_and_maps": "pass",
+  "separate_user_approvals_valid": 4,
+  "new_managed_manuscripts": 1,
+  "new_reading_copies": 1,
+  "draft_and_copy_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+  "approved_edits_applied": 22,
+  "additional_prose_edits": 0,
+  "deterministic_diff": "pass",
+  "clock_markers_checked": 8,
+  "editorial_checks_carried_forward": 8,
+  "editorial_warnings_preserved": 7,
+  "audit_issue_dispositions": 30,
+  "strict_source_locators_checked": 163,
+  "runtime_directories_verified": 27,
+  "visible_sections_verified": 5,
+  "entry_point_links_checked": 12,
+  "new_json_paths_and_hash_bindings_checked": 10,
+  "other_project_content_imported": false,
+  "active_versions": {
+    "canon": null,
+    "manuscript": null,
+    "storyboard": null
+  },
+  "stage_locks": {
+    "SOURCE_LOCKED": false,
+    "CANON_APPROVED": false,
+    "DIAGNOSTIC_APPROVED": false,
+    "REVISION_PLAN_APPROVED": false,
+    "MANUSCRIPT_APPROVED": false,
+    "STORY_LOCKED": false,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "image_generation_enabled": false,
+  "production_ready": false,
+  "source_files_moved_or_renamed": 0,
+  "scope_note": "Additive working-layout refactor preserves the original Comics tree and all hash-bound history. The comparison project informed directory conventions only. Draft approval, authority adoption and production gates remain distinct.",
+  "artifact_hashes": [
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-manuscript-v001-review.json",
+      "sha256": "1f21f6a56b4dd1da7d3510ab02ad928380792c95bfbe33c7a441a5fa6ee79efb"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-manuscript-v001-review.md",
+      "sha256": "5b2836b4fadb8a90bf5b59810ce162ada345aeb13dad5a048d76eb0b6772d32f"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/apply-chapter-001-v001.json",
+      "sha256": "1239d556511b6cf21eab9a94a25c750739f3de46b8d94e4031b82e10dc68d37a"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/workspace-structure-v001.json",
+      "sha256": "57866c0cc3242c06b3ed2672d63c0b112b3fdd49943db88e9d36a12518e132e1"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/workspace-structure-v001.md",
+      "sha256": "c806edd7831a4abc5a23769d2174bac233e53546531dee2e2b92ea3f1bb5ad87"
+    },
+    {
+      "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.metadata.json",
+      "sha256": "a03fc1f008af75facf4ed0bc1bb0e7e4d7f1b63c0f8a7cb784a0e4fbca013179"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/diffs/sma-ch01-balanced-manuscript-v001.diff",
+      "sha256": "344c5648700e23087a814faf9dcee466b131c622db46858628a6cf8a883d8b06"
+    },
+    {
+      "relative_path": ".manga-studio/tooling/workspace-refactor-v001/prepare-workspace-v001.py",
+      "sha256": "1add35471d330e0c35d9844ee47392292583ab02ddc5c8491cc65e169b45884f"
+    },
+    {
+      "relative_path": ".manga-studio/tooling/workspace-refactor-v001/verify-workspace-v001.py",
+      "sha256": "3778ffdb263c841e2ff62b4a8e69edbca1d6e7a2b43212db2035eec68a48a45d"
+    },
+    {
+      "relative_path": ".manga-studio/workspace-layout-v001.json",
+      "sha256": "ac987da156759747b24e4ec613fdec64086b61f50efa1dc439bdccfb9be58348"
+    },
+    {
+      "relative_path": "AGENTS.md",
+      "sha256": "b954da3472090f9229178bb41db8f20e5092994daa5ad91bbdae4995ced9351f"
+    },
+    {
+      "relative_path": "MANGA-STUDIO.md",
+      "sha256": "9522e8e58b8bce1d6a89b119237c7692e9b48509771632e84148147e6026dfce"
+    },
+    {
+      "relative_path": "manga/00-series/README.md",
+      "sha256": "ede96ad600372a68dc8e8503eb5866ae2fe76342a0f106936be163fe4e093604"
+    },
+    {
+      "relative_path": "manga/00-series/index-v001.json",
+      "sha256": "13b0f018d6f9750b76685780d87c6cd040016df926077653eec695a571973cbc"
+    },
+    {
+      "relative_path": "manga/01-style/README.md",
+      "sha256": "d8268b573a0db708597903ac9ff9ac99e0b04e3878e91548e5e9ed9a42334457"
+    },
+    {
+      "relative_path": "manga/01-style/production-policy-v001.json",
+      "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+    },
+    {
+      "relative_path": "manga/02-references/README.md",
+      "sha256": "ebc73d016173bbc53b93475dadbf70a646110ea3108f76875ae7271a3d22ee01"
+    },
+    {
+      "relative_path": "manga/02-references/characters/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/effects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/environments/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/objects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/reference-register-v001.json",
+      "sha256": "848db0190fe334524629ca55ace47afd5298ce72f5cf1c408f63eb3793b6da1b"
+    },
+    {
+      "relative_path": "manga/03-story/README.md",
+      "sha256": "d77280fa5f42dd1f537a4c566d5bd79ce09cb3e16dd89dbf98b384f6617c1583"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "1513074ef688afb1d2b067d4a08a920b12cf954da93ee3c2aa98787ddba0c09b"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/reading-copy-v001.json",
+      "sha256": "2ee4ec9aa66623c7448a9a5333294ea82f6ad92e96a5b269b891a9e999f025ac"
+    },
+    {
+      "relative_path": "manga/04-production/README.md",
+      "sha256": "519d441ba6670b80bf16b6264588bbf13ce3d8117faa807478c592b4b7c33bf3"
+    },
+    {
+      "relative_path": "manga/04-production/arc-01/chapter-001/readiness-v001.json",
+      "sha256": "0d1cbecf6d2edda45c295a49b3059748362cf7d5f0fc88bc22d811771579fe6d"
+    },
+    {
+      "relative_path": "manga/README.md",
+      "sha256": "836e3bf52c78363db9e22a48e6f0adea1998b841a0db7508bee521738d94a6b9"
+    }
+  ]
+}

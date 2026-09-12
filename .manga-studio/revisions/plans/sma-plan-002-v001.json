@@ -1,0 +1,141 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-002",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "character-3f6621b20e6e4c0da53cb42678b5c277",
+    "character-4a1f6a05cbd743bfaf528d862bda6202",
+    "character-28e7610c7be1473aa1d5fb041293cf19",
+    "character-9ed88c78fa9a4040837b28b31b249314",
+    "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+    "prop-abfd3210cb6e4133ab15d662bd6aa138",
+    "character-a096cba8416847d4947a94012733a09b",
+    "prop-67b953d0295447f788ff0fb7cf202823",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-002",
+    "SMA-ISS-003",
+    "SMA-ISS-026"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-f62b2bab7db84973a6e2c7672c9a0d2f",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 349,
+      "line_end": 349,
+      "byte_start": 12929,
+      "byte_end": 12992,
+      "content_fingerprint": "2d72822a480f13a13a806ae4fbb4754470e627fef9ac5802c4fce8ebd173bf8b"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+      "source_relative_path": "characters.md",
+      "line_start": 63,
+      "line_end": 69,
+      "byte_start": 8187,
+      "byte_end": 9049,
+      "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-ce80ac6835624df48585b49354eec721",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 385,
+      "line_end": 385,
+      "byte_start": 14345,
+      "byte_end": 14451,
+      "content_fingerprint": "b4f68017e1cba44f730d973834831852a7f1216e708a049d83fb462be3c6ce81"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-9141d784709e4c64b0abf146cf304a7a",
+      "source_relative_path": "characters.md",
+      "line_start": 83,
+      "line_end": 90,
+      "byte_start": 9808,
+      "byte_end": 10816,
+      "content_fingerprint": "4740eefec06be5ab82642586a073f1c5f5926fe347cf90c9f83326b6f877a2bb"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-c4d78a6b615d4de1a6019aa0aaf3e91b",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 71,
+      "line_end": 71,
+      "byte_start": 4603,
+      "byte_end": 4744,
+      "content_fingerprint": "9badb29fa9f616b1ee1415381e9a6ca79b3518edea0be26e357451d7f34ea43d"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+      "source_relative_path": "characters.md",
+      "line_start": 113,
+      "line_end": 122,
+      "byte_start": 12532,
+      "byte_end": 14691,
+      "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153"
+    }
+  ],
+  "proposed_operation": "Adopt explicit identity and reference-text choices. Owner: manga-canon-manager for proposed facts; manga-revision-planner for edits. Stage: Phase 4 text planning; visual derivatives in Phase 5. Prepare proposed identity and physical-state records using the selected recommendations. Use them in new derivative text only after approval; do not merge disputed IDs silently. Risk: Unseen images may later need a separate reconciliation plan. Specific recommendations require separate adoption: SMA-PROP-002, SMA-PROP-013.",
+  "expected_result": "Names, clocks, clothing, and object states agree across new text artifacts.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Adult silhouettes, occupational detail, chosen-family role, and civic antagonist.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Adult silhouettes, occupational detail, chosen-family role, and civic antagonist."
+  },
+  "canon_impact": {
+    "level": "medium",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "high",
+    "notes": "Names, clocks, clothing, and object states agree across new text artifacts."
+  },
+  "structural_impact": {
+    "level": "low",
+    "notes": "Scope and dependencies: Phase 4 text planning; visual derivatives in Phase 5. Unseen images may later need a separate reconciliation plan."
+  },
+  "dependencies": [
+    "SMA-PLAN-001"
+  ],
+  "acceptance_criteria": [
+    "Lilia and Arturo have one approved textual identity each.",
+    "Legacy alternative labels remain traceable as conflicts.",
+    "Clock identities and placement are unambiguous.",
+    "No original character/reference text is overwritten."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

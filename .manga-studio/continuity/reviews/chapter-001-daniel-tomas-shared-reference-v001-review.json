@@ -1,0 +1,37 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-daniel-tomas-shared-reference-v001-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": "manga/02-references/approved-webp/daniel-tomas-shared.webp",
+  "status": "approved",
+  "automated": false,
+  "approval_required": false,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "USER-MAPPING",
+      "message": "The user maps the curly-haired man on the left to Daniel Soriano, the museum conservator, and the long-haired man on the right to Tomas Rivera, the Cafe Siete baker."
+    },
+    {
+      "severity": "info",
+      "code": "IDENTITY-SCOPE",
+      "message": "Approved appearance scope is adult facial identity, hair, build, age impression, Daniel's glasses, shared scale and visual chemistry."
+    },
+    {
+      "severity": "warning",
+      "code": "TEXT-OVERRIDES-WARDROBE",
+      "message": "Tomas's pictured sleeve construction is not authoritative. Preserve the approved manuscript specification: cream long-sleeved 1980s cafe shirt rolled to the elbows with faint collar embroidery and a jade-green hair cord."
+    },
+    {
+      "severity": "warning",
+      "code": "NON-CHARACTER-CONTENT-EXCLUDED",
+      "message": "Do not promote the depicted pose, environment, rain, props, clocks, dates, signs, newspaper copy, title text or lettering into story or production authority."
+    },
+    {
+      "severity": "info",
+      "code": "FORMAT-DERIVATIVE",
+      "message": "The WebP preserves the exact user-supplied bytes. The PNG is a 1024 x 1536 format-derived working master with a separate hash-bound approval."
+    }
+  ]
+}

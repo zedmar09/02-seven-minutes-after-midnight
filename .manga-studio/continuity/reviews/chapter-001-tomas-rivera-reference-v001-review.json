@@ -1,0 +1,48 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-tomas-rivera-reference-v001-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/tomas-rivera-v001/candidate.png",
+  "status": "review_ready",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-001",
+      "message": "The received file is a 1024x1536 PNG with SHA-256 b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377 and contains Tomas Rivera only."
+    },
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-002",
+      "message": "Layout and exclusion checks pass. Exactly six separated studies appear in the required two-column, three-row order, with full crowns, chins, hands, and feet and no borders, labels, story text, plot props, environment, Daniel, or supporting characters."
+    },
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-003",
+      "message": "Identity and hair continuity pass. The sheet preserves Tomas's adult warm gaze, strong brows, lean baker's build, long dark wavy hair, low tie, layered nape, and loose face-framing strands across all applicable views without copying Daniel's glasses or anatomy."
+    },
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-004",
+      "message": "Wardrobe and occupational continuity pass. The cream long-sleeved cafe shirt is rolled to the elbows with restrained collar embroidery, paired with high-waisted dark trousers, a flour-marked waist apron, old work shoes, lean forearms, and clearly constructed flour-marked hands. No excluded tray, bread, tongs, or note appears."
+    },
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-005",
+      "message": "The low hair tie reads as the specified thin cord with small tied ends rather than a conflicting accessory. The printed finish is clean and consistent with Daniel v002: controlled black hair masses, flat tone, sparse hatching, white paper, matte clothing, and no cinematic or glossy rendering."
+    },
+    {
+      "severity": "warning",
+      "code": "TOMAS-V001-OUT-006",
+      "message": "The exact executed image job was not supplied and the Downloads filename omits the planned version suffix. This does not block visual approval, but promotion must preserve the exact bytes under tomas-rivera-reference-v001.png and bind that file by SHA-256."
+    },
+    {
+      "severity": "info",
+      "code": "TOMAS-V001-OUT-007",
+      "message": "Approval is recommended but not granted automatically. No image was edited, converted, renamed, or promoted, and all production locks remain unchanged."
+    }
+  ]
+}
+

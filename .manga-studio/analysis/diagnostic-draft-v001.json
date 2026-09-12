@@ -1,0 +1,2741 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "report_id": "sma-comprehensive-audit",
+  "report_version": "v001",
+  "title": "Seven Minutes After Midnight: Complete Available-Source Audit",
+  "scope": "All 24 supplied story documents: one complete prose chapter, fourteen page scripts, three cover prompts, and six supporting documents; all seven planned arcs reviewed as outline only.",
+  "status": "proposed",
+  "generated_by": "manga-story-diagnostician coordinated by manga-creator",
+  "created_at": "2026-09-05T03:31:34.071244+00:00",
+  "source_map_checksums": [
+    "00288fff4df6ade6d51ca87d35b895ab45a877933ff246425fe9e85adb1a2274",
+    "0bb0025ad8ad343a00aac54cb98c175a15a9d9378adaea79b6d83a9df7034361",
+    "1773cf655eb70687b056fb6edf86df97e919efc0fa40046075948e3ad080a12c",
+    "17926c5a953ad6ed1880e981012c9d6a3d2a7e2cbf997dbecb34814ae8df8f93",
+    "252d66a5a3dba3717061c13461c22f52179348a994e71d414c330544f5c9e31a",
+    "3028d289c0d5d0b8283f506fb8e1eaec57059deb0b700e17c8e0126b90cb63e3",
+    "3cc5895f2e624e30039d8ac0c8c6397ec8d83618fd75b04d1ffbc1be466ab464",
+    "458f2a98f5e6d509b2e7b66a3d95d968b5f98813cde4ea3ac42d80bfd6b9c3e2",
+    "73c245024166dd2113c4233cfacec68a58d26acba7b66b6e72f49f2424ee5d07",
+    "77247fdaf57278d232b690c7128226942c7f8e46811c041f5b072e2beaf27a79",
+    "789362101fc8e74a0d79283fadd7a707db71705ec2b3c66632e863ad44cb7294",
+    "85ed0fd990cc1add6d82cd28c2564e2deaf5800c977116f819241c5e44e8c40b",
+    "8736f9a6013d9850338a90640dd31f6478066c2b50954e6f655b6fa59b92b22d",
+    "9124681bbd676542ab3179d120dc37170ccbf84866af7d820c31587d2fb4bf09",
+    "9f54704c44949e94ad10bbd1d6481642a2d8c65f2c6583cbe49c06454acdee3f",
+    "a195cfe56b8e493fc0aea6164d69352c9f74bd8c7728c8b6cfa07cc20daed3b3",
+    "ab1c036fe292cf2943055fabc35d84816d8993b16dc14827d47342a962dd3cce",
+    "ccf3370f6fd10ca7a0bbce4a5b42e69fc5a912451084f3565d6ccec85d65f629",
+    "d7216ecc387211a4c343b630913a835f77a0e43838a2ddb2368d11729625cf2b",
+    "e4ae8a6d3cb25b8dcd094c105989af84d9e817f24e0e6d0b56477baab785f70f",
+    "e7a56e5e666f1a325f088275471bd375708598ddbb3db2f16318a6688ed0e09d",
+    "e9233bddd683b5ff25659b8c5ec321584c6b9ce801d5d203a6001eb9f4d3b6bc",
+    "f37f11cf6464973f164b15e78bbabc66e06454cce9c7e0f59f96e5105d9fcb18",
+    "fe46c88f1396ab0dd1d13ba8c6b5f3ae041d6c26d137d99eb676744daa5bab79"
+  ],
+  "findings": [
+    {
+      "issue_id": "SMA-ISS-001",
+      "category": "unresolved_plot_thread",
+      "severity": "high",
+      "confidence": 1,
+      "status": "open",
+      "description": "README, arc notes, and series plan claim a drafted Chapter 2 and Chapter 1 reader images. The root inventory contains only Chapter 1 prose, fourteen interior page prompts, three cover prompts including the app cover, and supporting notes; no reader image files or second chapter are present.",
+      "why_it_matters": "An audit cannot claim coverage of unavailable chapters or assess the ending of a 105-chapter plan as completed fiction.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-53b176a4c0114398a9d7456011734989",
+          "source_relative_path": "README.md",
+          "line_start": 71,
+          "line_end": 71,
+          "byte_start": 6307,
+          "byte_end": 6610,
+          "content_fingerprint": "5d03e487b7aedeaa7515997d813f5d012917a160ae949a85e136b13e8c04e7d0"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+          "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+          "scene_id": null,
+          "source_unit_id": "source-unit-d77a72566c874802bd931022316e75b7",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+          "line_start": 8,
+          "line_end": 9,
+          "byte_start": 152,
+          "byte_end": 503,
+          "content_fingerprint": "bf48833a2716c7851998b11335cfaa3ec8f0612bf54544bf18b025f9f2fb54d5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-d56cc976e50f45a98db1724da9c63781",
+          "source_relative_path": "series-plan.md",
+          "line_start": 49,
+          "line_end": 49,
+          "byte_start": 3039,
+          "byte_end": 3065,
+          "content_fingerprint": "610dbd191f07a189af6a790626b8e9d2cbe6d577785ca534a6319b262d491d3f"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Recover the claimed originals into a separately inventoried source addition and extend the audit. Risk: further findings may change priorities.",
+        "Approve an available-material audit and treat Chapter 2 onward as unwritten or unavailable, with later expansion from approved plans. Risk: recovered material may require reconciliation."
+      ],
+      "uncertainty": "Absence is confirmed only within this story root; files could exist elsewhere. No deletion or loss is inferred.",
+      "adaptation_impact": "Rendered continuity and later chapter pacing cannot be reviewed."
+    },
+    {
+      "issue_id": "SMA-ISS-002",
+      "category": "relationship_continuity",
+      "severity": "high",
+      "confidence": 1,
+      "status": "open",
+      "description": "The prose calls the kitchen voice Tiya Lilia, and the character reference identifies Lilia Ramos as the cafe owner and chosen aunt. Page 10 assigns the same lines and role to Inez without explanation.",
+      "why_it_matters": "The adaptation changes a supporting character's identity and obscures the chosen-family relationship.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-f62b2bab7db84973a6e2c7672c9a0d2f",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 349,
+          "line_end": 349,
+          "byte_start": 12929,
+          "byte_end": 12992,
+          "content_fingerprint": "2d72822a480f13a13a806ae4fbb4754470e627fef9ac5802c4fce8ebd173bf8b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+          "source_relative_path": "characters.md",
+          "line_start": 63,
+          "line_end": 69,
+          "byte_start": 8187,
+          "byte_end": 9049,
+          "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-457c10c78f2b4c0694bc9de40543d8de",
+          "chapter_id": "chapter-78b7f096184e43869e318f9cda81a41b",
+          "scene_id": null,
+          "source_unit_id": "source-unit-c8fdf8b1c77644a8b6fb87414af995b4",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+          "line_start": 17,
+          "line_end": 18,
+          "byte_start": 980,
+          "byte_end": 1137,
+          "content_fingerprint": "7704461253293e79038528968f153b34c3397b90df5e6b346d09bd40ebb4db2b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-457c10c78f2b4c0694bc9de40543d8de",
+          "chapter_id": "chapter-78b7f096184e43869e318f9cda81a41b",
+          "scene_id": null,
+          "source_unit_id": "source-unit-9ed2cfc930c641b18ba0628814a74062",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+          "line_start": 33,
+          "line_end": 36,
+          "byte_start": 1556,
+          "byte_end": 1688,
+          "content_fingerprint": "3e812d14df65ba304ac1d2e03c3d3e60e692c81a8fbf617acea69420fa7b9f38"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-3f6621b20e6e4c0da53cb42678b5c277"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Use Lilia in a new version of the affected script after approval. Risk: any unavailable artwork would also need reconciliation.",
+        "Retain Inez only through an explicit rename or separate-character decision with all affected references versioned. Risk: unnecessary cast complexity and divergence from prose."
+      ],
+      "uncertainty": "No supplied source establishes Inez as an alias or approved replacement; do not silently merge her into canon.",
+      "adaptation_impact": "Character labels and future voice/reference jobs would carry the wrong identity."
+    },
+    {
+      "issue_id": "SMA-ISS-003",
+      "category": "plot_logic",
+      "severity": "high",
+      "confidence": 1,
+      "status": "open",
+      "description": "The prose and character reference name Arturo Salcedo as the visiting broker. Page 11 instead labels the figure and notebook entry Rafael Aragon while retaining Arturo's physical and behavioral traits.",
+      "why_it_matters": "A mystery depends on stable evidence attribution. A silent suspect rename creates a different apparent suspect.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-ce80ac6835624df48585b49354eec721",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 385,
+          "line_end": 385,
+          "byte_start": 14345,
+          "byte_end": 14451,
+          "content_fingerprint": "b4f68017e1cba44f730d973834831852a7f1216e708a049d83fb462be3c6ce81"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-9141d784709e4c64b0abf146cf304a7a",
+          "source_relative_path": "characters.md",
+          "line_start": 83,
+          "line_end": 90,
+          "byte_start": 9808,
+          "byte_end": 10816,
+          "content_fingerprint": "4740eefec06be5ab82642586a073f1c5f5926fe347cf90c9f83326b6f877a2bb"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+          "chapter_id": "chapter-be9b78e16d59455b88e4efc084d6fe38",
+          "scene_id": null,
+          "source_unit_id": "source-unit-1242364868ab44baa98516415d4fcceb",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+          "line_start": 17,
+          "line_end": 18,
+          "byte_start": 963,
+          "byte_end": 1247,
+          "content_fingerprint": "84671065710e63ff9cc31383b8debc72f7d97f18a57ebc238d42072860d7007a"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+          "chapter_id": "chapter-be9b78e16d59455b88e4efc084d6fe38",
+          "scene_id": null,
+          "source_unit_id": "source-unit-cb2503e2015c4828bf5ce4f57765e424",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+          "line_start": 43,
+          "line_end": 48,
+          "byte_start": 2063,
+          "byte_end": 2234,
+          "content_fingerprint": "e9d988ceec9ef529ced4f9fa77ee48e89d94fcbb2e4755d14865cf4588cd5a6b"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-28e7610c7be1473aa1d5fb041293cf19"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Restore Arturo in a newly versioned Page 11 script subject to approval. Risk: later unavailable scripts may have propagated Rafael.",
+        "Approve a deliberate rename and update new versions of every dependent reference. Risk: broad revision for no demonstrated story benefit."
+      ],
+      "uncertainty": "No alias, second broker, or rename decision is supplied.",
+      "adaptation_impact": "Suspect silhouettes, notebook lettering, and future reference jobs would disagree."
+    },
+    {
+      "issue_id": "SMA-ISS-004",
+      "category": "character_knowledge",
+      "severity": "high",
+      "confidence": 0.99,
+      "status": "open",
+      "description": "The prose introduces Daniel and Tomas by name before Daniel recognizes TOMAS on the door. Pages 5-7 omit that exchange, but Page 7 has Daniel say I FOUND YOUR NAME. Character-lock text is not reader-facing dialogue.",
+      "why_it_matters": "Daniel identifies the stranger's name without the scene supplying how he learned it. A fair mystery should preserve this causal link.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-4fef04f396864b15af48636eabea8dfb",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 191,
+          "line_end": 191,
+          "byte_start": 8438,
+          "byte_end": 8476,
+          "content_fingerprint": "df34b673955c1fc68788165d3b7a703c54f890c8f3cf04d48c69e43b4fd9d4e7"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-1e98a1a10c4047b4ad2d3a89a5455c8e",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 193,
+          "line_end": 193,
+          "byte_start": 8477,
+          "byte_end": 8554,
+          "content_fingerprint": "ffcbd7f0a0e3d6651ac1236662720160acfe46f49e428c0265dc1c5e645ef229"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-2a6f837a05814dfe9b91accde59c9a6a",
+          "chapter_id": "chapter-161eca940a564bb3aa73755de1e0d63f",
+          "scene_id": null,
+          "source_unit_id": "source-unit-8273263b50ba4727bd0ff86e6ae54aaa",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+          "line_start": 31,
+          "line_end": 34,
+          "byte_start": 1776,
+          "byte_end": 1971,
+          "content_fingerprint": "bbaf0b775e55358f00bcc215009de9cac59e6f36c69b521970671e740889c451"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+          "chapter_id": "chapter-3205239085d14924b01a8df5b03de81f",
+          "scene_id": null,
+          "source_unit_id": "source-unit-3ca78b2e608b4d8aaca16f691d954ab7",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+          "line_start": 17,
+          "line_end": 18,
+          "byte_start": 1043,
+          "byte_end": 1183,
+          "content_fingerprint": "bcce0c05a2b052f66690c6985b625cfb6ee3efdd0caa62570b975f68c5732b68"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+          "chapter_id": "chapter-f437f0ea4c4a45e08097ca3570879491",
+          "scene_id": null,
+          "source_unit_id": "source-unit-18590315e2d14b119eafca06e8aaa720",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+          "line_start": 33,
+          "line_end": 36,
+          "byte_start": 1701,
+          "byte_end": 1829,
+          "content_fingerprint": "2f8c76d1e4b143ccca4308473baf88e04a7bf417fe33f58d61e37a6881cc7e1b"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Restore a concise mutual introduction before the scratched-name discussion. Risk: extra lettering requires page rebalance.",
+        "Give Tomas an explicitly staged name-bearing object and let Daniel connect it to the scratch. Risk: invents a prop and weakens the voluntary intimacy of an introduction."
+      ],
+      "uncertainty": "A generated image might add a name, but no images exist here and unrequested additions cannot supply evidence.",
+      "adaptation_impact": "Repair knowledge order before lettering or panel jobs."
+    },
+    {
+      "issue_id": "SMA-ISS-005",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.95,
+      "status": "open",
+      "description": "The service window is behind the counter and opens into the kitchen, yet later opens between the two men, who are already on opposite sides of a shared counter. No movement explains how both access opposite faces of that window.",
+      "why_it_matters": "The exchange boundary is the central action constraint; confusing its location makes safe touch and prohibited crossing hard to read.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-ad5f0a5daa3946b49ba41ba395edbb95",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 51,
+          "line_end": 51,
+          "byte_start": 3719,
+          "byte_end": 3980,
+          "content_fingerprint": "6980558e27650d4460a78b1d757ef4ec0b2489492fee0dd1b746604fe757186b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-259c5c14baf545699aa54063d980ba91",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 253,
+          "line_end": 253,
+          "byte_start": 10140,
+          "byte_end": 10194,
+          "content_fingerprint": "6ba4357538e9c8e34943a8ef6093d1b924facdd48025e5c4527b8b2a06ee3d00"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+          "source_relative_path": "characters.md",
+          "line_start": 113,
+          "line_end": 122,
+          "byte_start": 12532,
+          "byte_end": 14691,
+          "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+          "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-af4ffc840b6e46e797c8751c328b8de3",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+          "line_start": 25,
+          "line_end": 28,
+          "byte_start": 1273,
+          "byte_end": 1484,
+          "content_fingerprint": "a92a5d004a305410c3683cfe0ad1e68f25b557da064c3ddebebcc69a0d5b4cac"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [
+          "location-ec00909b6a1244d0ae35b1f2881055a5"
+        ],
+        "prop_ids": [
+          "prop-ce6d2b5f51db4da0a3de67a809c13925",
+          "prop-d988556780d44dbb999ac13c70c7aaad"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Approve a simple fixed cafe floor plan and add motivated movement from the counter to the kitchen hatch. Risk: costs a transition beat.",
+        "Define the original counter explicitly as the hatch sill and revise the contradictory spatial descriptions in new versions. Risk: changes the opening's established architecture."
+      ],
+      "uncertainty": "An unusual layout or supernatural relocation could explain this, but neither is established.",
+      "adaptation_impact": "Requires geometry-only staging before panel direction; no artwork needed now."
+    },
+    {
+      "issue_id": "SMA-ISS-006",
+      "category": "world_rule_continuity",
+      "severity": "medium",
+      "confidence": 0.94,
+      "status": "open",
+      "description": "The prose first says the painted glass clears and broken stools stand upright, then says Daniel's side remains ruined and the painted door still carries the scratch. Page 4 similarly restores objects around Daniel before later split-era staging.",
+      "why_it_matters": "Readers need to know whether physical objects restore, an overlay is visible, or only the far side changes, especially when marks become evidence.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-43ac3a99bb66476483aa417a3e39185b",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 85,
+          "line_end": 85,
+          "byte_start": 5097,
+          "byte_end": 5124,
+          "content_fingerprint": "397db94c87822338325c519f44185e8fb2343b92b0e643472c99941b04891f36"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-3a7388a34d734921b5b07ab8dc5b0104",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 137,
+          "line_end": 137,
+          "byte_start": 6984,
+          "byte_end": 7097,
+          "content_fingerprint": "4f14d49c664c9919e7f595db0fa3c92c426f3db56b9563ce6b17c69f7a71f608"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-e09b1ca0d2254f64ac26e86809f5cb4f",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 215,
+          "line_end": 215,
+          "byte_start": 9138,
+          "byte_end": 9195,
+          "content_fingerprint": "fd4029a8606a040ce9b720aa212406e33d8acd2c2eeea6e9879dc05623818175"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-08dfe0d529e748df979663e70fa9bfc6",
+          "chapter_id": "chapter-e607ccdf63134c3a8393a34ce31128d5",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5832d974b8a743f9adc6c79fa5b8ef01",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+          "line_start": 29,
+          "line_end": 32,
+          "byte_start": 1401,
+          "byte_end": 1631,
+          "content_fingerprint": "84c920e7a7c5f757f6744704b5ec4e25b20f04eade3358ee03165562e656ac48"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [
+          "location-ec00909b6a1244d0ae35b1f2881055a5"
+        ],
+        "prop_ids": [
+          "prop-d988556780d44dbb999ac13c70c7aaad"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Limit restoration to Tomas's visible side and define what Daniel feels across the boundary. Risk: slightly reduces the enveloping miracle.",
+        "Keep a transient full-room overlap, explicitly followed by separation. Risk: adds a rule that must remain consistent and may affect later evidence."
+      ],
+      "uncertainty": "These passages may describe a subjective overlay, not a factual contradiction; the presentation does not identify it.",
+      "adaptation_impact": "Value patterns, damage, and the same objects need stable era states."
+    },
+    {
+      "issue_id": "SMA-ISS-007",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.98,
+      "status": "open",
+      "description": "After 12:07, closure, and several seconds alone, Daniel's notebook page slips from the sealed window with Tomas's reply. The stated exchange rules restrict the reliable connection to seven minutes.",
+      "why_it_matters": "This powerful ending can become an unlimited communication loophole unless delayed delivery has a bounded cause.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-a7bbc928754345c89e3d5f430a22b28c",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 441,
+          "line_end": 441,
+          "byte_start": 15793,
+          "byte_end": 15830,
+          "content_fingerprint": "ffbc49fe9f3feff5a23df8925ccab16589a7316aaa6e4a69404576ab98ba7b29"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-d6c71bcf9aa5438e8c7eaa1e8295d6c8",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 443,
+          "line_end": 443,
+          "byte_start": 15831,
+          "byte_end": 15917,
+          "content_fingerprint": "69ae86706d55454a7b9dcbe785482c6c2d21a8801edab0c7185e218bb0321634"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+          "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+          "scene_id": null,
+          "source_unit_id": "source-unit-998274dcd23f4fac9c6c695880e41639",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+          "line_start": 33,
+          "line_end": 36,
+          "byte_start": 1390,
+          "byte_end": 1548,
+          "content_fingerprint": "78a0e374f84d1bec671a4196dfa4ada0c778a49e0df760862602e9cadb831d57"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-ce6d2b5f51db4da0a3de67a809c13925",
+          "prop-1461014f20054066aa266d61a245d1b6"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Show the paper already caught beneath the closing sill, released seconds later. Risk: makes the wonder more mechanically explicit.",
+        "Approve a narrowly defined delayed-return mechanism and track its cost and limits. Risk: adds complexity and invites attempts to bypass the countdown."
+      ],
+      "uncertainty": "Delivery could be physical release rather than a new crossing. The audit does not declare time travel impossible or demand immediate exposition.",
+      "adaptation_impact": "A panel must distinguish a caught page from a reopened connection."
+    },
+    {
+      "issue_id": "SMA-ISS-008",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.98,
+      "status": "open",
+      "description": "The rules permit objects to avoid forty years of aging if protected by the interval, but the pastry ages while the interval is active. Backward objects later adapt to the older time, without a defined trigger or physical effect. The preserved note and ordinary notebook page are separate objects.",
+      "why_it_matters": "Letters, pastries, photographs, and evidence are the romance and investigation engine. Undefined exceptions let any later outcome seem convenient.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-d10bd4385fba4e2fb1c7c95d95de390e",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 269,
+          "line_end": 269,
+          "byte_start": 10827,
+          "byte_end": 10875,
+          "content_fingerprint": "7ae3f814aa719db49e3176b2058c8c3540dfc28641e4607ee8e5e66c16719a1b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-cc540924f20249129a806415c25f81be",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 317,
+          "line_end": 317,
+          "byte_start": 11966,
+          "byte_end": 12105,
+          "content_fingerprint": "ead050b4cb03df4365ccb78a5057d3162d935f43d6aaf263bdfebe0b4b65e0c9"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-d271c46efee641b9a32930a59465b10b",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 335,
+          "line_end": 335,
+          "byte_start": 12536,
+          "byte_end": 12620,
+          "content_fingerprint": "74d2809e6432df15aac2167ace3c878a66f3df2eafd04c97bedbc8c0d153272b"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-84030ef95dc848289c02a5c81ccff4fb",
+          "prop-1461014f20054066aa266d61a245d1b6",
+          "prop-d12d36e4106949ac8be1873a74057a59"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Specify testable conditions for aging and protection privately, then reveal them through small experiments. Risk: excessive testing could crowd intimacy.",
+        "Remove the protection exception from proposed canon and keep consistent forward aging plus ordinary preservation. Risk: restricts future pastry and letter possibilities."
+      ],
+      "uncertainty": "No demonstrated protective technique or completed post-closure observation of the first sleeve exists.",
+      "adaptation_impact": "Each exchange needs before/after state and custody; avoid conflating the two notes."
+    },
+    {
+      "issue_id": "SMA-ISS-009",
+      "category": "causality",
+      "severity": "high",
+      "confidence": 0.96,
+      "status": "open",
+      "description": "Direct warnings shorten the connection; coded clues do less damage but the cafe understands intent. Minute loss does not recover easily, implying unspecified recovery. No supplied scene establishes a baseline cost, threshold, or distinction between ordinary flicker and permanent loss.",
+      "why_it_matters": "The central dilemma needs consequential choices the reader can learn from. Punishment based on unseen intent risks feeling author-controlled.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-9799d281fc174a8aa91853533b94efe6",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 241,
+          "line_end": 241,
+          "byte_start": 9743,
+          "byte_end": 9765,
+          "content_fingerprint": "b3033db2b4c5ce86eb10a9576d45d7ded1d138f197cba478d55db560672aa207"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-1db292e5fb9f45bf941dd8e12d59c606",
+          "source_relative_path": "series-plan.md",
+          "line_start": 56,
+          "line_end": 70,
+          "byte_start": 3181,
+          "byte_end": 3702,
+          "content_fingerprint": "1a1375b5db778effd783bb03dd525d3e00bc3f7ed7ad072477cd7c1cf412afbc"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-2feac2a1d9fd42e6975c1ed120a2e16a"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": [
+          "plot-thread-0289f530f9af462cb23c4cf0ccdb6efd"
+        ]
+      },
+      "alternatives": [
+        "Approve a private rule matrix with triggers, observables, and recovery limits; dramatize the first measurable loss. Risk: makes a poetic mechanism more constrained.",
+        "Retain uncertainty for the characters but establish repeated observable cause/effect for readers. Risk: deliberate ambiguity must still avoid arbitrary exceptions."
+      ],
+      "uncertainty": "Chapter 1 still reaches 12:07. Its flickers and painful touch are not evidence of a shortened first meeting.",
+      "adaptation_impact": "Clock inserts must distinguish elapsed time from lost capacity."
+    },
+    {
+      "issue_id": "SMA-ISS-010",
+      "category": "timeline",
+      "severity": "high",
+      "confidence": 0.99,
+      "status": "open",
+      "description": "Tomas gives October 17, 1986, and Daniel gives only 2026. The opening says 11:41 PM but does not establish Daniel's calendar date. Notes describe both nightly recurrence and two specific nights; the fire's exact date and how successive meetings advance each era are unavailable.",
+      "why_it_matters": "The number of nights before the fire governs rescue urgency, chapter pacing, and whether a long serial can fit the story's clock.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-7eabb1ef43df4d50b0662bf7b9d85ab3",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 29,
+          "line_end": 29,
+          "byte_start": 2246,
+          "byte_end": 2489,
+          "content_fingerprint": "79272ed595d5b418a26898d59429d27d576db1e8fc6c599a129663e8e327a9ce"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-4a59e04f57ae454cb2c6ba802a261d5a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 167,
+          "line_end": 167,
+          "byte_start": 7550,
+          "byte_end": 7681,
+          "content_fingerprint": "4a3099a01992084aea19eb2b3ae7eec8f4dcb71376116a73d89533f3a42511b7"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-0ae3d111405142f8bdd6b5180e4c6fac",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 173,
+          "line_end": 173,
+          "byte_start": 7895,
+          "byte_end": 7925,
+          "content_fingerprint": "67b0b4e0a025da9c73c4153639f6a943d11644bcd2a4135fd171afee086997a2"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-c9eefe2e08ef4256a97c21345e869c3c",
+          "source_relative_path": "README.md",
+          "line_start": 22,
+          "line_end": 22,
+          "byte_start": 2035,
+          "byte_end": 2352,
+          "content_fingerprint": "3413cb494e1d33f9ad25e6c49ea5547cdb459b97757f91e6235cf7235864db75"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [
+          "location-ec00909b6a1244d0ae35b1f2881055a5"
+        ],
+        "prop_ids": [],
+        "timeline_event_ids": [
+          "timeline-event-68f360f43d8a47ebb62965eff6732e6e",
+          "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+        ],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Choose paired advancing dates and a defined private fire deadline. Risk: imposes a finite timeline and constrains expansion.",
+        "Use deliberately repeated or nonconsecutive past nights, with a consistent mapping rule. Risk: substantially increases reader load and reconstruction scope."
+      ],
+      "uncertainty": "Do not assume October 17, 2026, an October 17 fire, or equal date advancement. A year offset alone does not establish exact elapsed days.",
+      "adaptation_impact": "Every future page needs explicit era/date state where chronology matters."
+    },
+    {
+      "issue_id": "SMA-ISS-011",
+      "category": "character_knowledge",
+      "severity": "medium",
+      "confidence": 0.95,
+      "status": "open",
+      "description": "Before Tomas states the year, the close Daniel narration says the kitchen lived in 1986 and that he knew it before proof. His archives are from 1986, but the visible cafe details do not uniquely establish that year.",
+      "why_it_matters": "A protagonist defined by evidence loses some credibility when precise knowledge arrives as certainty without a marked intuition.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-96fe1374a74447fdbfcf5f4130141f39",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 133,
+          "line_end": 133,
+          "byte_start": 6633,
+          "byte_end": 6948,
+          "content_fingerprint": "220fd4942f7cc09a8de16560869517ca18964dc2dd31d4305a28e7e6250c8291"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-4a59e04f57ae454cb2c6ba802a261d5a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 167,
+          "line_end": 167,
+          "byte_start": 7550,
+          "byte_end": 7681,
+          "content_fingerprint": "4a3099a01992084aea19eb2b3ae7eec8f4dcb71376116a73d89533f3a42511b7"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Frame 1986 as a hypothesis tied to the archive, then let Tomas verify it. Risk: slightly softens the lyrical certainty.",
+        "Keep the intuition as a deliberate supernatural symptom with later accountable payoff. Risk: adds a new ability or mystery requiring approval."
+      ],
+      "uncertainty": "This may be expressive narration rather than literal knowledge; revise only if the intended viewpoint is strict close third.",
+      "adaptation_impact": "Use an inference caption only if needed; avoid presenting guessed dates as proven visual labels."
+    },
+    {
+      "issue_id": "SMA-ISS-012",
+      "category": "causality",
+      "severity": "medium",
+      "confidence": 0.9,
+      "status": "open",
+      "description": "Daniel singles out the white suit from a list that also includes a failed signal. The opening evidence contains no stated white-suit connection, and Page 11 labels the broker as a suspect or important clue.",
+      "why_it_matters": "A fair investigation benefits from a reason for choosing one lead; otherwise the narrative appears to identify the antagonist for Daniel.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 375,
+          "line_end": 375,
+          "byte_start": 13910,
+          "byte_end": 14238,
+          "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-94d295c33da3497b95dfb8f6684e50ee",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 379,
+          "line_end": 379,
+          "byte_start": 14265,
+          "byte_end": 14279,
+          "content_fingerprint": "09772a17160a3324fe0e68d7522673d343d961e4c845d6a72244085aa3b66895"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+          "chapter_id": "chapter-be9b78e16d59455b88e4efc084d6fe38",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f139bfa0f995484b9c3ad78105d2e6a8",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+          "line_start": 38,
+          "line_end": 41,
+          "byte_start": 1915,
+          "byte_end": 2062,
+          "content_fingerprint": "8e76efe0b06e927431a8f17005a700b093f68352f0a02184899ba67ba0f35f53"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+          "chapter_id": "chapter-be9b78e16d59455b88e4efc084d6fe38",
+          "scene_id": null,
+          "source_unit_id": "source-unit-0fcc9b562d104ede81866874cfe563b1",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+          "line_start": 50,
+          "line_end": 51,
+          "byte_start": 2235,
+          "byte_end": 2383,
+          "content_fingerprint": "6482f175fcf541621ca36582235ae03221aa9f9bbc0b9626e4414ffbca0bfb21"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-28e7610c7be1473aa1d5fb041293cf19"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Supply a small existing-record connection before Daniel focuses on the suit. Risk: extra opening information may telegraph the suspect.",
+        "Let Daniel ask neutrally about both the broker and signal, with suspicion emerging from later corroboration. Risk: slightly longer exchange."
+      ],
+      "uncertainty": "A conservator can follow a hunch; this is a motivation-strengthening opportunity, not proof of impossible knowledge.",
+      "adaptation_impact": "Avoid villain framing that resolves the mystery before evidence does."
+    },
+    {
+      "issue_id": "SMA-ISS-013",
+      "category": "character_knowledge",
+      "severity": "high",
+      "confidence": 0.98,
+      "status": "open",
+      "description": "Page 14 says Daniel found a warning the official archive did not contain and depicts the moment as a murder mystery. The opening archive already places the fire in the service corridor. The new fact is the scratched warning's form, apparent age, and proximity to TOMAS, not a new corridor location or confirmed murder.",
+      "why_it_matters": "The ending should escalate the right question without granting Daniel knowledge of Tomas's death or targeted arson before he has it.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+          "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 23,
+          "line_end": 23,
+          "byte_start": 1829,
+          "byte_end": 2180,
+          "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-c6a7150ac9fc488e9cad4e9e0e6d5390",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 469,
+          "line_end": 469,
+          "byte_start": 16529,
+          "byte_end": 16566,
+          "content_fingerprint": "c8b80c049630b1422f6050c48ab74e1703793ce4fa896b210e48ccbd8832a9cc"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-159c2e3544504167af5dd49141063d96",
+          "chapter_id": "chapter-f6b1069d45434ed991e4397f8b3d5ef8",
+          "scene_id": null,
+          "source_unit_id": "source-unit-8dafc6b074474224ae40f2216cc018a3",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+          "line_start": 39,
+          "line_end": 42,
+          "byte_start": 1754,
+          "byte_end": 1994,
+          "content_fingerprint": "df799adddfe0b40a8b9581f34fe6f2bdc9160d6b4caf8bc6b4e119fdb3088581"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-159c2e3544504167af5dd49141063d96",
+          "chapter_id": "chapter-f6b1069d45434ed991e4397f8b3d5ef8",
+          "scene_id": null,
+          "source_unit_id": "source-unit-62fbfeef126c40af85cd77cdb65622ed",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+          "line_start": 44,
+          "line_end": 45,
+          "byte_start": 1995,
+          "byte_end": 2177,
+          "content_fingerprint": "c9625c3d3c35e33fad75fa90ba128ca14684ce0ccfae089314af3122f64827f2"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6f5031c922c4452aa2067c70e55cc052",
+          "source_relative_path": "README.md",
+          "line_start": 55,
+          "line_end": 69,
+          "byte_start": 5785,
+          "byte_end": 6306,
+          "content_fingerprint": "1a1375b5db778effd783bb03dd525d3e00bc3f7ed7ad072477cd7c1cf412afbc"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [
+          "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+        ],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Clarify that the warning makes the known fire personal and suspicious; save proof of death and intent for later evidence. Risk: less overt murder language.",
+        "Add a precise discrepancy between the archive and the scratch in a future revision. Risk: introduces a new clue that must be approved and tracked."
+      ],
+      "uncertainty": "The literal scratched imperative is new; the location is not. Death and arson remain planned revelations, not proved Chapter 1 facts.",
+      "adaptation_impact": "Caption, expression direction, and later reveal order must agree."
+    },
+    {
+      "issue_id": "SMA-ISS-014",
+      "category": "character_motivation",
+      "severity": "medium",
+      "confidence": 0.86,
+      "status": "open",
+      "description": "Daniel has permits and an archive assignment, but his choice to inspect the damaged station alone at 11:41 PM has no concrete deadline, access constraint, or immediate objective beyond inventory.",
+      "why_it_matters": "One purposeful reason would make the opening encounter feel caused by his choices rather than a convenient appointment with the premise.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+          "source_unit_id": "source-unit-dbb9308fb67a48f58755bcce1a647b1d",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 19,
+          "line_end": 19,
+          "byte_start": 1321,
+          "byte_end": 1788,
+          "content_fingerprint": "65225d87f965f7bd917eb535010b2e06284d6b8a971dd00624e7e8e550c57a9f"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-7eabb1ef43df4d50b0662bf7b9d85ab3",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 29,
+          "line_end": 29,
+          "byte_start": 2246,
+          "byte_end": 2489,
+          "content_fingerprint": "79272ed595d5b418a26898d59429d27d576db1e8fc6c599a129663e8e327a9ce"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ed49527c3aab42ce86ca2a2ea8377e76",
+          "chapter_id": "chapter-ea686c6e28a240eda97dcf240e6dcdb4",
+          "scene_id": null,
+          "source_unit_id": "source-unit-890f3d3dbe4e4d17b9be981bbe55b47a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+          "line_start": 25,
+          "line_end": 28,
+          "byte_start": 1607,
+          "byte_end": 1858,
+          "content_fingerprint": "28f5adccf81cb96df16631e8596d1cd5fe1f79b29e5f2be3fef554216dc4ee61"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047"
+        ],
+        "location_ids": [
+          "location-e3d6a8be72a14872bb4be3930a5ac297"
+        ],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Establish a time-limited access or evidence-preservation reason. Risk: invented operational detail needs approval.",
+        "Make his deliberate after-hours return an emotionally meaningful rule break with later consequences. Risk: changes his professional characterization."
+      ],
+      "uncertainty": "No real-world workplace rule has been researched; this is narrative motivation, not a safety or professional-practice verdict.",
+      "adaptation_impact": "A short visual objective may replace additional exposition."
+    },
+    {
+      "issue_id": "SMA-ISS-015",
+      "category": "character_arc",
+      "severity": "medium",
+      "confidence": 0.9,
+      "status": "open",
+      "description": "Tomas acts in Chapter 1: he offers bread, asks for a return object, and agrees to meet again. The reference emphasizes his warmth, concealed loneliness, and status as a target, but gives no concrete personal goal that can conflict with Daniel's rescue plan.",
+      "why_it_matters": "A long romance needs Tomas to make consequential choices beyond being loved, endangered, or saved.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-f0597e48a8be47c3a974a10d566c25ed",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 295,
+          "line_end": 295,
+          "byte_start": 11454,
+          "byte_end": 11498,
+          "content_fingerprint": "4ebecbb1a037ee41446d78329fdf5926d3cc84da93e8904f4d268c1dc0a77a44"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+          "source_relative_path": "characters.md",
+          "line_start": 40,
+          "line_end": 48,
+          "byte_start": 4989,
+          "byte_end": 7107,
+          "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-9141d784709e4c64b0abf146cf304a7a",
+          "source_relative_path": "characters.md",
+          "line_start": 83,
+          "line_end": 90,
+          "byte_start": 9808,
+          "byte_end": 10816,
+          "content_fingerprint": "4740eefec06be5ab82642586a073f1c5f5926fe347cf90c9f83326b6f877a2bb"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-144f49412c82492490b20c90016aa5ed",
+          "source_relative_path": "characters.md",
+          "line_start": 104,
+          "line_end": 109,
+          "byte_start": 11574,
+          "byte_end": 12499,
+          "content_fingerprint": "24b35028dc213e584646a4a559187a08e08963465579322faa9640de6548e454"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-a096cba8416847d4947a94012733a09b",
+          "character-3f6621b20e6e4c0da53cb42678b5c277"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Develop an independent obligation or goal from the cafe and notebook material, allowing Tomas to reject a rescue method. Risk: adds plot work and must be approved.",
+        "Keep the scope intimate and build his arc through choices about trust, disclosure, and Lilia. Risk: may not support the proposed 105 chapters."
+      ],
+      "uncertainty": "One opening chapter need not complete his arc; the gap concerns architecture for continuation, not absence of all agency.",
+      "adaptation_impact": "Give Tomas observable decisions and work outside Daniel's gaze in later approved scripts."
+    },
+    {
+      "issue_id": "SMA-ISS-016",
+      "category": "character_arc",
+      "severity": "medium",
+      "confidence": 0.91,
+      "status": "open",
+      "description": "Daniel trusts paper more than people, presents I am real, and fears losing the encounter. Notes prescribe adults carrying grief but supply no event explaining his isolation or a particular bereavement.",
+      "why_it_matters": "Reconstruction could accidentally invent trauma or reduce his growth to receiving romance. His conflict between preserving evidence and accepting a living person's agency is already stronger material.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+          "source_unit_id": "source-unit-3392356bfe1d40a1b1b44ed2fd61fc05",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 11,
+          "line_end": 11,
+          "byte_start": 849,
+          "byte_end": 896,
+          "content_fingerprint": "7d20d24509526a378e0890c24bbb124e93560d8bada0344bea480559fb3a9d1b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-94c332b10eb844fa997807816f048e4a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 333,
+          "line_end": 333,
+          "byte_start": 12440,
+          "byte_end": 12535,
+          "content_fingerprint": "7694be3f56e4ead8c40bbf0dc3ba713379e751882a609d3b44c4ce79c47e4631"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b1183dd2a0d84313bb026002ba5fe572",
+          "source_relative_path": "characters.md",
+          "line_start": 28,
+          "line_end": 36,
+          "byte_start": 2926,
+          "byte_end": 4970,
+          "content_fingerprint": "04a43b43e24e22fae8a17938dd95730eeeca7d2050c4009db34e6571fbd2961a"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-d08690c6fb8d4de29f2810f3fead91b7",
+          "source_relative_path": "README.md",
+          "line_start": 18,
+          "line_end": 18,
+          "byte_start": 1424,
+          "byte_end": 1780,
+          "content_fingerprint": "ac46de16f614614501248af32ec6984492834950b48de19fabd4d630c110c6c5"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Build his need around relinquishing control and treating Tomas as a partner; leave personal history understated. Risk: interior change requires precise behavioral beats.",
+        "Approve a specific grief history and connect it sparingly to present choices. Risk: risks formulaic backstory and extra exposition."
+      ],
+      "uncertainty": "Distrust, loneliness, fear of impermanence, and need for connection are interpretations; no deceased lover or family trauma is canon.",
+      "adaptation_impact": "Preserve the note and hand acting; do not replace them with explanatory flashbacks by default."
+    },
+    {
+      "issue_id": "SMA-ISS-017",
+      "category": "character_motivation",
+      "severity": "medium",
+      "confidence": 0.94,
+      "status": "open",
+      "description": "Maribel will notice changing records, Lilia may hide an object, Benjamin leaves conflicting testimony, Ernesto misremembers, and Arturo may have arranged arson. The notes do not yet connect their specific knowledge, choices, incentives, and costs.",
+      "why_it_matters": "A conspiracy sustained by several witnesses needs distinct reasons for silence and action, rather than successive information dispensers.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-ef0c08b70b944fdab7c05c64f096f99a",
+          "source_relative_path": "characters.md",
+          "line_start": 52,
+          "line_end": 59,
+          "byte_start": 7128,
+          "byte_end": 8169,
+          "content_fingerprint": "f9a30e62439300935993eb3753dd34fe9056482c1fe736412d16a078a40967f5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+          "source_relative_path": "characters.md",
+          "line_start": 63,
+          "line_end": 69,
+          "byte_start": 8187,
+          "byte_end": 9049,
+          "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-8c6f6f47006d4208b403c2bdf6482ed3",
+          "source_relative_path": "characters.md",
+          "line_start": 73,
+          "line_end": 79,
+          "byte_start": 9071,
+          "byte_end": 9787,
+          "content_fingerprint": "456437196908bc70bfb1bf20a93ebc7bfc7d88adb76aa8e3f1f865dc2979a660"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-3be3fd6c4a524ede888f14bfa365026c",
+          "source_relative_path": "characters.md",
+          "line_start": 94,
+          "line_end": 100,
+          "byte_start": 10837,
+          "byte_end": 11545,
+          "content_fingerprint": "7ac31d86b8ec6afe1705e8921f271d1cf45f69c1bfb69bd7e6c9b1b5e5f73b33"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-9141d784709e4c64b0abf146cf304a7a",
+          "source_relative_path": "characters.md",
+          "line_start": 83,
+          "line_end": 90,
+          "byte_start": 9808,
+          "byte_end": 10816,
+          "content_fingerprint": "4740eefec06be5ab82642586a073f1c5f5926fe347cf90c9f83326b6f877a2bb"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-eac21dd0fae140d0b5fc6cd85bbbac0c",
+          "character-3f6621b20e6e4c0da53cb42678b5c277",
+          "character-457a700f0c6c478fb525eb3fb81f30a3",
+          "character-073f27ce849748799a3a2ed06dabc898",
+          "character-28e7610c7be1473aa1d5fb041293cf19"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Build a knowledge-and-cost matrix before outlining later investigations. Risk: requires consequential secrets to be decided.",
+        "Use only the witnesses needed for a focused first arc and defer expansion. Risk: reduces the breadth implied by the long-series plan."
+      ],
+      "uncertainty": "Only Maribel in narrated background, Lilia's voice, and Arturo by report occur in the supplied chapter; later execution cannot be judged.",
+      "adaptation_impact": "Future dialogue and flashback ownership depend on who actually witnessed each fact."
+    },
+    {
+      "issue_id": "SMA-ISS-018",
+      "category": "setup_payoff",
+      "severity": "high",
+      "confidence": 0.94,
+      "status": "open",
+      "description": "Chapter 1 already ages a pastry and shows falsified-looking records. Chapter 5 is titled The Pastry That Aged Forty Years; Arc 2 again promises evidence of falsified fire records. Arc 1 includes The Man Who Bought The Station Fire and a burning-twice climax, while Arc 3 revisits the man behind the fire and Arc 6 the repeating year.",
+      "why_it_matters": "Repeated discoveries can reset progress unless later versions change a meaningful state or reinterpret earlier evidence.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-2d8f06e1bdef4346aab4238dd62b53b5",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 275,
+          "line_end": 275,
+          "byte_start": 11047,
+          "byte_end": 11107,
+          "content_fingerprint": "e14a520a8413a0c6085e499dded682c9668fd599bcb818ed21bdedbca9b78ae5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+          "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 23,
+          "line_end": 23,
+          "byte_start": 1829,
+          "byte_end": 2180,
+          "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-1db292e5fb9f45bf941dd8e12d59c606",
+          "source_relative_path": "series-plan.md",
+          "line_start": 56,
+          "line_end": 70,
+          "byte_start": 3181,
+          "byte_end": 3702,
+          "content_fingerprint": "1a1375b5db778effd783bb03dd525d3e00bc3f7ed7ad072477cd7c1cf412afbc"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-d12d36e4106949ac8be1873a74057a59"
+        ],
+        "timeline_event_ids": [
+          "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+        ],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Assign each planned return a distinct state change, such as proving custody or overturning a prior inference. Risk: requires a rigorous revelation ladder.",
+        "Compress or combine redundant planned beats while retaining their best imagery. Risk: alters the preferred chapter count and needs approval."
+      ],
+      "uncertainty": "Titles are not scenes; repetition is a planning risk, not proof that unwritten chapters contain filler.",
+      "adaptation_impact": "Later visual echoes should communicate a new consequence, not merely repeat the same transformation."
+    },
+    {
+      "issue_id": "SMA-ISS-019",
+      "category": "pacing",
+      "severity": "high",
+      "confidence": 0.99,
+      "status": "open",
+      "description": "The series plan recommends seven equal fifteen-chapter arcs and possible expansion to 150 chapters. The available story is one drafted chapter; no scene-level long-series architecture, production capacity, reader feedback, or release calendar is supplied.",
+      "why_it_matters": "A numeric target can force delay in the central rescue question and create an unsustainable commitment before the story has earned the length.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f30646eb347344a3a21c4ad70a854cac",
+          "source_relative_path": "series-plan.md",
+          "line_start": 11,
+          "line_end": 14,
+          "byte_start": 373,
+          "byte_end": 556,
+          "content_fingerprint": "5710c7044947cfd50cc69dbcb349b722b26f2bb80a8b69bd8fea85a80dd197f3"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f30646eb347344a3a21c4ad70a854cac",
+          "source_relative_path": "series-plan.md",
+          "line_start": 11,
+          "line_end": 14,
+          "byte_start": 373,
+          "byte_end": 556,
+          "content_fingerprint": "5710c7044947cfd50cc69dbcb349b722b26f2bb80a8b69bd8fea85a80dd197f3"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-fd5e2f3e462c488695531adfb06d281a",
+          "source_relative_path": "series-plan.md",
+          "line_start": 32,
+          "line_end": 32,
+          "byte_start": 2172,
+          "byte_end": 2318,
+          "content_fingerprint": "e02a5ec4eccadc5a55af0f1ef35321ffab2198b51fc37e4914e98eaaedd7d48f"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-fd4b381915aa4900b50bcbce3816d6c8",
+          "source_relative_path": "series-plan.md",
+          "line_start": 72,
+          "line_end": 72,
+          "byte_start": 3703,
+          "byte_end": 3773,
+          "content_fingerprint": "ddd1db9929c3f9565086a8222d664c528ef2e38280f1675173b6f308fbc4853b"
+        }
+      ],
+      "affected_chapter_ids": [],
+      "affected_scene_ids": [],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": [
+          "plot-thread-0289f530f9af462cb23c4cf0ccdb6efd"
+        ]
+      },
+      "alternatives": [
+        "Treat Arc 1 as a provisional season envelope and validate a small opening sequence before committing beyond it. Risk: changes expectations about the 105-chapter target.",
+        "Retain 105 as an aspiration but require each arc to justify new conflict, relationship development, and capacity. Risk: substantial planning burden before release."
+      ],
+      "uncertainty": "No market demand, paid schedule, or author capacity has been validated. No claim that a shorter series sells better is made.",
+      "adaptation_impact": "Page count and release frequency remain provisional until production timing and reader checks exist."
+    },
+    {
+      "issue_id": "SMA-ISS-020",
+      "category": "world_rule_continuity",
+      "severity": "medium",
+      "confidence": 0.91,
+      "status": "open",
+      "description": "The premise calls the cafe a fragile connection between two specific nights. Arc 4 proposes other seven-minute crossings at abandoned railway sites without a rationale that connects them to Daniel and Tomas's choices.",
+      "why_it_matters": "Expansion can replace a singular romance mystery with repeatable location cases and weaken the intimacy that differentiates the premise.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-c9eefe2e08ef4256a97c21345e869c3c",
+          "source_relative_path": "README.md",
+          "line_start": 22,
+          "line_end": 22,
+          "byte_start": 2035,
+          "byte_end": 2352,
+          "content_fingerprint": "3413cb494e1d33f9ad25e6c49ea5547cdb459b97757f91e6235cf7235864db75"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-65ed5ecd8c9341f49ce8eb1b1dd12d83",
+          "source_relative_path": "series-plan.md",
+          "line_start": 36,
+          "line_end": 39,
+          "byte_start": 2342,
+          "byte_end": 2681,
+          "content_fingerprint": "047f2db11b482721c0a215e5b16c9b7a53c0dab18f8f52a38ba90e1f6079681b"
+        }
+      ],
+      "affected_chapter_ids": [],
+      "affected_scene_ids": [],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [
+          "location-ec00909b6a1244d0ae35b1f2881055a5"
+        ],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Make any other crossing directly test or threaten an established rule of Daniel and Tomas's connection. Risk: requires broader mythology and careful restraint.",
+        "Defer or remove the multi-cafe expansion from the preferred reconstruction option. Risk: narrows the planned world and total length."
+      ],
+      "uncertainty": "Plural crossings are not inherently contradictory; their relevance and mechanism are simply unbuilt.",
+      "adaptation_impact": "Do not commission new location references before the expansion decision."
+    },
+    {
+      "issue_id": "SMA-ISS-021",
+      "category": "relationship_continuity",
+      "severity": "medium",
+      "confidence": 0.92,
+      "status": "open",
+      "description": "Arc 5 has Tomas no longer remember Daniel clearly, Arc 6 repeats fragments of 1986, and the final arc again asks which future can survive. Without persistent changes, these devices may repeatedly undo earned intimacy.",
+      "why_it_matters": "Readers investing in small trust-building acts need those acts to matter even when memory becomes unreliable.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+          "source_relative_path": "README.md",
+          "line_start": 40,
+          "line_end": 51,
+          "byte_start": 4163,
+          "byte_end": 5740,
+          "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+        }
+      ],
+      "affected_chapter_ids": [],
+      "affected_scene_ids": [],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b"
+        ],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-1461014f20054066aa266d61a245d1b6"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Define which consequences and choices survive each alteration; protect Tomas's agency in re-consent. Risk: requires a demanding continuity ledger.",
+        "Use one decisive memory rupture near the climax rather than repeated resets. Risk: changes the seven-arc architecture."
+      ],
+      "uncertainty": "No completed reset scene exists; this is a preemptive test for the outline, not a diagnosed reader response.",
+      "adaptation_impact": "Visual motifs can preserve recognition, but must not replace freely made relationship choices."
+    },
+    {
+      "issue_id": "SMA-ISS-022",
+      "category": "manga_adaptation_risk",
+      "severity": "high",
+      "confidence": 1,
+      "status": "open",
+      "description": "Existing prompts request whole pages with gutters, dialogue, captions, and SFX inside generated images. The current request requires structured versioned jobs, panel artwork without lettering or borders, and separate approved downstream composition.",
+      "why_it_matters": "Using these legacy prompts as ready jobs would bypass the user's approval and reference requirements and embed text that should be independently editable.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+          "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6d6d0dba516648269858f5b36244eec1",
+          "source_relative_path": "Comics/style-guide.md",
+          "line_start": 48,
+          "line_end": 48,
+          "byte_start": 4699,
+          "byte_end": 4982,
+          "content_fingerprint": "077f5a33edd6b294aebd5900a26362fba9d4ae77b105736a61f2e18fd7020644"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+          "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+          "scene_id": null,
+          "source_unit_id": "source-unit-3c7f309a04e54097aa6a0b0e71a25560",
+          "source_relative_path": "Comics/README.md",
+          "line_start": 67,
+          "line_end": 84,
+          "byte_start": 2967,
+          "byte_end": 5243,
+          "content_fingerprint": "7773f555b893c45cf5a4f42bfd3d6bc47258ac62563f45b0af7f468393fc332d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-04a6eb99011845ae85207fed5e9072ca",
+          "chapter_id": "chapter-4fee9065f4364b259eab5bedb125245c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-045985d3675748a19b198d373c8bd9c1",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+          "line_start": 21,
+          "line_end": 22,
+          "byte_start": 1923,
+          "byte_end": 2077,
+          "content_fingerprint": "8295409151fbf91704c68494df22d19a00e0d2be07ba779bbf1b83aa5e28d535"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "After story/storyboard approval, translate scripts into panel jobs plus separate lettering and composition data. Risk: more preproduction work, but supports traceable changes.",
+        "Retain legacy prompts as historical notes and rebuild the approved storyboard from prose. Risk: may discard useful existing layout effort."
+      ],
+      "uncertainty": "This is a conflict with the new requested workflow, not evidence that artwork has been generated or that old prompts were once approved.",
+      "adaptation_impact": "No legacy prompt is released as a production job in this audit."
+    },
+    {
+      "issue_id": "SMA-ISS-023",
+      "category": "manga_adaptation_risk",
+      "severity": "high",
+      "confidence": 1,
+      "status": "open",
+      "description": "Page 1 allows the prompt itself to be a primary visual lock when no images exist. Later pages conditionally attach earlier WebP outputs. No such assets or reference approvals are present in the root.",
+      "why_it_matters": "A prose description or a filename mentioned in a prompt does not establish an approved, consistent visual reference.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-04a6eb99011845ae85207fed5e9072ca",
+          "chapter_id": "chapter-4fee9065f4364b259eab5bedb125245c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-c8b3f5f93e994148b9c37a42523de881",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+          "line_start": 8,
+          "line_end": 10,
+          "byte_start": 448,
+          "byte_end": 871,
+          "content_fingerprint": "08d23ba2a7925f4ad14e17a1a96dc2f5a9481f77705b37d593c915a0b66dbc08"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ed49527c3aab42ce86ca2a2ea8377e76",
+          "chapter_id": "chapter-ea686c6e28a240eda97dcf240e6dcdb4",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f5e529c130604b9791425c0f95b9024b",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+          "line_start": 3,
+          "line_end": 3,
+          "byte_start": 33,
+          "byte_end": 292,
+          "content_fingerprint": "6d4330bcb3e0da4f7312c13c581cbaac285d26362c2483edb902d3411c40f6fb"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-8dde1d618f4841fd8184a34ad897766b",
+          "chapter_id": "chapter-359c45878c7445ce961c718f5044f402",
+          "scene_id": null,
+          "source_unit_id": "source-unit-743fde63b031408a9204415a5c1851b0",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+          "line_start": 11,
+          "line_end": 12,
+          "byte_start": 724,
+          "byte_end": 1007,
+          "content_fingerprint": "fe910467faeda080d0703cb01a38aa9981a8d5bc7b2371ff12753010e89cde52"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+          "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+          "scene_id": null,
+          "source_unit_id": "source-unit-d77a72566c874802bd931022316e75b7",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+          "line_start": 8,
+          "line_end": 9,
+          "byte_start": 152,
+          "byte_end": 503,
+          "content_fingerprint": "bf48833a2716c7851998b11335cfaa3ec8f0612bf54544bf18b025f9f2fb54d5"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b"
+        ],
+        "location_ids": [
+          "location-ec00909b6a1244d0ae35b1f2881055a5"
+        ],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "At the authorized production stage, create reference jobs first and block dependent jobs until approved hash-locked images are supplied. Risk: adds a reference approval round.",
+        "Prepare only deferred structured job specifications until references exist. Risk: cannot release executable panel handoffs yet."
+      ],
+      "uncertainty": "Conditional legacy filenames are not actual image paths, and text headed Lock does not create a Manga Studio approval.",
+      "adaptation_impact": "Every eventual handoff needs an exact ordered attachment checklist built from real approved assets."
+    },
+    {
+      "issue_id": "SMA-ISS-024",
+      "category": "pacing",
+      "severity": "medium",
+      "confidence": 0.98,
+      "status": "open",
+      "description": "All fourteen page prompts use five or six panels, totaling 75. Page 8 packs painful touch, a moving window, a joke, a pastry crossing, aging, and both reactions into six panels. No explicit reading direction, panel geometry, or dialogue-safe zones is supplied.",
+      "why_it_matters": "The key miracle and emotional turns may have insufficient space, and a numbered script alone does not resolve a composed page's reading path.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+          "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-052743cf2c3d4756ad6122b75f7510ef",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+          "line_start": 17,
+          "line_end": 18,
+          "byte_start": 961,
+          "byte_end": 1088,
+          "content_fingerprint": "6e998232641c6ab52a18ead2e56f3077f3decf2976a5692c6c51398216de1109"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+          "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-ae72db5bee8345dca0691d2674b77391",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+          "line_start": 38,
+          "line_end": 41,
+          "byte_start": 1784,
+          "byte_end": 1969,
+          "content_fingerprint": "c8268a9ecf4b7bbc1500d53177dce18e9c4e03c597e756a76c50d6ebe7acb1b5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+          "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6df398f004304777b8e470c2bb25619e",
+          "source_relative_path": "Comics/style-guide.md",
+          "line_start": 43,
+          "line_end": 43,
+          "byte_start": 4458,
+          "byte_end": 4678,
+          "content_fingerprint": "963ea53c78be964898083723a96f2fc78c87c6770e48cb5085ae0cd33e415f06"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-771c8f996dff4270ab0d8fb9fb19bee2",
+          "chapter_id": "chapter-cf492a067c214d78abe55d62dbc790ae",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f218eccf3399448a912632e91da70b34",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+          "line_start": 47,
+          "line_end": 50,
+          "byte_start": 1705,
+          "byte_end": 1924,
+          "content_fingerprint": "ccb3bb7d1f8159a8edbc08b5e5d7ef0e3d54b99acbf849ca40d87ef55026fc1e"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-ce6d2b5f51db4da0a3de67a809c13925",
+          "prop-d12d36e4106949ac8be1873a74057a59"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Rebalance the same events into a varied event-driven page plan, giving transformations and reactions room. Risk: page count may change.",
+        "Keep fourteen pages provisionally but trim or redistribute dialogue and establish exact reading sequences. Risk: significant compression may flatten banter."
+      ],
+      "uncertainty": "No rendered pages exist, so actual readability, overlap, and artistic quality cannot be scored.",
+      "adaptation_impact": "Future nemu should be geometry-only, with one dominant event per panel and motivated shot changes."
+    },
+    {
+      "issue_id": "SMA-ISS-025",
+      "category": "dialogue_voice",
+      "severity": "medium",
+      "confidence": 0.96,
+      "status": "open",
+      "description": "Page 6 jumps from Museum conservator to Possessed and then the year without the prose's year question and defensive exchange. Page 7 begins Your side without its original prompting line. Page 11 omits the failed southbound signal while isolating the broker.",
+      "why_it_matters": "Compression can preserve quoted lines while losing conversational logic and narrowing a mystery's evidence unfairly.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-20310901061c4d7bbed8f596485c1435",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 141,
+          "line_end": 141,
+          "byte_start": 7162,
+          "byte_end": 7195,
+          "content_fingerprint": "6f3d631d3e3044b8e29470fdf1da8c35d070f4fbecd6f0f93dbd57af6bbfc9ae"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+          "chapter_id": "chapter-3205239085d14924b01a8df5b03de81f",
+          "scene_id": null,
+          "source_unit_id": "source-unit-6f8b6b55d3cc49669f1b327417008462",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+          "line_start": 30,
+          "line_end": 35,
+          "byte_start": 1506,
+          "byte_end": 1678,
+          "content_fingerprint": "553c10b48f0015ba0474c226d8edbf77f7e6144c70fb26adbc46a1ff79649e73"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+          "chapter_id": "chapter-3205239085d14924b01a8df5b03de81f",
+          "scene_id": null,
+          "source_unit_id": "source-unit-065ca125d8d84087969c095e88c4ed8a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+          "line_start": 42,
+          "line_end": 45,
+          "byte_start": 1779,
+          "byte_end": 1964,
+          "content_fingerprint": "781352013d01f0ccfb567d474a782bbb79c7ab3cc29a7d897be7a4d408e9ad7c"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+          "chapter_id": "chapter-f437f0ea4c4a45e08097ca3570879491",
+          "scene_id": null,
+          "source_unit_id": "source-unit-43423d7eeb1e4b74a3edc69c2d8b1a87",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+          "line_start": 23,
+          "line_end": 26,
+          "byte_start": 1271,
+          "byte_end": 1507,
+          "content_fingerprint": "0b244a6668cc7632b0939c03aeace3c223c32d11bc56a9e426d12c652998a66c"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 375,
+          "line_end": 375,
+          "byte_start": 13910,
+          "byte_end": 14238,
+          "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+          "chapter_id": "chapter-be9b78e16d59455b88e4efc084d6fe38",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5c03bda7ca2c48489c8d89e22e416c8c",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+          "line_start": 33,
+          "line_end": 36,
+          "byte_start": 1658,
+          "byte_end": 1914,
+          "content_fingerprint": "529332ff3a30369e45c3e819e38dafa716e85e8b144bd96dc1bf4c841a739318"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b",
+          "character-28e7610c7be1473aa1d5fb041293cf19"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Restore only the short connective lines and signal clue needed for causality. Risk: lettering requires space checks.",
+        "Rewrite approved dialogue for the compressed page structure while retaining distinct voices. Risk: literal favorite lines may need to move or change."
+      ],
+      "uncertainty": "Some abruptness could read as nervous humor; test the complete lettered sequence after storyboard approval.",
+      "adaptation_impact": "Do not restore every prose line indiscriminately; protect cause, response, and voice."
+    },
+    {
+      "issue_id": "SMA-ISS-026",
+      "category": "prop_continuity",
+      "severity": "medium",
+      "confidence": 0.98,
+      "status": "open",
+      "description": "The cafe clock is above the door in prose and Page 4 but above the menu board in characters.md; a separate station clock exists. The prose drops the flashlight at 12:04, but Page 10 omits that beat and Page 13 places it on the floor. Tomas's reference specifies a short-sleeved shirt while prose repeatedly describes sleeves rolled to the elbows.",
+      "why_it_matters": "Small physical inconsistencies become repeated visual errors when prompts are used as independent production instructions.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-c4d78a6b615d4de1a6019aa0aaf3e91b",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 71,
+          "line_end": 71,
+          "byte_start": 4603,
+          "byte_end": 4744,
+          "content_fingerprint": "9badb29fa9f616b1ee1415381e9a6ca79b3518edea0be26e357451d7f34ea43d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+          "source_relative_path": "characters.md",
+          "line_start": 113,
+          "line_end": 122,
+          "byte_start": 12532,
+          "byte_end": 14691,
+          "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-aa1c7fdc85ce443aa57f677c554d200f",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 343,
+          "line_end": 343,
+          "byte_start": 12696,
+          "byte_end": 12808,
+          "content_fingerprint": "7f55e912c34726bcf715ecf4104ae78e24b5eb6d40255db61a11168b0e3c1d45"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+          "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+          "scene_id": null,
+          "source_unit_id": "source-unit-513c2e9096e34fd4be066cc51342ab6b",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+          "line_start": 28,
+          "line_end": 31,
+          "byte_start": 1208,
+          "byte_end": 1389,
+          "content_fingerprint": "c09df4d050a9f8666c56ac54798b98eb4cbaf35110fb176ba010da32001ea04d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+          "source_relative_path": "characters.md",
+          "line_start": 40,
+          "line_end": 48,
+          "byte_start": 4989,
+          "byte_end": 7107,
+          "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-fb0ddbd964bf421b928b59d42406d895",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 91,
+          "line_end": 91,
+          "byte_start": 5248,
+          "byte_end": 5495,
+          "content_fingerprint": "8452ad030f3f559fd522f44b107c5877a50a6ab8dc7ac1b1b4358eec36d72c9d"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-a096cba8416847d4947a94012733a09b"
+        ],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+          "prop-abfd3210cb6e4133ab15d662bd6aa138",
+          "prop-67b953d0295447f788ff0fb7cf202823"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Approve a prop and costume state sheet and stage needed transitions in revised scripts. Risk: small panel adjustments.",
+        "Choose one consistent depiction for each ambiguity and mark symbolic covers separately from literal scene continuity. Risk: requires explicit decisions rather than treating all descriptions as compatible."
+      ],
+      "uncertainty": "Door and menu board might be colocated, and sleeves might be unusually long; the missing specification is the problem. No rendered error is claimed.",
+      "adaptation_impact": "Reference and panel plans must distinguish clock identities and current prop custody."
+    },
+    {
+      "issue_id": "SMA-ISS-027",
+      "category": "manga_adaptation_risk",
+      "severity": "medium",
+      "confidence": 1,
+      "status": "open",
+      "description": "The scripts include DRIP, KREEEAK, CLICK, FWOOM, CLINK, TICK, ZZT, CLACK, KRRK, WHUMP, FSSHT, and SSHHH, but do not consistently specify source, reader meaning, intensity, language, translation context, and lettering intent. Page 7 places TICK with a coffee-ring image rather than an explicit clock shot.",
+      "why_it_matters": "Unclear sound ownership can make supernatural mechanics resemble electricity or turn paper release into another portal opening.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+          "chapter_id": "chapter-f437f0ea4c4a45e08097ca3570879491",
+          "scene_id": null,
+          "source_unit_id": "source-unit-be91f31d1c8f405ba1c57b6fe58d8d56",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+          "line_start": 28,
+          "line_end": 31,
+          "byte_start": 1508,
+          "byte_end": 1700,
+          "content_fingerprint": "a253ea723c04e90d7186e8160d77100d96c7ec747cda0fee8da0c1aaae37137b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+          "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-a0d3641d00b746b0824cb6370ffa1f85",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+          "line_start": 20,
+          "line_end": 23,
+          "byte_start": 1089,
+          "byte_end": 1272,
+          "content_fingerprint": "24fcf804e0f4cf2262ff23eda139de1ef8bb32b6e8465573c487817c07075464"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+          "chapter_id": "chapter-31e6566ed9e64673835667fab0c2cf80",
+          "scene_id": null,
+          "source_unit_id": "source-unit-998274dcd23f4fac9c6c695880e41639",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+          "line_start": 33,
+          "line_end": 36,
+          "byte_start": 1390,
+          "byte_end": 1548,
+          "content_fingerprint": "78a0e374f84d1bec671a4196dfa4ada0c778a49e0df760862602e9cadb831d57"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-08dfe0d529e748df979663e70fa9bfc6",
+          "chapter_id": "chapter-e607ccdf63134c3a8393a34ce31128d5",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5832d974b8a743f9adc6c79fa5b8ef01",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+          "line_start": 29,
+          "line_end": 32,
+          "byte_start": 1401,
+          "byte_end": 1631,
+          "content_fingerprint": "84c920e7a7c5f757f6744704b5ec4e25b20f04eade3358ee03165562e656ac48"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-159c2e3544504167af5dd49141063d96",
+          "chapter_id": "chapter-f6b1069d45434ed991e4397f8b3d5ef8",
+          "scene_id": null,
+          "source_unit_id": "source-unit-1d23dae938ed4113bb566d02a103677e",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+          "line_start": 30,
+          "line_end": 33,
+          "byte_start": 1471,
+          "byte_end": 1606,
+          "content_fingerprint": "71ffd75257735fab157eea7c28811b2d0c1d7ec3900d4e385e8bbeb601177460"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+          "prop-ce6d2b5f51db4da0a3de67a809c13925"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Map each sound to a physical or deliberately subjective source and separate it from artwork jobs. Risk: a few legacy tokens may need replacement.",
+        "Favor silence for uncertain supernatural beats and retain only literal environment sounds. Risk: may reduce the intended impact of transformation."
+      ],
+      "uncertainty": "English output is requested; Tiya and pan de leche are cultural terms, not untranslated SFX. Their meaning should be conveyed contextually.",
+      "adaptation_impact": "Structured SFX and lettering belong to later approved preproduction, not image generation during this audit."
+    },
+    {
+      "issue_id": "SMA-ISS-028",
+      "category": "exposition",
+      "severity": "low",
+      "confidence": 0.84,
+      "status": "open",
+      "description": "The chapter repeatedly notes Tomas's fallen hair and pairs many emotional or sensory beats with figurative interpretation. This establishes a recognizable voice, but some repetition can slow a seven-minute scene or become redundant when drawn.",
+      "why_it_matters": "Selective trimming could preserve the strongest images and give reactions more room without flattening the author's style.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-137fe2fa314f4e89a676164f90e2ff4a",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 209,
+          "line_end": 209,
+          "byte_start": 8915,
+          "byte_end": 9063,
+          "content_fingerprint": "dd0d03c9df769b0a5b3a59340fd95dad54322ecc6a4a15ef3592463f5568d0f5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-4548ea5e2baa4f2e87525518fee26702",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 329,
+          "line_end": 329,
+          "byte_start": 12225,
+          "byte_end": 12416,
+          "content_fingerprint": "b74aac4c4346b39fd80bbd911e764e2f7fd4c0b85843fd9a7a4000ea7945d5a8"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-2ca9a9cb924e45e98a3cc10163393759",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 357,
+          "line_end": 357,
+          "byte_start": 13202,
+          "byte_end": 13444,
+          "content_fingerprint": "fd4d259b1cf7f39add31e456bffbfc548ea6946fe880cbfdd1f52464163dadf7"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-764a4fbed7804de491e8b6742c714551",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 371,
+          "line_end": 371,
+          "byte_start": 13659,
+          "byte_end": 13762,
+          "content_fingerprint": "1c310005d4ce0f664a40bfbf0e72df494b76c30f380125b76cecaeab2dd54713"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-a096cba8416847d4947a94012733a09b",
+          "character-7aa0419823314e0787fe55c54aa83047"
+        ],
+        "location_ids": [],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Keep repetitions that change emotional meaning and trim only descriptive duplicates in a new version. Risk: over-editing can erase rhythm.",
+        "Preserve prose density but translate recurrent description into silent visual continuity. Risk: adaptation must replace narrator intimacy through acting."
+      ],
+      "uncertainty": "This is taste-sensitive. No supplied reader feedback establishes a pacing failure, and no wholesale style rewrite is recommended.",
+      "adaptation_impact": "Avoid repeated hair-close-up panels unless the gesture marks a state change."
+    },
+    {
+      "issue_id": "SMA-ISS-029",
+      "category": "manga_adaptation_risk",
+      "severity": "medium",
+      "confidence": 0.97,
+      "status": "open",
+      "description": "The text uses Filipino-coded names, Tiya, pan de leche, municipal redevelopment, and 1986, while only Maribel is explicitly described as Filipina-Spanish. No country, city model, period-research dossier, formal rating, platform, or romance ending commitment is supplied.",
+      "why_it_matters": "An adaptation may otherwise invent period conditions, cultural assumptions, rating expectations, or a promised happy ending without author intent or evidence.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b1183dd2a0d84313bb026002ba5fe572",
+          "source_relative_path": "characters.md",
+          "line_start": 28,
+          "line_end": 36,
+          "byte_start": 2926,
+          "byte_end": 4970,
+          "content_fingerprint": "04a43b43e24e22fae8a17938dd95730eeeca7d2050c4009db34e6571fbd2961a"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+          "source_relative_path": "characters.md",
+          "line_start": 40,
+          "line_end": 48,
+          "byte_start": 4989,
+          "byte_end": 7107,
+          "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+          "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+          "scene_id": null,
+          "source_unit_id": "source-unit-ef0c08b70b944fdab7c05c64f096f99a",
+          "source_relative_path": "characters.md",
+          "line_start": 52,
+          "line_end": 59,
+          "byte_start": 7128,
+          "byte_end": 8169,
+          "content_fingerprint": "f9a30e62439300935993eb3753dd34fe9056482c1fe736412d16a078a40967f5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-f62b2bab7db84973a6e2c7672c9a0d2f",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 349,
+          "line_end": 349,
+          "byte_start": 12929,
+          "byte_end": 12992,
+          "content_fingerprint": "2d72822a480f13a13a806ae4fbb4754470e627fef9ac5802c4fce8ebd173bf8b"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 375,
+          "line_end": 375,
+          "byte_start": 13910,
+          "byte_end": 14238,
+          "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+          "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+          "scene_id": null,
+          "source_unit_id": "source-unit-ae6220b497b24b979891e3caa7fad4de",
+          "source_relative_path": "README.md",
+          "line_start": 20,
+          "line_end": 20,
+          "byte_start": 1781,
+          "byte_end": 2034,
+          "content_fingerprint": "eb4bf0ebdb8f27737b32b32fc4f4e3b9e00843197796b4270f8e7c9deab35a5e"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+          "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+          "scene_id": null,
+          "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+          "source_relative_path": "series-plan.md",
+          "line_start": 20,
+          "line_end": 28,
+          "byte_start": 819,
+          "byte_end": 2150,
+          "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047",
+          "character-a096cba8416847d4947a94012733a09b",
+          "character-eac21dd0fae140d0b5fc6cd85bbbac0c"
+        ],
+        "location_ids": [
+          "location-e3d6a8be72a14872bb4be3930a5ac297"
+        ],
+        "prop_ids": [],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Adopt a provisional mature-teen-and-adult suspense framing with non-graphic violence and restrained intimacy, and decide setting/ending boundaries before continuation. Risk: platform categories may differ.",
+        "Approve a specific setting and content brief, then separately authorize targeted historical and reader research. Risk: additional research and possible revision."
+      ],
+      "uncertainty": "BL is not itself a reason for an adult-only rating. No claims about real history, professional conservation accuracy, legal rights, market size, or accidental imitation are verified.",
+      "adaptation_impact": "Treat country, architecture references, uniforms, rating, and marketing promise as decisions; do not fabricate reference images or research."
+    },
+    {
+      "issue_id": "SMA-ISS-030",
+      "category": "setup_payoff",
+      "severity": "medium",
+      "confidence": 0.94,
+      "status": "open",
+      "description": "Daniel photographs the TOMAS scratch before the encounter. Later dust reveals FIRE STARTS IN THE SERVICE CORRIDOR beneath it. The current text does not establish whether the second line was physically obscured, newly changed, or present in the first photograph, and its author is unknown.",
+      "why_it_matters": "The original photograph is a natural test. Ignoring it could make the evidence-focused protagonist passive or allow a later solution to change the clue's origin retroactively.",
+      "evidence": [
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-f4f565dd8a764844a82dc82eb0425589",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 45,
+          "line_end": 45,
+          "byte_start": 3386,
+          "byte_end": 3622,
+          "content_fingerprint": "fd3f58b06a06f7288d48e4a9e43c7f9cce771d2c98a409eadabdb4bb5ae39195"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-5baeaf5c38e0478c9ced56c85a719c75",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 467,
+          "line_end": 467,
+          "byte_start": 16450,
+          "byte_end": 16528,
+          "content_fingerprint": "cb32dc7240483b9d35ddb5702420e09fd006989917cd546c6e67722c3bdb33d5"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+          "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+          "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+          "source_unit_id": "source-unit-c6a7150ac9fc488e9cad4e9e0e6d5390",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+          "line_start": 469,
+          "line_end": 469,
+          "byte_start": 16529,
+          "byte_end": 16566,
+          "content_fingerprint": "c8b80c049630b1422f6050c48ab74e1703793ce4fa896b210e48ccbd8832a9cc"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-c78582d3c1c7412bac0cf7c32158e31e",
+          "chapter_id": "chapter-4e938794cd3b4d868c3453d738fd21b2",
+          "scene_id": null,
+          "source_unit_id": "source-unit-e0006dc29ca94d3195e03a828273f675",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+          "line_start": 30,
+          "line_end": 31,
+          "byte_start": 1428,
+          "byte_end": 1605,
+          "content_fingerprint": "e2275498a5a9b706a8d519f8243f66d11e15c7796b00daf82ed17c0119cf4bb2"
+        },
+        {
+          "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+          "document_id": "doc-159c2e3544504167af5dd49141063d96",
+          "chapter_id": "chapter-f6b1069d45434ed991e4397f8b3d5ef8",
+          "scene_id": null,
+          "source_unit_id": "source-unit-1d23dae938ed4113bb566d02a103677e",
+          "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+          "line_start": 30,
+          "line_end": 33,
+          "byte_start": 1471,
+          "byte_end": 1606,
+          "content_fingerprint": "71ffd75257735fab157eea7c28811b2d0c1d7ec3900d4e385e8bbeb601177460"
+        }
+      ],
+      "affected_chapter_ids": [
+        "chapter-fb585a7fd3e7450e936edbcfce992566"
+      ],
+      "affected_scene_ids": [
+        "scene-3b27382ec9a049e2acde70d7cf88fc10"
+      ],
+      "related_ids": {
+        "character_ids": [
+          "character-7aa0419823314e0787fe55c54aa83047"
+        ],
+        "location_ids": [],
+        "prop_ids": [
+          "prop-3c56d67fe71743d58ecaf605e59e5c46",
+          "prop-0b3caadd963c437787cd95d5af12ca9e"
+        ],
+        "timeline_event_ids": [],
+        "plot_thread_ids": []
+      },
+      "alternatives": [
+        "Use the already-taken photograph as an early comparison and track the result before deciding the scratch's author. Risk: commits a branch of the time-change model.",
+        "Keep the photo inconclusive for a specific physical reason while Daniel tries another comparison. Risk: repeated convenient unreadability would frustrate the investigation."
+      ],
+      "uncertainty": "The scratch's author and date are intentional unknowns, not contradictions. No self-writing loop or future Daniel is inferred as canon.",
+      "adaptation_impact": "Record precisely what the first photograph contains before any later image or dialogue reveals it."
+    }
+  ],
+  "limitations": [
+    "Chapter 2 and claimed reader assets are absent from this root.",
+    "Only one manuscript chapter exists; planned scenes, endings, audience response, and commercial success cannot be evaluated as completed work.",
+    "No approved canon, manuscript, storyboard, reference images, or stage locks are present.",
+    "No online manuscript search, external historical/market/IP research, publication, or artwork operations were performed.",
+    "Two analytical scenes are evidence navigation, not approved story restructuring; supporting document chapter IDs are parser containers.",
+    "Priorities, evidence classes, preserve notes, dependencies, and tradeoffs are retained in the full Markdown companion and versioned issue input because the core issue schema does not have fields for all of them."
+  ]
+}

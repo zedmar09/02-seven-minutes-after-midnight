@@ -1,0 +1,119 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "storyboard_id": "storyboard-chapter-001",
+  "version": "v001",
+  "status": "proposed",
+  "scope": {
+    "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "arc": "Arc 1 - The Fire At San Aurelio Junction",
+    "chapter": "Chapter 001 - The Cafe That Opened For Seven Minutes",
+    "page_count": 36,
+    "later_chapters_included": false
+  },
+  "format": {
+    "reading_direction": "left-to-right",
+    "page_width_px": 1654,
+    "page_height_px": 2339,
+    "color_mode": "black-and-white",
+    "reader_visible_panel_numbers": false
+  },
+  "authority": {
+    "active_canon_relative_path": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+    "active_canon_sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762",
+    "active_manuscript_relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+    "active_manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+    "canon_lock_relative_path": ".manga-studio/locks/CANON_APPROVED-v003.json",
+    "canon_lock_id": "lock-6c62ca565b514e4293790568f544ce00",
+    "story_lock_relative_path": ".manga-studio/locks/STORY_LOCKED-v003.json",
+    "story_lock_id": "lock-cea82d1b33b84c69aec51c5341c998a4",
+    "visual_quality_decision": ".manga-studio/decisions/chapter-001-quality-direction-v002.json"
+  },
+  "scene_ids": [
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "plot_thread_ids": [
+    "plot-thread-d645d53ea5ea43c9bcc6fc4df143ee66",
+    "plot-thread-efdb41d03c0947378868ec9109f260a1",
+    "plot-thread-27af1407c9ec4b3eb380c66d8046aa6b",
+    "plot-thread-8eef4833564b46a9a716f209fed05fc7",
+    "plot-thread-10ff4ca8c15f4b10ac7d49323290d5be",
+    "plot-thread-75d342eed3c647d2a691865ac929d7b6",
+    "plot-thread-277570c805854edfa3de531da64874ad",
+    "plot-thread-fea6cb90d14b4860a80732f1419edbe7",
+    "plot-thread-48f6065b74a74c11981fac5cb8cc46ca",
+    "plot-thread-ca44b781c23640f38479da06e3c9f1b8",
+    "plot-thread-b3f12d57db204e2fa50ad71240a47ebf",
+    "plot-thread-90bd00347cfa4f0cbc12684a84edbcb5",
+    "plot-thread-30f44e10ca9840eeac0ff1e1fd76b4e9"
+  ],
+  "page_plan_paths": [
+    ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-019-027-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-028-036-v001.md"
+  ],
+  "components": [
+    {
+      "role": "chapter-001-storyboard-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.md",
+      "sha256": "7ef6a72d5d229d4447d1a7ddd28a69075f9819bf7f88cb384cab6ecf25e31d0f"
+    },
+    {
+      "role": "chapter-001-pages-001-009-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
+      "sha256": "1ade069441fdf4d03357fa367db7c15f35574755ff97b719d822252761b20003"
+    },
+    {
+      "role": "chapter-001-pages-010-018-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",
+      "sha256": "f0ebe403b660d04a756e42f8b4eccee9209780133040da76ada026e2a4a81d7e"
+    },
+    {
+      "role": "chapter-001-pages-019-027-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-pages-019-027-v001.md",
+      "sha256": "478fbc995da9e7d556387bc84e2cc06a2091a22b1d17218482af0740b5379fa2"
+    },
+    {
+      "role": "chapter-001-pages-028-036-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-pages-028-036-v001.md",
+      "sha256": "337c0d14cdf03463a4941a7dc0e75a78f19a98121d6174c8f70e6f3e71fc26d2"
+    },
+    {
+      "role": "chapter-001-page-turns-v001",
+      "relative_path": ".manga-studio/storyboard/chapter-001-page-turns-v001.md",
+      "sha256": "17606344f7975a8a96268c327264c1d0af66b88680ac248b918f161700b56865"
+    },
+    {
+      "role": "chapter-001-storyboard-v001-review",
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-storyboard-v001-review.md",
+      "sha256": "f60207b440a060bb10e8e6171ada20b6566992dee024cefab04f8bfa5e815d97"
+    },
+    {
+      "role": "chapter-001-storyboard-v001-review",
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-storyboard-v001-review.json",
+      "sha256": "0d8d30bb89c9f740b553ae4343570bf74c39e215d662bf053e446b55206a2bab"
+    }
+  ],
+  "composition_policy": {
+    "panel_count_policy": "situation_driven_no_fixed_total",
+    "controlled_overlap_allowed": true,
+    "dominant_event_per_panel": true,
+    "explicit_reading_sequence_required": true,
+    "panel_geometry_deferred_until_approval": true
+  },
+  "adaptation_changes": {
+    "story_events_added": 0,
+    "story_events_removed": 0,
+    "story_events_rearranged": 0,
+    "reader_facing_facts_changed": 0
+  },
+  "approval_boundary": {
+    "user_approval_required": true,
+    "storyboard_approved": false,
+    "storyboard_locked": false,
+    "panel_direction_authorized": false,
+    "image_generation_authorized": false
+  }
+}

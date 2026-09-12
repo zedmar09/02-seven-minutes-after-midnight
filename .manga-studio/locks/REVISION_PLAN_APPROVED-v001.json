@@ -1,0 +1,24 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-d25689970faf43a7ae1104988e501f84",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "REVISION_PLAN_APPROVED",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-11T10:42:31Z",
+  "actor": "user",
+  "notes": "Activate the existing hash-bound revision-plan approval in the authorized prerequisite sequence.",
+  "prerequisite_gates": [
+    "DIAGNOSTIC_APPROVED"
+  ],
+  "approval_ids": [
+    "approval-8300f092c2fb44d98842a89d829e3fb3"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-reconstruction-v001.json",
+      "sha256": "426e11d146f23f61b98e34f30f7918df51caebc4b3dbe9bf188ac170196dec60"
+    }
+  ],
+  "supersedes_lock_id": null
+}

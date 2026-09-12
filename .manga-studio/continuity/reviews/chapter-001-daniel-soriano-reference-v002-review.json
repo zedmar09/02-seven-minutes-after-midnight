@@ -1,0 +1,48 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-daniel-soriano-reference-v002-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/daniel-soriano-v002/candidate.png",
+  "status": "review_ready",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-001",
+      "message": "The new download is a distinct 1024x1536 PNG with SHA-256 74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d. It contains Daniel Soriano only and is reviewed as the v002 Daniel candidate."
+    },
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-002",
+      "message": "Layout and content pass. The sheet preserves exactly six separated studies in the required two-column, three-row order, with stable adult identity, full crowns, chins, hands and feet, and no borders, labels, story text, plot props, environment, Tomas, or supporting characters."
+    },
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-003",
+      "message": "The v001 scar blocker is resolved. A subtle narrow healed scar now crosses the nose bridge and remains anatomically aligned in the three-quarter, front, and left-profile head studies without becoming an exaggerated action scar."
+    },
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-004",
+      "message": "The v001 finish blocker is resolved. Bust edges now end cleanly, skin remains lightly and consistently treated, and clothing uses flat printed tone, ink contours, and sparse hatching without the former feathered vignette fades or broad soft modeled shading."
+    },
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-005",
+      "message": "Identity and production continuity pass. Close curls, early temple silver, thin rectangular glasses, long narrow adult face, slim medium-tall build, reserved expression, chore jacket, neutral shirt, dark trousers, work shoes, and one-gloved/one-ungloved conservator action remain coherent and usable."
+    },
+    {
+      "severity": "warning",
+      "code": "DANIEL-V002-OUT-006",
+      "message": "The exact executed job was not supplied and the Downloads filename still says daniel-tomas.png. This does not block visual approval, but promotion must use the Daniel-only versioned filename daniel-soriano-reference-v002.png and bind the approved file by SHA-256."
+    },
+    {
+      "severity": "info",
+      "code": "DANIEL-V002-OUT-007",
+      "message": "Approval is recommended but not granted automatically. No image was edited, converted, renamed, or promoted, and all production locks remain unchanged."
+    }
+  ]
+}
+

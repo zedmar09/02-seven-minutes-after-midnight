@@ -1,0 +1,37 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-reference-generation-briefs-v001-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "image_job",
+  "target": "manga/02-references/README.md",
+  "status": "blocked",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "BRIEF-PACKAGE-COMPLETE",
+      "message": "Eight evidence-based reference-generation Markdown briefs are present and indexed."
+    },
+    {
+      "severity": "info",
+      "code": "PANEL-FIRST-PRESERVED",
+      "message": "The package prepares reusable references only and does not replace the selected panel-first workflow with complete-page generation."
+    },
+    {
+      "severity": "warning",
+      "code": "UNAPPROVED-GEOMETRY",
+      "message": "Generated architecture, layout, object design, and effect appearance remain proposals until separately reviewed and approved."
+    },
+    {
+      "severity": "warning",
+      "code": "RELEASE-GATES-BLOCKED",
+      "message": "CANON_APPROVED, STORY_LOCKED, and STORYBOARD_LOCKED are false, image generation is disabled, and named visual dependencies do not yet exist as approved hash-locked files."
+    },
+    {
+      "severity": "info",
+      "code": "NO-ARTWORK-OR-HANDOFF",
+      "message": "This update creates no artwork, schema-valid image job, or paste-ready external handoff."
+    }
+  ]
+}

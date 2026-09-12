@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-98b134d67f7940c1b4ba979f1a09e67a",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "SOURCE_LOCKED",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-11T10:42:29Z",
+  "actor": "user",
+  "notes": "User approved the source state and authorized prerequisite locks through STORY_LOCKED.",
+  "prerequisite_gates": [],
+  "approval_ids": [
+    "approval-16b35a4cd7014b879478c9b2e0b4f7a3",
+    "approval-1760b94ef9e642e58a6bd9536f581719"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/source/inventory.json",
+      "sha256": "e4bd4b3ba775cc61ed38da649852c78123c506fef807a103d48ba33b2e0eeb32"
+    },
+    {
+      "relative_path": ".manga-studio/source/structure.json",
+      "sha256": "13470e6b15c5956068be4c13294386509f37a3b21f438367e676b2c9eb184d12"
+    }
+  ],
+  "supersedes_lock_id": null
+}

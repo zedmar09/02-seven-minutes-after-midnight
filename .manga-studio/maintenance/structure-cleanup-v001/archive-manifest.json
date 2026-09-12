@@ -1,0 +1,1591 @@
+{
+  "record_type": "authorized_structure_cleanup_archive",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T04:43:58.599408+00:00",
+  "status": "prepared",
+  "decision_relative_path": ".manga-studio/decisions/structure-cleanup-v001.json",
+  "project_root": ".",
+  "archive_root": ".manga-studio/history/structure-cleanup-v001/before",
+  "source_bytes_changed": false,
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/project.json",
+      "sha256": "312965dc6df4b7b596f35e4faeba34ed2fb1e3cc9ca313e1231a9d0814e00d3b",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-023b215d86644dac8248b5d1302308c1.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-023b215d86644dac8248b5d1302308c1.json",
+      "sha256": "0cb0a2948b83365de3bf8ea7907bab1177459ce61ea8eb963a507482d337cdb4",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-04a6eb99011845ae85207fed5e9072ca.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-04a6eb99011845ae85207fed5e9072ca.json",
+      "sha256": "dfa4cebfbb8e89928c56337a9cd2ea4230397e9b451fe0af640d1af80c428811",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-08dfe0d529e748df979663e70fa9bfc6.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-08dfe0d529e748df979663e70fa9bfc6.json",
+      "sha256": "ba90d2487ea00ebab537f1c383579d5ca9813c411e89630a2ea04d524e7cdb80",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-159c2e3544504167af5dd49141063d96.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-159c2e3544504167af5dd49141063d96.json",
+      "sha256": "40f6649b98b0ecf6ce35622794af38f1cf22576088f9983465158bd843e2a576",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-215c2b29ac2f40ceb71ba5d51fe878ec.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-215c2b29ac2f40ceb71ba5d51fe878ec.json",
+      "sha256": "cb56d08ea266be69e6ec59efc664576eb1e357b82739d824ef9787ccbfbd7f9d",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-2a6f837a05814dfe9b91accde59c9a6a.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-2a6f837a05814dfe9b91accde59c9a6a.json",
+      "sha256": "04a21d071a69f4e190c9b08592f2787fa17d72c802564e6d148db3ab41aa9b1a",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-2f24f3c0113c4e44b9eb50ade8cab736.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-2f24f3c0113c4e44b9eb50ade8cab736.json",
+      "sha256": "f79c59db6c4081218540b3ce95c3d9ed70867a224355c3047dd1adcf5237aeef",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-3bb6e8d26d094dbcad6cbe208f025d14.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-3bb6e8d26d094dbcad6cbe208f025d14.json",
+      "sha256": "b0db3bfb92b78f781c77daa2b03d0c3851c5f42a1af1798e5cff872f77fd7f72",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-457c10c78f2b4c0694bc9de40543d8de.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-457c10c78f2b4c0694bc9de40543d8de.json",
+      "sha256": "e5ea3cbd45ce557fc8aaecadf94600d3dcdc4978ddf5c1cf20cf87626ec03b84",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-771c8f996dff4270ab0d8fb9fb19bee2.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-771c8f996dff4270ab0d8fb9fb19bee2.json",
+      "sha256": "1f6413187f9b5449870938616551d118e8ecf34090bc957819543745677875e4",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-7d28d259aea0407eb460a5d9a3c9f413.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-7d28d259aea0407eb460a5d9a3c9f413.json",
+      "sha256": "5cbdcd6b83da86cf52b5bb967c56acdae417fccf521cc0952b964ad30b1e7e78",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-81d54e89ddfa45d080d6a80013eb90b2.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-81d54e89ddfa45d080d6a80013eb90b2.json",
+      "sha256": "118e693b996551e42ceb7b02a7a8a39e687fb47c7f4073ac8b9e37949f3e5718",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-8dde1d618f4841fd8184a34ad897766b.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-8dde1d618f4841fd8184a34ad897766b.json",
+      "sha256": "1b54003ecdd9b44d5be61ffd609552be39badee888f5a1b914e2250c1f67cf16",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-9525aff11e6c47c488b95d3a23e47cac.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-9525aff11e6c47c488b95d3a23e47cac.json",
+      "sha256": "daf12e440a58f78b15dade82bce41161096e7587a705d381d16cc3b7f486f6cb",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-a19246148e964618bc82da4df14e49cb.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-a19246148e964618bc82da4df14e49cb.json",
+      "sha256": "11d96923f0876aed84d24a92b55b40edcc77feaaf27ee2de28b508088e206d8e",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-a2ba623b38914ed1b9d0ed38604a8b13.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-a2ba623b38914ed1b9d0ed38604a8b13.json",
+      "sha256": "eadb175186a72aab40761c0118f4f55966e104a1c503230065c053c4990c7f60",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-aed3f913821140e4941ce70fe4c9427d.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-aed3f913821140e4941ce70fe4c9427d.json",
+      "sha256": "fe009d64acc50b939834aff87ac5c4e2293da5bc8f62120111789ade3ef7ea7b",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-c78582d3c1c7412bac0cf7c32158e31e.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-c78582d3c1c7412bac0cf7c32158e31e.json",
+      "sha256": "0fb9c63034cb8f16623ecd246106f38bca8151a3025ffca3d75ee6a004bff34c",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-cb6ffa4586074c15b8b0aa523a834f5d.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-cb6ffa4586074c15b8b0aa523a834f5d.json",
+      "sha256": "c9030c5e3ee7e1d7a092e5a73dabbab23d08e24a3d1f9a5dce022f088a04ba98",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-d24a165e58084ee0a1bb9d3316d98344.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-d24a165e58084ee0a1bb9d3316d98344.json",
+      "sha256": "f67635b748f34b83911c962e83e86ba3b4c3ac18f60f3bb446834667004796f8",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-e950f316004141719034ec54f5ed48c4.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-e950f316004141719034ec54f5ed48c4.json",
+      "sha256": "5aaff6047320266ed65b9e8b0c68d649b01f8e7ee9ccf72c07a23e7efc2491fb",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-eb41cc601f784e909814e4dc82bb3a4b.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-eb41cc601f784e909814e4dc82bb3a4b.json",
+      "sha256": "f7bfccd39b5dedb9cbb5a5f41a26eb6dda42ab32f77d3af471c5c9f55ac26907",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-ed49527c3aab42ce86ca2a2ea8377e76.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-ed49527c3aab42ce86ca2a2ea8377e76.json",
+      "sha256": "1f2daa7770d5a680ceab477468b1a1af04519b560a146e9dc4ae70a2da71c382",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/documents/doc-ee53c9bf1b2149fba215b09a9ac2a11d.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/documents/doc-ee53c9bf1b2149fba215b09a9ac2a11d.json",
+      "sha256": "2d80bd747f52a55f067db7333f8e1be969a62d7f927e414588175285386cf112",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/id-map.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/id-map.json",
+      "sha256": "a45ac7564ceaaf6d6fe253c9c6eb5edcdf254ae3ef4475625b8441018c30a38a",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/inventory.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/inventory.json",
+      "sha256": "e4bd4b3ba775cc61ed38da649852c78123c506fef807a103d48ba33b2e0eeb32",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/provenance.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/provenance.json",
+      "sha256": "a14199b0a53bf84cd043f0d841239297cd1ff10ee40e9372105349c3e6b17a7c",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/source/structure.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/source/structure.json",
+      "sha256": "ae229fcb5d2bca13b6b8df785aafe894d40743878995cf1df52af20716a9a78e",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/tooling/workspace-refactor-v001/prepare-workspace-v001.py",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/tooling/workspace-refactor-v001/prepare-workspace-v001.py",
+      "sha256": "1add35471d330e0c35d9844ee47392292583ab02ddc5c8491cc65e169b45884f",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/tooling/workspace-refactor-v001/verify-workspace-v001.py",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/tooling/workspace-refactor-v001/verify-workspace-v001.py",
+      "sha256": "3778ffdb263c841e2ff62b4a8e69edbca1d6e7a2b43212db2035eec68a48a45d",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": ".manga-studio/workspace-layout-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/.manga-studio/workspace-layout-v001.json",
+      "sha256": "ac987da156759747b24e4ec613fdec64086b61f50efa1dc439bdccfb9be58348",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/AGENTS.md",
+      "sha256": "b954da3472090f9229178bb41db8f20e5092994daa5ad91bbdae4995ced9351f",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "AppCover/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/AppCover/README.md",
+      "sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/README.md",
+      "sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "Comics/style-guide.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/style-guide.md",
+      "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "MANGA-STUDIO.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/MANGA-STUDIO.md",
+      "sha256": "9522e8e58b8bce1d6a89b119237c7692e9b48509771632e84148147e6026dfce",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/README.md",
+      "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d",
+      "action": "replace",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "characters.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+      "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    },
+    {
+      "original_relative_path": "manga/00-series/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/00-series/README.md",
+      "sha256": "ede96ad600372a68dc8e8503eb5866ae2fe76342a0f106936be163fe4e093604",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/00-series/index-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/00-series/index-v001.json",
+      "sha256": "13b0f018d6f9750b76685780d87c6cd040016df926077653eec695a571973cbc",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/01-style/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/README.md",
+      "sha256": "d8268b573a0db708597903ac9ff9ac99e0b04e3878e91548e5e9ed9a42334457",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/01-style/production-policy-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+      "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/README.md",
+      "sha256": "ebc73d016173bbc53b93475dadbf70a646110ea3108f76875ae7271a3d22ee01",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/.gitkeep",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/characters/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/effects/.gitkeep",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/effects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/.gitkeep",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/environments/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/.gitkeep",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/objects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/02-references/reference-register-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/02-references/reference-register-v001.json",
+      "sha256": "848db0190fe334524629ca55ace47afd5298ce72f5cf1c408f63eb3793b6da1b",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/03-story/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/03-story/README.md",
+      "sha256": "d77280fa5f42dd1f537a4c566d5bd79ce09cb3e16dd89dbf98b384f6617c1583",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "1513074ef688afb1d2b067d4a08a920b12cf954da93ee3c2aa98787ddba0c09b",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/chapter-001-v001.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/03-story/arc-01/chapter-001/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/reading-copy-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/03-story/arc-01/chapter-001/reading-copy-v001.json",
+      "sha256": "2ee4ec9aa66623c7448a9a5333294ea82f6ad92e96a5b269b891a9e999f025ac",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/04-production/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/04-production/README.md",
+      "sha256": "519d441ba6670b80bf16b6264588bbf13ce3d8117faa807478c592b4b7c33bf3",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/04-production/arc-01/chapter-001/readiness-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/04-production/arc-01/chapter-001/readiness-v001.json",
+      "sha256": "0d1cbecf6d2edda45c295a49b3059748362cf7d5f0fc88bc22d811771579fe6d",
+      "action": "retire_from_working_tree",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "manga/README.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/README.md",
+      "sha256": "836e3bf52c78363db9e22a48e6f0adea1998b841a0db7508bee521738d94a6b9",
+      "action": "replace",
+      "imported_source": false
+    },
+    {
+      "original_relative_path": "series-plan.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/before/series-plan.md",
+      "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+      "action": "retire_from_working_tree",
+      "imported_source": true
+    }
+  ],
+  "before_hashes": [
+    {
+      "relative_path": ".gitignore",
+      "sha256": "0023a8451349dcffe9d0427da41f1fc5cc83ef150a9a8fde19b40b757628a83f"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/AUDIT-v001.md",
+      "sha256": "dbb1eb8ddecabc92f75d99d15b12d567db3da7592877fa0110039e23d59351c1"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/audit-issue-input-v001.json",
+      "sha256": "979895426f34ce67646da554e1adb3a6a5ee799bca752ad6c58d4c08a7d45965"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/audit-parameters-v001.json",
+      "sha256": "25e5ff0bee0fd534ee72fb0f8a173fd8c7b40170fcdea7be2000747119bc2eab"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/audit-register-input-v001.json",
+      "sha256": "0016751a34f20acc531fe6b923dee00f3d0aad160b33c7514dcdde39ebcd7266"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/build-audit-v001.py",
+      "sha256": "b484bb77c56ee214ac291d2df5381a722a07f5bb7660691338fd8da6ef8db599"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/character-assessment-v001.md",
+      "sha256": "ee1fd6f2d4169daf71f48a9622dbb19a3fbf517746bf8b0e27a482ac224cba70"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-manuscript-v001-review.json",
+      "sha256": "1f21f6a56b4dd1da7d3510ab02ad928380792c95bfbe33c7a441a5fa6ee79efb"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-001-manuscript-v001-review.md",
+      "sha256": "5b2836b4fadb8a90bf5b59810ce162ada345aeb13dad5a048d76eb0b6772d32f"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-01-proposal-review-v001.json",
+      "sha256": "c78e315b4febd708f562cee033e3c4760b8569a32db43c9884bea8e0a3db6c9a"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-01-proposal-review-v001.md",
+      "sha256": "fe6daaf404a514c991df11dcd36a4270d7c183aacb9e517b30bc20dbfc5dfce6"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/continuity-registers-v001.json",
+      "sha256": "0a0749915bb12b3adf4a817085fc44a3752b05cc6d802c2fd6c312c4a733bf63"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/continuity-registers-v001.md",
+      "sha256": "4e295a2a26375f835b4207407fb810a39e5251999311907b2e7530c2b3487618"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/coverage-v001.json",
+      "sha256": "4112571aea6ac6e1b3bdbfaa6c69a6c9917a8c6c88e3b8098ae8754a75b47af6"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/coverage-v001.md",
+      "sha256": "6e0068ca77b2f8725f7ea8253de2b22023c69b0cf7e96ee0e567ed628af47792"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/diagnostic-draft-v001.json",
+      "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+      "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/entity-register-v001.json",
+      "sha256": "de24c5821cd9ed7b233242c4cd844512a396a90f3481a0367ea2bf15d9ed50d8"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/full-diagnostic-v001.md",
+      "sha256": "06dc7cafdccbd3be3972b73707f653fd8d4127e5695c3b9d0d7b1698c77e52b0"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/recommended-configuration-v001.json",
+      "sha256": "a8f60fc48b84aabb1831a75fa8cbe1f0538a8141ff788cba2ca421848ab2900d"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/reconstruction-roadmap-v001.md",
+      "sha256": "6866bfa9148aee12a52e9b36294618b2df7c54a12254a3d825c50e36829bad9f"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/source-integrity-v001.json",
+      "sha256": "0e0bd910992fae7660dec3c785d55568e23c692d3c3a67695709a38ca929f70e"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/story-and-world-assessment-v001.md",
+      "sha256": "7a74626a9fb9465446b23b8c360856f9e3396128270f78468aa78b3ca0286d6b"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/validation-v001.json",
+      "sha256": "0094d956b532249b49fd8de12b8d2581aca54cd756252d330051a645ee412b79"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/verify-audit-v001.py",
+      "sha256": "41802f330e02f4357168213fa9437c68c3c4abeb71692a39aa667cfe2cbf3f9a"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/workspace-refactor-v001-validation.json",
+      "sha256": "0c0b9903b934e80d53fc6285b1b404991f33a88bb56c9fb58da91ea59dac148e"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-389787b7b7e747c1ba1be1d3204dc970.json",
+      "sha256": "917d62f50272531f088a147e41b98faf7085dc9fe22770ac3d7266ad1dcf7cea"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-3fbababa82a6464fb8ceb7c32fca4077.json",
+      "sha256": "6c76c63cc9ae84fb60183aa3c57ab176886303a2e2398424676ff78abc422007"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-8300f092c2fb44d98842a89d829e3fb3.json",
+      "sha256": "1f00a163b4ffa8f812bf1c5e9ac59299f985368f5f9f5824080c2e62e9c25590"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-8a2e8e6a05744edd9034972bf780a058.json",
+      "sha256": "ed626938d75d9c10e4aeadcc8d13538d5a95f8da086f7a8ac281a7eb8615deb3"
+    },
+    {
+      "relative_path": ".manga-studio/canon/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/snapshots/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/apply-chapter-001-v001.json",
+      "sha256": "1239d556511b6cf21eab9a94a25c750739f3de46b8d94e4031b82e10dc68d37a"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/editorial-audit-approval-v001.json",
+      "sha256": "253bb2324f8e4b5e2a910b7fe339f76e1581d46caeb21ee45076f9c06f4fb5cf"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/editorial-option-b-approval-v001.json",
+      "sha256": "5702577aeeb3b23a1aeb682450dcd932958363a93a88dba9e68ac5601f4afa07"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/workspace-structure-v001.json",
+      "sha256": "57866c0cc3242c06b3ed2672d63c0b112b3fdd49943db88e9d36a12518e132e1"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/workspace-structure-v001.md",
+      "sha256": "c806edd7831a4abc5a23769d2174bac233e53546531dee2e2b92ea3f1bb5ad87"
+    },
+    {
+      "relative_path": ".manga-studio/exports/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/approved/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/corrections/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/generated/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/pending/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/lettering/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/locks/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.metadata.json",
+      "sha256": "a03fc1f008af75facf4ed0bc1bb0e7e4d7f1b63c0f8a7cb784a0e4fbca013179"
+    },
+    {
+      "relative_path": ".manga-studio/pages/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/panels/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/project.json",
+      "sha256": "312965dc6df4b7b596f35e4faeba34ed2fb1e3cc9ca313e1231a9d0814e00d3b"
+    },
+    {
+      "relative_path": ".manga-studio/references/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/change-sets/sma-ch01-balanced-v001.json",
+      "sha256": "e153b390bb498aac3b535ad3d93d87b2da8272a0b14681de54df28a61557c0bb"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/diffs/sma-ch01-balanced-manuscript-v001.diff",
+      "sha256": "344c5648700e23087a814faf9dcee466b131c622db46858628a6cf8a883d8b06"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/diffs/sma-ch01-balanced-proposal-v001.diff",
+      "sha256": "f8b6ba4b41efda4f958479853e9e87fad7f4d81341ff86e767105087f5a69600"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/REVIEW-v001.md",
+      "sha256": "16cb964ebd28f72b00b8df1ccd36c9d9417bee2e2226051b94b2062f782df2cb"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+      "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+      "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.md",
+      "sha256": "80d729747527f26ee76e25feb068bbfaa761118072df8f8c45262cd254c39077"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/package-manifest-v001.json",
+      "sha256": "39a56110a135bccb13cb9ccbf0b0d03600ef4e621a6992d7b08362ee54dd976a"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/planning-basis-v001.json",
+      "sha256": "2e73ca488793a1567b60578678707e46c888f7547ce873a5ad5bd24c1c016676"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/planning-input-v001.json",
+      "sha256": "7d8bad85f07342ff0e5f59b05a0197c78f2e2655d4efb8f8506574875b796afc"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/reconstruction-options-v001.md",
+      "sha256": "f3786f9514cf6a91b662804f7519c6d2663caac6d13006ea20eb5c0b8b511aaf"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/revision-plan-v001.md",
+      "sha256": "a3735a06a333aec349d006373c26e1c4c5c3f1da6fd5084118909204a6d210c2"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/revision-work-packages-v001.json",
+      "sha256": "700cf0b6c2f752847d336d25f297dbf67a55357921e363a360e6b0443a00fb6a"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/success-plan-v001.md",
+      "sha256": "66dff812febd50db05a9fa2e393c068e1a4b0cc8890231d65b9e676b551e480c"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/validation-v001.json",
+      "sha256": "cd7c77d64bb2f272102f3423953dd516045dcf0461eeeae467b4fc64c0606586"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/verify-phase-3-v001.py",
+      "sha256": "fcef78b301750035e94d28b32891e39837e50169bb61e9812794fcd8069d5563"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/REVIEW-v001.md",
+      "sha256": "a14863ede7080b86218a10532cb1b32ea0ec5e86781924ed1fcd2638267ca2d7"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/authorization-v001.json",
+      "sha256": "3d7e4b3f06593973ec2676834689d0a48c0ccb41ed162375bce68897a95c059a"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/build-review-v001.py",
+      "sha256": "3e7e089c461243fe401d3b92c44cc53c06252373ec36a2cf9a081643f7c42876"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/chapter-01-reading-preview-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/consistency-input-v001.json",
+      "sha256": "39d86693032331d89b9e4c79dac1200a2078247566d69f981f98c7b7bdee52ec"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/edit-input-v001.json",
+      "sha256": "28679565efdb31570369ebeb0384a46a02fac1b129e74f83af7152dafc953bc0"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/exact-edit-register-v001.json",
+      "sha256": "589eea1ff094beac06e1d56e40403ff30310c97085d3f7e3ac889ce24e023994"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/exact-edits-v001.md",
+      "sha256": "327741491aff369615f24152244f04feeeb7784585bfee0a9c71ce8b8deadc9e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/package-manifest-v001.json",
+      "sha256": "7dd762c042129d11b9e4cd09815912122051c6057eee03bb26733c7a2295bd50"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/validation-v001.json",
+      "sha256": "c6a4136593c4d8d7c48aafd40302ce1ee8591a421b3c1b736245208b10bd266d"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/verify-review-v001.py",
+      "sha256": "a04e248db9c5c2f5f32bf87a23a1c05fabab63550f60770b3402d20ed4d5b27d"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+      "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-001-v001.json",
+      "sha256": "0b563553327e8642dd50337e84105462c47341470eabe69218d6c3deebdcc10e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-002-v001.json",
+      "sha256": "a32f40beb3232b787600040b6f0aa1090143ced483fe141df53e107c607d6d1c"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-003-v001.json",
+      "sha256": "25fc3f33dc3a63935bc7f086114a09938fba256dfe7416c12509f021bf792a6e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-004-v001.json",
+      "sha256": "229dc44e23d18a2038f360cb17cb6de921d4c1afa6c8f748b9a374d366cccaaa"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-005-v001.json",
+      "sha256": "426c2e7bebe81780a68f3f77272a853c31fa9b5344a1972f041e076b5d36130b"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-006-v001.json",
+      "sha256": "6b25033a6f1b6a455563f896d92b7987eb03e9f3431902f4f668fbdf1381db09"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-007-v001.json",
+      "sha256": "603bdde1f9ccf1608f89e6f20f19dbbad41b79db95d2565fe57253a54c126da0"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-008-v001.json",
+      "sha256": "7238f4f3d98f187136ef26f9359495ac9b2ecdb2cc2ba7975ed36469a591ae6f"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-009-v001.json",
+      "sha256": "d1f1fdeec4303bbf238e1cff02c39c6b40320aaf56acc1e4f0ae5e503ea06791"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-010-v001.json",
+      "sha256": "069314e58c5168ffe6a670662d4f4ecbe8a23389edd1b8f0b204b98e377180b6"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-011-v001.json",
+      "sha256": "78ac9e78e8b0a0f51c70e9a40d45e717f219fa11168c0efd7d1596c0ce043a91"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-012-v001.json",
+      "sha256": "453a7df4b77097a6fffd0a385b60cac74233503a40670775c4aa3f042c5b9446"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-013-v001.json",
+      "sha256": "8af531ec0a0c22b124e2edb9bad723b5831d14e58cffb31b79908b4ad64ea6c9"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-reconstruction-v001.json",
+      "sha256": "426e11d146f23f61b98e34f30f7918df51caebc4b3dbe9bf188ac170196dec60"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/policies/sma-balanced-v001.json",
+      "sha256": "b5e864a01f05cf16bd0ae89e994c88deb8f8ac2ae2326af38528ac4570dcaca4"
+    },
+    {
+      "relative_path": ".manga-studio/source/classification-review-v001.json",
+      "sha256": "c299703e1ea28ffee3e3e45bc82aa98e17cb46d06c0394b63063a2d39f46adc8"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-023b215d86644dac8248b5d1302308c1.json",
+      "sha256": "0cb0a2948b83365de3bf8ea7907bab1177459ce61ea8eb963a507482d337cdb4"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-04a6eb99011845ae85207fed5e9072ca.json",
+      "sha256": "dfa4cebfbb8e89928c56337a9cd2ea4230397e9b451fe0af640d1af80c428811"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-08dfe0d529e748df979663e70fa9bfc6.json",
+      "sha256": "ba90d2487ea00ebab537f1c383579d5ca9813c411e89630a2ea04d524e7cdb80"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-159c2e3544504167af5dd49141063d96.json",
+      "sha256": "40f6649b98b0ecf6ce35622794af38f1cf22576088f9983465158bd843e2a576"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-215c2b29ac2f40ceb71ba5d51fe878ec.json",
+      "sha256": "cb56d08ea266be69e6ec59efc664576eb1e357b82739d824ef9787ccbfbd7f9d"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-2a6f837a05814dfe9b91accde59c9a6a.json",
+      "sha256": "04a21d071a69f4e190c9b08592f2787fa17d72c802564e6d148db3ab41aa9b1a"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-2f24f3c0113c4e44b9eb50ade8cab736.json",
+      "sha256": "f79c59db6c4081218540b3ce95c3d9ed70867a224355c3047dd1adcf5237aeef"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-3bb6e8d26d094dbcad6cbe208f025d14.json",
+      "sha256": "b0db3bfb92b78f781c77daa2b03d0c3851c5f42a1af1798e5cff872f77fd7f72"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-457c10c78f2b4c0694bc9de40543d8de.json",
+      "sha256": "e5ea3cbd45ce557fc8aaecadf94600d3dcdc4978ddf5c1cf20cf87626ec03b84"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-771c8f996dff4270ab0d8fb9fb19bee2.json",
+      "sha256": "1f6413187f9b5449870938616551d118e8ecf34090bc957819543745677875e4"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-7d28d259aea0407eb460a5d9a3c9f413.json",
+      "sha256": "5cbdcd6b83da86cf52b5bb967c56acdae417fccf521cc0952b964ad30b1e7e78"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-81d54e89ddfa45d080d6a80013eb90b2.json",
+      "sha256": "118e693b996551e42ceb7b02a7a8a39e687fb47c7f4073ac8b9e37949f3e5718"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-8dde1d618f4841fd8184a34ad897766b.json",
+      "sha256": "1b54003ecdd9b44d5be61ffd609552be39badee888f5a1b914e2250c1f67cf16"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-9525aff11e6c47c488b95d3a23e47cac.json",
+      "sha256": "daf12e440a58f78b15dade82bce41161096e7587a705d381d16cc3b7f486f6cb"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-a19246148e964618bc82da4df14e49cb.json",
+      "sha256": "11d96923f0876aed84d24a92b55b40edcc77feaaf27ee2de28b508088e206d8e"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-a2ba623b38914ed1b9d0ed38604a8b13.json",
+      "sha256": "eadb175186a72aab40761c0118f4f55966e104a1c503230065c053c4990c7f60"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-aed3f913821140e4941ce70fe4c9427d.json",
+      "sha256": "fe009d64acc50b939834aff87ac5c4e2293da5bc8f62120111789ade3ef7ea7b"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-c78582d3c1c7412bac0cf7c32158e31e.json",
+      "sha256": "0fb9c63034cb8f16623ecd246106f38bca8151a3025ffca3d75ee6a004bff34c"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-cb6ffa4586074c15b8b0aa523a834f5d.json",
+      "sha256": "c9030c5e3ee7e1d7a092e5a73dabbab23d08e24a3d1f9a5dce022f088a04ba98"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-d24a165e58084ee0a1bb9d3316d98344.json",
+      "sha256": "f67635b748f34b83911c962e83e86ba3b4c3ac18f60f3bb446834667004796f8"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-e950f316004141719034ec54f5ed48c4.json",
+      "sha256": "5aaff6047320266ed65b9e8b0c68d649b01f8e7ee9ccf72c07a23e7efc2491fb"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-eb41cc601f784e909814e4dc82bb3a4b.json",
+      "sha256": "f7bfccd39b5dedb9cbb5a5f41a26eb6dda42ab32f77d3af471c5c9f55ac26907"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-ed49527c3aab42ce86ca2a2ea8377e76.json",
+      "sha256": "1f2daa7770d5a680ceab477468b1a1af04519b560a146e9dc4ae70a2da71c382"
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-ee53c9bf1b2149fba215b09a9ac2a11d.json",
+      "sha256": "2d80bd747f52a55f067db7333f8e1be969a62d7f927e414588175285386cf112"
+    },
+    {
+      "relative_path": ".manga-studio/source/id-map.json",
+      "sha256": "a45ac7564ceaaf6d6fe253c9c6eb5edcdf254ae3ef4475625b8441018c30a38a"
+    },
+    {
+      "relative_path": ".manga-studio/source/inventory-baseline-v001.json",
+      "sha256": "b429e0e51b9bf94952c4e164c395914b098698feccfc399eeecde8c6a4a346b6"
+    },
+    {
+      "relative_path": ".manga-studio/source/inventory.json",
+      "sha256": "e4bd4b3ba775cc61ed38da649852c78123c506fef807a103d48ba33b2e0eeb32"
+    },
+    {
+      "relative_path": ".manga-studio/source/manual-boundaries.json",
+      "sha256": "bc584f27a3899d9f9471c85252a090f7e80364d983300780943d46b5d159905d"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-023b215d86644dac8248b5d1302308c1/2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "3cc5895f2e624e30039d8ac0c8c6397ec8d83618fd75b04d1ffbc1be466ab464"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-04a6eb99011845ae85207fed5e9072ca/50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "e4ae8a6d3cb25b8dcd094c105989af84d9e817f24e0e6d0b56477baab785f70f"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-08dfe0d529e748df979663e70fa9bfc6/b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "d7216ecc387211a4c343b630913a835f77a0e43838a2ddb2368d11729625cf2b"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-159c2e3544504167af5dd49141063d96/b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "e9233bddd683b5ff25659b8c5ec321584c6b9ce801d5d203a6001eb9f4d3b6bc"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-215c2b29ac2f40ceb71ba5d51fe878ec/1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "a195cfe56b8e493fc0aea6164d69352c9f74bd8c7728c8b6cfa07cc20daed3b3"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-2a6f837a05814dfe9b91accde59c9a6a/a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "e7a56e5e666f1a325f088275471bd375708598ddbb3db2f16318a6688ed0e09d"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-2f24f3c0113c4e44b9eb50ade8cab736/f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "9124681bbd676542ab3179d120dc37170ccbf84866af7d820c31587d2fb4bf09"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-3bb6e8d26d094dbcad6cbe208f025d14/ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "9f54704c44949e94ad10bbd1d6481642a2d8c65f2c6583cbe49c06454acdee3f"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-457c10c78f2b4c0694bc9de40543d8de/5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "3028d289c0d5d0b8283f506fb8e1eaec57059deb0b700e17c8e0126b90cb63e3"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-771c8f996dff4270ab0d8fb9fb19bee2/a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "8736f9a6013d9850338a90640dd31f6478066c2b50954e6f655b6fa59b92b22d"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-7d28d259aea0407eb460a5d9a3c9f413/a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "458f2a98f5e6d509b2e7b66a3d95d968b5f98813cde4ea3ac42d80bfd6b9c3e2"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-81d54e89ddfa45d080d6a80013eb90b2/031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "252d66a5a3dba3717061c13461c22f52179348a994e71d414c330544f5c9e31a"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-8dde1d618f4841fd8184a34ad897766b/316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "789362101fc8e74a0d79283fadd7a707db71705ec2b3c66632e863ad44cb7294"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-9525aff11e6c47c488b95d3a23e47cac/9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "ab1c036fe292cf2943055fabc35d84816d8993b16dc14827d47342a962dd3cce"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-a19246148e964618bc82da4df14e49cb/c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "ccf3370f6fd10ca7a0bbce4a5b42e69fc5a912451084f3565d6ccec85d65f629"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-a2ba623b38914ed1b9d0ed38604a8b13/7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "fe46c88f1396ab0dd1d13ba8c6b5f3ae041d6c26d137d99eb676744daa5bab79"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24-manga_studio_text_structure-v1.0.0-boundaries-9050a6cea319b53b.json",
+      "sha256": "6edf4b4bc3ac8e53f7db8aa7c303b526c1f1d21265782cdd1036791b05f2b912"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24-manga_studio_text_structure-v1.0.0-boundaries-c211323ebc64c631.json",
+      "sha256": "1773cf655eb70687b056fb6edf86df97e919efc0fa40046075948e3ad080a12c"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-c78582d3c1c7412bac0cf7c32158e31e/4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "0bb0025ad8ad343a00aac54cb98c175a15a9d9378adaea79b6d83a9df7034361"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "17926c5a953ad6ed1880e981012c9d6a3d2a7e2cbf997dbecb34814ae8df8f93"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-d24a165e58084ee0a1bb9d3316d98344/40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "77247fdaf57278d232b690c7128226942c7f8e46811c041f5b072e2beaf27a79"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-e950f316004141719034ec54f5ed48c4/39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "f37f11cf6464973f164b15e78bbabc66e06454cce9c7e0f59f96e5105d9fcb18"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-eb41cc601f784e909814e4dc82bb3a4b/27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "85ed0fd990cc1add6d82cd28c2564e2deaf5800c977116f819241c5e44e8c40b"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-ed49527c3aab42ce86ca2a2ea8377e76/a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "73c245024166dd2113c4233cfacec68a58d26acba7b66b6e72f49f2424ee5d07"
+    },
+    {
+      "relative_path": ".manga-studio/source/maps/doc-ee53c9bf1b2149fba215b09a9ac2a11d/0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "sha256": "00288fff4df6ade6d51ca87d35b895ab45a877933ff246425fe9e85adb1a2274"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-023b215d86644dac8248b5d1302308c1/2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-04a6eb99011845ae85207fed5e9072ca/50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-08dfe0d529e748df979663e70fa9bfc6/b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-159c2e3544504167af5dd49141063d96/b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-215c2b29ac2f40ceb71ba5d51fe878ec/1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-2a6f837a05814dfe9b91accde59c9a6a/a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-2f24f3c0113c4e44b9eb50ade8cab736/f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-3bb6e8d26d094dbcad6cbe208f025d14/ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-457c10c78f2b4c0694bc9de40543d8de/5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-771c8f996dff4270ab0d8fb9fb19bee2/a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-7d28d259aea0407eb460a5d9a3c9f413/a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-81d54e89ddfa45d080d6a80013eb90b2/031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-8dde1d618f4841fd8184a34ad897766b/316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-9525aff11e6c47c488b95d3a23e47cac/9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-a19246148e964618bc82da4df14e49cb/c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-a2ba623b38914ed1b9d0ed38604a8b13/7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-c78582d3c1c7412bac0cf7c32158e31e/4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-d24a165e58084ee0a1bb9d3316d98344/40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-e950f316004141719034ec54f5ed48c4/39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-eb41cc601f784e909814e4dc82bb3a4b/27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-ed49527c3aab42ce86ca2a2ea8377e76/a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef"
+    },
+    {
+      "relative_path": ".manga-studio/source/normalized/doc-ee53c9bf1b2149fba215b09a9ac2a11d/0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+      "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+    },
+    {
+      "relative_path": ".manga-studio/source/provenance.json",
+      "sha256": "a14199b0a53bf84cd043f0d841239297cd1ff10ee40e9372105349c3e6b17a7c"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-023b215d86644dac8248b5d1302308c1/2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d.md",
+      "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-04a6eb99011845ae85207fed5e9072ca/50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3.md",
+      "sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-08dfe0d529e748df979663e70fa9bfc6/b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381.md",
+      "sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-159c2e3544504167af5dd49141063d96/b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae.md",
+      "sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-215c2b29ac2f40ceb71ba5d51fe878ec/1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181.md",
+      "sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-2a6f837a05814dfe9b91accde59c9a6a/a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f.md",
+      "sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-2f24f3c0113c4e44b9eb50ade8cab736/f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba.md",
+      "sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-3bb6e8d26d094dbcad6cbe208f025d14/ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c.md",
+      "sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-457c10c78f2b4c0694bc9de40543d8de/5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133.md",
+      "sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-771c8f996dff4270ab0d8fb9fb19bee2/a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e.md",
+      "sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-7d28d259aea0407eb460a5d9a3c9f413/a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e.md",
+      "sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-81d54e89ddfa45d080d6a80013eb90b2/031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c.md",
+      "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-8dde1d618f4841fd8184a34ad897766b/316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4.md",
+      "sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-9525aff11e6c47c488b95d3a23e47cac/9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52.md",
+      "sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-a19246148e964618bc82da4df14e49cb/c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919.md",
+      "sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-a2ba623b38914ed1b9d0ed38604a8b13/7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b.md",
+      "sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24.md",
+      "sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-c78582d3c1c7412bac0cf7c32158e31e/4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4.md",
+      "sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a.md",
+      "sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-d24a165e58084ee0a1bb9d3316d98344/40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500.md",
+      "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-e950f316004141719034ec54f5ed48c4/39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a.md",
+      "sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-eb41cc601f784e909814e4dc82bb3a4b/27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1.md",
+      "sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-ed49527c3aab42ce86ca2a2ea8377e76/a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef.md",
+      "sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef"
+    },
+    {
+      "relative_path": ".manga-studio/source/snapshots/doc-ee53c9bf1b2149fba215b09a9ac2a11d/0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806.md",
+      "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+    },
+    {
+      "relative_path": ".manga-studio/source/structure.json",
+      "sha256": "ae229fcb5d2bca13b6b8df785aafe894d40743878995cf1df52af20716a9a78e"
+    },
+    {
+      "relative_path": ".manga-studio/story/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/storyboard/panel-plans/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": ".manga-studio/tooling/workspace-refactor-v001/prepare-workspace-v001.py",
+      "sha256": "1add35471d330e0c35d9844ee47392292583ab02ddc5c8491cc65e169b45884f"
+    },
+    {
+      "relative_path": ".manga-studio/tooling/workspace-refactor-v001/verify-workspace-v001.py",
+      "sha256": "3778ffdb263c841e2ff62b4a8e69edbca1d6e7a2b43212db2035eec68a48a45d"
+    },
+    {
+      "relative_path": ".manga-studio/workspace-layout-v001.json",
+      "sha256": "ac987da156759747b24e4ec613fdec64086b61f50efa1dc439bdccfb9be58348"
+    },
+    {
+      "relative_path": "AGENTS.md",
+      "sha256": "b954da3472090f9229178bb41db8f20e5092994daa5ad91bbdae4995ced9351f"
+    },
+    {
+      "relative_path": "AppCover/README.md",
+      "sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae"
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c"
+    },
+    {
+      "relative_path": "Comics/README.md",
+      "sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba"
+    },
+    {
+      "relative_path": "Comics/style-guide.md",
+      "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+    },
+    {
+      "relative_path": "MANGA-STUDIO.md",
+      "sha256": "9522e8e58b8bce1d6a89b119237c7692e9b48509771632e84148147e6026dfce"
+    },
+    {
+      "relative_path": "README.md",
+      "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d"
+    },
+    {
+      "relative_path": "characters.md",
+      "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+    },
+    {
+      "relative_path": "manga/00-series/README.md",
+      "sha256": "ede96ad600372a68dc8e8503eb5866ae2fe76342a0f106936be163fe4e093604"
+    },
+    {
+      "relative_path": "manga/00-series/index-v001.json",
+      "sha256": "13b0f018d6f9750b76685780d87c6cd040016df926077653eec695a571973cbc"
+    },
+    {
+      "relative_path": "manga/01-style/README.md",
+      "sha256": "d8268b573a0db708597903ac9ff9ac99e0b04e3878e91548e5e9ed9a42334457"
+    },
+    {
+      "relative_path": "manga/01-style/production-policy-v001.json",
+      "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+    },
+    {
+      "relative_path": "manga/02-references/README.md",
+      "sha256": "ebc73d016173bbc53b93475dadbf70a646110ea3108f76875ae7271a3d22ee01"
+    },
+    {
+      "relative_path": "manga/02-references/characters/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/effects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/environments/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/objects/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "relative_path": "manga/02-references/reference-register-v001.json",
+      "sha256": "848db0190fe334524629ca55ace47afd5298ce72f5cf1c408f63eb3793b6da1b"
+    },
+    {
+      "relative_path": "manga/03-story/README.md",
+      "sha256": "d77280fa5f42dd1f537a4c566d5bd79ce09cb3e16dd89dbf98b384f6617c1583"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "1513074ef688afb1d2b067d4a08a920b12cf954da93ee3c2aa98787ddba0c09b"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/reading-copy-v001.json",
+      "sha256": "2ee4ec9aa66623c7448a9a5333294ea82f6ad92e96a5b269b891a9e999f025ac"
+    },
+    {
+      "relative_path": "manga/04-production/README.md",
+      "sha256": "519d441ba6670b80bf16b6264588bbf13ce3d8117faa807478c592b4b7c33bf3"
+    },
+    {
+      "relative_path": "manga/04-production/arc-01/chapter-001/readiness-v001.json",
+      "sha256": "0d1cbecf6d2edda45c295a49b3059748362cf7d5f0fc88bc22d811771579fe6d"
+    },
+    {
+      "relative_path": "manga/README.md",
+      "sha256": "836e3bf52c78363db9e22a48e6f0adea1998b841a0db7508bee521738d94a6b9"
+    },
+    {
+      "relative_path": "series-plan.md",
+      "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+    }
+  ],
+  "expected_working_files": [
+    "manga/00-series/README.md",
+    "manga/00-series/arc-roadmap.md",
+    "manga/00-series/character-relationships.md",
+    "manga/00-series/chronology.md",
+    "manga/00-series/continuity-ledger.md",
+    "manga/00-series/legacy-concept-extraction.md",
+    "manga/00-series/narrative-rules.md",
+    "manga/00-series/parallel-events-timeline.md",
+    "manga/00-series/story-concept.md",
+    "manga/00-series/tone-and-genre.md",
+    "manga/00-series/world-rules.md",
+    "manga/01-style/README.md",
+    "manga/01-style/manga-style-lock.md",
+    "manga/01-style/page-composition-rules.md",
+    "manga/01-style/panel-language.md",
+    "manga/01-style/reader-visible-language-lock.md",
+    "manga/01-style/screentone-and-hatching-guide.md",
+    "manga/01-style/sfx-lettering-guide.md",
+    "manga/01-style/speech-balloon-guide.md",
+    "manga/02-references/README.md",
+    "manga/02-references/approve-png/README.md",
+    "manga/02-references/approved-webp/README.md",
+    "manga/02-references/characters/README.md",
+    "manga/02-references/characters/arturo-salcedo/arturo-salcedo.md",
+    "manga/02-references/characters/arturo-salcedo/canon.md",
+    "manga/02-references/characters/benjamin-manalo/benjamin-manalo.md",
+    "manga/02-references/characters/benjamin-manalo/canon.md",
+    "manga/02-references/characters/daniel-soriano/canon.md",
+    "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+    "manga/02-references/characters/ernesto-galang/canon.md",
+    "manga/02-references/characters/ernesto-galang/ernesto-galang.md",
+    "manga/02-references/characters/lilia-ramos/canon.md",
+    "manga/02-references/characters/lilia-ramos/lilia-ramos.md",
+    "manga/02-references/characters/maribel-santos/canon.md",
+    "manga/02-references/characters/maribel-santos/maribel-santos.md",
+    "manga/02-references/characters/tomas-rivera/canon.md",
+    "manga/02-references/characters/tomas-rivera/tomas-rivera.md",
+    "manga/02-references/environments/README.md",
+    "manga/02-references/environments/cafe-siete/cafe-floor-plan.md",
+    "manga/02-references/environments/cafe-siete/cafe-perspective.md",
+    "manga/02-references/environments/cafe-siete/canon.md",
+    "manga/02-references/environments/san-aurelio-junction/canon.md",
+    "manga/02-references/environments/san-aurelio-junction/station-perspective.md",
+    "manga/02-references/objects/README.md",
+    "manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+    "manga/03-story/README.md",
+    "manga/03-story/arc-01/README.md",
+    "manga/03-story/arc-01/arc-bible.md",
+    "manga/03-story/arc-01/arc-outline.md",
+    "manga/03-story/arc-01/chapter-001/README.md",
+    "manga/03-story/arc-01/chapter-001/chapter-outline.md",
+    "manga/03-story/arc-01/chapter-001/dialogue-script.md",
+    "manga/03-story/arc-01/chapter-001/page-map.md",
+    "manga/03-story/arc-01/chapter-001/parallel-events.md",
+    "manga/03-story/arc-01/chapter-001/reference-needs.md",
+    "manga/03-story/arc-01/chapter-001/scene-sequence.md",
+    "manga/03-story/arc-01/event-thread-map.md",
+    "manga/03-story/arc-01/mystery-progression.md",
+    "manga/04-production/README.md",
+    "manga/04-production/arc-01/README.md",
+    "manga/04-production/arc-01/chapter-001/README.md",
+    "manga/04-production/arc-01/chapter-001/page-order.md",
+    "manga/04-production/page-standard.md",
+    "manga/README.md",
+    "manga/naming-standard.md"
+  ],
+  "expected_empty_directories": [
+    "manga/04-production/arc-01/chapter-001/approved-png"
+  ],
+  "historical_path_resolution": "Resolve by original_relative_path AND expected SHA-256; immutable source maps retain as-imported coordinates.",
+  "recovery": "Do not run migration twice. Verify archive hashes first. Reversal requires explicit user approval: preserve any later work, restore entries to their original paths, and remove only unchanged generated files listed in working-files.json."
+}

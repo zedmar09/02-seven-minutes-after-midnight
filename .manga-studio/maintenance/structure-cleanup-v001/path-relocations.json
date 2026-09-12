@@ -1,0 +1,27 @@
+{
+  "record_type": "storage_path_compatibility",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "reason": "Runtime inventory forbids managed-workspace intake; keep original import coordinates. Existing decision outputs now address the archived result bytes. Decision IDs, meaning, actors, timestamps and evidence remain unchanged. No approval record or target was edited.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/source/inventory.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/compatibility-before/.manga-studio/source/inventory.json",
+      "sha256": "f2acc5e0a909dc6a21609aaed3556f72a89c5516fa8e735a1c6323fc90786a11"
+    },
+    {
+      "original_relative_path": ".manga-studio/decisions/apply-chapter-001-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/compatibility-before/.manga-studio/decisions/apply-chapter-001-v001.json",
+      "sha256": "1239d556511b6cf21eab9a94a25c750739f3de46b8d94e4031b82e10dc68d37a"
+    },
+    {
+      "original_relative_path": ".manga-studio/decisions/workspace-structure-v001.json",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/compatibility-before/.manga-studio/decisions/workspace-structure-v001.json",
+      "sha256": "57866c0cc3242c06b3ed2672d63c0b112b3fdd49943db88e9d36a12518e132e1"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/compatibility-before/AGENTS.md",
+      "sha256": "630dfa585f0b87387690145124079734a377f2716d3696a4406728820d24934e"
+    }
+  ]
+}

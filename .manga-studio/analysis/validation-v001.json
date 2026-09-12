@@ -1,0 +1,225 @@
+{
+  "record_type": "final_audit_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "checked_at": "2026-09-05T03:43:19.815527+00:00",
+  "result": "pass",
+  "errors": [],
+  "available_sources_reviewed": 24,
+  "originals_checked": 25,
+  "snapshots_checked": 24,
+  "normalized_derivatives_checked": 24,
+  "active_source_maps_checked": 24,
+  "strict_evidence_locators_checked": 189,
+  "issue_count": 30,
+  "priorities": {
+    "P1": 15,
+    "P2": 14,
+    "P3": 1
+  },
+  "source_checks": [
+    {
+      "relative_path": ".gitignore",
+      "sha256": "0023a8451349dcffe9d0427da41f1fc5cc83ef150a9a8fde19b40b757628a83f",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "AppCover/README.md",
+      "sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/README.md",
+      "sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/style-guide.md",
+      "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "README.md",
+      "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "characters.md",
+      "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "series-plan.md",
+      "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+      "byte_identical": true
+    }
+  ],
+  "dependency_graph": "acyclic",
+  "all_stage_locks_false": true,
+  "approvals_created": 0,
+  "image_jobs_created": 0,
+  "image_generation_enabled": false,
+  "active_approved_versions": {
+    "manuscript": null,
+    "canon": null,
+    "storyboard": null
+  },
+  "runtime_checks": {
+    "source_map": "passed",
+    "story_profile": "passed",
+    "diagnostic_schema_and_links": "passed",
+    "stage_locks": "passed"
+  },
+  "not_applicable": {
+    "page_quality_review": "No composed or lettered pages exist",
+    "preproduction_and_production_validation": "No approved storyboards, image jobs, or reference images exist"
+  },
+  "limitations": [
+    "Checks verify provenance and artifact consistency, not artistic quality or market response.",
+    "Unavailable Chapter 2 and reader images remain outside audit coverage."
+  ],
+  "artifact_hashes": [
+    {
+      "relative_path": ".manga-studio/analysis/AUDIT-v001.md",
+      "sha256": "dbb1eb8ddecabc92f75d99d15b12d567db3da7592877fa0110039e23d59351c1"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/full-diagnostic-v001.md",
+      "sha256": "06dc7cafdccbd3be3972b73707f653fd8d4127e5695c3b9d0d7b1698c77e52b0"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+      "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/story-and-world-assessment-v001.md",
+      "sha256": "7a74626a9fb9465446b23b8c360856f9e3396128270f78468aa78b3ca0286d6b"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/character-assessment-v001.md",
+      "sha256": "ee1fd6f2d4169daf71f48a9622dbb19a3fbf517746bf8b0e27a482ac224cba70"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/continuity-registers-v001.json",
+      "sha256": "0a0749915bb12b3adf4a817085fc44a3752b05cc6d802c2fd6c312c4a733bf63"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/continuity-registers-v001.md",
+      "sha256": "4e295a2a26375f835b4207407fb810a39e5251999311907b2e7530c2b3487618"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/entity-register-v001.json",
+      "sha256": "de24c5821cd9ed7b233242c4cd844512a396a90f3481a0367ea2bf15d9ed50d8"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/reconstruction-roadmap-v001.md",
+      "sha256": "6866bfa9148aee12a52e9b36294618b2df7c54a12254a3d825c50e36829bad9f"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/recommended-configuration-v001.json",
+      "sha256": "a8f60fc48b84aabb1831a75fa8cbe1f0538a8141ff788cba2ca421848ab2900d"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/coverage-v001.json",
+      "sha256": "4112571aea6ac6e1b3bdbfaa6c69a6c9917a8c6c88e3b8098ae8754a75b47af6"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/coverage-v001.md",
+      "sha256": "6e0068ca77b2f8725f7ea8253de2b22023c69b0cf7e96ee0e567ed628af47792"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/source-integrity-v001.json",
+      "sha256": "0e0bd910992fae7660dec3c785d55568e23c692d3c3a67695709a38ca929f70e"
+    }
+  ]
+}

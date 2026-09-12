@@ -1,0 +1,24 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-b3e34ef90f81459580e5a8bd14187177",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "DIAGNOSTIC_APPROVED",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-11T10:42:30Z",
+  "actor": "user",
+  "notes": "Activate the existing hash-bound diagnostic approval in the authorized prerequisite sequence.",
+  "prerequisite_gates": [
+    "SOURCE_LOCKED"
+  ],
+  "approval_ids": [
+    "approval-8a2e8e6a05744edd9034972bf780a058"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+      "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b"
+    }
+  ],
+  "supersedes_lock_id": null
+}

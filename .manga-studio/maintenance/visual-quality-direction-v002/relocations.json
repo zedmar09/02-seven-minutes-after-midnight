@@ -1,0 +1,53 @@
+{
+  "record_type": "visual_quality_direction_v002_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T08:53:52.597003+00:00",
+  "reason": "Preserve the exact v001 working state before adopting variable panel totals and controlled overlap as visual-quality direction v002.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "8d5b7a57ff256dcb36b1c039ba8e50f005f08b46085afc56c50fbe59694b2701"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "bec9fc7e1de09c0aa51253bdda7e0a3f79676ebc91af0949c7d603d76849eddd"
+    },
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/.manga-studio/project.json",
+      "sha256": "b5df336f42b5c6bfb492f1575ba1c955be7981dacc47728aebf4ff46f49fe3dd"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/AGENTS.md",
+      "sha256": "5eac9af66593eca7bd10636e13f307bcb247ff67da1059aecd8e5a11faede622"
+    },
+    {
+      "original_relative_path": "manga/01-style/page-composition-rules.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/manga/01-style/page-composition-rules.md",
+      "sha256": "1e766101671cd073da73e4fc83152bb54299877dd47569e55074204bfcff2204"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "ab912d31da36f290dacfc2bd54b943b9f2e2c8746ad47ab079eaf64714922bc6"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/page-map.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/manga/03-story/arc-01/chapter-001/page-map.md",
+      "sha256": "ea365251279aa02d65ec0e78d9b1ad46c7551eed2550c9a603ea1f7e7735abbb"
+    },
+    {
+      "original_relative_path": "manga/04-production/page-standard.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/manga/04-production/page-standard.md",
+      "sha256": "f573d8c14f41fe6e9222627aa67cfb9d8226b014052e5f64d123cc0c0175c8ca"
+    },
+    {
+      "original_relative_path": "manga/README.md",
+      "archived_relative_path": ".manga-studio/history/visual-quality-direction-v002/before/manga/README.md",
+      "sha256": "152d10e897542a52f1007bc65a5444badf55386d92de9bc61525c56535a5f3cb"
+    }
+  ]
+}

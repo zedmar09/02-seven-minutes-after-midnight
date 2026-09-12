@@ -1,0 +1,142 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-006",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "character-7aa0419823314e0787fe55c54aa83047",
+    "character-a096cba8416847d4947a94012733a09b",
+    "character-3f6621b20e6e4c0da53cb42678b5c277",
+    "character-eac21dd0fae140d0b5fc6cd85bbbac0c",
+    "character-457a700f0c6c478fb525eb3fb81f30a3",
+    "character-073f27ce849748799a3a2ed06dabc898",
+    "character-28e7610c7be1473aa1d5fb041293cf19",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-015",
+    "SMA-ISS-016",
+    "SMA-ISS-017"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-f0597e48a8be47c3a974a10d566c25ed",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 295,
+      "line_end": 295,
+      "byte_start": 11454,
+      "byte_end": 11498,
+      "content_fingerprint": "4ebecbb1a037ee41446d78329fdf5926d3cc84da93e8904f4d268c1dc0a77a44"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+      "source_relative_path": "characters.md",
+      "line_start": 40,
+      "line_end": 48,
+      "byte_start": 4989,
+      "byte_end": 7107,
+      "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+      "source_unit_id": "source-unit-3392356bfe1d40a1b1b44ed2fd61fc05",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 11,
+      "line_end": 11,
+      "byte_start": 849,
+      "byte_end": 896,
+      "content_fingerprint": "7d20d24509526a378e0890c24bbb124e93560d8bada0344bea480559fb3a9d1b"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-94c332b10eb844fa997807816f048e4a",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 333,
+      "line_end": 333,
+      "byte_start": 12440,
+      "byte_end": 12535,
+      "content_fingerprint": "7694be3f56e4ead8c40bbf0dc3ba713379e751882a609d3b44c4ce79c47e4631"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-ef0c08b70b944fdab7c05c64f096f99a",
+      "source_relative_path": "characters.md",
+      "line_start": 52,
+      "line_end": 59,
+      "byte_start": 7128,
+      "byte_end": 8169,
+      "content_fingerprint": "f9a30e62439300935993eb3753dd34fe9056482c1fe736412d16a078a40967f5"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+      "source_relative_path": "characters.md",
+      "line_start": 63,
+      "line_end": 69,
+      "byte_start": 8187,
+      "byte_end": 9049,
+      "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f"
+    }
+  ],
+  "proposed_operation": "Build independent goals and witness knowledge. Owner: manga-character-bible with manga-story-architect. Stage: Phase 4 architecture proposals; later development before continuation. Prepare goal/knowledge/cost proposals from existing work and chosen-family relationships. Identify who witnessed versus inferred each clue. Do not insert unapproved trauma or secret notebook contents. Risk: A larger cast can inflate the opening; most material belongs to future approved architecture, not Chapter 1 exposition. Specific recommendations require separate adoption: SMA-PROP-010.",
+  "expected_result": "Tomas can make a choice Daniel must respect; every witness has an independent reason to act or stay silent.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Tomas's present initiative, Lilia's chosen-family warmth, and Maribel's competence.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Tomas's present initiative, Lilia's chosen-family warmth, and Maribel's competence."
+  },
+  "canon_impact": {
+    "level": "medium",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "medium",
+    "notes": "Tomas can make a choice Daniel must respect; every witness has an independent reason to act or stay silent."
+  },
+  "structural_impact": {
+    "level": "medium",
+    "notes": "Scope and dependencies: Phase 4 architecture proposals; later development before continuation. A larger cast can inflate the opening; most material belongs to future approved architecture, not Chapter 1 exposition."
+  },
+  "dependencies": [
+    "SMA-PLAN-002",
+    "SMA-PLAN-004"
+  ],
+  "acceptance_criteria": [
+    "Tomas has an independent proposed goal and a possible rescue conflict.",
+    "Daniel's growth is expressed as behavior, not an invented bereavement.",
+    "All witness facts are marked observed, reported, inferred, or proposed.",
+    "No unsupported character voice is treated as an existing dialogue sample."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

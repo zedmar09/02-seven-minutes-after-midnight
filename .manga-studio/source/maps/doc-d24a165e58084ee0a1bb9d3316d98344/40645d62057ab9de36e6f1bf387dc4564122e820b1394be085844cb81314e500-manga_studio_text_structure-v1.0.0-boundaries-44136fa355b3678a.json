@@ -1,0 +1,515 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+  "source_relative_path": "Comics/style-guide.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-d24a165e58084ee0a1bb9d3316d98344/40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "display_title": "Comics Style Guide",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Comics Style Guide",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-05e4208e585d414a80e5c5c22fe16734",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 22,
+      "byte_end": 82,
+      "content_fingerprint": "39b7e2513b9ed86e382411fea4e89197d39fd7c10a398a01ae7afc1628c5c758",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-30c833b490f240f3ab831f6ba208532d",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Cover Color Rule"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 7,
+      "line_end": 9,
+      "byte_start": 104,
+      "byte_end": 599,
+      "content_fingerprint": "2fcc07cd69c0686f255552d695336105cf1e3358308a70bd9d5ad19cbba2e691",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-2a5dd693409849d0be39ac539066216d",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Black-And-White Time-Slip Railway Romance Manga/Manhwa/Manhua Style Lock"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 13,
+      "line_end": 21,
+      "byte_start": 677,
+      "byte_end": 2807,
+      "content_fingerprint": "08069e912f9a9e26e6ae1cf0821a1610aaf196e8a7fdd973424f0232019d1b7b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-fde72ad518224454bcb8ae32c122638e",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Prompt Workflow"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 25,
+      "line_end": 25,
+      "byte_start": 2828,
+      "byte_end": 2967,
+      "content_fingerprint": "ae7101ce8abf423fccf0b71be0ac91e2a2ea5e093e9ee073c831d1ef8d54eef2",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d907341354aa4f9bb011829ac3711ca2",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Prompt Workflow"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 27,
+      "line_end": 31,
+      "byte_start": 2968,
+      "byte_end": 3265,
+      "content_fingerprint": "be7264e51d90e25556db21f0f1b0438d25ccfadebd175076501e2a4872867801",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-e9280848fbf6485dab7d45c9073c6134",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Prompt Workflow"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 33,
+      "line_end": 33,
+      "byte_start": 3266,
+      "byte_end": 3534,
+      "content_fingerprint": "2eb3da232dde56b5e0dc6bee6e0ddbfb04c4d6495b93666341cde2a8334b046b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-a2919f21a73e48a19d965d4fe10936d7",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Prompt Workflow"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 35,
+      "line_end": 35,
+      "byte_start": 3535,
+      "byte_end": 3847,
+      "content_fingerprint": "67d45d26477a6c7f5f7de5d88ab73e38beb2319e3dadece5f0b4da093e4120aa",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d8e95a08e4cc43aab5fa394d6d15d7a7",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Panel Pacing Rule"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 39,
+      "line_end": 39,
+      "byte_start": 3870,
+      "byte_end": 4140,
+      "content_fingerprint": "69139d737dc6aa8fc4162a737c0f9e8a9942c5f71f2e9c51fe3a56893ce92f02",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-f661aba233044481a7d338337c11bd2d",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Panel Pacing Rule"
+      ],
+      "source_order": 9,
+      "unit_type": "paragraph",
+      "line_start": 41,
+      "line_end": 41,
+      "byte_start": 4141,
+      "byte_end": 4457,
+      "content_fingerprint": "3af2e6e59a97e17a17fb5c9b250ec077011f10627f02755d5e6ea843b4922376",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6df398f004304777b8e470c2bb25619e",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Panel Pacing Rule"
+      ],
+      "source_order": 10,
+      "unit_type": "paragraph",
+      "line_start": 43,
+      "line_end": 43,
+      "byte_start": 4458,
+      "byte_end": 4678,
+      "content_fingerprint": "963ea53c78be964898083723a96f2fc78c87c6770e48cb5085ae0cd33e415f06",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6d6d0dba516648269858f5b36244eec1",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 11,
+      "unit_type": "paragraph",
+      "line_start": 48,
+      "line_end": 48,
+      "byte_start": 4699,
+      "byte_end": 4982,
+      "content_fingerprint": "077f5a33edd6b294aebd5900a26362fba9d4ae77b105736a61f2e18fd7020644",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-7938ec40fe0f442881648abbe0e2b2df",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 12,
+      "unit_type": "paragraph",
+      "line_start": 50,
+      "line_end": 50,
+      "byte_start": 4983,
+      "byte_end": 5010,
+      "content_fingerprint": "e0ec17f23b05ae3f46c0b9c74847a1156a8e9351dc0d493867b5ddcd36299a7d",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-269a732d90334051aec481f2098a0c69",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 13,
+      "unit_type": "paragraph",
+      "line_start": 52,
+      "line_end": 54,
+      "byte_start": 5011,
+      "byte_end": 5034,
+      "content_fingerprint": "20eafb68e7ad1c069c139c516963e594e566c0b03f9685efa4400191872143e4",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-f4040b64f3da4c2da48004a9aceb1896",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 14,
+      "unit_type": "paragraph",
+      "line_start": 56,
+      "line_end": 58,
+      "byte_start": 5035,
+      "byte_end": 5053,
+      "content_fingerprint": "4f37ac60d86290c2b3aa6f852ac6f916631ec1e8ed50404483f415f39683d3f1",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-8422bf54362f4fc29208b441e435dc02",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 15,
+      "unit_type": "paragraph",
+      "line_start": 60,
+      "line_end": 62,
+      "byte_start": 5054,
+      "byte_end": 5072,
+      "content_fingerprint": "e30e2d87be597dd4bfbc2a4a3a743ce837fa8a7536434f25a3ca49330a8c7781",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-1af77292611d4f5295769da4bc23e881",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 16,
+      "unit_type": "paragraph",
+      "line_start": 64,
+      "line_end": 66,
+      "byte_start": 5073,
+      "byte_end": 5091,
+      "content_fingerprint": "f3c0da8881e67edc318ff22ff3a47c377ba83665729a5a05e81bb18d057e7474",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-61bc45af298740f7b0c79659cb2eb1a3",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 17,
+      "unit_type": "paragraph",
+      "line_start": 68,
+      "line_end": 70,
+      "byte_start": 5092,
+      "byte_end": 5115,
+      "content_fingerprint": "d56019ae1a37c27941656f04518259c9ab5c223fada9ec528a4b5542dd7c00c1",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-c33a07a6cb6248a8ba894c059e19d2c6",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 18,
+      "unit_type": "paragraph",
+      "line_start": 72,
+      "line_end": 74,
+      "byte_start": 5116,
+      "byte_end": 5155,
+      "content_fingerprint": "93bc6262f35c853b5ed77bd70bc448ef0783c28ba18ed69597cf50f7ef71619e",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-cbebe6baa6a147fca4a0558eb9a4d920",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Lettering Rule"
+      ],
+      "source_order": 19,
+      "unit_type": "paragraph",
+      "line_start": 76,
+      "line_end": 78,
+      "byte_start": 5156,
+      "byte_end": 5205,
+      "content_fingerprint": "c1d8841b5c51c9e4ffd5b0df8ef259c456e3bf6cf5ae32059c3d72113d631966",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-13c996d81d8a47b1b45423a6aa8b475c",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Daniel Visual Lock"
+      ],
+      "source_order": 20,
+      "unit_type": "paragraph",
+      "line_start": 82,
+      "line_end": 82,
+      "byte_start": 5229,
+      "byte_end": 5782,
+      "content_fingerprint": "ce11192982fc5338d0dfbe35e79dc9162a9137c6b5ccbdd50a67e8379e831107",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-3813b4aa5169431cbd855a26ef695a51",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Daniel Visual Lock"
+      ],
+      "source_order": 21,
+      "unit_type": "paragraph",
+      "line_start": 84,
+      "line_end": 84,
+      "byte_start": 5783,
+      "byte_end": 6000,
+      "content_fingerprint": "d164cab84281522ab996a465935d860f59200e03e5dd852e7f2529982db73631",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-bd6e57beb8484cae8ff8c2b57f565816",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Tomas Visual Lock"
+      ],
+      "source_order": 22,
+      "unit_type": "paragraph",
+      "line_start": 88,
+      "line_end": 88,
+      "byte_start": 6023,
+      "byte_end": 6614,
+      "content_fingerprint": "e4b4267ef88403f0570bd4b80d695f60a0cd57d49093eeb36cbdd0f26ff248c4",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-2d736966da364f94a60f0094d3bf0b57",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "Tomas Visual Lock"
+      ],
+      "source_order": 23,
+      "unit_type": "paragraph",
+      "line_start": 90,
+      "line_end": 90,
+      "byte_start": 6615,
+      "byte_end": 6894,
+      "content_fingerprint": "e22a9c78fa062d42d5b4c282f83a8ee1f4ba5d71a44cd8453157afd35125096c",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-bb48a94ec375417d896f596b24e23ae4",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_relative_path": "Comics/style-guide.md",
+      "heading_path": [
+        "Comics Style Guide",
+        "San Aurelio And Cafe Visual Rules"
+      ],
+      "source_order": 24,
+      "unit_type": "paragraph",
+      "line_start": 94,
+      "line_end": 100,
+      "byte_start": 6933,
+      "byte_end": 8348,
+      "content_fingerprint": "eecaf558f2f2ed7f25656b4ff1a651ceb9a062cc7c27e28a430cad0b0c53ca03",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

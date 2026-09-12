@@ -1,0 +1,142 @@
+{
+  "record_type": "exact_chapter_repair_input",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "proposed",
+  "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+  "source_sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+  "edits": [
+    {
+      "id": "SMA-EDIT-001", "lines": [29, 29], "issues": [14], "proposals": [9],
+      "purpose": "Give the late permitted visit a practical deadline without adding a calendar date or secret summons.",
+      "risk": "Adds an evening-access and morning-clearance detail, as accepted in proposal 009; exact wording remains proposed.",
+      "after": "At 11:41 PM, Daniel stood inside the abandoned station with a flashlight between his teeth and a folder of permits under one arm, wondering which committee member would be most annoyed if he died of tetanus before finishing the accession log.\n\nHis permit allowed one final evening of access. The clearance crew came for the loose fittings in the morning. He wanted accession numbers on them before they became someone else's salvage."
+    },
+    {
+      "id": "SMA-EDIT-002", "lines": [51, 51], "issues": [5], "proposals": [3],
+      "purpose": "Establish the back-wall hatch and kitchen doorway before either becomes a route.",
+      "risk": "A doorway and the hatch's initial shut state make the accepted choreography concrete; no dimensions or building-wide plan are invented.",
+      "after": "The counter remained, though most of the stools were gone. A cracked pastry case leaned against the wall. The menu board still held ghost outlines where prices had once been written in chalk. Behind the counter, a narrow service window was shut in the kitchen wall. A doorway opened beside it."
+    },
+    {
+      "id": "SMA-EDIT-003", "lines": [57, 57], "issues": [26], "proposals": [13],
+      "purpose": "Free Daniel's hands and establish the flashlight's first resting place.",
+      "risk": "Adds only practical handling; the permits, gloves, flashlight and token already exist.",
+      "after": "He crouched, set the folder on a dry patch of tile, and laid the flashlight on the counter before pulling on cotton gloves. Even alone, especially alone, he did not touch unknown objects barehanded. The brass piece came free with a soft scrape."
+    },
+    {
+      "id": "SMA-EDIT-004", "lines": [75, 75], "issues": [6], "proposals": [4],
+      "purpose": "Introduce light across the contact surface without restoring Daniel's entire room.",
+      "risk": "Selects the approved two-era interpretation of the contradictory source descriptions.",
+      "after": "Light burst across the counter."
+    },
+    {
+      "id": "SMA-EDIT-005", "lines": [81, 87], "issues": [6], "proposals": [4],
+      "purpose": "Make the restored and ruined states visibly coexist; retain Daniel's startled physical reaction.",
+      "risk": "Reduces the original whole-room transformation spectacle in favor of a readable temporal boundary.",
+      "after": "Beyond the counter, the pastry case gleamed, full of rolls.\n\nDaniel turned. The stools beside him remained broken. Paint still covered his glass door.\n\nHe caught himself against the counter."
+    },
+    {
+      "id": "SMA-EDIT-006", "lines": [105, 105], "issues": [8], "proposals": [6],
+      "purpose": "Complete the shared tray's custody beat without transferring it to the future.",
+      "risk": "Makes the object rule more legible without stating a universal law from one observation.",
+      "after": "The tray did not fall. The young man steadied it against his hip, and Daniel let go. The brass stayed bright."
+    },
+    {
+      "id": "SMA-EDIT-007", "lines": [123, 123], "issues": [26], "proposals": [13],
+      "purpose": "Keep the worn items in Daniel's glance consistent with the flashlight resting on the counter.",
+      "risk": "Minimal list trim; no character design changes.",
+      "after": "Daniel looked down at himself: damp chore jacket, gloves, conservation glasses sliding down his nose."
+    },
+    {
+      "id": "SMA-EDIT-008", "lines": [133, 133], "issues": [11], "proposals": [9],
+      "purpose": "Tie the year to the archive evidence and keep it a hypothesis until Tomas answers.",
+      "risk": "Briefly explicit about Daniel's reasoning; preserves the sensuous kitchen detail and later question.",
+      "after": "Daniel's pulse hammered at the base of his throat. Nineteen eighty-six, he thought, because that was the year in the fire report. A guess, not evidence. Behind the man, a ceiling fan turned lazily. A woman shouted for two coffees. Someone outside called a platform number. Rain shone on the windows, but the windows were whole."
+    },
+    {
+      "id": "SMA-EDIT-009", "lines": [253, 253], "issues": [5], "proposals": [3],
+      "purpose": "Keep the hatch in the established back wall rather than moving it between the men.",
+      "risk": "None beyond the approved spatial choice.",
+      "after": "Behind Tomas, the service window slid open by itself."
+    },
+    {
+      "id": "SMA-EDIT-010", "lines": [263, 263], "issues": [5, 26], "proposals": [3, 13],
+      "purpose": "Move both men to opposite faces of the hatch in their own eras, carrying the needed props.",
+      "risk": "Adds a brief transit beat within the 12:02 minute; the later reading check must preserve urgency without rushing contact.",
+      "after": "Daniel flexed his fingers. The pain was gone, leaving only a memory of heat.\n\nTomas picked up the tray and retreated through the kitchen doorway. Daniel fetched his folder and flashlight, walked around the end of his ruined counter, and stopped at the service window. Tomas waited on the kitchen side. Broken tile stayed beneath Daniel's boots.\n\nHe set the folder by his boot and laid the flashlight along the sill."
+    },
+    {
+      "id": "SMA-EDIT-011", "lines": [265, 271], "issues": [8], "proposals": [6],
+      "purpose": "Distinguish a briefly shared saucer from completed forward transfer.",
+      "risk": "Selects a cause for the source's one perfect second; does not settle repeated-crossing behavior.",
+      "after": "Tomas picked up one roll from the tray with brass tongs. It was small, soft, and dusted with sugar. He placed it on a white saucer and pushed it into the window.\n\nDaniel took the near rim. For one impossible second, they held the saucer between them and the bread remained perfect.\n\nThen Tomas let go, and Daniel drew it fully onto his side.\n\nTime took its fee."
+    },
+    {
+      "id": "SMA-EDIT-012", "lines": [275, 275], "issues": [8], "proposals": [6],
+      "purpose": "Keep Daniel already holding the saucer when aging completes.",
+      "risk": "Preserves forty-year aging as the chapter's observed premise, not a researched material-aging claim.",
+      "after": "In Daniel's hands, the roll was forty years old."
+    },
+    {
+      "id": "SMA-EDIT-013", "lines": [297, 297], "issues": [5, 26], "proposals": [3, 13],
+      "purpose": "Set down the saucer and account for the flashlight and dropped token before the first paper exchange.",
+      "risk": "Adds small handling detail; leaves the token in the present rather than inventing recovery or proof of activation.",
+      "after": "Daniel set the saucer on the sill and checked his pockets. Notebook. Pencil. Phone. Cotton sample envelopes. His flashlight lay beside the ruined bread. The brass token was still on the floor by the counter."
+    },
+    {
+      "id": "SMA-EDIT-014", "lines": [317, 317], "issues": [8], "proposals": [6],
+      "purpose": "Show unchanged backward transfer instead of an unexplained physical transformation.",
+      "risk": "Narrows the source's ambiguous 'became too white' wording; no reverse-aging or preservation exception is asserted.",
+      "after": "The paper stayed white and crisp, unchanged against the old cafe. Tomas held it like evidence of a future crime."
+    },
+    {
+      "id": "SMA-EDIT-015", "lines": [329, 329], "issues": [28], "proposals": [13],
+      "purpose": "Trim one repeated hair movement while preserving the note's emotional pause.",
+      "risk": "Small reduction in physical description; signature hair, tactile imagery and the earlier comic beat remain.",
+      "after": "For a moment the noise of the 1986 station softened around him. He read the note a second time, slower."
+    },
+    {
+      "id": "SMA-EDIT-016", "lines": [343, 343], "issues": [5, 26], "proposals": [3, 13],
+      "purpose": "Make the flashlight fall from its established location.",
+      "risk": "The sound and Lilia's response remain in the same order.",
+      "after": "Daniel's flashlight rolled off the sill on his side and hit the floor. The sound cracked through both rooms."
+    },
+    {
+      "id": "SMA-EDIT-017", "lines": [377, 387], "issues": [12], "proposals": [9],
+      "purpose": "Let Daniel register both the failed signal and broker, with redevelopment context but no premature verdict.",
+      "risk": "Links the broker to Daniel's current concern as an inference, not evidence of guilt; retains Tomas's flirtation response.",
+      "after": "Daniel's pencil stopped. He wrote SOUTHBOUND SIGNAL first. Then BROKER. The banner outside had made that occupation difficult to ignore.\n\n\"The broker in the white suit?\"\n\nTomas tilted his head. \"That is what you heard?\"\n\n\"Who was he?\"\n\n\"Arturo Salcedo. He has been visiting the station offices all month. Smiles like a knife under a napkin.\"\n\nDaniel wrote the name beside the failed signal. Two things to check. Neither was an answer."
+    },
+    {
+      "id": "SMA-EDIT-018", "lines": [391, 391], "issues": [5], "proposals": [3],
+      "purpose": "Keep the current contact surface consistent after the move.",
+      "risk": "Terminology repair only.",
+      "after": "On his side of the service window, dust lifted as if someone had exhaled from beneath the floorboards."
+    },
+    {
+      "id": "SMA-EDIT-019", "lines": [425, 425], "issues": [7, 8], "proposals": [5, 6],
+      "purpose": "Give Tomas time, a visible pencil and a completed return before closure without revealing his reply early.",
+      "risk": "Adds Tomas's apron-pencil handling and hurried writing. Returning paper is visible before closure; the exact tender reply remains a later reveal. No post-closure crossing is permitted.",
+      "after": "Only warmth.\n\nTomas drew a pencil from his apron and bent over the page. Daniel watched his hand move, then glanced at the clock.\n\nThe paper slid back across the sill. Tomas let go. It yellowed as it cleared the opening, one corner catching in a split in the charred wood. Daniel reached for it."
+    },
+    {
+      "id": "SMA-EDIT-020", "lines": [433, 433], "issues": [6], "proposals": [4],
+      "purpose": "Remove the 1986 view at closure without restoring and breaking Daniel's own furnishings again.",
+      "risk": "Keeps the sensory collapse but changes the explanation of the spectacle.",
+      "after": "The lit kitchen vanished. So did the bread-filled case beyond the counter. Darkness swallowed the far side of the room, leaving only the ruin Daniel had entered. Rain was loud again. Cold air struck his face so suddenly he staggered."
+    },
+    {
+      "id": "SMA-EDIT-021", "lines": [443, 443], "issues": [7], "proposals": [5],
+      "purpose": "Release the already-returned corner mechanically after closure.",
+      "risk": "The delayed fall is no longer unexplained time travel. The timing, aged note and emotional reveal are preserved.",
+      "after": "Then the pale corner came free of the split wood. The paper settled on the sill, on Daniel's side of the closed window."
+    },
+    {
+      "id": "SMA-EDIT-022", "lines": [461, 461], "issues": [26], "proposals": [13],
+      "purpose": "Recover the flashlight before Daniel uses it for the final scratched warning.",
+      "risk": "Adds necessary handling without resolving the scratch's author or the first photograph's contents.",
+      "after": "He folded the page with a conservator's care and placed it in an acid-free sleeve. Then he retrieved the flashlight from the floor and turned its beam toward the cafe door."
+    }
+  ]
+}

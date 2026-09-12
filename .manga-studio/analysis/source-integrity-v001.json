@@ -1,0 +1,166 @@
+{
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "checked_at": "2026-09-05T03:31:34.071244+00:00",
+  "original_candidates_checked": 25,
+  "original_story_sources_checked": 24,
+  "snapshots_checked": 24,
+  "normalized_derivatives_checked": 24,
+  "active_source_maps_checked": 24,
+  "originals_byte_identical": true,
+  "provenance_errors": [],
+  "source_map_errors": [],
+  "records": [
+    {
+      "relative_path": ".gitignore",
+      "baseline_sha256": "0023a8451349dcffe9d0427da41f1fc5cc83ef150a9a8fde19b40b757628a83f",
+      "current_sha256": "0023a8451349dcffe9d0427da41f1fc5cc83ef150a9a8fde19b40b757628a83f",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "AppCover/README.md",
+      "baseline_sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+      "current_sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "baseline_sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52",
+      "current_sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "baseline_sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4",
+      "current_sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "baseline_sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+      "current_sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "baseline_sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3",
+      "current_sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "baseline_sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef",
+      "current_sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "baseline_sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4",
+      "current_sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "baseline_sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381",
+      "current_sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "baseline_sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f",
+      "current_sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "baseline_sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b",
+      "current_sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "baseline_sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181",
+      "current_sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "baseline_sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919",
+      "current_sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "baseline_sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1",
+      "current_sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "baseline_sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133",
+      "current_sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "baseline_sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a",
+      "current_sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "baseline_sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e",
+      "current_sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "baseline_sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+      "current_sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "baseline_sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae",
+      "current_sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "baseline_sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+      "current_sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/README.md",
+      "baseline_sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+      "current_sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "Comics/style-guide.md",
+      "baseline_sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+      "current_sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "README.md",
+      "baseline_sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d",
+      "current_sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "characters.md",
+      "baseline_sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+      "current_sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+      "byte_identical": true
+    },
+    {
+      "relative_path": "series-plan.md",
+      "baseline_sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+      "current_sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+      "byte_identical": true
+    }
+  ],
+  "scope_note": "24 story documents and .gitignore were hashed before import and rechecked. No writes were made to originals. Runtime active source maps, snapshots, and normalized hashes were also checked. Historical parser maps remain preserved."
+}

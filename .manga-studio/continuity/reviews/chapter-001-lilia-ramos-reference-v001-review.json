@@ -1,0 +1,52 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-lilia-ramos-reference-v001-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/lilia-ramos-v001/candidate.png",
+  "status": "changes_requested",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "LILIA-V001-OUT-001",
+      "message": "The received file is a 1024x1536 PNG with SHA-256 875f81d75777ba64f726b13d5b715916d75f717ef6d7dfa0d932267b4630470a and contains Lilia Ramos only."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V001-OUT-002",
+      "message": "Layout and core identity pass. Exactly six separated studies appear in the required two-column, three-row order, with a coherent 53-year-old broad-shouldered woman, thick silver-streaked hair in a practical coil, round glasses, rolled sleeves, dark full apron, sturdy work shoes, clearly constructed hands, and a rosary wrapped around one wrist."
+    },
+    {
+      "severity": "error",
+      "code": "LILIA-V001-OUT-003",
+      "message": "The forearm markings do not read unambiguously as one old kitchen burn scar. Branching and patterned linework appears across both forearms and can be read as botanical tattoos, body art, or multiple scars. Approving it would add unsupported body markings and make the intended burn scar difficult to reproduce consistently."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V001-OUT-004",
+      "message": "The candidate otherwise preserves a useful proposed identity: blunt warm expression, capable maternal presence, stable hair and glasses, solid adult proportions, practical kitchen clothing, distinct rosary beads and crucifix, readable hands and feet, and no environment, plot action, plot prop, text, logo, signature, watermark, supernatural aura, or cinematic effect."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V001-OUT-005",
+      "message": "The printed-manga finish passes with clean variable ink contours, restrained flat tone, sparse hatching, controlled blacks, crisp bust boundaries, matte clothing, and white paper."
+    },
+    {
+      "severity": "warning",
+      "code": "LILIA-V001-OUT-006",
+      "message": "Lilia remains storyboard-conditional and off-panel in the current approved story state. Even a corrected candidate cannot be promoted unless an approved storyboard explicitly makes her visible and the user separately approves the visual reference."
+    },
+    {
+      "severity": "warning",
+      "code": "LILIA-V001-OUT-007",
+      "message": "The exact executed image job was not supplied and the Downloads filename omits the planned version suffix. A correction must be a distinct file named lilia-ramos-reference-v002.png rather than overwriting or promoting this candidate."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V001-OUT-008",
+      "message": "No image was edited, regenerated, converted, renamed, or promoted. The Downloads original remains unchanged and a byte-identical copy is retained only as internal review evidence."
+    }
+  ]
+}

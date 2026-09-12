@@ -1,0 +1,194 @@
+{
+  "record_type": "recommended_project_configuration",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "proposed_not_approved",
+  "project_root": ".",
+  "fixed_settings": {
+    "source_language": "en",
+    "manga_output_language": "en",
+    "analysis_depth": "comprehensive",
+    "production_quality_profile": "high",
+    "artwork_by_codex": "prohibited",
+    "external_manuscript_search_upload_publication": "prohibited"
+  },
+  "primary_genre": {
+    "value": "Adult BL time-slip romance",
+    "confidence": "high",
+    "basis": {
+      "source_relative_path": "README.md",
+      "lines": [
+        3,
+        20
+      ]
+    },
+    "note": "Adult describes the leads and emotional treatment, not an automatically explicit rating."
+  },
+  "secondary_genres": {
+    "value": [
+      "historical mystery",
+      "emotional thriller",
+      "grounded speculative drama"
+    ],
+    "confidence": "high for first two; interpretive for third",
+    "basis": {
+      "source_relative_path": "README.md",
+      "lines": [
+        3,
+        28
+      ]
+    }
+  },
+  "intended_audience": {
+    "value": "Older-teen and adult readers drawn to restrained queer intimacy, material clues, and time-slip suspense.",
+    "status": "reader hypothesis, untested",
+    "age_focus": "adult protagonists, 36 and 28 in their respective eras",
+    "gender_demographic": "No reader gender assumed; BL does not establish who must read it."
+  },
+  "content_rating": {
+    "value": "Provisional 16+ editorial guidance for suspense, death/fire themes, and danger; no explicit sexual content or graphic violence in the available chapter.",
+    "status": "recommendation, not a platform classification",
+    "decision_needed": "Confirm intended intimacy, violence, ending tone, and publication venue before adopting a rating.",
+    "basis": {
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "lines": [
+        11,
+        474
+      ]
+    }
+  },
+  "story_format": {
+    "observed": "One chapter-based close-third prose opening with an archive prelude and a continuous station encounter; fourteen legacy adaptation page scripts.",
+    "recommended": "Chapter-based romantic mystery; preserve the existing chapter and title, use scene state changes to determine pacing.",
+    "future_arcs": "Seven outlined arcs; 105 chapters is an aspiration in the notes, not a validated commitment."
+  },
+  "reading_direction": {
+    "value": "left-to-right",
+    "status": "reversible working recommendation",
+    "reason": "English output and no explicit source direction. Confirm before an approved storyboard or layout is produced."
+  },
+  "manga_format": {
+    "value": "Paged monochrome manga with English lettering; color covers treated separately.",
+    "status": "source-supported format; exact dimensions provisional",
+    "page_count": "Fourteen pages is the current Chapter 1 script count, not a locked target.",
+    "interior_dimensions": {
+      "width_px": 1654,
+      "height_px": 2339,
+      "status": "runtime placeholder; not a print-ready specification"
+    },
+    "cover_dimensions": {
+      "width_px": 1536,
+      "height_px": 2304,
+      "status": "legacy app-cover request, not approved output"
+    },
+    "evidence": [
+      {
+        "source_relative_path": "Comics/style-guide.md",
+        "lines": [
+          5,
+          20
+        ]
+      },
+      {
+        "source_relative_path": "AppCover/README.md",
+        "lines": [
+          11,
+          12
+        ]
+      }
+    ],
+    "later_requirements": [
+      "event-driven page intent",
+      "explicit reading sequence",
+      "geometry-only nemu",
+      "one dominant panel event",
+      "motivated camera variation",
+      "structured SFX",
+      "separate lettering",
+      "approved hash-locked visual references",
+      "structured ChatGPT image jobs and exact attachment checklists"
+    ]
+  },
+  "reconstruction_policy": {
+    "preferred": "Balanced, evidence-led repair for later approval",
+    "status": "recommendation only; no revision plan or manuscript executed",
+    "protected": [
+      "source bytes and original paths",
+      "Daniel and Tomas as adults",
+      "distinct professional and hospitality voices",
+      "chosen-family warmth",
+      "grounded San Aurelio setting and civic stakes",
+      "object-mediated intimacy",
+      "limited and costly connection",
+      "existing titles and chapter order unless explicitly changed"
+    ],
+    "permitted_only_after_plan_approval": [
+      "new manuscript versions",
+      "new script and reference-text versions",
+      "minimal causal bridges",
+      "consistent identities and physical rules",
+      "evidence and knowledge sequencing",
+      "selective repetition trimming"
+    ],
+    "requires_specific_decision": [
+      "Lilia/Inez and Arturo/Rafael identities",
+      "date progression and fire deadline",
+      "object-protection and delayed-reply rules",
+      "historical-change and memory model",
+      "cafe geometry",
+      "long-series scope changes",
+      "setting and ending promise"
+    ],
+    "not_authorized": [
+      "overwriting originals",
+      "automatic canon adoption",
+      "approving artifacts or setting locks",
+      "artwork generation or correction",
+      "publishing or pushing audit materials"
+    ]
+  },
+  "creative_goals": [
+    "Make intimacy grow through specific shared work, humor, and objects.",
+    "Make historical investigation change both the rescue problem and the relationship.",
+    "Let Tomas choose and investigate, not merely be rescued.",
+    "Preserve an evidence-focused viewpoint while keeping the cafe uncanny.",
+    "Connect institutional erasure and personal preservation without turning theme into lectures."
+  ],
+  "reader_promise": {
+    "proposed": "Two adult men build something real in seven-minute meetings; every material clue and attempt to protect each other makes their impossible connection more consequential.",
+    "ending": "Hopeful, bittersweet, or tragic resolution remains an author decision; do not advertise an unchosen ending.",
+    "status": "evidence-based interpretation, not adopted creative brief"
+  },
+  "definition_of_success": {
+    "proposed": [
+      "A reader can identify what each lead knows, wants, and risks at every turn.",
+      "Each recurring clue or meeting changes knowledge, agency, danger, or intimacy.",
+      "Time rules constrain the resolution without an unprepared exception.",
+      "The ending pays off the central relationship and fire investigation.",
+      "The creator can complete and review a sustainable release unit while retaining voice and source traceability."
+    ],
+    "commercial_success": "No claim or forecast; audience response must be tested.",
+    "metrics": "Phase 3 will select one to three measures after audit approval; none is presented as validated now."
+  },
+  "scope_pacing_release": {
+    "first_focus": "Resolve audit decisions, then develop and evaluate the opening three-chapter sequence, beginning with the one supplied chapter; locate Chapter 2 or explicitly choose future drafting.",
+    "arc_model": "Keep the existing 15-chapter Arc 1 as a provisional envelope; permit chapter length and scene count to follow events after plan approval.",
+    "long_series": "Defer commitment to arcs 2-7 and 105 chapters until distinct arc payoffs and production capacity are demonstrated.",
+    "release_structure": "Chapter episodes grouped into seasons; no fixed weekly or monthly promise yet.",
+    "buffer": "Recommend a small completed-unit buffer before release; exact size and cadence require creator capacity and external art turnaround evidence.",
+    "pacing": "Retain quiet relational beats between investigative escalations; each meeting must change a meaningful state. Avoid mandatory cliffhangers or equal arc lengths.",
+    "status": "proposed; no publishing, scheduling, or community action authorized"
+  },
+  "open_decisions": [
+    "Accept this as an audit of all available sources, while explicitly excluding unavailable Chapter 2/images, or supply recovered source material for an extended audit.",
+    "Approve diagnostic findings as a basis for Phase 3 planning, with corrections recorded.",
+    "During Phase 3, decide identity reconciliation, cafe/calendar/rule model, independent character goals, scope, setting, and ending boundaries.",
+    "Approve a preferred reconstruction option and dependency-ordered revision plan before any manuscript reconstruction.",
+    "Approve any canon adoption or stage lock separately and explicitly."
+  ],
+  "assumptions": [
+    "No platform, budget, schedule, formal rights documentation, reader research, or historical-research pack was supplied.",
+    "The source's Filipino-coded cues do not establish a country or exact real station.",
+    "No originality clearance or market demand is inferred from differentiation notes."
+  ]
+}

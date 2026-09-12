@@ -1,0 +1,47 @@
+{
+  "record_type": "generated_character_reference_intake",
+  "version": "v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-12T12:16:53Z",
+  "author_request": "arturo-salcedo.png is now available on my downloads and ready for approval that is under seven-minutes-after-midnight directory",
+  "received_source": {
+    "path": "/Users/edmarsanchez/Downloads/seven-minutes-after-midnight/arturo-salcedo.png",
+    "bytes": 1881216,
+    "sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96"
+  },
+  "retained_candidate": {
+    "path": ".manga-studio/continuity/reference-candidates/arturo-salcedo-v001/candidate.png",
+    "sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "encoded_color_space": "RGB",
+    "alpha": false
+  },
+  "subject_determination": "The image contains six proposed studies of Arturo Salcedo only.",
+  "comparison_evidence": {
+    "generation_brief": {
+      "path": "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",
+      "sha256": "bebfc0f5e5138957fdc02e70eb19439240a74f726cf0e81533016bfc2b27e54d",
+      "usage": "Required six-view arrangement, written appearance, exclusions, conditional status, and printed-manga finish."
+    },
+    "active_manuscript": {
+      "path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+      "usage": "Approved Chapter 1 role and reported-business context."
+    }
+  },
+  "input_image_attachment": "none",
+  "actual_generation_job_provenance": "not_supplied",
+  "review_path": ".manga-studio/continuity/reviews/chapter-001-arturo-salcedo-reference-v001-review.json",
+  "result": "review_ready_visual_pass",
+  "approval_recommended": true,
+  "approved": false,
+  "storyboard_condition_satisfied": false,
+  "promotion_blocked": true,
+  "automatic_retry": false,
+  "image_generation_enabled": false,
+  "IMAGE_READY": false
+}
+

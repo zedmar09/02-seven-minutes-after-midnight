@@ -1,0 +1,15 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-ff1305ebc49043c58f0058ac403b6400",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "STORY_LOCKED",
+  "status": "cleared",
+  "lock_version": "v002",
+  "recorded_at": "2026-09-12T13:50:34Z",
+  "actor": "user",
+  "notes": "User authorized the controlled Chapter 1 canon v002 adoption and required dependent story/canon locks to be rebound.",
+  "prerequisite_gates": [],
+  "approval_ids": [],
+  "target_hashes": [],
+  "supersedes_lock_id": "lock-21dc582237a144b4bb6c8b190c6dc147"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_id": "SMA-DEC-STRUCTURE-CLEANUP-V001",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "ms-70391ae1065048cf8bdd564959abd6c3"
+  ],
+  "actor": "user",
+  "decided_at": "2026-09-11T04:43:58.599408+00:00",
+  "decision": "Rename and reorganize useful material; remove obsolete working files; follow the existing story layout for consistency.",
+  "rationale": "The user explicitly approved the proposed archival migration and said: yes rename if uses on the story if not remove just follow 100% on the structure on the existing stories for consistencies. Scope is layout and naming, not creative adoption or artwork.",
+  "evidence": [],
+  "result_artifacts": [
+    "README.md",
+    "manga/README.md",
+    ".manga-studio/maintenance/structure-cleanup-v001/archive-manifest.json",
+    ".manga-studio/maintenance/structure-cleanup-v001/working-files.json"
+  ],
+  "supersedes_decision_id": "SMA-DEC-WORKSPACE-STRUCTURE-V001"
+}

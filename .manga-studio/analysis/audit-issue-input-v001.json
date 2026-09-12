@@ -1,0 +1,1458 @@
+{
+  "record_type": "unapproved_audit_issue_input",
+  "version": "v001",
+  "issues": [
+    {
+      "n": 1,
+      "title": "Production notes overstate the available story",
+      "category": "unresolved_plot_thread",
+      "severity": "high",
+      "confidence": 1,
+      "priority": "P1",
+      "kind": "confirmed evidence gap",
+      "description": "README, arc notes, and series plan claim a drafted Chapter 2 and Chapter 1 reader images. The root inventory contains only Chapter 1 prose, fourteen interior page prompts, three cover prompts including the app cover, and supporting notes; no reader image files or second chapter are present.",
+      "why": "An audit cannot claim coverage of unavailable chapters or assess the ending of a 105-chapter plan as completed fiction.",
+      "preserve": "Every existing file and the planned second chapter title.",
+      "solutions": [
+        "Recover the claimed originals into a separately inventoried source addition and extend the audit. Risk: further findings may change priorities.",
+        "Approve an available-material audit and treat Chapter 2 onward as unwritten or unavailable, with later expansion from approved plans. Risk: recovered material may require reconciliation."
+      ],
+      "evidence": [
+        [
+          "readme",
+          "Status: Arc 1 planned."
+        ],
+        [
+          "arc",
+          "16 WebP reader assets present"
+        ],
+        [
+          "series",
+          "Current drafted chapters:"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [],
+      "uncertainty": "Absence is confirmed only within this story root; files could exist elsewhere. No deletion or loss is inferred.",
+      "impact": "Rendered continuity and later chapter pacing cannot be reviewed.",
+      "dependencies": []
+    },
+    {
+      "n": 2,
+      "title": "Lilia becomes Inez in Page 10",
+      "category": "relationship_continuity",
+      "severity": "high",
+      "confidence": 1,
+      "priority": "P1",
+      "kind": "confirmed cross-source contradiction",
+      "description": "The prose calls the kitchen voice Tiya Lilia, and the character reference identifies Lilia Ramos as the cafe owner and chosen aunt. Page 10 assigns the same lines and role to Inez without explanation.",
+      "why": "The adaptation changes a supporting character's identity and obscures the chosen-family relationship.",
+      "preserve": "The off-panel kitchen interruption, payment joke, and chosen-family warmth.",
+      "solutions": [
+        "Use Lilia in a new version of the affected script after approval. Risk: any unavailable artwork would also need reconciliation.",
+        "Retain Inez only through an explicit rename or separate-character decision with all affected references versioned. Risk: unnecessary cast complexity and divergence from prose."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Only the impossible ones, Tiya Lilia."
+        ],
+        [
+          "characters",
+          "- Role: Owner of Cafe Siete in 1986"
+        ],
+        [
+          "p10",
+          "SUPPORTING VOICE - INEZ"
+        ],
+        [
+          "p10",
+          "ONLY THE IMPOSSIBLE ONES, TIYA INEZ."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Lilia Ramos"
+      ],
+      "uncertainty": "No supplied source establishes Inez as an alias or approved replacement; do not silently merge her into canon.",
+      "impact": "Character labels and future voice/reference jobs would carry the wrong identity.",
+      "dependencies": [
+        1
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Arturo becomes Rafael in Page 11",
+      "category": "plot_logic",
+      "severity": "high",
+      "confidence": 1,
+      "priority": "P1",
+      "kind": "confirmed cross-source contradiction",
+      "description": "The prose and character reference name Arturo Salcedo as the visiting broker. Page 11 instead labels the figure and notebook entry Rafael Aragon while retaining Arturo's physical and behavioral traits.",
+      "why": "A mystery depends on stable evidence attribution. A silent suspect rename creates a different apparent suspect.",
+      "preserve": "The untouched coffee, pale suit, human civic menace, and restrained clue delivery.",
+      "solutions": [
+        "Restore Arturo in a newly versioned Page 11 script subject to approval. Risk: later unavailable scripts may have propagated Rafael.",
+        "Approve a deliberate rename and update new versions of every dependent reference. Risk: broad revision for no demonstrated story benefit."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Arturo Salcedo. He has been visiting"
+        ],
+        [
+          "characters",
+          "- Role: Primary human antagonist of Arc 1"
+        ],
+        [
+          "p11",
+          "BACKGROUND FIGURE - RAFAEL ARAGON"
+        ],
+        [
+          "p11",
+          "RAFAEL ARAGON. SMILES LIKE A KNIFE UNDER A NAPKIN."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Arturo Salcedo"
+      ],
+      "uncertainty": "No alias, second broker, or rename decision is supplied.",
+      "impact": "Suspect silhouettes, notebook lettering, and future reference jobs would disagree.",
+      "dependencies": [
+        1
+      ]
+    },
+    {
+      "n": 4,
+      "title": "The adaptation removes the introduction needed for the name clue",
+      "category": "character_knowledge",
+      "severity": "high",
+      "confidence": 0.99,
+      "priority": "P1",
+      "kind": "confirmed adaptation omission",
+      "description": "The prose introduces Daniel and Tomas by name before Daniel recognizes TOMAS on the door. Pages 5-7 omit that exchange, but Page 7 has Daniel say I FOUND YOUR NAME. Character-lock text is not reader-facing dialogue.",
+      "why": "Daniel identifies the stranger's name without the scene supplying how he learned it. A fair mystery should preserve this causal link.",
+      "preserve": "The shock of a scratched future name matching a living person.",
+      "solutions": [
+        "Restore a concise mutual introduction before the scratched-name discussion. Risk: extra lettering requires page rebalance.",
+        "Give Tomas an explicitly staged name-bearing object and let Daniel connect it to the scratch. Risk: invents a prop and weakens the voluntary intimacy of an introduction."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "My name is Daniel Soriano"
+        ],
+        [
+          "chapter",
+          "Tomas Rivera."
+        ],
+        [
+          "p05",
+          "YOU ARE NOT FROM THE EVENING TRAIN."
+        ],
+        [
+          "p06",
+          "PAGE LAYOUT AND SCRIPT"
+        ],
+        [
+          "p07",
+          "I FOUND YOUR NAME."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "uncertainty": "A generated image might add a name, but no images exist here and unrequested additions cannot supply evidence.",
+      "impact": "Repair knowledge order before lettering or panel jobs.",
+      "dependencies": [
+        2,
+        3
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Counter-to-window movement lacks a stable physical layout",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.95,
+      "priority": "P1",
+      "kind": "spatial ambiguity requiring decision",
+      "description": "The service window is behind the counter and opens into the kitchen, yet later opens between the two men, who are already on opposite sides of a shared counter. No movement explains how both access opposite faces of that window.",
+      "why": "The exchange boundary is the central action constraint; confusing its location makes safe touch and prohibited crossing hard to read.",
+      "preserve": "The narrow opening, shared counter, asymmetric damage, and contrast between dangerous and safe contact.",
+      "solutions": [
+        "Approve a simple fixed cafe floor plan and add motivated movement from the counter to the kitchen hatch. Risk: costs a transition beat.",
+        "Define the original counter explicitly as the hatch sill and revise the contradictory spatial descriptions in new versions. Risk: changes the opening's established architecture."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Behind the counter, a narrow service window opened into the kitchen."
+        ],
+        [
+          "chapter",
+          "Between them, the service window slid open by itself."
+        ],
+        [
+          "characters",
+          "- Service Window: Narrow opening between the kitchen and counter."
+        ],
+        [
+          "p08",
+          "The narrow service window slides open by itself between the kitchen and counter."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Cafe Siete",
+        "service window",
+        "shared counter"
+      ],
+      "uncertainty": "An unusual layout or supernatural relocation could explain this, but neither is established.",
+      "impact": "Requires geometry-only staging before panel direction; no artwork needed now.",
+      "dependencies": []
+    },
+    {
+      "n": 6,
+      "title": "The transformation's visible extent is inconsistent in description",
+      "category": "world_rule_continuity",
+      "severity": "medium",
+      "confidence": 0.94,
+      "priority": "P1",
+      "kind": "presentation ambiguity",
+      "description": "The prose first says the painted glass clears and broken stools stand upright, then says Daniel's side remains ruined and the painted door still carries the scratch. Page 4 similarly restores objects around Daniel before later split-era staging.",
+      "why": "Readers need to know whether physical objects restore, an overlay is visible, or only the far side changes, especially when marks become evidence.",
+      "preserve": "The sensory rush of warmth and the striking split between inhabited past and ruined present.",
+      "solutions": [
+        "Limit restoration to Tomas's visible side and define what Daniel feels across the boundary. Risk: slightly reduces the enveloping miracle.",
+        "Keep a transient full-room overlap, explicitly followed by separation. Risk: adds a rule that must remain consistent and may affect later evidence."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "The painted glass cleared."
+        ],
+        [
+          "chapter",
+          "His side of the cafe remained abandoned."
+        ],
+        [
+          "chapter",
+          "On his side, the name remained scratched into old paint."
+        ],
+        [
+          "p04",
+          "Every light in the cafe turns on at once around Daniel."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Cafe Siete",
+        "shared counter"
+      ],
+      "uncertainty": "These passages may describe a subjective overlay, not a factual contradiction; the presentation does not identify it.",
+      "impact": "Value patterns, damage, and the same objects need stable era states.",
+      "dependencies": [
+        5
+      ]
+    },
+    {
+      "n": 7,
+      "title": "The reply arrives after the stated exchange interval",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.98,
+      "priority": "P1",
+      "kind": "unexplained exception, potentially intentional",
+      "description": "After 12:07, closure, and several seconds alone, Daniel's notebook page slips from the sealed window with Tomas's reply. The stated exchange rules restrict the reliable connection to seven minutes.",
+      "why": "This powerful ending can become an unlimited communication loophole unless delayed delivery has a bounded cause.",
+      "preserve": "I will bring better bread, the smoke-stained aged page, and Daniel's broken laugh.",
+      "solutions": [
+        "Show the paper already caught beneath the closing sill, released seconds later. Risk: makes the wonder more mechanically explicit.",
+        "Approve a narrowly defined delayed-return mechanism and track its cost and limits. Risk: adds complexity and invites attempts to bypass the countdown."
+      ],
+      "evidence": [
+        [
+          "readme",
+          "1. The abandoned railway cafe returns to life"
+        ],
+        [
+          "chapter",
+          "For several seconds he did not move."
+        ],
+        [
+          "chapter",
+          "Then something pale slipped from the sealed service window"
+        ],
+        [
+          "p13",
+          "A yellowed notebook page slips from beneath it"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "service window",
+        "notebook reply"
+      ],
+      "uncertainty": "Delivery could be physical release rather than a new crossing. The audit does not declare time travel impossible or demand immediate exposition.",
+      "impact": "A panel must distinguish a caught page from a reopened connection.",
+      "dependencies": [
+        5,
+        6
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Object protection and backward adaptation are undefined",
+      "category": "world_rule_continuity",
+      "severity": "high",
+      "confidence": 0.98,
+      "priority": "P1",
+      "kind": "rule specification gap",
+      "description": "The rules permit objects to avoid forty years of aging if protected by the interval, but the pastry ages while the interval is active. Backward objects later adapt to the older time, without a defined trigger or physical effect. The preserved note and ordinary notebook page are separate objects.",
+      "why": "Letters, pastries, photographs, and evidence are the romance and investigation engine. Undefined exceptions let any later outcome seem convenient.",
+      "preserve": "Asymmetric travel, tactile aging, and archival materials as Daniel's meaningful contribution.",
+      "solutions": [
+        "Specify testable conditions for aging and protection privately, then reveal them through small experiments. Risk: excessive testing could crowd intimacy.",
+        "Remove the protection exception from proposed canon and keep consistent forward aging plus ordinary preservation. Risk: restricts future pastry and letter possibilities."
+      ],
+      "evidence": [
+        [
+          "readme",
+          "5. Objects passed from 1986 to 2026 arrive aged"
+        ],
+        [
+          "readme",
+          "6. Objects passed from 2026 to 1986"
+        ],
+        [
+          "chapter",
+          "For one impossible second, it remained perfect."
+        ],
+        [
+          "chapter",
+          "The paper did not age."
+        ],
+        [
+          "chapter",
+          "Tomas folded the sleeve and tucked it carefully"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "archival sleeve",
+        "notebook reply",
+        "aged pastry"
+      ],
+      "uncertainty": "No demonstrated protective technique or completed post-closure observation of the first sleeve exists.",
+      "impact": "Each exchange needs before/after state and custody; avoid conflating the two notes.",
+      "dependencies": [
+        7
+      ]
+    },
+    {
+      "n": 9,
+      "title": "Historical-warning costs need a consistent causal model",
+      "category": "causality",
+      "severity": "high",
+      "confidence": 0.96,
+      "priority": "P1",
+      "kind": "planned rule gap",
+      "description": "Direct warnings shorten the connection; coded clues do less damage but the cafe understands intent. Minute loss does not recover easily, implying unspecified recovery. No supplied scene establishes a baseline cost, threshold, or distinction between ordinary flicker and permanent loss.",
+      "why": "The central dilemma needs consequential choices the reader can learn from. Punishment based on unseen intent risks feeling author-controlled.",
+      "preserve": "Saving Tomas threatens the means of knowing him; indirect communication should create moral and emotional pressure.",
+      "solutions": [
+        "Approve a private rule matrix with triggers, observables, and recovery limits; dramatize the first measurable loss. Risk: makes a poetic mechanism more constrained.",
+        "Retain uncertainty for the characters but establish repeated observable cause/effect for readers. Risk: deliberate ambiguity must still avoid arbitrary exceptions."
+      ],
+      "evidence": [
+        [
+          "readme",
+          "8. Direct warnings about major historical events"
+        ],
+        [
+          "readme",
+          "9. Indirect clues, coded letters"
+        ],
+        [
+          "readme",
+          "10. The cafe clock records the remaining connection."
+        ],
+        [
+          "chapter",
+          "The lights flickered."
+        ],
+        [
+          "series",
+          "6. Archive Box 7-M"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "cafe clock",
+        "connection cost"
+      ],
+      "uncertainty": "Chapter 1 still reaches 12:07. Its flickers and painful touch are not evidence of a shortened first meeting.",
+      "impact": "Clock inserts must distinguish elapsed time from lost capacity.",
+      "dependencies": [
+        8,
+        10
+      ]
+    },
+    {
+      "n": 10,
+      "title": "Calendar progression and the fire deadline are not yet specified",
+      "category": "timeline",
+      "severity": "high",
+      "confidence": 0.99,
+      "priority": "P1",
+      "kind": "unknown requiring decision",
+      "description": "Tomas gives October 17, 1986, and Daniel gives only 2026. The opening says 11:41 PM but does not establish Daniel's calendar date. Notes describe both nightly recurrence and two specific nights; the fire's exact date and how successive meetings advance each era are unavailable.",
+      "why": "The number of nights before the fire governs rescue urgency, chapter pacing, and whether a long serial can fit the story's clock.",
+      "preserve": "The forty-year separation and the opening's 12:00-to-12:07 experience.",
+      "solutions": [
+        "Choose paired advancing dates and a defined private fire deadline. Risk: imposes a finite timeline and constrains expansion.",
+        "Use deliberately repeated or nonconsecutive past nights, with a consistent mapping rule. Risk: substantially increases reader load and reconstruction scope."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "At 11:41 PM"
+        ],
+        [
+          "chapter",
+          "October seventeenth."
+        ],
+        [
+          "chapter",
+          "Twenty twenty-six"
+        ],
+        [
+          "readme",
+          "It is a fragile wound between two specific nights."
+        ],
+        [
+          "readme",
+          "1. The abandoned railway cafe returns to life"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "first meeting",
+        "station fire",
+        "Cafe Siete"
+      ],
+      "uncertainty": "Do not assume October 17, 2026, an October 17 fire, or equal date advancement. A year offset alone does not establish exact elapsed days.",
+      "impact": "Every future page needs explicit era/date state where chronology matters.",
+      "dependencies": []
+    },
+    {
+      "n": 11,
+      "title": "Daniel knows the exact past year before receiving evidence",
+      "category": "character_knowledge",
+      "severity": "medium",
+      "confidence": 0.95,
+      "priority": "P2",
+      "kind": "point-of-view interpretation risk",
+      "description": "Before Tomas states the year, the close Daniel narration says the kitchen lived in 1986 and that he knew it before proof. His archives are from 1986, but the visible cafe details do not uniquely establish that year.",
+      "why": "A protagonist defined by evidence loses some credibility when precise knowledge arrives as certainty without a marked intuition.",
+      "preserve": "Daniel's expertise and the uncanny feeling that the archive has become alive.",
+      "solutions": [
+        "Frame 1986 as a hypothesis tied to the archive, then let Tomas verify it. Risk: slightly softens the lyrical certainty.",
+        "Keep the intuition as a deliberate supernatural symptom with later accountable payoff. Risk: adds a new ability or mystery requiring approval."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Behind the man, the kitchen lived in 1986."
+        ],
+        [
+          "chapter",
+          "Nineteen eighty-six"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano"
+      ],
+      "uncertainty": "This may be expressive narration rather than literal knowledge; revise only if the intended viewpoint is strict close third.",
+      "impact": "Use an inference caption only if needed; avoid presenting guessed dates as proven visual labels.",
+      "dependencies": [
+        10
+      ]
+    },
+    {
+      "n": 12,
+      "title": "The white suit attracts investigative focus without a stated link",
+      "category": "causality",
+      "severity": "medium",
+      "confidence": 0.9,
+      "priority": "P2",
+      "kind": "under-motivated inference",
+      "description": "Daniel singles out the white suit from a list that also includes a failed signal. The opening evidence contains no stated white-suit connection, and Page 11 labels the broker as a suspect or important clue.",
+      "why": "A fair investigation benefits from a reason for choosing one lead; otherwise the narrative appears to identify the antagonist for Daniel.",
+      "preserve": "Tomas's observant humor and Daniel missing the compliment while investigating.",
+      "solutions": [
+        "Supply a small existing-record connection before Daniel focuses on the suit. Risk: extra opening information may telegraph the suspect.",
+        "Let Daniel ask neutrally about both the broker and signal, with suspicion emerging from later corroboration. Risk: slightly longer exchange."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "A broker in a white suit bought coffee and did not drink it."
+        ],
+        [
+          "chapter",
+          "White suit?"
+        ],
+        [
+          "p11",
+          "Daniel's pencil stopping over the notebook"
+        ],
+        [
+          "p11",
+          "a suspect or important clue"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Arturo Salcedo"
+      ],
+      "uncertainty": "A conservator can follow a hunch; this is a motivation-strengthening opportunity, not proof of impossible knowledge.",
+      "impact": "Avoid villain framing that resolves the mystery before evidence does.",
+      "dependencies": [
+        3,
+        10
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Page 14 overstates what the final warning proves",
+      "category": "character_knowledge",
+      "severity": "high",
+      "confidence": 0.98,
+      "priority": "P1",
+      "kind": "confirmed script-evidence mismatch",
+      "description": "Page 14 says Daniel found a warning the official archive did not contain and depicts the moment as a murder mystery. The opening archive already places the fire in the service corridor. The new fact is the scratched warning's form, apparent age, and proximity to TOMAS, not a new corridor location or confirmed murder.",
+      "why": "The ending should escalate the right question without granting Daniel knowledge of Tomas's death or targeted arson before he has it.",
+      "preserve": "The transition from intimate proof to danger and the scratch beneath Tomas's name.",
+      "solutions": [
+        "Clarify that the warning makes the known fire personal and suspicious; save proof of death and intent for later evidence. Risk: less overt murder language.",
+        "Add a precise discrepancy between the archive and the scratch in a future revision. Risk: introduces a new clue that must be approved and tracked."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "The station fire report listed an electrical fault in a service corridor"
+        ],
+        [
+          "chapter",
+          "FIRE STARTS IN THE SERVICE CORRIDOR."
+        ],
+        [
+          "p14",
+          "the moment the romance becomes a murder mystery."
+        ],
+        [
+          "p14",
+          "a warning that the official archive did not contain."
+        ],
+        [
+          "readme",
+          "3. The Baker In The Newspaper Photograph"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "station fire"
+      ],
+      "uncertainty": "The literal scratched imperative is new; the location is not. Death and arson remain planned revelations, not proved Chapter 1 facts.",
+      "impact": "Caption, expression direction, and later reveal order must agree.",
+      "dependencies": [
+        4,
+        12
+      ]
+    },
+    {
+      "n": 14,
+      "title": "The late-night site visit needs a specific practical reason",
+      "category": "character_motivation",
+      "severity": "medium",
+      "confidence": 0.86,
+      "priority": "P2",
+      "kind": "plausibility opportunity",
+      "description": "Daniel has permits and an archive assignment, but his choice to inspect the damaged station alone at 11:41 PM has no concrete deadline, access constraint, or immediate objective beyond inventory.",
+      "why": "One purposeful reason would make the opening encounter feel caused by his choices rather than a convenient appointment with the premise.",
+      "preserve": "The permitted professional visit, institutional satire, and Daniel's stubborn dedication.",
+      "solutions": [
+        "Establish a time-limited access or evidence-preservation reason. Risk: invented operational detail needs approval.",
+        "Make his deliberate after-hours return an emotionally meaningful rule break with later consequences. Risk: changes his professional characterization."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "The mayor wanted a clean display case before demolition began."
+        ],
+        [
+          "chapter",
+          "At 11:41 PM"
+        ],
+        [
+          "p02",
+          "an authorized side entrance with permit folder"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "San Aurelio Junction"
+      ],
+      "uncertainty": "No real-world workplace rule has been researched; this is narrative motivation, not a safety or professional-practice verdict.",
+      "impact": "A short visual objective may replace additional exposition.",
+      "dependencies": []
+    },
+    {
+      "n": 15,
+      "title": "Tomas's independent want is less developed than his rescue function",
+      "category": "character_arc",
+      "severity": "medium",
+      "confidence": 0.9,
+      "priority": "P2",
+      "kind": "forward-looking characterization gap",
+      "description": "Tomas acts in Chapter 1: he offers bread, asks for a return object, and agrees to meet again. The reference emphasizes his warmth, concealed loneliness, and status as a target, but gives no concrete personal goal that can conflict with Daniel's rescue plan.",
+      "why": "A long romance needs Tomas to make consequential choices beyond being loved, endangered, or saved.",
+      "preserve": "His initiative, competence, teasing, chosen family, and bravery under fear.",
+      "solutions": [
+        "Develop an independent obligation or goal from the cafe and notebook material, allowing Tomas to reject a rescue method. Risk: adds plot work and must be approved.",
+        "Keep the scope intimate and build his arc through choices about trust, disclosure, and Lilia. Risk: may not support the proposed 105 chapters."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Can you send something back?"
+        ],
+        [
+          "characters",
+          "- Story Function: Gives the cafe its warmth"
+        ],
+        [
+          "characters",
+          "- Story Function: May have arranged the fire"
+        ],
+        [
+          "characters",
+          "- Tomas's central fear:"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Tomas Rivera",
+        "Lilia Ramos"
+      ],
+      "uncertainty": "One opening chapter need not complete his arc; the gap concerns architecture for continuation, not absence of all agency.",
+      "impact": "Give Tomas observable decisions and work outside Daniel's gaze in later approved scripts.",
+      "dependencies": [
+        10
+      ]
+    },
+    {
+      "n": 16,
+      "title": "Daniel's emotional need is suggested, while specific grief is unknown",
+      "category": "character_arc",
+      "severity": "medium",
+      "confidence": 0.91,
+      "priority": "P2",
+      "kind": "interpretation requiring author choice",
+      "description": "Daniel trusts paper more than people, presents I am real, and fears losing the encounter. Notes prescribe adults carrying grief but supply no event explaining his isolation or a particular bereavement.",
+      "why": "Reconstruction could accidentally invent trauma or reduce his growth to receiving romance. His conflict between preserving evidence and accepting a living person's agency is already stronger material.",
+      "preserve": "Emotional caution, tactile care, dry humor, and tenderness leaking through professional ritual.",
+      "solutions": [
+        "Build his need around relinquishing control and treating Tomas as a partner; leave personal history understated. Risk: interior change requires precise behavioral beats.",
+        "Approve a specific grief history and connect it sparingly to present choices. Risk: risks formulaic backstory and extra exposition."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Daniel Soriano trusted paper more than people."
+        ],
+        [
+          "chapter",
+          "Daniel wished he had written something better."
+        ],
+        [
+          "characters",
+          "- Personality: Patient, precise, lonely without admitting it"
+        ],
+        [
+          "readme",
+          "adults carrying grief quietly"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "uncertainty": "Distrust, loneliness, fear of impermanence, and need for connection are interpretations; no deceased lover or family trauma is canon.",
+      "impact": "Preserve the note and hand acting; do not replace them with explanatory flashbacks by default.",
+      "dependencies": [
+        15
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Supporting-cast secrets are promises rather than causal architecture",
+      "category": "character_motivation",
+      "severity": "medium",
+      "confidence": 0.94,
+      "priority": "P2",
+      "kind": "outline incompleteness",
+      "description": "Maribel will notice changing records, Lilia may hide an object, Benjamin leaves conflicting testimony, Ernesto misremembers, and Arturo may have arranged arson. The notes do not yet connect their specific knowledge, choices, incentives, and costs.",
+      "why": "A conspiracy sustained by several witnesses needs distinct reasons for silence and action, rather than successive information dispensers.",
+      "preserve": "Institutional competence, chosen family, compromised ordinary people, and human financial motives.",
+      "solutions": [
+        "Build a knowledge-and-cost matrix before outlining later investigations. Risk: requires consequential secrets to be decided.",
+        "Use only the witnesses needed for a focused first arc and defer expansion. Risk: reduces the breadth implied by the long-series plan."
+      ],
+      "evidence": [
+        [
+          "characters",
+          "- Story Function: Helps Daniel access restricted records"
+        ],
+        [
+          "characters",
+          "- Story Function: Knows what Tomas was carrying"
+        ],
+        [
+          "characters",
+          "- Story Function: Patrols the station the night of the fire"
+        ],
+        [
+          "characters",
+          "- Story Function: Connects the fire to tampered platform signals"
+        ],
+        [
+          "characters",
+          "- Story Function: May have arranged the fire"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Maribel Santos",
+        "Lilia Ramos",
+        "Benjamin Manalo",
+        "Ernesto Galang",
+        "Arturo Salcedo"
+      ],
+      "uncertainty": "Only Maribel in narrated background, Lilia's voice, and Arturo by report occur in the supplied chapter; later execution cannot be judged.",
+      "impact": "Future dialogue and flashback ownership depend on who actually witnessed each fact.",
+      "dependencies": [
+        3,
+        10,
+        15
+      ]
+    },
+    {
+      "n": 18,
+      "title": "The roadmap risks repeating clues already established",
+      "category": "setup_payoff",
+      "severity": "high",
+      "confidence": 0.94,
+      "priority": "P1",
+      "kind": "serialization risk",
+      "description": "Chapter 1 already ages a pastry and shows falsified-looking records. Chapter 5 is titled The Pastry That Aged Forty Years; Arc 2 again promises evidence of falsified fire records. Arc 1 includes The Man Who Bought The Station Fire and a burning-twice climax, while Arc 3 revisits the man behind the fire and Arc 6 the repeating year.",
+      "why": "Repeated discoveries can reset progress unless later versions change a meaningful state or reinterpret earlier evidence.",
+      "preserve": "Recurring object motifs and layered discoveries with emotional consequences.",
+      "solutions": [
+        "Assign each planned return a distinct state change, such as proving custody or overturning a prior inference. Risk: requires a rigorous revelation ladder.",
+        "Compress or combine redundant planned beats while retaining their best imagery. Risk: alters the preferred chapter count and needs approval."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "By the time Daniel lifted it, the roll was forty years old."
+        ],
+        [
+          "chapter",
+          "Witness statements from 1986 had been copied twice"
+        ],
+        [
+          "series",
+          "5. The Pastry That Aged Forty Years"
+        ],
+        [
+          "series",
+          "Deepen the romance through letters"
+        ],
+        [
+          "series",
+          "Expand the arson plot into railway officials"
+        ],
+        [
+          "series",
+          "1986 begins repeating in fragments"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "aged pastry",
+        "station fire"
+      ],
+      "uncertainty": "Titles are not scenes; repetition is a planning risk, not proof that unwritten chapters contain filler.",
+      "impact": "Later visual echoes should communicate a new consequence, not merely repeat the same transformation.",
+      "dependencies": [
+        8,
+        9,
+        10,
+        17
+      ]
+    },
+    {
+      "n": 19,
+      "title": "The 105-chapter commitment is not supported by developed beats or capacity evidence",
+      "category": "pacing",
+      "severity": "high",
+      "confidence": 0.99,
+      "priority": "P1",
+      "kind": "scope and reader hypothesis",
+      "description": "The series plan recommends seven equal fifteen-chapter arcs and possible expansion to 150 chapters. The available story is one drafted chapter; no scene-level long-series architecture, production capacity, reader feedback, or release calendar is supplied.",
+      "why": "A numeric target can force delay in the central rescue question and create an unsustainable commitment before the story has earned the length.",
+      "preserve": "Long-term creative ambition and Daniel/Tomas as the emotional center.",
+      "solutions": [
+        "Treat Arc 1 as a provisional season envelope and validate a small opening sequence before committing beyond it. Risk: changes expectations about the 105-chapter target.",
+        "Retain 105 as an aspiration but require each arc to justify new conflict, relationship development, and capacity. Risk: substantial planning burden before release."
+      ],
+      "evidence": [
+        [
+          "series",
+          "- Total chapters: 105"
+        ],
+        [
+          "series",
+          "- Average arc length: 15 chapters"
+        ],
+        [
+          "series",
+          "expand toward 120-150 chapters"
+        ],
+        [
+          "series",
+          "Arc 1 is the opening season and should remain compact at 15 chapters."
+        ]
+      ],
+      "scenes": [],
+      "entities": [
+        "connection cost"
+      ],
+      "uncertainty": "No market demand, paid schedule, or author capacity has been validated. No claim that a shorter series sells better is made.",
+      "impact": "Page count and release frequency remain provisional until production timing and reader checks exist.",
+      "dependencies": [
+        1,
+        10,
+        18
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Other cafes could dilute the specific place and relationship",
+      "category": "world_rule_continuity",
+      "severity": "medium",
+      "confidence": 0.91,
+      "priority": "P2",
+      "kind": "creative-promise tension",
+      "description": "The premise calls the cafe a fragile connection between two specific nights. Arc 4 proposes other seven-minute crossings at abandoned railway sites without a rationale that connects them to Daniel and Tomas's choices.",
+      "why": "Expansion can replace a singular romance mystery with repeatable location cases and weaken the intimacy that differentiates the premise.",
+      "preserve": "San Aurelio Junction as a physical place, emotional anchor, and civic-history mystery.",
+      "solutions": [
+        "Make any other crossing directly test or threaten an established rule of Daniel and Tomas's connection. Risk: requires broader mythology and careful restraint.",
+        "Defer or remove the multi-cafe expansion from the preferred reconstruction option. Risk: narrows the planned world and total length."
+      ],
+      "evidence": [
+        [
+          "readme",
+          "It is a fragile wound between two specific nights."
+        ],
+        [
+          "series",
+          "Reveal other seven-minute crossings at abandoned railway sites"
+        ],
+        [
+          "series",
+          "one or two other railway cafes with separate emotional cases."
+        ]
+      ],
+      "scenes": [],
+      "entities": [
+        "Cafe Siete"
+      ],
+      "uncertainty": "Plural crossings are not inherently contradictory; their relevance and mechanism are simply unbuilt.",
+      "impact": "Do not commission new location references before the expansion decision.",
+      "dependencies": [
+        9,
+        10,
+        19
+      ]
+    },
+    {
+      "n": 21,
+      "title": "Memory-loss and repeat-year arcs need persistent consequences",
+      "category": "relationship_continuity",
+      "severity": "medium",
+      "confidence": 0.92,
+      "priority": "P2",
+      "kind": "future relationship risk",
+      "description": "Arc 5 has Tomas no longer remember Daniel clearly, Arc 6 repeats fragments of 1986, and the final arc again asks which future can survive. Without persistent changes, these devices may repeatedly undo earned intimacy.",
+      "why": "Readers investing in small trust-building acts need those acts to matter even when memory becomes unreliable.",
+      "preserve": "The cost of rescue and the question of what survives in objects, choices, and relationships.",
+      "solutions": [
+        "Define which consequences and choices survive each alteration; protect Tomas's agency in re-consent. Risk: requires a demanding continuity ledger.",
+        "Use one decisive memory rupture near the climax rather than repeated resets. Risk: changes the seven-arc architecture."
+      ],
+      "evidence": [
+        [
+          "series",
+          "Tomas no longer remembers him clearly"
+        ],
+        [
+          "series",
+          "1986 begins repeating in fragments"
+        ],
+        [
+          "readme",
+          "may lose every memory made there."
+        ]
+      ],
+      "scenes": [],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "notebook reply"
+      ],
+      "uncertainty": "No completed reset scene exists; this is a preemptive test for the outline, not a diagnosed reader response.",
+      "impact": "Visual motifs can preserve recognition, but must not replace freely made relationship choices.",
+      "dependencies": [
+        9,
+        10,
+        15,
+        18
+      ]
+    },
+    {
+      "n": 22,
+      "title": "Legacy full-page prompts conflict with the requested future production contract",
+      "category": "manga_adaptation_risk",
+      "severity": "high",
+      "confidence": 1,
+      "priority": "P1",
+      "kind": "confirmed workflow incompatibility",
+      "description": "Existing prompts request whole pages with gutters, dialogue, captions, and SFX inside generated images. The current request requires structured versioned jobs, panel artwork without lettering or borders, and separate approved downstream composition.",
+      "why": "Using these legacy prompts as ready jobs would bypass the user's approval and reference requirements and embed text that should be independently editable.",
+      "preserve": "The existing scripts as immutable adaptation evidence and their strong event choices.",
+      "solutions": [
+        "After story/storyboard approval, translate scripts into panel jobs plus separate lettering and composition data. Risk: more preproduction work, but supports traceable changes.",
+        "Retain legacy prompts as historical notes and rebuild the approved storyboard from prose. Risk: may discard useful existing layout effort."
+      ],
+      "evidence": [
+        [
+          "style",
+          "The prompt may request readable speech bubbles, captions, SFX"
+        ],
+        [
+          "comics",
+          "Keep the actual panel script, dialogue, captions"
+        ],
+        [
+          "p01",
+          "Create one vertical manga/manhwa page with clean gutters and 5 panels."
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [],
+      "uncertainty": "This is a conflict with the new requested workflow, not evidence that artwork has been generated or that old prompts were once approved.",
+      "impact": "No legacy prompt is released as a production job in this audit.",
+      "dependencies": [
+        2,
+        3,
+        4,
+        5,
+        13
+      ]
+    },
+    {
+      "n": 23,
+      "title": "Visual reference fallback lacks approved hash-locked assets",
+      "category": "manga_adaptation_risk",
+      "severity": "high",
+      "confidence": 1,
+      "priority": "P1",
+      "kind": "confirmed readiness gap",
+      "description": "Page 1 allows the prompt itself to be a primary visual lock when no images exist. Later pages conditionally attach earlier WebP outputs. No such assets or reference approvals are present in the root.",
+      "why": "A prose description or a filename mentioned in a prompt does not establish an approved, consistent visual reference.",
+      "preserve": "Explicit adult ages, occupational silhouettes, differentiated hair, hands, props, and grounded station design.",
+      "solutions": [
+        "At the authorized production stage, create reference jobs first and block dependent jobs until approved hash-locked images are supplied. Risk: adds a reference approval round.",
+        "Prepare only deferred structured job specifications until references exist. Risk: cannot release executable panel handoffs yet."
+      ],
+      "evidence": [
+        [
+          "p01",
+          "If no Seven Minutes images exist yet"
+        ],
+        [
+          "p02",
+          "If `1.webp` exists"
+        ],
+        [
+          "front",
+          "If approved pages already exist"
+        ],
+        [
+          "arc",
+          "16 WebP reader assets present"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Cafe Siete"
+      ],
+      "uncertainty": "Conditional legacy filenames are not actual image paths, and text headed Lock does not create a Manga Studio approval.",
+      "impact": "Every eventual handoff needs an exact ordered attachment checklist built from real approved assets.",
+      "dependencies": [
+        1,
+        22
+      ]
+    },
+    {
+      "n": 24,
+      "title": "Page counts and reading sequence do not yet express event priorities",
+      "category": "pacing",
+      "severity": "medium",
+      "confidence": 0.98,
+      "priority": "P2",
+      "kind": "adaptation layout risk",
+      "description": "All fourteen page prompts use five or six panels, totaling 75. Page 8 packs painful touch, a moving window, a joke, a pastry crossing, aging, and both reactions into six panels. No explicit reading direction, panel geometry, or dialogue-safe zones is supplied.",
+      "why": "The key miracle and emotional turns may have insufficient space, and a numbered script alone does not resolve a composed page's reading path.",
+      "preserve": "Archive-to-miracle escalation, the first touch, I am real, and the final warning.",
+      "solutions": [
+        "Rebalance the same events into a varied event-driven page plan, giving transformations and reactions room. Risk: page count may change.",
+        "Keep fourteen pages provisionally but trim or redistribute dialogue and establish exact reading sequences. Risk: significant compression may flatten banter."
+      ],
+      "evidence": [
+        [
+          "p08",
+          "Create one vertical page with 6 panels."
+        ],
+        [
+          "p08",
+          "PANEL 5 - FORTY YEARS TAKE IT"
+        ],
+        [
+          "style",
+          "Do not mechanically reuse the same page grid."
+        ],
+        [
+          "p12",
+          "PANEL 6 - FINGERS THROUGH WINDOW"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "service window",
+        "aged pastry"
+      ],
+      "uncertainty": "No rendered pages exist, so actual readability, overlap, and artistic quality cannot be scored.",
+      "impact": "Future nemu should be geometry-only, with one dominant event per panel and motivated shot changes.",
+      "dependencies": [
+        4,
+        5,
+        22
+      ]
+    },
+    {
+      "n": 25,
+      "title": "Compressed dialogue drops connective questions and one key clue",
+      "category": "dialogue_voice",
+      "severity": "medium",
+      "confidence": 0.96,
+      "priority": "P2",
+      "kind": "confirmed adaptation omissions with interpretive impact",
+      "description": "Page 6 jumps from Museum conservator to Possessed and then the year without the prose's year question and defensive exchange. Page 7 begins Your side without its original prompting line. Page 11 omits the failed southbound signal while isolating the broker.",
+      "why": "Compression can preserve quoted lines while losing conversational logic and narrowing a mystery's evidence unfairly.",
+      "preserve": "Dry reciprocal humor and the contrast between Daniel's literal responses and Tomas's hospitality.",
+      "solutions": [
+        "Restore only the short connective lines and signal clue needed for causality. Risk: lettering requires space checks.",
+        "Rewrite approved dialogue for the compressed page structure while retaining distinct voices. Risk: literal favorite lines may need to move or change."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "What year is it?"
+        ],
+        [
+          "p06",
+          "PANEL 3 - POSSESSED?"
+        ],
+        [
+          "p06",
+          "PANEL 5 - TOMAS STATES HIS YEAR"
+        ],
+        [
+          "p07",
+          "YOUR SIDE."
+        ],
+        [
+          "chapter",
+          "The southbound signal failed."
+        ],
+        [
+          "p11",
+          "PANEL 3 - WHITE SUIT"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Arturo Salcedo"
+      ],
+      "uncertainty": "Some abruptness could read as nervous humor; test the complete lettered sequence after storyboard approval.",
+      "impact": "Do not restore every prose line indiscriminately; protect cause, response, and voice.",
+      "dependencies": [
+        4,
+        12,
+        24
+      ]
+    },
+    {
+      "n": 26,
+      "title": "Clock, flashlight, and costume details drift across production notes",
+      "category": "prop_continuity",
+      "severity": "medium",
+      "confidence": 0.98,
+      "priority": "P2",
+      "kind": "confirmed reference mismatch and unstaged transitions",
+      "description": "The cafe clock is above the door in prose and Page 4 but above the menu board in characters.md; a separate station clock exists. The prose drops the flashlight at 12:04, but Page 10 omits that beat and Page 13 places it on the floor. Tomas's reference specifies a short-sleeved shirt while prose repeatedly describes sleeves rolled to the elbows.",
+      "why": "Small physical inconsistencies become repeated visual errors when prompts are used as independent production instructions.",
+      "preserve": "Two distinct clocks, Daniel's work props, and Tomas's practical rolled-sleeve silhouette.",
+      "solutions": [
+        "Approve a prop and costume state sheet and stage needed transitions in revised scripts. Risk: small panel adjustments.",
+        "Choose one consistent depiction for each ambiguity and mark symbolic covers separately from literal scene continuity. Risk: requires explicit decisions rather than treating all descriptions as compatible."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "Above the cafe door"
+        ],
+        [
+          "characters",
+          "- Cafe Clock: Brass-rimmed wall clock above the menu board."
+        ],
+        [
+          "chapter",
+          "Daniel's flashlight rolled off the counter"
+        ],
+        [
+          "p13",
+          "His flashlight lies on the floor."
+        ],
+        [
+          "characters",
+          "Wears a cream short-sleeved 1980s cafe shirt"
+        ],
+        [
+          "chapter",
+          "His cream cafe shirt was rolled to the elbows"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "cafe clock",
+        "station clock",
+        "flashlight",
+        "Tomas Rivera"
+      ],
+      "uncertainty": "Door and menu board might be colocated, and sleeves might be unusually long; the missing specification is the problem. No rendered error is claimed.",
+      "impact": "Reference and panel plans must distinguish clock identities and current prop custody.",
+      "dependencies": [
+        5,
+        23
+      ]
+    },
+    {
+      "n": 27,
+      "title": "SFX are text tokens rather than complete sound instructions",
+      "category": "manga_adaptation_risk",
+      "severity": "medium",
+      "confidence": 1,
+      "priority": "P2",
+      "kind": "confirmed specification gap",
+      "description": "The scripts include DRIP, KREEEAK, CLICK, FWOOM, CLINK, TICK, ZZT, CLACK, KRRK, WHUMP, FSSHT, and SSHHH, but do not consistently specify source, reader meaning, intensity, language, translation context, and lettering intent. Page 7 places TICK with a coffee-ring image rather than an explicit clock shot.",
+      "why": "Unclear sound ownership can make supernatural mechanics resemble electricity or turn paper release into another portal opening.",
+      "preserve": "Rain, clock ticks, cafe machinery, and the sharp loss of inhabited sound at closure.",
+      "solutions": [
+        "Map each sound to a physical or deliberately subjective source and separate it from artwork jobs. Risk: a few legacy tokens may need replacement.",
+        "Favor silence for uncertain supernatural beats and retain only literal environment sounds. Risk: may reduce the intended impact of transformation."
+      ],
+      "evidence": [
+        [
+          "p07",
+          "TICK"
+        ],
+        [
+          "p08",
+          "ZZT"
+        ],
+        [
+          "p13",
+          "FSSHT"
+        ],
+        [
+          "p04",
+          "FWOOM"
+        ],
+        [
+          "p14",
+          "SSHHH"
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "cafe clock",
+        "service window"
+      ],
+      "uncertainty": "English output is requested; Tiya and pan de leche are cultural terms, not untranslated SFX. Their meaning should be conveyed contextually.",
+      "impact": "Structured SFX and lettering belong to later approved preproduction, not image generation during this audit.",
+      "dependencies": [
+        5,
+        7,
+        22
+      ]
+    },
+    {
+      "n": 28,
+      "title": "Repeated hair and figurative beats can compete with the countdown",
+      "category": "exposition",
+      "severity": "low",
+      "confidence": 0.84,
+      "priority": "P3",
+      "kind": "editorial interpretation",
+      "description": "The chapter repeatedly notes Tomas's fallen hair and pairs many emotional or sensory beats with figurative interpretation. This establishes a recognizable voice, but some repetition can slow a seven-minute scene or become redundant when drawn.",
+      "why": "Selective trimming could preserve the strongest images and give reactions more room without flattening the author's style.",
+      "preserve": "Paper lied less often; collapse by etiquette; bread turning elderly; practical hair movement; tenderness through objects.",
+      "solutions": [
+        "Keep repetitions that change emotional meaning and trim only descriptive duplicates in a new version. Risk: over-editing can erase rhythm.",
+        "Preserve prose density but translate recurrent description into silent visual continuity. Risk: adaptation must replace narrator intimacy through acting."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "one dark strand fell across his lips."
+        ],
+        [
+          "chapter",
+          "The long strand of hair had fallen across his face again"
+        ],
+        [
+          "chapter",
+          "Long hair tied with green cord."
+        ],
+        [
+          "chapter",
+          "Seven minutes was strange. Two minutes was a door closing."
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "Tomas Rivera",
+        "Daniel Soriano"
+      ],
+      "uncertainty": "This is taste-sensitive. No supplied reader feedback establishes a pacing failure, and no wholesale style rewrite is recommended.",
+      "impact": "Avoid repeated hair-close-up panels unless the gesture marks a state change.",
+      "dependencies": [
+        24
+      ]
+    },
+    {
+      "n": 29,
+      "title": "Historical setting and reader-facing content boundaries remain provisional",
+      "category": "manga_adaptation_risk",
+      "severity": "medium",
+      "confidence": 0.97,
+      "priority": "P2",
+      "kind": "research and audience unknown",
+      "description": "The text uses Filipino-coded names, Tiya, pan de leche, municipal redevelopment, and 1986, while only Maribel is explicitly described as Filipina-Spanish. No country, city model, period-research dossier, formal rating, platform, or romance ending commitment is supplied.",
+      "why": "An adaptation may otherwise invent period conditions, cultural assumptions, rating expectations, or a promised happy ending without author intent or evidence.",
+      "preserve": "Adult queer intimacy, ordinary work, chosen family, civic erasure, and cultural texture without reducing the setting to stereotypes.",
+      "solutions": [
+        "Adopt a provisional mature-teen-and-adult suspense framing with non-graphic violence and restrained intimacy, and decide setting/ending boundaries before continuation. Risk: platform categories may differ.",
+        "Approve a specific setting and content brief, then separately authorize targeted historical and reader research. Risk: additional research and possible revision."
+      ],
+      "evidence": [
+        [
+          "characters",
+          "- Age: 36 in 2026."
+        ],
+        [
+          "characters",
+          "- Age: 28 in 1986."
+        ],
+        [
+          "characters",
+          "Filipina-Spanish woman"
+        ],
+        [
+          "chapter",
+          "Tiya Lilia."
+        ],
+        [
+          "chapter",
+          "pan de leche"
+        ],
+        [
+          "readme",
+          "Keep the romance emotionally adult and restrained."
+        ],
+        [
+          "series",
+          "accepting a future neither timeline can fully keep."
+        ]
+      ],
+      "scenes": [
+        "prelude",
+        "station"
+      ],
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera",
+        "Maribel Santos",
+        "San Aurelio Junction"
+      ],
+      "uncertainty": "BL is not itself a reason for an adult-only rating. No claims about real history, professional conservation accuracy, legal rights, market size, or accidental imitation are verified.",
+      "impact": "Treat country, architecture references, uniforms, rating, and marketing promise as decisions; do not fabricate reference images or research.",
+      "dependencies": [
+        10,
+        19
+      ]
+    },
+    {
+      "n": 30,
+      "title": "The fire-warning scratch needs a fair evidence and custody trail",
+      "category": "setup_payoff",
+      "severity": "medium",
+      "confidence": 0.94,
+      "priority": "P2",
+      "kind": "intentional mystery with payoff obligation",
+      "description": "Daniel photographs the TOMAS scratch before the encounter. Later dust reveals FIRE STARTS IN THE SERVICE CORRIDOR beneath it. The current text does not establish whether the second line was physically obscured, newly changed, or present in the first photograph, and its author is unknown.",
+      "why": "The original photograph is a natural test. Ignoring it could make the evidence-focused protagonist passive or allow a later solution to change the clue's origin retroactively.",
+      "preserve": "The scratched warning, tactile age, photo documentation, and ending dread.",
+      "solutions": [
+        "Use the already-taken photograph as an early comparison and track the result before deciding the scratch's author. Risk: commits a branch of the time-change model.",
+        "Keep the photo inconclusive for a specific physical reason while Daniel tries another comparison. Risk: repeated convenient unreadability would frustrate the investigation."
+      ],
+      "evidence": [
+        [
+          "chapter",
+          "He photographed the glass, logged the position"
+        ],
+        [
+          "chapter",
+          "hidden until the dust shifted"
+        ],
+        [
+          "chapter",
+          "FIRE STARTS IN THE SERVICE CORRIDOR."
+        ],
+        [
+          "p03",
+          "Daniel photographs the scratched name"
+        ],
+        [
+          "p14",
+          "dust sliding down the glass beneath Tomas's name"
+        ]
+      ],
+      "scenes": [
+        "station"
+      ],
+      "entities": [
+        "door scratches",
+        "phone photograph",
+        "Daniel Soriano"
+      ],
+      "uncertainty": "The scratch's author and date are intentional unknowns, not contradictions. No self-writing loop or future Daniel is inferred as canon.",
+      "impact": "Record precisely what the first photograph contains before any later image or dialogue reveals it.",
+      "dependencies": [
+        6,
+        10,
+        13
+      ]
+    }
+  ]
+}

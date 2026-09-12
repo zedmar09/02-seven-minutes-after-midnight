@@ -1,0 +1,252 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-005",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "character-7aa0419823314e0787fe55c54aa83047",
+    "character-a096cba8416847d4947a94012733a09b",
+    "character-28e7610c7be1473aa1d5fb041293cf19",
+    "prop-0b3caadd963c437787cd95d5af12ca9e",
+    "prop-3c56d67fe71743d58ecaf605e59e5c46",
+    "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-004",
+    "SMA-ISS-011",
+    "SMA-ISS-012",
+    "SMA-ISS-013",
+    "SMA-ISS-014",
+    "SMA-ISS-025",
+    "SMA-ISS-030"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-4fef04f396864b15af48636eabea8dfb",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 191,
+      "line_end": 191,
+      "byte_start": 8438,
+      "byte_end": 8476,
+      "content_fingerprint": "df34b673955c1fc68788165d3b7a703c54f890c8f3cf04d48c69e43b4fd9d4e7"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-1e98a1a10c4047b4ad2d3a89a5455c8e",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 193,
+      "line_end": 193,
+      "byte_start": 8477,
+      "byte_end": 8554,
+      "content_fingerprint": "ffcbd7f0a0e3d6651ac1236662720160acfe46f49e428c0265dc1c5e645ef229"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-96fe1374a74447fdbfcf5f4130141f39",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 133,
+      "line_end": 133,
+      "byte_start": 6633,
+      "byte_end": 6948,
+      "content_fingerprint": "220fd4942f7cc09a8de16560869517ca18964dc2dd31d4305a28e7e6250c8291"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-4a59e04f57ae454cb2c6ba802a261d5a",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 167,
+      "line_end": 167,
+      "byte_start": 7550,
+      "byte_end": 7681,
+      "content_fingerprint": "4a3099a01992084aea19eb2b3ae7eec8f4dcb71376116a73d89533f3a42511b7"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 375,
+      "line_end": 375,
+      "byte_start": 13910,
+      "byte_end": 14238,
+      "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-94d295c33da3497b95dfb8f6684e50ee",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 379,
+      "line_end": 379,
+      "byte_start": 14265,
+      "byte_end": 14279,
+      "content_fingerprint": "09772a17160a3324fe0e68d7522673d343d961e4c845d6a72244085aa3b66895"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+      "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 23,
+      "line_end": 23,
+      "byte_start": 1829,
+      "byte_end": 2180,
+      "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-c6a7150ac9fc488e9cad4e9e0e6d5390",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 469,
+      "line_end": 469,
+      "byte_start": 16529,
+      "byte_end": 16566,
+      "content_fingerprint": "c8b80c049630b1422f6050c48ab74e1703793ce4fa896b210e48ccbd8832a9cc"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+      "source_unit_id": "source-unit-dbb9308fb67a48f58755bcce1a647b1d",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 19,
+      "line_end": 19,
+      "byte_start": 1321,
+      "byte_end": 1788,
+      "content_fingerprint": "65225d87f965f7bd917eb535010b2e06284d6b8a971dd00624e7e8e550c57a9f"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-7eabb1ef43df4d50b0662bf7b9d85ab3",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 29,
+      "line_end": 29,
+      "byte_start": 2246,
+      "byte_end": 2489,
+      "content_fingerprint": "79272ed595d5b418a26898d59429d27d576db1e8fc6c599a129663e8e327a9ce"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-20310901061c4d7bbed8f596485c1435",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 141,
+      "line_end": 141,
+      "byte_start": 7162,
+      "byte_end": 7195,
+      "content_fingerprint": "6f3d631d3e3044b8e29470fdf1da8c35d070f4fbecd6f0f93dbd57af6bbfc9ae"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+      "chapter_id": "chapter-3205239085d14924b01a8df5b03de81f",
+      "scene_id": null,
+      "source_unit_id": "source-unit-6f8b6b55d3cc49669f1b327417008462",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "line_start": 30,
+      "line_end": 35,
+      "byte_start": 1506,
+      "byte_end": 1678,
+      "content_fingerprint": "553c10b48f0015ba0474c226d8edbf77f7e6144c70fb26adbc46a1ff79649e73"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-f4f565dd8a764844a82dc82eb0425589",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 45,
+      "line_end": 45,
+      "byte_start": 3386,
+      "byte_end": 3622,
+      "content_fingerprint": "fd3f58b06a06f7288d48e4a9e43c7f9cce771d2c98a409eadabdb4bb5ae39195"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-5baeaf5c38e0478c9ced56c85a719c75",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 467,
+      "line_end": 467,
+      "byte_start": 16450,
+      "byte_end": 16528,
+      "content_fingerprint": "cb32dc7240483b9d35ddb5702420e09fd006989917cd546c6e67722c3bdb33d5"
+    }
+  ],
+  "proposed_operation": "Restore causal knowledge and investigation sequence. Owner: manga-chapter-writer and manga-dialogue-writer after required approvals. Stage: Phase 4 manuscript; adapted dialogue in Phase 5. Plan localized changes to the visit motive, guessed year, suspect inquiry, question/response chain, and knowledge ledger. Restore introductions and the signal clue when adapting the approved prose. Preserve an explicit future comparison obligation for the photograph. Risk: Added bridges could crowd banter; offset by selective trimming only where meaning is redundant. Specific recommendations require separate adoption: SMA-PROP-002, SMA-PROP-009, SMA-PROP-011.",
+  "expected_result": "Every conclusion follows evidence available to its speaker; the final warning increases danger without proving murder.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Opening line, dry corrections, mutual introductions, untouched-coffee clue, and ending order.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Opening line, dry corrections, mutual introductions, untouched-coffee clue, and ending order."
+  },
+  "canon_impact": {
+    "level": "medium",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "high",
+    "notes": "Every conclusion follows evidence available to its speaker; the final warning increases danger without proving murder."
+  },
+  "structural_impact": {
+    "level": "low",
+    "notes": "Scope and dependencies: Phase 4 manuscript; adapted dialogue in Phase 5. Added bridges could crowd banter; offset by selective trimming only where meaning is redundant."
+  },
+  "dependencies": [
+    "SMA-PLAN-002",
+    "SMA-PLAN-003",
+    "SMA-PLAN-004"
+  ],
+  "acceptance_criteria": [
+    "Late access has one approved reason.",
+    "1986 is a hypothesis until confirmed.",
+    "The name is learned before it is recognized on glass.",
+    "The broker and signal are both investigated as leads, not convictions.",
+    "Daniel does not know a proved death or arson from the scratch alone.",
+    "The photo is not silently assigned contents."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

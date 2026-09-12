@@ -1,0 +1,913 @@
+{
+  "record_type": "current_working_layout",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T04:43:58.599408+00:00",
+  "reference_layout": "01-My Roommate Only Appears During Blackouts: generic paths only, inspected read-only",
+  "other_story_content_copied": false,
+  "production_mode": "panel_first",
+  "active_manuscript_version": null,
+  "active_canon_version": null,
+  "active_storyboard_version": null,
+  "summary": {
+    "archived_files": 75,
+    "original_story_sources": 24,
+    "retired_working_paths": 37,
+    "working_markdown_files": 65,
+    "empty_output_directories": [
+      "manga/04-production/arc-01/chapter-001/approved-png"
+    ]
+  },
+  "artifacts": [
+    {
+      "relative_path": ".manga-studio/decisions/structure-cleanup-v001.json",
+      "sha256": "cad78b0fb3ab18cd040a920876643e8cc70f3146e3a055d8be95411f9f8724f3",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/project.json",
+      "sha256": "fd8262320fcae3c219a9dfc67e3e8851ce7d9db7523b3e10dadf22665ac6cabe",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-023b215d86644dac8248b5d1302308c1.json",
+      "sha256": "4ccd928ed6921ccd7cc6503d280a81d5b471501d3b8b75fb1bb148d78686ab9e",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-04a6eb99011845ae85207fed5e9072ca.json",
+      "sha256": "4ebaf713c7c1d257f653bed21af0d1390c00b16985a79ed7e45598399b4d6445",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-08dfe0d529e748df979663e70fa9bfc6.json",
+      "sha256": "2a67e6a92d6f1f1863fb9641bb7db9651dce2584646ca1fe0081e75b4b2c4e69",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-159c2e3544504167af5dd49141063d96.json",
+      "sha256": "260e6c156b97a2fb4e8b3562ee3c195bc215dbfdece7e36d41618afa587f7467",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-215c2b29ac2f40ceb71ba5d51fe878ec.json",
+      "sha256": "db6f55c6d1591ffc1b1619c593a175681c2d2618215900ef68caee79d7be28b2",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-2a6f837a05814dfe9b91accde59c9a6a.json",
+      "sha256": "e1a72248f56f36241bb4239fa1ccbc5c6952c9f65ecbda5a8bda2ca72c13bdbb",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-2f24f3c0113c4e44b9eb50ade8cab736.json",
+      "sha256": "1aad8ad0e31339e895798832d892588a8d4bba5fb7ecbd922e59ea8cede4da0a",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-3bb6e8d26d094dbcad6cbe208f025d14.json",
+      "sha256": "72715ef473b79fc8b676b4064302c2d542bc382c50a4f32fd48cfef094d87eb3",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-457c10c78f2b4c0694bc9de40543d8de.json",
+      "sha256": "f91361d72030fe389e7d94a1124700b47c1cb1c23395bcef27cf729be53e6564",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-771c8f996dff4270ab0d8fb9fb19bee2.json",
+      "sha256": "22c4a39147453897fdaed04ad0a67cc52b6fc5f3c7755553e965574555216c41",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-7d28d259aea0407eb460a5d9a3c9f413.json",
+      "sha256": "82ab6d40824f399b7aad3e79160d15f6fcbcf4ce4324383ce9cd985a6491c383",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-81d54e89ddfa45d080d6a80013eb90b2.json",
+      "sha256": "823da0ff61e4fa6eb307b2afb11130aa0af772fc9db1c35fa1f3a81d488c0d53",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-8dde1d618f4841fd8184a34ad897766b.json",
+      "sha256": "a693f7cf08d9fbc840e3215c53070c434c8093cc3684055208147af1c31c5911",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-9525aff11e6c47c488b95d3a23e47cac.json",
+      "sha256": "9a852590d4c4521d9b78cace1d0f56fa8b9efefb34939ea80b5a69ce0e5e2d69",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-a19246148e964618bc82da4df14e49cb.json",
+      "sha256": "074ba1b04bbe98229033011fbe9cbfad58fa7f1c4ea3c5a08653a58a1c2c57fb",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-a2ba623b38914ed1b9d0ed38604a8b13.json",
+      "sha256": "6d06084055ded33ebe9757ced7252f939927535f916e1203bd8a65bae5467554",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-aed3f913821140e4941ce70fe4c9427d.json",
+      "sha256": "831071a88debf178d76727a56eed5f56aa37ce5042fa5ae3dc4aec8d3ad1b974",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-c78582d3c1c7412bac0cf7c32158e31e.json",
+      "sha256": "5a234fb72c097b8a5bf2c0c16421d2d39d0683ca7405d974e0f24149f7655266",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-cb6ffa4586074c15b8b0aa523a834f5d.json",
+      "sha256": "3688a6c7f121b7ba2cfeb0f80ed1501ae6314fbe9c219ff91ce29a6b71502798",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-d24a165e58084ee0a1bb9d3316d98344.json",
+      "sha256": "5c077abc2cb22b9719655e8f899112e9f1b8506e0d008fe666d6ff2362284249",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-e950f316004141719034ec54f5ed48c4.json",
+      "sha256": "ef4b3e33eb6107f19c72c20dfcf04b7c96e9877cad3c99c644d6f0e05756def6",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-eb41cc601f784e909814e4dc82bb3a4b.json",
+      "sha256": "2087d9e86c4cab621044a867d941871f7bf260dca6b99b58a064f8b2860bc5e4",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-ed49527c3aab42ce86ca2a2ea8377e76.json",
+      "sha256": "72254b8e5b209d01a52803c07410f79dd0d53a97c8df6b4e474bf25643a8ffec",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/documents/doc-ee53c9bf1b2149fba215b09a9ac2a11d.json",
+      "sha256": "501253b754d865bd7b22a30810d6c45d32010b839bad858e7be89f05aa84eb65",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/id-map.json",
+      "sha256": "d21133c0b9f3a9e456f1e0ab65e4145b519ee0683a80cfc9b38b1c314c0dc8f8",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/inventory.json",
+      "sha256": "f2acc5e0a909dc6a21609aaed3556f72a89c5516fa8e735a1c6323fc90786a11",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/provenance.json",
+      "sha256": "40a85e572aed05d26d11d09e1697c7a1459fd81509c3e39def929f135eb1dd35",
+      "evidence": []
+    },
+    {
+      "relative_path": ".manga-studio/source/structure.json",
+      "sha256": "13470e6b15c5956068be4c13294386509f37a3b21f438367e676b2c9eb184d12",
+      "evidence": []
+    },
+    {
+      "relative_path": "AGENTS.md",
+      "sha256": "630dfa585f0b87387690145124079734a377f2716d3696a4406728820d24934e",
+      "evidence": []
+    },
+    {
+      "relative_path": "README.md",
+      "sha256": "747669caa8c28ebec5d8a16cb516e403fd2e8c7eaedce91e7706d537aaa17fe8",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/00-series/README.md",
+      "sha256": "dc29e483215d18cddde19519dc0fa8ee94810841d9541c7178b171c2eaf02bd1",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/00-series/arc-roadmap.md",
+      "sha256": "f263c9ab7a09f5c67735c7595736c0146a249adfc1eb897ee84c398b089d7914",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/series-plan.md",
+          "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/character-relationships.md",
+      "sha256": "d0eea2cd4bd53882f965a4c61a5dbb153c6b271b5594e696f2f2972461161fcf",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/chronology.md",
+      "sha256": "a0618d56fb203a7f05a80028ce94fc24b799bb20e084a9c4bff5d5906c5df724",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/continuity-ledger.md",
+      "sha256": "d58f62ed8dc6dd40d458d9e7b09a650157f5cad6ed25671ca81e61654160365b",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/legacy-concept-extraction.md",
+      "sha256": "e99e11f5683427a307c1379d3e9eea3be712b1f2d459450da43d7b0fd01123b0",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/README.md",
+          "sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d"
+        },
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/series-plan.md",
+          "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/narrative-rules.md",
+      "sha256": "bea262bfafaa90daac3d110f73c04193f14a7f36973e602d03df8e25ea2a6d24",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/parallel-events-timeline.md",
+      "sha256": "7d5690a19bbca4e4a3bb045e821935bcb1cbf54ff89cc66dd7320ce57f08c719",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/story-concept.md",
+      "sha256": "4df2d9f913492a5706eee75102eeac9d9b15446bd2460ccd34ba290e6fafa178",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/tone-and-genre.md",
+      "sha256": "cce4b20c2ac24ce9122265b62f5494a8383d50c8be46543faf3f84c23ac13c3f",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/00-series/world-rules.md",
+      "sha256": "c7d2895e99e47a3e70df8a440bd93707b5ee122ebaabe51ce3b4cb860a716231",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/README.md",
+      "sha256": "75d1ffd8e658e1658b09d59496574485c040b2a21ee8b9dda000566749b039c0",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/01-style/manga-style-lock.md",
+      "sha256": "3476ad85ce2c5d00ea8fea0db5e261db3d032eed8cdd16c654c4684a88e7c8a7",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/style-guide.md",
+          "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+        },
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/page-composition-rules.md",
+      "sha256": "a494885fbff8a1dececf86234bbf88b125eecacd753d877caf34dee74fc5efe2",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/panel-language.md",
+      "sha256": "3984c1dd802ecacdc743740cdde692c1bbe77952befac35e105d891618deaec8",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        },
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/style-guide.md",
+          "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/reader-visible-language-lock.md",
+      "sha256": "d84a36246b6499c762da9b8ff92b2c7aae17b8c397115f1ba5c0c4bc8aa4c9b4",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/screentone-and-hatching-guide.md",
+      "sha256": "8897df40ad1b53bf18822ca1bc6e7e9e3f674b056ae89517996a696b12c90e5b",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/style-guide.md",
+          "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/sfx-lettering-guide.md",
+      "sha256": "e81304f28b41d5fce9a146773f7dc12b13e06f58c04cff0f3051ef44757b949d",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/01-style/speech-balloon-guide.md",
+      "sha256": "a582e2d6fe7c1b6b5d3c8cccd271d3556058a817a668d8b07b5bae0543baaff4",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/README.md",
+      "sha256": "d8faa87c1b3fa8364c0b1b8ca5cc93ef6262ea8c28b433d7a8bbb17500e4299e",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/approve-png/README.md",
+      "sha256": "baff6aa8cca1ffdc34890427b3721244c7a3b965a5c88ba35201b71928f0b6b9",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/approved-webp/README.md",
+      "sha256": "92ac4cd6b4fe5884289af94673b678f27c832d07cd0340f269fdefac0be88918",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/characters/README.md",
+      "sha256": "a04833d8acb4387f0661534100127bca1718129a79c742155285074e2c84fc00",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/characters/arturo-salcedo/arturo-salcedo.md",
+      "sha256": "66e9ec17cae5cf16d7aa67daa1279618ef92b6782a0a69963333ce2bbf69015e",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/arturo-salcedo/canon.md",
+      "sha256": "69dfbd9e7341b0b71cf0bc9ecb2769db62bb93b19eeeb48ab0ba884e5b7e3b73",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/benjamin-manalo/benjamin-manalo.md",
+      "sha256": "5f63906412f51bc196e3ba4698984048d7511570ca86e0fb8eb12fbdc3f32bb0",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/benjamin-manalo/canon.md",
+      "sha256": "ecd37f98421f25b56f2db876e1c3038f7c68ebc4da40840c61ba1deadc53c856",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/daniel-soriano/canon.md",
+      "sha256": "63f7844780dd97eb36fac9f396b15a0d3f586edd702e9fd321ec35c9284b6073",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+      "sha256": "2e2d2c0800c25177e4ed7f69e18b81c1284abebf2f66782384ed2c2e2228ea24",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/ernesto-galang/canon.md",
+      "sha256": "b00772b38b994d4bd6b2f975b6909469c1a22c3ac58097958e9c032152ea9e46",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/ernesto-galang/ernesto-galang.md",
+      "sha256": "1aa22b40da66644a84806f24715b4cca5dc16a63f8ae13d7f0ce0f504b70eb77",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/lilia-ramos/canon.md",
+      "sha256": "1fa6b07d11d060739ea7016c18c77a64aa9a6af6106ea82a8fad522b99295904",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/lilia-ramos/lilia-ramos.md",
+      "sha256": "977fd35483a25ed7ca145fd3475a3be40d862b9965179f2c59c10479d9eb0118",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/maribel-santos/canon.md",
+      "sha256": "b58b4b52085cdbdd07545d33998740fe0969ea8880dd3944780d64ea7e8cf62e",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/maribel-santos/maribel-santos.md",
+      "sha256": "23ff9d0abdd2b210d98c679dc7901b026ef535108e143dc97c76d81eec28bf24",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/tomas-rivera/canon.md",
+      "sha256": "e1bdcbe28f18461b93771c5ad3d57e5debdfb6b3c84d48111f9d1a1242df6e7c",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/characters/tomas-rivera/tomas-rivera.md",
+      "sha256": "d3e2cb30c39ee8b0afee97163230a4bf2a02dfdf707ae4f624406463ea8659b0",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
+          "sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+          "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/environments/README.md",
+      "sha256": "4328f1d5a22a114981b6d86b3ef55d8555e11062754273a833f5af47594b24da",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/environments/cafe-siete/cafe-floor-plan.md",
+      "sha256": "9ae1a15357abfc1f80e37c50330d27f8508669625e5327ef4c99cfca8d2732e6",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/environments/cafe-siete/cafe-perspective.md",
+      "sha256": "335d84cbb10279ceb516a132f72abc0035a7f8ceb34ba45705ec9740a65ab051",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/environments/cafe-siete/canon.md",
+      "sha256": "fa91f573173086aeb30928ff3070371a6682495158536700cb9df67b7cc8137e",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/environments/san-aurelio-junction/canon.md",
+      "sha256": "1fa540985c43165400262ea286e771b261c48f58e4c651164674db28e7f62277",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/environments/san-aurelio-junction/station-perspective.md",
+      "sha256": "18e8b8110dbbd24fc54d1a3b30e67629355c448f7a8a1a1fcbdd246ca1e444b2",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/style-guide.md",
+          "sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/02-references/objects/README.md",
+      "sha256": "abc3d6faadf88e87101a14e8eb008139244dbf899a6fc536c115b0d9a0a94cb9",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+      "sha256": "27d56aaf51b01bd93db7781fd880f613ebc46d493f7fad9f694384cb3defa2f8",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/README.md",
+      "sha256": "7815c93373a107bfea2d0c2d419f615a0a478c0af552e5daad2ff8fc135329a7",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/README.md",
+      "sha256": "b6daae7f56d3711dd2feb6297352c03b88b323a5c3c105c2dab96ea387a99443",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/arc-bible.md",
+      "sha256": "00923cd0d524821c67da8e304aade293ca5de07419c63822b9d79a2ed7f67acb",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/arc-outline.md",
+      "sha256": "4e2377adeb35578e65700f4a4f3d81c0c6c45b09ab241b8d2be0ce06a3df3173",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/series-plan.md",
+          "sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "41cbc4d33ba95d4af82fb226d8fbc6bb935973c96d4cf40b85acdb1f07e74b6d",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/chapter-outline.md",
+      "sha256": "63062669ef7ccc2d21fd0f4ad954c620e181d0bf33dddbe1ea6be3c3400e5924",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        },
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/dialogue-script.md",
+      "sha256": "ee8c584d24baa743193a0d5c6c3fbd6460c99c7d3d42135726e58365813e0afa",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+          "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/page-map.md",
+      "sha256": "fb749edd1a65bf7cecdcf41ef396ef531ab1df09f0481e190598de9878f6bd51",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/parallel-events.md",
+      "sha256": "aed78d3d3db3f7235c32182b41034cf2d7b6bcacade0712666291181fd30da54",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "sha256": "9e00b3eb8aae1a1424edcc42a9c0448a6610da7a014cc873421c099172cbe2ee",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/chapter-001/scene-sequence.md",
+      "sha256": "fd86cf08a5e55257bb8f31bd2f668c9f46b64824a34901c12bdd21337e92dce7",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+          "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+        },
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/event-thread-map.md",
+      "sha256": "88050a59669b4fc9847e035dd5acf6292bb4ff90dd6744f1e2f0dd378ea219d2",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/analysis/continuity-registers-v001.json",
+          "sha256": "0a0749915bb12b3adf4a817085fc44a3752b05cc6d802c2fd6c312c4a733bf63"
+        },
+        {
+          "relative_path": ".manga-studio/analysis/consistency/chapter-001-manuscript-v001-review.md",
+          "sha256": "5b2836b4fadb8a90bf5b59810ce162ada345aeb13dad5a048d76eb0b6772d32f"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/03-story/arc-01/mystery-progression.md",
+      "sha256": "6a5bb466307dcf82997126c20f8c5d835a595b09ee07ce1c67f8101f764d7a84",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+          "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/04-production/README.md",
+      "sha256": "6f0f1ddfbd236fcc5f8bab53d0be62f12ba56eae14955f6b53093c3cecdc7f72",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/04-production/arc-01/README.md",
+      "sha256": "589cc0bf86c053956e73dcff1d677e4faca71b3220f319953819092d918f8397",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/04-production/arc-01/chapter-001/README.md",
+      "sha256": "d772bb6ee262424b62e3a0e123c514ad06a4d65fd414910f44da68f1551fadae",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/04-production/arc-01/chapter-001/page-order.md",
+      "sha256": "90e6e0e60ddfdbc0054108987af1f0933088d0588794c2c69c3cb9a94b0f28e4",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/04-production/page-standard.md",
+      "sha256": "5a60fef50a0fb4e0948d67810a9636e16982525174e3c97774d32977fbe50cd1",
+      "evidence": [
+        {
+          "relative_path": ".manga-studio/history/structure-cleanup-v001/before/manga/01-style/production-policy-v001.json",
+          "sha256": "a3813517ed2abe70bbec2841eb5a4f4386a4ff7a2910e5b5dd76ea1ca448593e"
+        }
+      ]
+    },
+    {
+      "relative_path": "manga/README.md",
+      "sha256": "36b95810d5ae1ef83dfdcb546197bc5118386ac7a955626e18b1c78ea128426b",
+      "evidence": []
+    },
+    {
+      "relative_path": "manga/naming-standard.md",
+      "sha256": "e402abfb43058a47316b98c8c522e530f44eefbebd72dc43d093a75bf90aac40",
+      "evidence": []
+    }
+  ],
+  "intentional_differences": [
+    "Story-specific character and location slugs.",
+    "No c001-p### prompts: no adopted storyboard or released jobs.",
+    "No PNG/WebP files: no approved artwork.",
+    "Only historical/runtime-required internal directories; no copied history IDs or foreign assets."
+  ]
+}

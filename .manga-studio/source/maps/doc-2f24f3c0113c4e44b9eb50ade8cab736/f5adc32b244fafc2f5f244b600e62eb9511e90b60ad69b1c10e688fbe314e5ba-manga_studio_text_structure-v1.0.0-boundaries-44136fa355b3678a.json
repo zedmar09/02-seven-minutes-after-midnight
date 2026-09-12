@@ -1,0 +1,193 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+  "source_relative_path": "Comics/README.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-2f24f3c0113c4e44b9eb50ade8cab736/f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "display_title": "Comics",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Comics",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-8e270cb6825f4414980d087080a67aa1",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 10,
+      "byte_end": 98,
+      "content_fingerprint": "252cd79435ce2e8c7c0ee79dd0df3da01a75e236b3cf8c7a3ebbd0d8d4dc2a00",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-efd10efab1fe45c7aee6764c053bd7f1",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 5,
+      "line_end": 5,
+      "byte_start": 99,
+      "byte_end": 247,
+      "content_fingerprint": "9a4f148189225c92742c9c531323cf5c2379e5dbe1b4fc3f4668de58f3d3c475",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-71a30910a1174176a2f6ed1c8da117d6",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 7,
+      "line_end": 7,
+      "byte_start": 248,
+      "byte_end": 459,
+      "content_fingerprint": "4d533ebe165f849ef1b522487eae0641e1a3a037a21f613a26d1c24f873ce2a5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-df64aab8155a449887f9f73e4e368b3c",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics",
+        "Intended Structure"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 11,
+      "line_end": 11,
+      "byte_start": 483,
+      "byte_end": 601,
+      "content_fingerprint": "8b3e5dd95190171e3c15edc84c060c6eb3fd53de7aec7983256df754781e35ef",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-1a65d5e185b7411997a4438bbc7bd401",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics",
+        "Intended Structure"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 13,
+      "line_end": 42,
+      "byte_start": 602,
+      "byte_end": 1415,
+      "content_fingerprint": "e27962fc83e0d011f0d5d796679b352a1b0fdb106ea5c40ce3df79a5b539f0e2",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d719463e2067480b9d2a02592e7bb795",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics",
+        "Naming Rules"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 46,
+      "line_end": 54,
+      "byte_start": 1433,
+      "byte_end": 2389,
+      "content_fingerprint": "01fff8767dbca9edb61a3cdd0a256283d96e5978a3191c538f1e601049f3cc9e",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-26c1c01451924a059c88981162732ce1",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics",
+        "Current Folders"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 58,
+      "line_end": 63,
+      "byte_start": 2410,
+      "byte_end": 2945,
+      "content_fingerprint": "6fcbd69e5266bd7838f094f51b26a9637f49d21fa17e00ba937f7f4ddb0d56a3",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-3c7f309a04e54097aa6a0b0e71a25560",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_relative_path": "Comics/README.md",
+      "heading_path": [
+        "Comics",
+        "Production Rules"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 67,
+      "line_end": 84,
+      "byte_start": 2967,
+      "byte_end": 5243,
+      "content_fingerprint": "7773f555b893c45cf5a4f42bfd3d6bc47258ac62563f45b0af7f468393fc332d",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

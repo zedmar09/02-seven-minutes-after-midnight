@@ -1,0 +1,454 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+  "source_relative_path": "series-plan.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-ee53c9bf1b2149fba215b09a9ac2a11d/0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "display_title": "Seven Minutes After Midnight - Series Plan",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Seven Minutes After Midnight - Series Plan",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-1b1362e95ab04fd783057a54c3578139",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 46,
+      "byte_end": 144,
+      "content_fingerprint": "2603d7197053197e58b58e7bbc55284e9e2d5d3696d8114e8ee33b05048dde69",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-9b8054e1cf0a492c911fa01d5543e397",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 5,
+      "line_end": 5,
+      "byte_start": 145,
+      "byte_end": 313,
+      "content_fingerprint": "21a9618d226f07f2db8fa72db9b946169d1bf25cdf9980b26de130e9b889b502",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-5d84df361a654ff2bf454377098a93a9",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Long-Running Target"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 9,
+      "line_end": 9,
+      "byte_start": 338,
+      "byte_end": 372,
+      "content_fingerprint": "9919c932ab7825eb8ce08929ad31cb2dbff68745de03f0ee7b6d2cba0089bc61",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-f30646eb347344a3a21c4ad70a854cac",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Long-Running Target"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 11,
+      "line_end": 14,
+      "byte_start": 373,
+      "byte_end": 556,
+      "content_fingerprint": "5710c7044947cfd50cc69dbcb349b722b26f2bb80a8b69bd8fea85a80dd197f3",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6e1d7e7e5bfc4e54a18765c2fe075bd2",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Long-Running Target"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 16,
+      "line_end": 16,
+      "byte_start": 557,
+      "byte_end": 802,
+      "content_fingerprint": "fe9dca52b34ea7efe8241dd6710dadc5bbb1d287a1a271f13eb047d72260a4b9",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Arc Roadmap"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 20,
+      "line_end": 28,
+      "byte_start": 819,
+      "byte_end": 2150,
+      "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-fd5e2f3e462c488695531adfb06d281a",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Expansion Option"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 32,
+      "line_end": 32,
+      "byte_start": 2172,
+      "byte_end": 2318,
+      "content_fingerprint": "e02a5ec4eccadc5a55af0f1ef35321ffab2198b51fc37e4914e98eaaedd7d48f",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-00fe760867634cdaab9154a8212d4d8a",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Expansion Option"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 34,
+      "line_end": 34,
+      "byte_start": 2319,
+      "byte_end": 2341,
+      "content_fingerprint": "9b81e03baef0617cb950a94abbe37cc29ff79f21352cb7535127bd1f9fcff264",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-65ed5ecd8c9341f49ce8eb1b1dd12d83",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Expansion Option"
+      ],
+      "source_order": 9,
+      "unit_type": "paragraph",
+      "line_start": 36,
+      "line_end": 39,
+      "byte_start": 2342,
+      "byte_end": 2681,
+      "content_fingerprint": "047f2db11b482721c0a215e5b16c9b7a53c0dab18f8f52a38ba90e1f6079681b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-4b56c7bff04a40329a393aeafd9d3cf8",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Expansion Option"
+      ],
+      "source_order": 10,
+      "unit_type": "paragraph",
+      "line_start": 41,
+      "line_end": 41,
+      "byte_start": 2682,
+      "byte_end": 2934,
+      "content_fingerprint": "e89de9ad3594df6fe38005287d9feb21fbcd4d59ceff3fed98be765c8332c7f4",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-549738a5611f4b2fbebf8f73d01c3817",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 11,
+      "unit_type": "paragraph",
+      "line_start": 45,
+      "line_end": 45,
+      "byte_start": 2965,
+      "byte_end": 2985,
+      "content_fingerprint": "1ad7d25981fa3869f34388b35e5b450bc68aa81f04940418ae6c789191b3b9e5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-949f7b33fe164b52b5d24a954caa5e82",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 12,
+      "unit_type": "paragraph",
+      "line_start": 47,
+      "line_end": 47,
+      "byte_start": 2986,
+      "byte_end": 3038,
+      "content_fingerprint": "b18c96ae29094cd1d40318de6a8d61031e049aa3f8f988865b3c00902b370a0e",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d56cc976e50f45a98db1724da9c63781",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 13,
+      "unit_type": "paragraph",
+      "line_start": 49,
+      "line_end": 49,
+      "byte_start": 3039,
+      "byte_end": 3065,
+      "content_fingerprint": "610dbd191f07a189af6a790626b8e9d2cbe6d577785ca534a6319b262d491d3f",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-e5a58f83b9d747b78b679f727522c373",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 14,
+      "unit_type": "paragraph",
+      "line_start": 51,
+      "line_end": 52,
+      "byte_start": 3066,
+      "byte_end": 3147,
+      "content_fingerprint": "9c95c1e2afb343722d5994f90e53fdcdfbccc68bbd676d47450907697f5f8238",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-307bb8d88c3447038f42b56c317eb246",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 15,
+      "unit_type": "paragraph",
+      "line_start": 54,
+      "line_end": 54,
+      "byte_start": 3148,
+      "byte_end": 3180,
+      "content_fingerprint": "7c9e681617fccf7e8af81eb0f7ed90aa8bb4a51a966400dae7a5cb6719d7dbad",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-1db292e5fb9f45bf941dd8e12d59c606",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 16,
+      "unit_type": "paragraph",
+      "line_start": 56,
+      "line_end": 70,
+      "byte_start": 3181,
+      "byte_end": 3702,
+      "content_fingerprint": "1a1375b5db778effd783bb03dd525d3e00bc3f7ed7ad072477cd7c1cf412afbc",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-fd4b381915aa4900b50bcbce3816d6c8",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Current Production Status"
+      ],
+      "source_order": 17,
+      "unit_type": "paragraph",
+      "line_start": 72,
+      "line_end": 72,
+      "byte_start": 3703,
+      "byte_end": 3773,
+      "content_fingerprint": "ddd1db9929c3f9565086a8222d664c528ef2e38280f1675173b6f308fbc4853b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d6444949e3e54e2683cac0f8a820c84c",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Future Folder Rule"
+      ],
+      "source_order": 18,
+      "unit_type": "paragraph",
+      "line_start": 76,
+      "line_end": 76,
+      "byte_start": 3797,
+      "byte_end": 3865,
+      "content_fingerprint": "400ebc78f69d0d9fc7db0af5eede6f78be03a946f4134764847940339a958ca8",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-fa3defda37bf4245a9d9816f58ee89a6",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Future Folder Rule"
+      ],
+      "source_order": 19,
+      "unit_type": "paragraph",
+      "line_start": 78,
+      "line_end": 86,
+      "byte_start": 3866,
+      "byte_end": 4049,
+      "content_fingerprint": "860782c2b8f726ba8d9c67cd417eb19c3cc35d6fa020b1bef810b5d585084257",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-5001609560c542d6ae9aa226e0ef6737",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Future Folder Rule"
+      ],
+      "source_order": 20,
+      "unit_type": "paragraph",
+      "line_start": 88,
+      "line_end": 88,
+      "byte_start": 4050,
+      "byte_end": 4086,
+      "content_fingerprint": "2f2c0e3d4f84f4ff0e1965d60faf12361f3c7ae930998579d8678a09803517dc",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6a1077f51822469699a3aa6f4563270f",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_relative_path": "series-plan.md",
+      "heading_path": [
+        "Seven Minutes After Midnight - Series Plan",
+        "Future Folder Rule"
+      ],
+      "source_order": 21,
+      "unit_type": "paragraph",
+      "line_start": 90,
+      "line_end": 93,
+      "byte_start": 4087,
+      "byte_end": 4209,
+      "content_fingerprint": "205c5fdeee1e600047d10b419558efe0a4d34f7e710e4022d70d456e085c4aae",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

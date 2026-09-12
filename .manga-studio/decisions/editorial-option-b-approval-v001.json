@@ -1,0 +1,35 @@
+{
+  "schema_version": "3.0.0",
+  "decision_id": "SMA-DEC-OPTION-B-APPROVAL-001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "SMA-PLAN-RECONSTRUCTION",
+    "SMA-POLICY-BALANCED",
+    "SMA-PROP-001",
+    "SMA-PROP-002",
+    "SMA-PROP-003",
+    "SMA-PROP-004",
+    "SMA-PROP-005",
+    "SMA-PROP-006",
+    "SMA-PROP-007",
+    "SMA-PROP-008",
+    "SMA-PROP-009",
+    "SMA-PROP-010",
+    "SMA-PROP-011",
+    "SMA-PROP-012",
+    "SMA-PROP-013",
+    "SMA-PROP-014"
+  ],
+  "decision": "Accept Option B and its manifest-bound brief, success plan, balanced policy, revision plan and fourteen recommended choices as directions for exact Chapter 1 proposal preparation.",
+  "rationale": "The user replied 'lets proceed' to the preceding request to approve Option B and its accompanying proposed choices and revision plan. The reviewed package explicitly reserved exact-change approval, canon adoption and stage-lock activation. Record the actual plan decision, not an approval of unseen text.",
+  "actor": "user",
+  "decided_at": "2026-09-05T04:24:15Z",
+  "evidence": [],
+  "result_artifacts": [
+    ".manga-studio/approvals/approval-8300f092c2fb44d98842a89d829e3fb3.json",
+    ".manga-studio/approvals/approval-389787b7b7e747c1ba1be1d3204dc970.json",
+    ".manga-studio/revisions/phase-4-proposal-v001/authorization-v001.json"
+  ],
+  "supersedes_decision_id": null
+}

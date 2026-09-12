@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.0.0",
+  "decision_id": "SMA-DEC-CH001-DANIEL-TOMAS-REFERENCE-V001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "character-7aa0419823314e0787fe55c54aa83047",
+    "character-a096cba8416847d4947a94012733a09b"
+  ],
+  "decision": "Approve the exact user-supplied shared image as the limited-scope visual identity reference for Daniel Soriano on the left and Tomas Rivera on the right, together with its format-derived PNG working master.",
+  "rationale": "The user explicitly said to use the two men as references and identified the curly-haired man as the museum conservator. Existing manuscript evidence identifies Daniel as the museum conservator and Tomas as the long-haired Cafe Siete baker. Narrow scope and textual overrides prevent incidental image details from rewriting story canon or continuity.",
+  "actor": "user",
+  "decided_at": "2026-09-11T09:08:57Z",
+  "evidence": [],
+  "result_artifacts": [
+    "manga/02-references/approved-webp/daniel-tomas-shared.webp",
+    "manga/02-references/approve-png/daniel-tomas-shared.png",
+    ".manga-studio/approvals/approval-68dbddb1b25b43df8ecd0db11b1d86ee.json",
+    ".manga-studio/approvals/approval-f06708bac3194fed87dd9f57e10bc2ca.json",
+    ".manga-studio/continuity/references/daniel-tomas-shared-v001.json",
+    ".manga-studio/continuity/reviews/chapter-001-daniel-tomas-shared-reference-v001-review.json",
+    "manga/02-references/README.md",
+    "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+    "manga/02-references/characters/tomas-rivera/tomas-rivera.md"
+  ],
+  "supersedes_decision_id": null
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-68dbddb1b25b43df8ecd0db11b1d86ee",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "continuity",
+  "target_relative_path": "manga/02-references/approved-webp/daniel-tomas-shared.webp",
+  "target_version": "v001",
+  "target_sha256": "985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-11T09:09:37Z",
+  "actor": "user",
+  "notes": "User supplied this exact shared character image and explicitly said to use the two men as references, mapping the curly-haired man on the left to Daniel Soriano, the museum conservator, and the long-haired man on the right to Tomas Rivera, the Cafe Siete baker. Approval scope is limited to adult facial identity, hair, build, age impression, glasses for Daniel, and shared visual chemistry. Manuscript and textual character specifications override the image for wardrobe, props, pose, setting, clock state, dates, signage, newspaper copy, title text, and all story facts. Tomas retains a cream long-sleeved cafe shirt rolled to the elbows and jade-green hair cord. This approval does not adopt canon, approve a storyboard, enable image generation, release jobs, approve pages, publish, or authorize a Git push.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

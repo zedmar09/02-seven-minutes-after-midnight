@@ -1,0 +1,1094 @@
+{
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "analysis_only_not_canon",
+  "threads_and_setups_payoffs": [
+    {
+      "id": "SMA-THR-001",
+      "name": "Removed name in death notices",
+      "state": "Open, demonstrated in Chapter 1",
+      "setup": [
+        "chapter",
+        "someone had cut a narrow strip from every article"
+      ],
+      "payoff": "No identity or actor proved. Planned newspaper-photograph chapter may address it, but no manuscript is present.",
+      "test": "Track which original, copy, and newspaper contains each cut; a missing name alone does not identify Tomas.",
+      "entities": [
+        "Daniel Soriano",
+        "station fire"
+      ],
+      "issues": [
+        1,
+        13,
+        18
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 23,
+        "line_end": 23,
+        "byte_start": 1829,
+        "byte_end": 2180,
+        "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+      },
+      "stable_id": "plot-thread-d645d53ea5ea43c9bcc6fc4df143ee66",
+      "setup_payoff_id": "setups-payoff-6a24e7ff67984a80bee7b18dbfc1447a",
+      "entity_ids": [
+        "character-7aa0419823314e0787fe55c54aa83047",
+        "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-001",
+        "SMA-ISS-013",
+        "SMA-ISS-018"
+      ]
+    },
+    {
+      "id": "SMA-THR-002",
+      "name": "Electrical-fault report versus wiring diagrams",
+      "state": "Open, demonstrated discrepancy",
+      "setup": [
+        "chapter",
+        "maintenance diagrams showed no active wiring in that wall"
+      ],
+      "payoff": "No arson proof yet; the final scratch repeats the corridor location.",
+      "test": "Corroborate diagrams' dates and the report's authority before interpreting deliberate fire.",
+      "entities": [
+        "station fire"
+      ],
+      "issues": [
+        13,
+        17
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 23,
+        "line_end": 23,
+        "byte_start": 1829,
+        "byte_end": 2180,
+        "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+      },
+      "stable_id": "plot-thread-efdb41d03c0947378868ec9109f260a1",
+      "setup_payoff_id": "setups-payoff-438fa4d7eb8346eb86209d259e309daa",
+      "entity_ids": [
+        "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-013",
+        "SMA-ISS-017"
+      ]
+    },
+    {
+      "id": "SMA-THR-003",
+      "name": "Who scratched TOMAS and the fire warning?",
+      "state": "Intentional mystery",
+      "setup": [
+        "chapter",
+        "I did not write that"
+      ],
+      "payoff": "Warning discovered at ending; author, date, and relation to Tomas remain unknown.",
+      "test": "Compare Daniel's first photograph and current glass before assigning a time-loop author.",
+      "entities": [
+        "door scratches",
+        "phone photograph",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        6,
+        30
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-3b78c20907d946c7b197aba6d18ddcda",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 221,
+        "line_end": 221,
+        "byte_start": 9361,
+        "byte_end": 9394,
+        "content_fingerprint": "202023c3d55ab73876ed5bba1c6b12802d60c1d79f674f5b57675ab3d9e168dd"
+      },
+      "stable_id": "plot-thread-27af1407c9ec4b3eb380c66d8046aa6b",
+      "setup_payoff_id": "setups-payoff-3bc247eb73c944e59999f472de186ab0",
+      "entity_ids": [
+        "prop-3c56d67fe71743d58ecaf605e59e5c46",
+        "prop-0b3caadd963c437787cd95d5af12ca9e",
+        "character-a096cba8416847d4947a94012733a09b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-006",
+        "SMA-ISS-030"
+      ]
+    },
+    {
+      "id": "SMA-THR-004",
+      "name": "Token and opening trigger",
+      "state": "Open association, not proven causality",
+      "setup": [
+        "chapter",
+        "The station answered with a click."
+      ],
+      "payoff": "Opening follows token handling, but midnight is a confounder; token remains on floor at last explicit mention.",
+      "test": "Record possession and whether recurrence depends on the token; do not assume it is a magic key.",
+      "entities": [
+        "cafe token",
+        "first meeting"
+      ],
+      "issues": [
+        10,
+        26
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-e7a0aa85a5a648d5a1567bdb8d86304c",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 63,
+        "line_end": 63,
+        "byte_start": 4475,
+        "byte_end": 4510,
+        "content_fingerprint": "4275b54ac62ba8e8b9efe28ec7205a6a3aac3603a72539a9d1317018b1b51a80"
+      },
+      "stable_id": "plot-thread-8eef4833564b46a9a716f209fed05fc7",
+      "setup_payoff_id": "setups-payoff-2066834991fe4826b3e782d2882f4001",
+      "entity_ids": [
+        "prop-85802b3ff61346bd923496744e595278",
+        "timeline-event-68f360f43d8a47ebb62965eff6732e6e"
+      ],
+      "issue_ids": [
+        "SMA-ISS-010",
+        "SMA-ISS-026"
+      ]
+    },
+    {
+      "id": "SMA-THR-005",
+      "name": "Two clocks and prior stoppage",
+      "state": "Open mechanism",
+      "setup": [
+        "chapter",
+        "That clock has been broken for two years."
+      ],
+      "payoff": "Cafe clock runs 12:00-12:07; station clock stays at 12:07. No connection or origin explained.",
+      "test": "Separate station and cafe clocks in the location plan and chronological ledger.",
+      "entities": [
+        "cafe clock",
+        "station clock"
+      ],
+      "issues": [
+        9,
+        10,
+        26
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-41ffe74a8fa742b59a383622c5ba38d2",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 183,
+        "line_end": 183,
+        "byte_start": 8033,
+        "byte_end": 8102,
+        "content_fingerprint": "37f34ad1f8514f4077a58b69b7c5e94af53c099320292b2a9eb973a438746e66"
+      },
+      "stable_id": "plot-thread-10ff4ca8c15f4b10ac7d49323290d5be",
+      "setup_payoff_id": "setups-payoff-368770a15efd473db1ed575273820c65",
+      "entity_ids": [
+        "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+        "prop-abfd3210cb6e4133ab15d662bd6aa138"
+      ],
+      "issue_ids": [
+        "SMA-ISS-009",
+        "SMA-ISS-010",
+        "SMA-ISS-026"
+      ]
+    },
+    {
+      "id": "SMA-THR-006",
+      "name": "Dangerous wrist touch versus safe window touch",
+      "state": "Partial local payoff",
+      "setup": [
+        "chapter",
+        "Pain snapped up Daniel's arm"
+      ],
+      "payoff": "Later fingertips meet through the window without pain. Initial tray contact is brief and also causes no reported pain.",
+      "test": "Distinguish shared-object contact, unstable counter overlap, and window contact before defining a universal rule.",
+      "entities": [
+        "shared counter",
+        "service window"
+      ],
+      "issues": [
+        5,
+        8
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-82624e2eed50440fa0f2ddf2f6d6cdf1",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 249,
+        "line_end": 249,
+        "byte_start": 10045,
+        "byte_end": 10093,
+        "content_fingerprint": "6858cd342e8e96d939550a40990b50b1810dcb1d68e52916be524e27ffce1a25"
+      },
+      "stable_id": "plot-thread-75d342eed3c647d2a691865ac929d7b6",
+      "setup_payoff_id": "setups-payoff-f3a703b07576467bb2e01dd9beacf7de",
+      "entity_ids": [
+        "prop-d988556780d44dbb999ac13c70c7aaad",
+        "prop-ce6d2b5f51db4da0a3de67a809c13925"
+      ],
+      "issue_ids": [
+        "SMA-ISS-005",
+        "SMA-ISS-008"
+      ]
+    },
+    {
+      "id": "SMA-THR-007",
+      "name": "Forward aging and fresh bread",
+      "state": "Demonstrated rule with open exception",
+      "setup": [
+        "chapter",
+        "By the time Daniel lifted it, the roll was forty years old."
+      ],
+      "payoff": "Proof of temporal separation; better bread is a romantic promise, not a demonstrated solution to aging.",
+      "test": "Future pastry scene must change knowledge or stakes, not merely repeat this test.",
+      "entities": [
+        "aged pastry"
+      ],
+      "issues": [
+        8,
+        18
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-2d8f06e1bdef4346aab4238dd62b53b5",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 275,
+        "line_end": 275,
+        "byte_start": 11047,
+        "byte_end": 11107,
+        "content_fingerprint": "e14a520a8413a0c6085e499dded682c9668fd599bcb818ed21bdedbca9b78ae5"
+      },
+      "stable_id": "plot-thread-277570c805854edfa3de531da64874ad",
+      "setup_payoff_id": "setups-payoff-174c5e60a6cd4042ba8bf0d20dd1369f",
+      "entity_ids": [
+        "prop-d12d36e4106949ac8be1873a74057a59"
+      ],
+      "issue_ids": [
+        "SMA-ISS-008",
+        "SMA-ISS-018"
+      ]
+    },
+    {
+      "id": "SMA-THR-008",
+      "name": "The first archival sleeve",
+      "state": "Local emotional payoff; future custody open",
+      "setup": [
+        "chapter",
+        "It means it lasts."
+      ],
+      "payoff": "Tomas answers Then I am real too and pockets the sleeve. It is not the later torn notebook reply.",
+      "test": "Track material, writing, custody, and aging separately for both pieces of paper.",
+      "entities": [
+        "archival sleeve",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        8,
+        26
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-9b06df23a4f64b2c940048dc7eae7b3d",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 325,
+        "line_end": 325,
+        "byte_start": 12185,
+        "byte_end": 12206,
+        "content_fingerprint": "93ee60c352acfe8a4ba924d32b1181f050ad1dfec6ee2ad8515195358890ccd0"
+      },
+      "stable_id": "plot-thread-fea6cb90d14b4860a80732f1419edbe7",
+      "setup_payoff_id": "setups-payoff-03b65fb65c3041c3a450bd7f04b48713",
+      "entity_ids": [
+        "prop-84030ef95dc848289c02a5c81ccff4fb",
+        "character-a096cba8416847d4947a94012733a09b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-008",
+        "SMA-ISS-026"
+      ]
+    },
+    {
+      "id": "SMA-THR-009",
+      "name": "Returned notebook page and smoke stain",
+      "state": "Partial payoff; mechanism open",
+      "setup": [
+        "chapter",
+        "DO NOT TELL ANYONE ABOUT ME."
+      ],
+      "payoff": "Reply confirms responsive contact and a promise to return; smoke stain does not independently prove the fire's date or Tomas's death.",
+      "test": "Establish when Tomas writes and how the paper is delivered after closure.",
+      "entities": [
+        "notebook reply",
+        "service window"
+      ],
+      "issues": [
+        7,
+        8
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-e3a923594a64454b8b1b55587b5e42d7",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 415,
+        "line_end": 417,
+        "byte_start": 15177,
+        "byte_end": 15244,
+        "content_fingerprint": "b9cd463044adb3db32c6422cc9ee3bf9db61fc46ff209bb4957b16fd1de2ea0f"
+      },
+      "stable_id": "plot-thread-48f6065b74a74c11981fac5cb8cc46ca",
+      "setup_payoff_id": "setups-payoff-0132905f61274c90a8c9fead3a8ce361",
+      "entity_ids": [
+        "prop-1461014f20054066aa266d61a245d1b6",
+        "prop-ce6d2b5f51db4da0a3de67a809c13925"
+      ],
+      "issue_ids": [
+        "SMA-ISS-007",
+        "SMA-ISS-008"
+      ]
+    },
+    {
+      "id": "SMA-THR-010",
+      "name": "Tomorrow's meeting",
+      "state": "Earned promise; unavailable continuation",
+      "setup": [
+        "chapter",
+        "Come back tomorrow at midnight."
+      ],
+      "payoff": "No second meeting in the available manuscript.",
+      "test": "Chapter 2 must deliver or purposefully complicate the promise with visible consequences.",
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        1,
+        10,
+        18
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-1d0590ad6ebf404b997d9e7f235e3ae6",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 403,
+        "line_end": 403,
+        "byte_start": 14841,
+        "byte_end": 14900,
+        "content_fingerprint": "582578a122dab6790e2acc96c6a86a415c3a5c76875e0398ab080ba7463c7f63"
+      },
+      "stable_id": "plot-thread-ca44b781c23640f38479da06e3c9f1b8",
+      "setup_payoff_id": "setups-payoff-dd4a41031f054eb08ee7751d9733ffcf",
+      "entity_ids": [
+        "character-7aa0419823314e0787fe55c54aa83047",
+        "character-a096cba8416847d4947a94012733a09b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-001",
+        "SMA-ISS-010",
+        "SMA-ISS-018"
+      ]
+    },
+    {
+      "id": "SMA-THR-011",
+      "name": "The broker and undrunk coffee",
+      "state": "Reported event, open suspicion",
+      "setup": [
+        "chapter",
+        "A broker in a white suit bought coffee and did not drink it."
+      ],
+      "payoff": "Tomas names Arturo; no criminal act witnessed in Chapter 1. Page 11 uses unsupported Rafael identity.",
+      "test": "Tie inquiry to evidence and preserve alternative explanations until corroboration.",
+      "entities": [
+        "Arturo Salcedo",
+        "Rafael Aragon"
+      ],
+      "issues": [
+        3,
+        12,
+        17
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 375,
+        "line_end": 375,
+        "byte_start": 13910,
+        "byte_end": 14238,
+        "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+      },
+      "stable_id": "plot-thread-b3f12d57db204e2fa50ad71240a47ebf",
+      "setup_payoff_id": "setups-payoff-166311e47990431e8ced6bee5bd2845a",
+      "entity_ids": [
+        "character-28e7610c7be1473aa1d5fb041293cf19",
+        "character-9ed88c78fa9a4040837b28b31b249314"
+      ],
+      "issue_ids": [
+        "SMA-ISS-003",
+        "SMA-ISS-012",
+        "SMA-ISS-017"
+      ]
+    },
+    {
+      "id": "SMA-THR-012",
+      "name": "Failed southbound signal and delayed service",
+      "state": "Demonstrated report, unresolved relevance",
+      "setup": [
+        "chapter",
+        "The southbound signal failed."
+      ],
+      "payoff": "Earlier announcement mentions delay; notes later connect tampered signals to Ernesto. No causal chain yet.",
+      "test": "Preserve clue visibility in adaptation and differentiate ordinary failure from sabotage.",
+      "entities": [
+        "Ernesto Galang",
+        "station fire"
+      ],
+      "issues": [
+        17,
+        25
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-51de7067630a4133ae844dc5ec6a75c6",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 375,
+        "line_end": 375,
+        "byte_start": 13910,
+        "byte_end": 14238,
+        "content_fingerprint": "58f73eb41c7b43c65407aa687003fbebd803b429e233186b2247bc2f4a8dac14"
+      },
+      "stable_id": "plot-thread-90bd00347cfa4f0cbc12684a84edbcb5",
+      "setup_payoff_id": "setups-payoff-e07efdc52d6f46edb811cf3189f4ebb6",
+      "entity_ids": [
+        "character-073f27ce849748799a3a2ed06dabc898",
+        "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-017",
+        "SMA-ISS-025"
+      ]
+    },
+    {
+      "id": "SMA-THR-013",
+      "name": "Lilia's hidden object and Tomas's notebook",
+      "state": "Planned only",
+      "setup": [
+        "characters",
+        "may have hidden one object"
+      ],
+      "payoff": "No hiding scene, recovered object, or proved dangerous notebook contents.",
+      "test": "Decide what each knows, why it threatens someone, and who controls the object.",
+      "entities": [
+        "Lilia Ramos",
+        "cafe order notebook"
+      ],
+      "issues": [
+        15,
+        17
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+        "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+        "scene_id": null,
+        "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+        "source_relative_path": "characters.md",
+        "line_start": 63,
+        "line_end": 69,
+        "byte_start": 8187,
+        "byte_end": 9049,
+        "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f"
+      },
+      "stable_id": "plot-thread-f8e4e9cedfc3453e87fad69e8b797609",
+      "setup_payoff_id": "setups-payoff-dcd930ad98db4b0d93a84549b6d21487",
+      "entity_ids": [
+        "character-3f6621b20e6e4c0da53cb42678b5c277",
+        "prop-96a2694b42c44b76ad5e0edf9555516d"
+      ],
+      "issue_ids": [
+        "SMA-ISS-015",
+        "SMA-ISS-017"
+      ]
+    },
+    {
+      "id": "SMA-THR-014",
+      "name": "Compromised witnesses",
+      "state": "Planned only",
+      "setup": [
+        "characters",
+        "leaves behind conflicting testimony"
+      ],
+      "payoff": "Benjamin's statement and Ernesto's recollections are not dramatized.",
+      "test": "Give each witness an independent incentive, cost, and observable contradiction.",
+      "entities": [
+        "Benjamin Manalo",
+        "Ernesto Galang"
+      ],
+      "issues": [
+        17
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+        "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+        "scene_id": null,
+        "source_unit_id": "source-unit-8c6f6f47006d4208b403c2bdf6482ed3",
+        "source_relative_path": "characters.md",
+        "line_start": 73,
+        "line_end": 79,
+        "byte_start": 9071,
+        "byte_end": 9787,
+        "content_fingerprint": "456437196908bc70bfb1bf20a93ebc7bfc7d88adb76aa8e3f1f865dc2979a660"
+      },
+      "stable_id": "plot-thread-1368b31b3f324aafa0f8ef08a0efd3f4",
+      "setup_payoff_id": "setups-payoff-d5873abb4d3948459ba37de3ea9435d3",
+      "entity_ids": [
+        "character-457a700f0c6c478fb525eb3fb81f30a3",
+        "character-073f27ce849748799a3a2ed06dabc898"
+      ],
+      "issue_ids": [
+        "SMA-ISS-017"
+      ]
+    },
+    {
+      "id": "SMA-THR-015",
+      "name": "Demolition and the present-day archive",
+      "state": "Present pressure established; deadline unknown",
+      "setup": [
+        "chapter",
+        "A plastic banner outside announced luxury residences coming soon"
+      ],
+      "payoff": "No exact demolition date, present antagonist identity, or archive-change observation in prose.",
+      "test": "Use the present to change stakes between meetings; do not assume Arturo still controls redevelopment in 2026.",
+      "entities": [
+        "redevelopment board",
+        "Maribel Santos"
+      ],
+      "issues": [
+        10,
+        14,
+        17
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-e695a70b59934f5f976c61b534bf7be8",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 33,
+        "line_end": 33,
+        "byte_start": 2533,
+        "byte_end": 3054,
+        "content_fingerprint": "10c4237559201ba61de3ef52c85871202a3dcb4318702d0f013975408e823895"
+      },
+      "stable_id": "plot-thread-30f44e10ca9840eeac0ff1e1fd76b4e9",
+      "setup_payoff_id": "setups-payoff-529be1177fb9410db60c1cda6b2dbe70",
+      "entity_ids": [
+        "organization-f6745dcb77aa426da8e39fdf421caeaa",
+        "character-eac21dd0fae140d0b5fc6cd85bbbac0c"
+      ],
+      "issue_ids": [
+        "SMA-ISS-010",
+        "SMA-ISS-014",
+        "SMA-ISS-017"
+      ]
+    },
+    {
+      "id": "SMA-THR-016",
+      "name": "Warnings consume time",
+      "state": "Author rule and future promise only",
+      "setup": [
+        "readme",
+        "8. Direct warnings about major historical events"
+      ],
+      "payoff": "Not yet observed; first meeting reaches 12:07.",
+      "test": "Establish baseline and repeated effects without explaining away every ordinary flicker as a warning penalty.",
+      "entities": [
+        "connection cost",
+        "cafe clock"
+      ],
+      "issues": [
+        9
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+        "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+        "scene_id": null,
+        "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+        "source_relative_path": "README.md",
+        "line_start": 40,
+        "line_end": 51,
+        "byte_start": 4163,
+        "byte_end": 5740,
+        "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+      },
+      "stable_id": "plot-thread-24dfb73707b44c62891604b87ead95c0",
+      "setup_payoff_id": "setups-payoff-37640057b2b4404fb28cc06a7482c6c8",
+      "entity_ids": [
+        "plot-thread-0289f530f9af462cb23c4cf0ccdb6efd",
+        "prop-2feac2a1d9fd42e6975c1ed120a2e16a"
+      ],
+      "issue_ids": [
+        "SMA-ISS-009"
+      ]
+    },
+    {
+      "id": "SMA-THR-017",
+      "name": "Rescue erases relationship or memory",
+      "state": "Planned central dilemma",
+      "setup": [
+        "readme",
+        "If Tomas survives by changing the past too strongly"
+      ],
+      "payoff": "No outcome selected in the files; no guaranteed happy or tragic ending.",
+      "test": "Make the eventual choice jointly meaningful and preserve some consequence of earned intimacy.",
+      "entities": [
+        "Daniel Soriano",
+        "Tomas Rivera"
+      ],
+      "issues": [
+        15,
+        21,
+        29
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+        "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+        "scene_id": null,
+        "source_unit_id": "source-unit-6e81f10343fd4977bfd40faf49fa7087",
+        "source_relative_path": "README.md",
+        "line_start": 40,
+        "line_end": 51,
+        "byte_start": 4163,
+        "byte_end": 5740,
+        "content_fingerprint": "1f355ef90c22e406c79139b269bd77a29e488ec64d4d702bf2797a51ac67bd3b"
+      },
+      "stable_id": "plot-thread-fc72b7ce9c224f38abeb96727d0d5268",
+      "setup_payoff_id": "setups-payoff-c5ea22c902af4ac987cef6656066afd1",
+      "entity_ids": [
+        "character-7aa0419823314e0787fe55c54aa83047",
+        "character-a096cba8416847d4947a94012733a09b"
+      ],
+      "issue_ids": [
+        "SMA-ISS-015",
+        "SMA-ISS-021",
+        "SMA-ISS-029"
+      ]
+    },
+    {
+      "id": "SMA-THR-018",
+      "name": "Cash drawer and archive containers",
+      "state": "Low-priority atmospheric setup candidate",
+      "setup": [
+        "chapter",
+        "one locked station cash drawer nobody had found a key for"
+      ],
+      "payoff": "No subsequent mention. Could remain texture; not every described object requires a twist.",
+      "test": "Promote to a mystery prop only if it materially affects the approved arc; otherwise avoid repetitive emphasis.",
+      "entities": [
+        "municipal museum"
+      ],
+      "issues": [
+        18,
+        28
+      ],
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "source_unit_id": "source-unit-dbb9308fb67a48f58755bcce1a647b1d",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 19,
+        "line_end": 19,
+        "byte_start": 1321,
+        "byte_end": 1788,
+        "content_fingerprint": "65225d87f965f7bd917eb535010b2e06284d6b8a971dd00624e7e8e550c57a9f"
+      },
+      "stable_id": "plot-thread-1ce189f4bf6d4026a69f2d52134a84aa",
+      "setup_payoff_id": "setups-payoff-62becdbf9b1747ec98bbe66ce318ec2f",
+      "entity_ids": [
+        "organization-2f727c5b2401437c8d90ae6e1c78d4e3"
+      ],
+      "issue_ids": [
+        "SMA-ISS-018",
+        "SMA-ISS-028"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "SMA-TL-001",
+      "time": "1930s",
+      "status": "Author reference, not dramatized",
+      "event": "Station construction period.",
+      "evidence": [
+        "characters",
+        "station built in the 1930s"
+      ],
+      "unknown": "Country and exact year are not specified.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+        "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+        "scene_id": null,
+        "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+        "source_relative_path": "characters.md",
+        "line_start": 113,
+        "line_end": 122,
+        "byte_start": 12532,
+        "byte_end": 14691,
+        "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153"
+      },
+      "stable_id": "timeline-event-4d6472a05e7a421bada84dc93a025cd9"
+    },
+    {
+      "id": "SMA-TL-002",
+      "time": "Approximately 1984",
+      "status": "Inference from dialogue",
+      "event": "Cafe clock reportedly stopped two years before Tomas's 1986 statement.",
+      "evidence": [
+        "chapter",
+        "That clock has been broken for two years."
+      ],
+      "unknown": "Exact date and cause; do not turn an approximate inference into canon.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-41ffe74a8fa742b59a383622c5ba38d2",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 183,
+        "line_end": 183,
+        "byte_start": 8033,
+        "byte_end": 8102,
+        "content_fingerprint": "37f34ad1f8514f4077a58b69b7c5e94af53c099320292b2a9eb973a438746e66"
+      },
+      "stable_id": "timeline-event-22ea55bc2e8a495b997c7ca68a5228c9"
+    },
+    {
+      "id": "SMA-TL-003",
+      "time": "Three weeks before station visit, approximate",
+      "status": "Narrated background",
+      "event": "Daniel inventories the railway archive and identifies altered records.",
+      "evidence": [
+        "chapter",
+        "By the third week, he agreed with her."
+      ],
+      "unknown": "Accession date, demolition date, and complete investigation chronology.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+        "source_unit_id": "source-unit-476730f621bf462e91bc15ad3513ca1b",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 21,
+        "line_end": 21,
+        "byte_start": 1789,
+        "byte_end": 1828,
+        "content_fingerprint": "10e236b7748b378db354e8636eb1c3d01d61d504a5b3affede093e0082c7390f"
+      },
+      "stable_id": "timeline-event-642044079b894149a3526d88cd74b602"
+    },
+    {
+      "id": "SMA-TL-004",
+      "time": "11:41 PM in 2026; calendar date unknown",
+      "status": "Explicit prose",
+      "event": "Daniel is inside the station with permits and flashlight.",
+      "evidence": [
+        "chapter",
+        "At 11:41 PM"
+      ],
+      "unknown": "Reason for this hour and elapsed inspection duration until midnight.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-7eabb1ef43df4d50b0662bf7b9d85ab3",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 29,
+        "line_end": 29,
+        "byte_start": 2246,
+        "byte_end": 2489,
+        "content_fingerprint": "79272ed595d5b418a26898d59429d27d576db1e8fc6c599a129663e8e327a9ce"
+      },
+      "stable_id": "timeline-event-f282eafaa2a74ae591db06da0e294b6c"
+    },
+    {
+      "id": "SMA-TL-005",
+      "time": "12:00; Tomas reports October 17, 1986",
+      "status": "Observed opening plus character testimony",
+      "event": "Token handling precedes cafe clock reset; first encounter, shared tray, and names.",
+      "evidence": [
+        "chapter",
+        "October seventeenth."
+      ],
+      "unknown": "Daniel's date; token causality; precise mapping of the two nights.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-4a59e04f57ae454cb2c6ba802a261d5a",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 167,
+        "line_end": 167,
+        "byte_start": 7550,
+        "byte_end": 7681,
+        "content_fingerprint": "4a3099a01992084aea19eb2b3ae7eec8f4dcb71376116a73d89533f3a42511b7"
+      },
+      "stable_id": "timeline-event-73260402244841a98e27554edb5a421a"
+    },
+    {
+      "id": "SMA-TL-006",
+      "time": "12:01",
+      "status": "Explicit prose clock beat",
+      "event": "Tomas reports a two-year-broken clock; identity and name-scratch exchange follows.",
+      "evidence": [
+        "chapter",
+        "12:01."
+      ],
+      "unknown": "The station clock is a separate object; their causal relationship is unspecified.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-af7ddf68c97d458fa0a796510fc631ba",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 179,
+        "line_end": 179,
+        "byte_start": 7997,
+        "byte_end": 8004,
+        "content_fingerprint": "318638e23558f3b5323477e462ceea9ee0b9d77edb438388f0c0b24458d42721"
+      },
+      "stable_id": "timeline-event-bbe7fa7e00de4f568c5e37ceff5a3461"
+    },
+    {
+      "id": "SMA-TL-007",
+      "time": "12:02",
+      "status": "Explicit prose sequence",
+      "event": "Counter instability, painful wrist catch, window opening, and forward-aging pastry.",
+      "evidence": [
+        "chapter",
+        "12:02."
+      ],
+      "unknown": "Mechanism behind the new stable exchange point.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-1e6df82ba5064e84a382d478afe3fcdf",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 239,
+        "line_end": 239,
+        "byte_start": 9735,
+        "byte_end": 9742,
+        "content_fingerprint": "ab32eceb7632a20a02d2565c30e639cd4138b4a929eff3e2183907aabc98fcdd"
+      },
+      "stable_id": "timeline-event-ddbcc8b67f7640a3a0bd2f0f9e9c80db"
+    },
+    {
+      "id": "SMA-TL-008",
+      "time": "12:03",
+      "status": "Explicit prose sequence",
+      "event": "Daniel sends the archival sleeve; Tomas pockets it after reciprocal affirmation.",
+      "evidence": [
+        "chapter",
+        "12:03."
+      ],
+      "unknown": "What backward adaptation later does to that sleeve.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-79cff080f17245189e569f0dff44bbef",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 293,
+        "line_end": 293,
+        "byte_start": 11446,
+        "byte_end": 11453,
+        "content_fingerprint": "1d2a19459bfa99a61f86363c6e4afdb7ca1c82e31a4e6cc4519606c387f2ad14"
+      },
+      "stable_id": "timeline-event-36cded50211f46d8919f9560cba18aff"
+    },
+    {
+      "id": "SMA-TL-009",
+      "time": "12:04",
+      "status": "Explicit prose sequence",
+      "event": "Flashlight falls; Lilia calls from kitchen; Daniel attends to Tomas.",
+      "evidence": [
+        "chapter",
+        "12:04."
+      ],
+      "unknown": "What Lilia can perceive of Daniel or the time boundary.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-4ece39f109764fed82dec162bd6783e2",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 339,
+        "line_end": 339,
+        "byte_start": 12653,
+        "byte_end": 12660,
+        "content_fingerprint": "af3499b5e5d0a754aa68ac8079ffdc12ab0560a9b8d10cb3d27a9ca4b34c39e9"
+      },
+      "stable_id": "timeline-event-661c54865f974e059bfc91a85aa2fc45"
+    },
+    {
+      "id": "SMA-TL-010",
+      "time": "12:05",
+      "status": "Explicit prose sequence",
+      "event": "Two minutes remain; Tomas reports broker and signal failure.",
+      "evidence": [
+        "chapter",
+        "12:05."
+      ],
+      "unknown": "Why Daniel prioritizes the broker over the other anomalies.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-7c4782be14094d18976ebc6e14367371",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 367,
+        "line_end": 367,
+        "byte_start": 13632,
+        "byte_end": 13639,
+        "content_fingerprint": "c9a21191bc85091b726c18122e5b020957c7df136c56745ea1cec60f0d1ef6b5"
+      },
+      "stable_id": "timeline-event-356fb605f0b748f5833cbd468dc5ca5b"
+    },
+    {
+      "id": "SMA-TL-011",
+      "time": "12:06",
+      "status": "Explicit prose sequence",
+      "event": "Closing lights, tomorrow promise, notebook instruction, safe fingertip touch.",
+      "evidence": [
+        "chapter",
+        "12:06."
+      ],
+      "unknown": "When Tomas writes the reply between receipt and apparent return.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-06b7c08c173343b0b72d8d7e0369b169",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 393,
+        "line_end": 393,
+        "byte_start": 14604,
+        "byte_end": 14611,
+        "content_fingerprint": "94c0de8481af235ef3e1a2f097f354f68698f94438bd0b5e12f1d71efe329e66"
+      },
+      "stable_id": "timeline-event-3c8b5e1517c648d5959bf66ce04329b0"
+    },
+    {
+      "id": "SMA-TL-012",
+      "time": "12:07 and seconds later",
+      "status": "Explicit prose sequence",
+      "event": "Cafe closes; aged reply arrives; dust reveals warning; station clock still stopped.",
+      "evidence": [
+        "chapter",
+        "For several seconds he did not move."
+      ],
+      "unknown": "Delivery mechanism and whether the warning existed in Daniel's original photo.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+        "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+        "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+        "source_unit_id": "source-unit-a7bbc928754345c89e3d5f430a22b28c",
+        "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+        "line_start": 441,
+        "line_end": 441,
+        "byte_start": 15793,
+        "byte_end": 15830,
+        "content_fingerprint": "ffbc49fe9f3feff5a23df8925ccab16589a7316aaa6e4a69404576ab98ba7b29"
+      },
+      "stable_id": "timeline-event-2f64cf17d1e14569b0b878056b9b4b86"
+    },
+    {
+      "id": "SMA-TL-013",
+      "time": "Stormy night in 1986, exact date unavailable",
+      "status": "Archive event/reference; not witnessed",
+      "event": "Station fire is recorded as electrical accident; Tomas's death is in the premise.",
+      "evidence": [
+        "characters",
+        "Officially an electrical accident on a stormy night in 1986."
+      ],
+      "unknown": "Relationship to the first meeting, actual victims, arson mechanism, escape routes, and evidence tampering.",
+      "source_evidence": {
+        "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+        "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+        "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+        "scene_id": null,
+        "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+        "source_relative_path": "characters.md",
+        "line_start": 113,
+        "line_end": 122,
+        "byte_start": 12532,
+        "byte_end": 14691,
+        "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153"
+      },
+      "stable_id": "timeline-event-90f17a5260ce4c1b8049b5912c8f45ba"
+    }
+  ]
+}

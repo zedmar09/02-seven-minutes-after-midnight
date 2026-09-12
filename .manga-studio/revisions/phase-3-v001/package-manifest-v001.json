@@ -1,0 +1,121 @@
+{
+  "record_type": "phase_3_review_package_manifest",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "proposed_not_approved",
+  "recommended_option": "balanced",
+  "approved_diagnostic": {
+    "relative_path": ".manga-studio/analysis/diagnostics/sma-comprehensive-audit-v001.json",
+    "sha256": "045932a9de5a84475bcd0834240ace71de1d39b3073dfa0aac831a6c7b93ca3b",
+    "approval_id": "approval-8a2e8e6a05744edd9034972bf780a058"
+  },
+  "artifact_count": 26,
+  "artifacts": [
+    {
+      "relative_path": ".manga-studio/approvals/approval-8a2e8e6a05744edd9034972bf780a058.json",
+      "sha256": "ed626938d75d9c10e4aeadcc8d13538d5a95f8da086f7a8ac281a7eb8615deb3"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/editorial-audit-approval-v001.json",
+      "sha256": "253bb2324f8e4b5e2a910b7fe339f76e1581d46caeb21ee45076f9c06f4fb5cf"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/creative-brief-v001.md",
+      "sha256": "6ae787fe1c2516305b523d8ad02b38f2ddf21b9690c04c41fe5b841ce2d7f211"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.json",
+      "sha256": "36c807d4c371c0c906595f95a31fd6f30f8712eeb3f167a0617149ebf842ae1d"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/decision-proposals-v001.md",
+      "sha256": "80d729747527f26ee76e25feb068bbfaa761118072df8f8c45262cd254c39077"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/planning-basis-v001.json",
+      "sha256": "2e73ca488793a1567b60578678707e46c888f7547ce873a5ad5bd24c1c016676"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/planning-input-v001.json",
+      "sha256": "7d8bad85f07342ff0e5f59b05a0197c78f2e2655d4efb8f8506574875b796afc"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/reconstruction-options-v001.md",
+      "sha256": "f3786f9514cf6a91b662804f7519c6d2663caac6d13006ea20eb5c0b8b511aaf"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/REVIEW-v001.md",
+      "sha256": "16cb964ebd28f72b00b8df1ccd36c9d9417bee2e2226051b94b2062f782df2cb"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/revision-plan-v001.md",
+      "sha256": "a3735a06a333aec349d006373c26e1c4c5c3f1da6fd5084118909204a6d210c2"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/revision-work-packages-v001.json",
+      "sha256": "700cf0b6c2f752847d336d25f297dbf67a55357921e363a360e6b0443a00fb6a"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-3-v001/success-plan-v001.md",
+      "sha256": "66dff812febd50db05a9fa2e393c068e1a4b0cc8890231d65b9e676b551e480c"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-001-v001.json",
+      "sha256": "0b563553327e8642dd50337e84105462c47341470eabe69218d6c3deebdcc10e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-002-v001.json",
+      "sha256": "a32f40beb3232b787600040b6f0aa1090143ced483fe141df53e107c607d6d1c"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-003-v001.json",
+      "sha256": "25fc3f33dc3a63935bc7f086114a09938fba256dfe7416c12509f021bf792a6e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-004-v001.json",
+      "sha256": "229dc44e23d18a2038f360cb17cb6de921d4c1afa6c8f748b9a374d366cccaaa"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-005-v001.json",
+      "sha256": "426c2e7bebe81780a68f3f77272a853c31fa9b5344a1972f041e076b5d36130b"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-006-v001.json",
+      "sha256": "6b25033a6f1b6a455563f896d92b7987eb03e9f3431902f4f668fbdf1381db09"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-007-v001.json",
+      "sha256": "603bdde1f9ccf1608f89e6f20f19dbbad41b79db95d2565fe57253a54c126da0"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-008-v001.json",
+      "sha256": "7238f4f3d98f187136ef26f9359495ac9b2ecdb2cc2ba7975ed36469a591ae6f"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-009-v001.json",
+      "sha256": "d1f1fdeec4303bbf238e1cff02c39c6b40320aaf56acc1e4f0ae5e503ea06791"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-010-v001.json",
+      "sha256": "069314e58c5168ffe6a670662d4f4ecbe8a23389edd1b8f0b204b98e377180b6"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-011-v001.json",
+      "sha256": "78ac9e78e8b0a0f51c70e9a40d45e717f219fa11168c0efd7d1596c0ce043a91"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-012-v001.json",
+      "sha256": "453a7df4b77097a6fffd0a385b60cac74233503a40670775c4aa3f042c5b9446"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/plans/sma-plan-013-v001.json",
+      "sha256": "8af531ec0a0c22b124e2edb9bad723b5831d14e58cffb31b79908b4ad64ea6c9"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/policies/sma-balanced-v001.json",
+      "sha256": "b5e864a01f05cf16bd0ae89e994c88deb8f8ac2ae2326af38528ac4570dcaca4"
+    }
+  ],
+  "exclusions": "The parent plan binds this manifest hash. This manifest, the parent plan, and final validation are excluded from the contents list to avoid circular hashes; final validation checks all three separately. Mutable project status is not an approval target.",
+  "approval_scope": "Review the listed choices, brief, success plan, policy, and work-package plans together; no automatic canon adoption, stage locking, change-set approval, manuscript writing, or artwork is implied."
+}

@@ -1,0 +1,33 @@
+{
+  "record_type": "canon_correction_v002_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T10:52:48.423903+00:00",
+  "reason": "Preserve the exact pre-correction project guidance, project state, working register, and verifier before registering canon v002.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/canon-correction-v002/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "ec16c9944dd4efcd42c82b2c45bb9ef613f7ecdb87215c9bf9751b5c7a320d51"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/canon-correction-v002/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "0c33540f4dde3480ca966064c74c9f73430d0600f0f0712d8da138e368a73c84"
+    },
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/canon-correction-v002/before/.manga-studio/project.json",
+      "sha256": "77c184499cbff5f3a172c747984b4b0217abf06c9d253f1d887ffb4863f44526"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/canon-correction-v002/before/AGENTS.md",
+      "sha256": "994ba4ea76105bef1e502c0af68d02c45e875bc8f592980d556ca1b1f7d36143"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/page-map.md",
+      "archived_relative_path": ".manga-studio/history/canon-correction-v002/before/manga/03-story/arc-01/chapter-001/page-map.md",
+      "sha256": "8a5db8904333c6eb5d1fc726c7b6a53d910e7644438055843ba2c6e7cf7a7b47"
+    }
+  ]
+}

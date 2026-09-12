@@ -1,0 +1,439 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+  "source_relative_path": "AppCover/README.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-7d28d259aea0407eb460a5d9a3c9f413/a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "display_title": "App Selection Cover",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "App Selection Cover",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-652adefd39004abe8051c237a322a627",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 23,
+      "byte_end": 200,
+      "content_fingerprint": "e4d2d7ca822713afda9a886673125192e31753f5dff33ea9162ea57e1290548d",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-09067f4cc989402ba60c2c88a114f353",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 5,
+      "line_end": 6,
+      "byte_start": 201,
+      "byte_end": 355,
+      "content_fingerprint": "13040852c9cf302306f5271c42d547886c544e5e48bec9a8d95be3e213935960",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-7c152e6c807a44a486c85d41b75a2b88",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 8,
+      "line_end": 9,
+      "byte_start": 356,
+      "byte_end": 520,
+      "content_fingerprint": "f65db1147957cdd272be3b70ac465eb1b15f7275c8f3e9e9cba15ef76177634a",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d4f1d6a3d4a1419199c8298ed026b045",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 11,
+      "line_end": 12,
+      "byte_start": 521,
+      "byte_end": 791,
+      "content_fingerprint": "ec20570b821d777a0dd0c737007c69155e47e749a7c3f2a0baa446e7154a86fd",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-87a4b5d1f7bf424596cb5f82aedc8223",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 14,
+      "line_end": 16,
+      "byte_start": 792,
+      "byte_end": 887,
+      "content_fingerprint": "7335178605437aaecf0bf6269667833af2ef269b4421fe04262ca7a214b0b64b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-2cbc65fef6504f6d9a2225db54a10249",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 18,
+      "line_end": 18,
+      "byte_start": 888,
+      "byte_end": 1061,
+      "content_fingerprint": "7c98ed20a00bcf1e422fe060cb930f1d31dea6ba355f866709872053500c259f",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-921b899f905f4d6a9f00c2765727284c",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 20,
+      "line_end": 27,
+      "byte_start": 1062,
+      "byte_end": 1602,
+      "content_fingerprint": "94e1a5b702979640bb2226a0cf6c7152ecb26ae09d46c3ae45945f6c5943f830",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-1af44572024d4a75b69a2bac996360c9",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 29,
+      "line_end": 29,
+      "byte_start": 1603,
+      "byte_end": 1850,
+      "content_fingerprint": "3758b481d9f12a7f5b99d9919518f1ecf8060dec6aad36d5146147f8ba5409fe",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-a3a60fa88ea842f882407e322281c6da",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 9,
+      "unit_type": "paragraph",
+      "line_start": 31,
+      "line_end": 40,
+      "byte_start": 1851,
+      "byte_end": 2439,
+      "content_fingerprint": "5d5da9092f7860ff74d4cefdc13034135953ad0c6f8dba090b53023759b0d5fd",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-a5408151e4ab466aaa67f1dc6b3f9480",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 10,
+      "unit_type": "dialogue",
+      "line_start": 42,
+      "line_end": 42,
+      "byte_start": 2440,
+      "byte_end": 2750,
+      "content_fingerprint": "455bda6b0f4ec866d084e15d6547b2f60055afde18bac0ae7a9212d30d4dc360",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-e24af39e095d498da4272a2a09454fbb",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 11,
+      "unit_type": "paragraph",
+      "line_start": 44,
+      "line_end": 53,
+      "byte_start": 2751,
+      "byte_end": 3407,
+      "content_fingerprint": "95d030bb2d14ee4ea3b3020b51a630c3a6f432580ab42cdb047f5364ac2659eb",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-e53dc00801e7435b9f773d370987bfe4",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 12,
+      "unit_type": "dialogue",
+      "line_start": 55,
+      "line_end": 55,
+      "byte_start": 3408,
+      "byte_end": 3649,
+      "content_fingerprint": "cfe8a6235e86d825644f6c53d81eff5c716417710443ad046bcba4db0c0b0cb0",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-2be1eafc90b742b4b17dd53136993721",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 13,
+      "unit_type": "paragraph",
+      "line_start": 57,
+      "line_end": 63,
+      "byte_start": 3650,
+      "byte_end": 4512,
+      "content_fingerprint": "f2df223e27361a8bf23daba85e481698a69d11b64746c7a6b5f100a4ebb8a802",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-ffe758a42c6547e7861d8bce0dcac17f",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 14,
+      "unit_type": "paragraph",
+      "line_start": 65,
+      "line_end": 70,
+      "byte_start": 4513,
+      "byte_end": 5028,
+      "content_fingerprint": "fae9cc0ec2509f4b786433ca45197bf0c5f21a53f47e7926e4550022166b905a",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-eabdecdb1076462e9aa20d62b438fe9f",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 15,
+      "unit_type": "paragraph",
+      "line_start": 72,
+      "line_end": 73,
+      "byte_start": 5029,
+      "byte_end": 5335,
+      "content_fingerprint": "128f8f318df6cb46036e12b76b9cf52ad875d5686c6be3b89fb1afba89a4d980",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-da7e677537564a8387b7ec1ef87d0503",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 16,
+      "unit_type": "paragraph",
+      "line_start": 75,
+      "line_end": 76,
+      "byte_start": 5336,
+      "byte_end": 5576,
+      "content_fingerprint": "9f7b0d8ff2234dfbb8acec8566391a2340ad04b9ce02be017db84b891f2f4c15",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-ea2e0b1e8ed8486180904921b3cd144c",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover"
+      ],
+      "source_order": 17,
+      "unit_type": "paragraph",
+      "line_start": 78,
+      "line_end": 80,
+      "byte_start": 5577,
+      "byte_end": 6312,
+      "content_fingerprint": "8710d86b12b288a270ab008170e1dd1c8d05261532b69271feea87ef9d81e5a9",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6c7ba9e625c245c5ac52e24f6541ce93",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover",
+        "App Metadata"
+      ],
+      "source_order": 18,
+      "unit_type": "paragraph",
+      "line_start": 84,
+      "line_end": 84,
+      "byte_start": 6330,
+      "byte_end": 6366,
+      "content_fingerprint": "a0e878e10c27c769b043033670c706ba3591204d693f22846609078f44c5564a",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-19234a4f814443adb6ded2cd75a9f71f",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover",
+        "App Metadata"
+      ],
+      "source_order": 19,
+      "unit_type": "paragraph",
+      "line_start": 86,
+      "line_end": 86,
+      "byte_start": 6367,
+      "byte_end": 6459,
+      "content_fingerprint": "6795db1a08ce9b10398420c40cdbe83c356419d22a43c679911a1b3e5d5c94a5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-3cf6e67be7f746738b7b35ee9ba8e277",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover",
+        "App Metadata"
+      ],
+      "source_order": 20,
+      "unit_type": "paragraph",
+      "line_start": 88,
+      "line_end": 89,
+      "byte_start": 6460,
+      "byte_end": 6909,
+      "content_fingerprint": "e0251a06e5475e9cef992e64dfc3e5b829302c04474e0e056ef4961c6278fe51",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-619a4effbdc5477388ec436ccee714ce",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "chapter_id": "chapter-ed78f195fa2844f4a74660fd69311ec4",
+      "scene_id": null,
+      "source_relative_path": "AppCover/README.md",
+      "heading_path": [
+        "App Selection Cover",
+        "Usage Notes"
+      ],
+      "source_order": 21,
+      "unit_type": "paragraph",
+      "line_start": 93,
+      "line_end": 96,
+      "byte_start": 6926,
+      "byte_end": 7384,
+      "content_fingerprint": "22850abe865ec1e499a4adea94b61fa49166388eb8f7c19b7849e2b184ad2b33",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

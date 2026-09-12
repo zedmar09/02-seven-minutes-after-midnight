@@ -1,0 +1,49 @@
+{
+  "record_type": "generated_character_reference_intake",
+  "version": "v002",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-12T10:00:57Z",
+  "author_request": "new daniel-tomas.png is now on my download and ready for evaluation",
+  "received_source": {
+    "path": "/Users/edmarsanchez/Downloads/daniel-tomas.png",
+    "bytes": 2076795,
+    "sha256": "74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d"
+  },
+  "retained_candidate": {
+    "path": ".manga-studio/continuity/reference-candidates/daniel-soriano-v002/candidate.png",
+    "sha256": "74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "encoded_color_space": "RGB",
+    "alpha": false
+  },
+  "subject_determination": "The image contains six studies of Daniel Soriano only. The combined download filename does not make it a Daniel-and-Tomas sheet.",
+  "comparison_evidence": {
+    "approved_identity_input": {
+      "path": "manga/02-references/approve-png/daniel-tomas-shared.png",
+      "sha256": "48f2680a489156033f49b11f5a7c02a7a0e92e0442a3a60fc2bc1487cd1bf2b6",
+      "usage": "Daniel identity traits only; Daniel is the curly-haired man on the left."
+    },
+    "generation_brief": {
+      "path": "manga/02-references/characters/daniel-soriano/daniel-soriano-reference-generation.md",
+      "sha256": "5632848fca967e34aba08540b4844672246110ae44974f2bc18e1aacce0c31fa",
+      "usage": "Required six-view arrangement, character details, exclusions, and printed-manga finish."
+    },
+    "previous_candidate": {
+      "path": ".manga-studio/continuity/reference-candidates/daniel-soriano-v001/candidate.png",
+      "sha256": "134cc5dfbacb0f7a45f859901e86c781da986be11101df63df7c8a7143d13f59",
+      "usage": "Regression comparison for the scar, flat manga finish, and bust-edge corrections."
+    }
+  },
+  "actual_generation_job_provenance": "not_supplied",
+  "review_path": ".manga-studio/continuity/reviews/chapter-001-daniel-soriano-reference-v002-review.json",
+  "result": "review_ready",
+  "approval_recommended": true,
+  "approved": false,
+  "automatic_retry": false,
+  "image_generation_enabled": false,
+  "IMAGE_READY": false
+}
+

@@ -1,0 +1,43 @@
+{
+  "record_type": "generated_character_reference_intake",
+  "version": "v002",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-12T13:06:24Z",
+  "author_request": "new lilia-ramos.png is now available on my downloads and ready for approval that is under seven-minutes-after-midnight directory",
+  "received_source": {
+    "path": "/Users/edmarsanchez/Downloads/seven-minutes-after-midnight/lilia-ramos.png",
+    "bytes": 2025112,
+    "sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586"
+  },
+  "retained_candidate": {
+    "path": ".manga-studio/continuity/reference-candidates/lilia-ramos-v002/candidate.png",
+    "sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586",
+    "dimensions": [1024, 1536],
+    "encoded_color_space": "RGB",
+    "alpha": false
+  },
+  "subject_determination": "The image contains six proposed studies of Lilia Ramos only.",
+  "comparison_evidence": {
+    "generation_brief": {
+      "path": "manga/02-references/characters/lilia-ramos/lilia-ramos-reference-generation.md",
+      "sha256": "daec377273592b3d1c7ae2055b2f97e409f4490cc131a3b6663373e84dd63b03",
+      "usage": "Required six-view arrangement, written appearance, exclusions, conditional status, and printed-manga finish."
+    },
+    "previous_candidate": {
+      "path": ".manga-studio/continuity/reference-candidates/lilia-ramos-v001/candidate.png",
+      "sha256": "875f81d75777ba64f726b13d5b715916d75f717ef6d7dfa0d932267b4630470a",
+      "usage": "Regression comparison for the single healed burn-scar correction."
+    }
+  },
+  "input_image_attachment": "none",
+  "actual_generation_job_provenance": "not_supplied",
+  "review_path": ".manga-studio/continuity/reviews/chapter-001-lilia-ramos-reference-v002-review.json",
+  "result": "review_ready_visual_pass",
+  "approval_recommended": true,
+  "approved": false,
+  "storyboard_condition_satisfied": false,
+  "promotion_blocked": true,
+  "automatic_retry": false,
+  "image_generation_enabled": false,
+  "IMAGE_READY": false
+}

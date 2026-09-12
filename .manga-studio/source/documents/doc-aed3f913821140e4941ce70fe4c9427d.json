@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+  "display_title": "chapter",
+  "aliases": [
+    "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md"
+  ],
+  "source_relative_path": ".manga-studio/history/structure-cleanup-v001/before/Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+  "usage_role": "primary_manuscript",
+  "classification": "primary_manuscript",
+  "classification_status": "approved",
+  "source_status": "active",
+  "structure_status": "parsed",
+  "provenance_original_sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+  "source_map_path": ".manga-studio/source/maps/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24-manga_studio_text_structure-v1.0.0-boundaries-c211323ebc64c631.json",
+  "source_map_checksum": "1773cf655eb70687b056fb6edf86df97e919efc0fa40046075948e3ad080a12c"
+}

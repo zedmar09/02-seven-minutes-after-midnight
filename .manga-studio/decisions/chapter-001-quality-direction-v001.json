@@ -1,0 +1,26 @@
+{
+  "schema_version": "3.0.0",
+  "decision_id": "SMA-DEC-CH001-QUALITY-V001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "ms-70391ae1065048cf8bdd564959abd6c3",
+    "chapter-fb585a7fd3e7450e936edbcfce992566"
+  ],
+  "decision": "Adopt Chapter 1 manuscript v001 as the approved active manuscript and approve a provisional 36-interior-page visual direction within a 32-40 page working range, using event-driven composition and the existing panel_first workflow.",
+  "rationale": "After the evidence-based quality audit and explicit manuscript-adoption question, the user said to update manga-creator and approve. This records the narrow approval while preserving separate gates for canon, locks, storyboard, visual references, image jobs, artwork, publication and Git push.",
+  "actor": "user",
+  "decided_at": "2026-09-11T08:30:23Z",
+  "evidence": [],
+  "result_artifacts": [
+    ".manga-studio/manuscript/versions/chapter-001-v001.md",
+    ".manga-studio/manuscript/versions/chapter-001-v001.metadata.json",
+    ".manga-studio/approvals/approval-feb5212823b84aeaaa04bac3fedc4fc6.json",
+    ".manga-studio/analysis/chapter-001-visual-quality-audit-v001.md",
+    "manga/01-style/page-composition-rules.md",
+    "manga/03-story/arc-01/chapter-001/page-map.md",
+    "manga/04-production/page-standard.md",
+    "manga/04-production/arc-01/chapter-001/page-order.md"
+  ],
+  "supersedes_decision_id": null
+}

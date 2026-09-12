@@ -1,0 +1,13 @@
+{
+  "record_type": "daniel_reference_review_v002_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-12T10:02:35.998165+00:00",
+  "reason": "Preserve the pre-review register before recording a corrected, non-approved, byte-identical external Daniel reference candidate and its v002 review.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/daniel-reference-review-v002/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "c906974874206942ae178fb7aada84835b397fd9081c3c00200483ff69295069"
+    }
+  ]
+}

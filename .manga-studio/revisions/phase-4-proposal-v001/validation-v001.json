@@ -1,0 +1,59 @@
+{
+  "record_type": "exact_change_review_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "checked_at": "2026-09-05T04:38:49.067687+00:00",
+  "status": "pass",
+  "errors": [],
+  "original_candidates_byte_identical": 25,
+  "imported_story_sources_byte_identical": 24,
+  "prior_audit_artifact_hashes_unchanged": 13,
+  "approved_planning_artifact_hashes_unchanged": 26,
+  "snapshot_normalization_and_source_maps": "pass",
+  "current_user_approvals_valid": 3,
+  "runtime_schema_checks": [
+    "project",
+    "stable-id-map",
+    "change-set",
+    "decision-log",
+    "approval"
+  ],
+  "textual_review_checks": "Project-local structure, known issue/edit IDs, strict evidence locators and exact target hashes; no production-review schema or page scores claimed.",
+  "strict_source_locators_checked": 196,
+  "deterministic_artifacts_reassembled": 7,
+  "exact_edits_checked": 22,
+  "clock_markers_checked": 8,
+  "diff_roundtrip": "Both original and preview restored exactly",
+  "diagnostic_dispositions": 30,
+  "editorial_consistency_checks": 8,
+  "editorial_warnings": 7,
+  "package_artifact_count": 18,
+  "package_manifest_sha256": "7dd762c042129d11b9e4cd09815912122051c6057eee03bb26733c7a2295bd50",
+  "change_set_sha256": "e153b390bb498aac3b535ad3d93d87b2da8272a0b14681de54df28a61557c0bb",
+  "preview_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+  "metrics": {
+    "original_story_words": 2655,
+    "preview_story_words": 2896,
+    "localized_edits": 22,
+    "changed_source_lines": 44,
+    "original_total_lines": 474
+  },
+  "active_versions": {
+    "canon": null,
+    "manuscript": null,
+    "storyboard": null
+  },
+  "stage_locks": {
+    "SOURCE_LOCKED": false,
+    "CANON_APPROVED": false,
+    "DIAGNOSTIC_APPROVED": false,
+    "REVISION_PLAN_APPROVED": false,
+    "MANUSCRIPT_APPROVED": false,
+    "STORY_LOCKED": false,
+    "STORYBOARD_APPROVED": false,
+    "STORYBOARD_LOCKED": false,
+    "IMAGE_READY": false
+  },
+  "image_generation_enabled": false,
+  "readiness": "Exact-change review ready. No exact-change approval, manuscript application, authority adoption, stage-lock activation or production readiness is implied."
+}

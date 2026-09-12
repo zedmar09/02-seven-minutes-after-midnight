@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-feb5212823b84aeaaa04bac3fedc4fc6",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "manuscript",
+  "target_relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
+  "target_version": "v001",
+  "target_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-11T08:30:23Z",
+  "actor": "user",
+  "notes": "User said 'we need to update that manga-creator and approve' immediately after the Chapter 1 quality audit and explicit manuscript-adoption question. Approves the exact Chapter 1 v001 manuscript SHA-256 f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500 for adoption, with the seven disclosed consistency warnings remaining recorded. This approval does not approve canon, change any stage lock, approve a storyboard or artwork, enable image generation, release image jobs, publish, or authorize a Git push.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

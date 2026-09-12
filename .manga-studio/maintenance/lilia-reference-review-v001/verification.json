@@ -1,0 +1,20 @@
+{
+  "record_type": "lilia_reference_review_verification",
+  "version": "v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-12T12:39:43.570970+00:00",
+  "status": "pass",
+  "review_result": "changes_requested",
+  "source_unchanged": true,
+  "candidate_matches_source": true,
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "candidate_approved": false,
+  "candidate_promoted": false,
+  "storyboard_condition_satisfied": false,
+  "artwork_generated_or_edited_by_codex": false,
+  "stage_locks_changed": false,
+  "image_generation_enabled": false
+}

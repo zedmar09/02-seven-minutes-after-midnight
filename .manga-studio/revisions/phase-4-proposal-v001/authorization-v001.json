@@ -1,0 +1,36 @@
+{
+  "record_type": "exact_change_preparation_authorization",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "user_message": "lets proceed",
+  "preceding_question_summary": "Approval of Option B and the accompanying proposed choices and revision plan.",
+  "approval_paths": [
+    ".manga-studio/approvals/approval-8300f092c2fb44d98842a89d829e3fb3.json",
+    ".manga-studio/approvals/approval-389787b7b7e747c1ba1be1d3204dc970.json"
+  ],
+  "decision_path": ".manga-studio/decisions/editorial-option-b-approval-v001.json",
+  "package_manifest_relative_path": ".manga-studio/revisions/phase-3-v001/package-manifest-v001.json",
+  "package_manifest_sha256": "39a56110a135bccb13cb9ccbf0b0d03600ef4e621a6992d7b08362ee54dd976a",
+  "accepted_direction_ids": [
+    "SMA-PROP-001",
+    "SMA-PROP-002",
+    "SMA-PROP-003",
+    "SMA-PROP-004",
+    "SMA-PROP-005",
+    "SMA-PROP-006",
+    "SMA-PROP-007",
+    "SMA-PROP-008",
+    "SMA-PROP-009",
+    "SMA-PROP-010",
+    "SMA-PROP-011",
+    "SMA-PROP-012",
+    "SMA-PROP-013",
+    "SMA-PROP-014"
+  ],
+  "exact_changes_approved": false,
+  "canon_adopted": false,
+  "stage_locks_authorized": false,
+  "scope": "Prepare exact text, readable preview, deterministic comparison and consistency review inside revisions. Do not materialize or activate a manuscript until the exact payload is approved.",
+  "gate_note": "The diagnostic and plan approval records are valid but their runtime stage locks remain false. Proposal preparation follows explicit user authorization without representing activation gates as passed.",
+  "application_note": "This is a source-bound proposal, not a runtime-executable managed-manuscript change set. Never edit its snapshot target in place. Use the chapter-writer for a new inactive draft after exact-change approval; the runtime helper would automatically activate its output."
+}

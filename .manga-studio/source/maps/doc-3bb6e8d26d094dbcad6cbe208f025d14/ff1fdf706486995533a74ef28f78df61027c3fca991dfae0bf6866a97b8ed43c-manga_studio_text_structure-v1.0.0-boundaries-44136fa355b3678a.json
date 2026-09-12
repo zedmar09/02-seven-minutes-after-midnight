@@ -1,0 +1,95 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+  "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-3bb6e8d26d094dbcad6cbe208f025d14/ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+      "display_title": "Arc 1: The Fire At San Aurelio Junction",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Arc 1: The Fire At San Aurelio Junction",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-0deab2506ad74cb6823ca164a9c2eaa1",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "heading_path": [
+        "Arc 1: The Fire At San Aurelio Junction"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 4,
+      "byte_start": 43,
+      "byte_end": 131,
+      "content_fingerprint": "bdd419c721614b413b43f2c50a1bdc0afebbf443159a4cd5a176c65bb223e0d3",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-d77a72566c874802bd931022316e75b7",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "heading_path": [
+        "Arc 1: The Fire At San Aurelio Junction",
+        "Chapter Folders"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 8,
+      "line_end": 9,
+      "byte_start": 152,
+      "byte_end": 503,
+      "content_fingerprint": "bf48833a2716c7851998b11335cfaa3ec8f0612bf54544bf18b025f9f2fb54d5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-6ddfa4dfd3ec478c95315ba4ebf72ee1",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+      "scene_id": null,
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "heading_path": [
+        "Arc 1: The Fire At San Aurelio Junction",
+        "File Rules"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 13,
+      "line_end": 19,
+      "byte_start": 519,
+      "byte_end": 1229,
+      "content_fingerprint": "151f74a2eec7e8c7ce0c885c79f7a1b6058a7a65a7401b219df53afb7898accd",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

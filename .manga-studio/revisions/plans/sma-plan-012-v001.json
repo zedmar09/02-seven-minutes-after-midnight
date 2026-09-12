@@ -1,0 +1,137 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-012",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "prop-ce6d2b5f51db4da0a3de67a809c13925",
+    "prop-2feac2a1d9fd42e6975c1ed120a2e16a",
+    "prop-d12d36e4106949ac8be1873a74057a59",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-022",
+    "SMA-ISS-024",
+    "SMA-ISS-027"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "chapter_id": "chapter-3e99cdea902c41ed816255c89428f7fa",
+      "scene_id": null,
+      "source_unit_id": "source-unit-6d6d0dba516648269858f5b36244eec1",
+      "source_relative_path": "Comics/style-guide.md",
+      "line_start": 48,
+      "line_end": 48,
+      "byte_start": 4699,
+      "byte_end": 4982,
+      "content_fingerprint": "077f5a33edd6b294aebd5900a26362fba9d4ae77b105736a61f2e18fd7020644"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "chapter_id": "chapter-ffd94a3d46ad40fb8162508af87c23c6",
+      "scene_id": null,
+      "source_unit_id": "source-unit-3c7f309a04e54097aa6a0b0e71a25560",
+      "source_relative_path": "Comics/README.md",
+      "line_start": 67,
+      "line_end": 84,
+      "byte_start": 2967,
+      "byte_end": 5243,
+      "content_fingerprint": "7773f555b893c45cf5a4f42bfd3d6bc47258ac62563f45b0af7f468393fc332d"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+      "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-052743cf2c3d4756ad6122b75f7510ef",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "line_start": 17,
+      "line_end": 18,
+      "byte_start": 961,
+      "byte_end": 1088,
+      "content_fingerprint": "6e998232641c6ab52a18ead2e56f3077f3decf2976a5692c6c51398216de1109"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+      "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-ae72db5bee8345dca0691d2674b77391",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "line_start": 38,
+      "line_end": 41,
+      "byte_start": 1784,
+      "byte_end": 1969,
+      "content_fingerprint": "c8268a9ecf4b7bbc1500d53177dce18e9c4e03c597e756a76c50d6ebe7acb1b5"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+      "chapter_id": "chapter-f437f0ea4c4a45e08097ca3570879491",
+      "scene_id": null,
+      "source_unit_id": "source-unit-be91f31d1c8f405ba1c57b6fe58d8d56",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "line_start": 28,
+      "line_end": 31,
+      "byte_start": 1508,
+      "byte_end": 1700,
+      "content_fingerprint": "a253ea723c04e90d7186e8160d77100d96c7ec747cda0fee8da0c1aaae37137b"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+      "chapter_id": "chapter-b7ad140cb7144a2c939d14e329fc338a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-a0d3641d00b746b0824cb6370ffa1f85",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "line_start": 20,
+      "line_end": 23,
+      "byte_start": 1089,
+      "byte_end": 1272,
+      "content_fingerprint": "24fcf804e0f4cf2262ff23eda139de1ef8bb32b6e8465573c487817c07075464"
+    }
+  ],
+  "proposed_operation": "Specify readable preproduction and SFX. Owner: manga-storyboard-director, manga-panel-director, manga-lettering. Stage: Phase 5 only, after required story approvals and locks. Prepare event-driven page intents, explicit reading sequence, geometry-only nemu, one dominant panel event, motivated camera directions, dialogue-safe areas, and complete SFX fields. Risk: No current image exists to validate rendered clarity; a planning score cannot confer approval. Specific recommendations require separate adoption: SMA-PROP-014.",
+  "expected_result": "A reviewable storyboard and lettering plan ready for appropriate preproduction checks.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Rain and clock soundscape, silence at closure, and deliberate negative space.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Rain and clock soundscape, silence at closure, and deliberate negative space."
+  },
+  "canon_impact": {
+    "level": "none",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "high",
+    "notes": "A reviewable storyboard and lettering plan ready for appropriate preproduction checks."
+  },
+  "structural_impact": {
+    "level": "medium",
+    "notes": "Scope and dependencies: Phase 5 only, after required story approvals and locks. No current image exists to validate rendered clarity; a planning score cannot confer approval."
+  },
+  "dependencies": [
+    "SMA-PLAN-011"
+  ],
+  "acceptance_criteria": [
+    "Every SFX has source, reader meaning, intensity, English language, translation context, and lettering intent.",
+    "Every panel has one dominant event.",
+    "All dynamic layouts have a stated narrative reason.",
+    "Reading order and text-space checks pass before artwork handoff."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

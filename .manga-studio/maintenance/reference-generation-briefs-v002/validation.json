@@ -1,0 +1,70 @@
+{
+  "record_type": "reference_generation_briefs_v002_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "checked_at": "2026-09-12T01:19:21.446690+00:00",
+  "status": "pass",
+  "briefs_verified": 13,
+  "printed_manga_reference_lock": "pass",
+  "lead_identity_attachment_scope": "pass",
+  "supporting_character_attachment_scope": "pass",
+  "dependency_attachment_policy": "approved_hash_bound_predecessors_only",
+  "release_status": "deferred",
+  "artwork_created": false,
+  "structured_image_jobs_created": false,
+  "stage_locks_changed": false,
+  "image_generation_enabled": false,
+  "brief_hashes": [
+    {
+      "relative_path": "manga/02-references/characters/daniel-soriano/daniel-soriano-reference-generation.md",
+      "sha256": "5632848fca967e34aba08540b4844672246110ae44974f2bc18e1aacce0c31fa"
+    },
+    {
+      "relative_path": "manga/02-references/characters/tomas-rivera/tomas-rivera-reference-generation.md",
+      "sha256": "a5bc3eddea1337e73d6998e96f2abb27a26f8d9f8fc12ccabfc6e5f7e1ab414f"
+    },
+    {
+      "relative_path": "manga/02-references/characters/maribel-santos/maribel-santos-reference-generation.md",
+      "sha256": "332f5895de619c0175cd5faeb7ca8f6ded9b03b67f345a2094371e83ea0cab63"
+    },
+    {
+      "relative_path": "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",
+      "sha256": "bebfc0f5e5138957fdc02e70eb19439240a74f726cf0e81533016bfc2b27e54d"
+    },
+    {
+      "relative_path": "manga/02-references/characters/lilia-ramos/lilia-ramos-reference-generation.md",
+      "sha256": "daec377273592b3d1c7ae2055b2f97e409f4490cc131a3b6663373e84dd63b03"
+    },
+    {
+      "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
+      "sha256": "59dafbc164422fa9a3c75e3dc7c3942cac99e9468d2553681ece07947f8e888d"
+    },
+    {
+      "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
+      "sha256": "0555e6f1dc9732157b910c794d603e6cd571398edd65a10c64cbc871963fdce3"
+    },
+    {
+      "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
+      "sha256": "9db4546af806898186d5c59f5645a0afd96f906d84d8f1170e931ade54b6b3bd"
+    },
+    {
+      "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
+      "sha256": "f34d40b5adfb8b42ce4853884e16f7991897ff933575077721ac2a19021f8441"
+    },
+    {
+      "relative_path": "manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
+      "sha256": "b7d81224a5af2dd9e7131cc26c15ad21681537e041f82f479fdb7a88ad9d5db6"
+    },
+    {
+      "relative_path": "manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
+      "sha256": "5395b99c3ff9926e551b4425d77bf229f446a24987a7deea188eee2b3f80d171"
+    },
+    {
+      "relative_path": "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
+      "sha256": "312e5e96d8b7c9666c07c7531467f379d4dc653bb7bfd2eb009bc0b2b543d681"
+    },
+    {
+      "relative_path": "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
+      "sha256": "eebe83db723c1e11ed78da1a55eafabb9a8b627514ddb80bae9ac501d02d4de3"
+    }
+  ]
+}

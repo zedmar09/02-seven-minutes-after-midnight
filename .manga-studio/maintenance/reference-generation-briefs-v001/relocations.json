@@ -1,0 +1,38 @@
+{
+  "record_type": "reference_generation_briefs_v001_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T09:40:02.935319+00:00",
+  "reason": "Preserve the exact pre-update indexes, working register, and verifier before adding eight deferred Chapter 1 reference-generation briefs.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "3ae796f316edf9f6045d23e890777f963b04021c7113862ff1d2a67321caa81d"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "d183f898e9aba2760a0bf6f29d8afb36b24a1d8e8fb0e2985c0e87bf687810c0"
+    },
+    {
+      "original_relative_path": "manga/02-references/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/manga/02-references/README.md",
+      "sha256": "2a8018fd37c51b29b7e23a43a8614805162d70685843bb5aa567426659e4c445"
+    },
+    {
+      "original_relative_path": "manga/02-references/environments/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/manga/02-references/environments/README.md",
+      "sha256": "4328f1d5a22a114981b6d86b3ef55d8555e11062754273a833f5af47594b24da"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/README.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/manga/02-references/objects/README.md",
+      "sha256": "ccd67305bd09a3e3fc5f48ffeca2cf6797c2c6dd46f87d890cefe2ce3086ed75"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "archived_relative_path": ".manga-studio/history/reference-generation-briefs-v001/before/manga/03-story/arc-01/chapter-001/reference-needs.md",
+      "sha256": "bbb06a2db8eb6125e53b05de3bace35fe8181b6a8cac6250311e678e9db07547"
+    }
+  ]
+}

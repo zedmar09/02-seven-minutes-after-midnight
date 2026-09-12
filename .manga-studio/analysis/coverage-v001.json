@@ -1,0 +1,484 @@
+{
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "coverage_basis": "all current imported story sources; no sampling",
+  "documents_reviewed": 24,
+  "documents_available": 24,
+  "coverage_percent": 100,
+  "prose_chapters_available": 1,
+  "analytical_scenes": {
+    "prelude": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "station": "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  },
+  "manuscript_chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+  "prose_word_count": 2667,
+  "page_scripts": 14,
+  "scripted_panels": 75,
+  "cover_prompts": 3,
+  "supporting_documents": 6,
+  "planned_arcs_reviewed": 7,
+  "planned_chapters": 105,
+  "drafted_chapters_claimed_by_notes": 2,
+  "reader_images_available": 0,
+  "excluded_material": [
+    {
+      "relative_path": ".gitignore",
+      "reason": "repository housekeeping",
+      "imported": false
+    },
+    {
+      "pattern": "._*",
+      "reason": "macOS sidecars; left untouched",
+      "imported": false
+    },
+    {
+      "pattern": ".git/**",
+      "reason": "repository internal metadata",
+      "imported": false
+    },
+    {
+      "pattern": ".manga-studio/**",
+      "reason": "new audit workspace, not original story",
+      "imported": false
+    },
+    {
+      "relative_path": "AGENTS.md",
+      "reason": "new workspace operating instructions",
+      "imported": false
+    }
+  ],
+  "records": [
+    {
+      "source_key": "SRC-01",
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "relative_path": "AppCover/README.md",
+      "usage_role": "author_notes",
+      "original_sha256": "a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e",
+      "source_map_path": ".manga-studio/source/maps/doc-7d28d259aea0407eb460a5d9a3c9f413/a1ab842d678823f28f1b0fb63a598a91d07817c42ceaff6a74689466f5e0b39e-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "458f2a98f5e6d509b2e7b66a3d95d968b5f98813cde4ea3ac42d80bfd6b9c3e2",
+      "line_count": 97,
+      "word_count": 1092,
+      "reviewed_lines": [
+        1,
+        97
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B05 pages 13-14 and covers",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-02",
+      "document_id": "doc-9525aff11e6c47c488b95d3a23e47cac",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52",
+      "source_map_path": ".manga-studio/source/maps/doc-9525aff11e6c47c488b95d3a23e47cac/9a4f5ff0d9b4800e03b79a5b69d142dc0d53a58bd32263edf846c17c140bed52-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "ab1c036fe292cf2943055fabc35d84816d8993b16dc14827d47342a962dd3cce",
+      "line_count": 45,
+      "word_count": 386,
+      "reviewed_lines": [
+        1,
+        45
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B05 pages 13-14 and covers",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-03",
+      "document_id": "doc-8dde1d618f4841fd8184a34ad897766b",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4",
+      "source_map_path": ".manga-studio/source/maps/doc-8dde1d618f4841fd8184a34ad897766b/316bb7eeb40ef81d005c87c1707fa98bf65ecc346ffc35d3ceb3d99495d6c3a4-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "789362101fc8e74a0d79283fadd7a707db71705ec2b3c66632e863ad44cb7294",
+      "line_count": 46,
+      "word_count": 567,
+      "reviewed_lines": [
+        1,
+        46
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B05 pages 13-14 and covers",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-04",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "usage_role": "primary_manuscript",
+      "original_sha256": "a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24",
+      "source_map_path": ".manga-studio/source/maps/doc-aed3f913821140e4941ce70fe4c9427d/a194aa879fd84c6f1661c819a203c15024c2fb19ce9df916a69249103a55cd24-manga_studio_text_structure-v1.0.0-boundaries-c211323ebc64c631.json",
+      "source_map_sha256": "1773cf655eb70687b056fb6edf86df97e919efc0fa40046075948e3ad080a12c",
+      "line_count": 474,
+      "word_count": 2784,
+      "reviewed_lines": [
+        1,
+        474
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-05",
+      "document_id": "doc-04a6eb99011845ae85207fed5e9072ca",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3",
+      "source_map_path": ".manga-studio/source/maps/doc-04a6eb99011845ae85207fed5e9072ca/50b60b0401e29c54b9554c872b61296930c2535aeda6329afb41f8ab2ed480a3-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "e4ae8a6d3cb25b8dcd094c105989af84d9e817f24e0e6d0b56477baab785f70f",
+      "line_count": 55,
+      "word_count": 538,
+      "reviewed_lines": [
+        1,
+        55
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B02 pages 1-4",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-06",
+      "document_id": "doc-ed49527c3aab42ce86ca2a2ea8377e76",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef",
+      "source_map_path": ".manga-studio/source/maps/doc-ed49527c3aab42ce86ca2a2ea8377e76/a068b7a5817863367286275085d619c87e5341200fc80087d913a4c6e7bf79ef-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "73c245024166dd2113c4233cfacec68a58d26acba7b66b6e72f49f2424ee5d07",
+      "line_count": 51,
+      "word_count": 404,
+      "reviewed_lines": [
+        1,
+        51
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B02 pages 1-4",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-07",
+      "document_id": "doc-c78582d3c1c7412bac0cf7c32158e31e",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4",
+      "source_map_path": ".manga-studio/source/maps/doc-c78582d3c1c7412bac0cf7c32158e31e/4130541f1ee63a059f1c9a11aaa788ba2cdd1f3452de79800e8e61558dddacb4-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "0bb0025ad8ad343a00aac54cb98c175a15a9d9378adaea79b6d83a9df7034361",
+      "line_count": 52,
+      "word_count": 367,
+      "reviewed_lines": [
+        1,
+        52
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B02 pages 1-4",
+      "panel_count": 6
+    },
+    {
+      "source_key": "SRC-08",
+      "document_id": "doc-08dfe0d529e748df979663e70fa9bfc6",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381",
+      "source_map_path": ".manga-studio/source/maps/doc-08dfe0d529e748df979663e70fa9bfc6/b151c5b21e65f1e18938daa9e0b9d5dfb3ecf7b669b424fbc141d7ea4ec88381-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "d7216ecc387211a4c343b630913a835f77a0e43838a2ddb2368d11729625cf2b",
+      "line_count": 47,
+      "word_count": 366,
+      "reviewed_lines": [
+        1,
+        47
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B02 pages 1-4",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-09",
+      "document_id": "doc-2a6f837a05814dfe9b91accde59c9a6a",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f",
+      "source_map_path": ".manga-studio/source/maps/doc-2a6f837a05814dfe9b91accde59c9a6a/a8e094d2d0a5bf6cb588b110823249133cc6ecd1687230ac81da7c7dfde5ff0f-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "e7a56e5e666f1a325f088275471bd375708598ddbb3db2f16318a6688ed0e09d",
+      "line_count": 46,
+      "word_count": 378,
+      "reviewed_lines": [
+        1,
+        46
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B03 pages 5-8",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-10",
+      "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b",
+      "source_map_path": ".manga-studio/source/maps/doc-a2ba623b38914ed1b9d0ed38604a8b13/7569c1391095b8a9a07e2c507d9500ba3e408671028c7fff90075a5946a2e51b-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "fe46c88f1396ab0dd1d13ba8c6b5f3ae041d6c26d137d99eb676744daa5bab79",
+      "line_count": 57,
+      "word_count": 362,
+      "reviewed_lines": [
+        1,
+        57
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B03 pages 5-8",
+      "panel_count": 6
+    },
+    {
+      "source_key": "SRC-11",
+      "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181",
+      "source_map_path": ".manga-studio/source/maps/doc-215c2b29ac2f40ceb71ba5d51fe878ec/1d58929da971d27c852b5d51da394b453277c4dc5f0165540410b2513caa2181-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "a195cfe56b8e493fc0aea6164d69352c9f74bd8c7728c8b6cfa07cc20daed3b3",
+      "line_count": 55,
+      "word_count": 409,
+      "reviewed_lines": [
+        1,
+        55
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B03 pages 5-8",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-12",
+      "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919",
+      "source_map_path": ".manga-studio/source/maps/doc-a19246148e964618bc82da4df14e49cb/c19a6b8bd061264a29c5fe4b7e421dfcf762d63a639822ca315dcbf1544dd919-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "ccf3370f6fd10ca7a0bbce4a5b42e69fc5a912451084f3565d6ccec85d65f629",
+      "line_count": 55,
+      "word_count": 380,
+      "reviewed_lines": [
+        1,
+        55
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B03 pages 5-8",
+      "panel_count": 6
+    },
+    {
+      "source_key": "SRC-13",
+      "document_id": "doc-eb41cc601f784e909814e4dc82bb3a4b",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1",
+      "source_map_path": ".manga-studio/source/maps/doc-eb41cc601f784e909814e4dc82bb3a4b/27ddde18c8d8ebad49ae26cf38f5c647470d7596fb6458f8d94399ed83afd5b1-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "85ed0fd990cc1add6d82cd28c2564e2deaf5800c977116f819241c5e44e8c40b",
+      "line_count": 50,
+      "word_count": 352,
+      "reviewed_lines": [
+        1,
+        50
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B04 pages 9-12",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-14",
+      "document_id": "doc-457c10c78f2b4c0694bc9de40543d8de",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133",
+      "source_map_path": ".manga-studio/source/maps/doc-457c10c78f2b4c0694bc9de40543d8de/5e525b3947eec3acdbbb0aa877e48b03e31cc8e7d495f36e3ffa9e3a5626d133-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "3028d289c0d5d0b8283f506fb8e1eaec57059deb0b700e17c8e0126b90cb63e3",
+      "line_count": 58,
+      "word_count": 388,
+      "reviewed_lines": [
+        1,
+        58
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B04 pages 9-12",
+      "panel_count": 6
+    },
+    {
+      "source_key": "SRC-15",
+      "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a",
+      "source_map_path": ".manga-studio/source/maps/doc-e950f316004141719034ec54f5ed48c4/39ffa808bd2ce7298de2ddfea812f68e8d4223150ee06a361596ea46825f784a-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "f37f11cf6464973f164b15e78bbabc66e06454cce9c7e0f59f96e5105d9fcb18",
+      "line_count": 55,
+      "word_count": 386,
+      "reviewed_lines": [
+        1,
+        55
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B04 pages 9-12",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-16",
+      "document_id": "doc-771c8f996dff4270ab0d8fb9fb19bee2",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e",
+      "source_map_path": ".manga-studio/source/maps/doc-771c8f996dff4270ab0d8fb9fb19bee2/a914cae4490ed80d99e8c919eaf57b65d0cd8f37fd3512553bb0c1363d02615e-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "8736f9a6013d9850338a90640dd31f6478066c2b50954e6f655b6fa59b92b22d",
+      "line_count": 57,
+      "word_count": 356,
+      "reviewed_lines": [
+        1,
+        57
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B04 pages 9-12",
+      "panel_count": 6
+    },
+    {
+      "source_key": "SRC-17",
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a",
+      "source_map_path": ".manga-studio/source/maps/doc-cb6ffa4586074c15b8b0aa523a834f5d/bc98b54e190bcaad3bc8caa398b15afc1f8e3ec09a40725d01e83b1359f5e67a-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "17926c5a953ad6ed1880e981012c9d6a3d2a7e2cbf997dbecb34814ae8df8f93",
+      "line_count": 48,
+      "word_count": 324,
+      "reviewed_lines": [
+        1,
+        48
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B05 pages 13-14 and covers",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-18",
+      "document_id": "doc-159c2e3544504167af5dd49141063d96",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "usage_role": "author_notes",
+      "original_sha256": "b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae",
+      "source_map_path": ".manga-studio/source/maps/doc-159c2e3544504167af5dd49141063d96/b99d9c82d7ab281c7385f3a5cd46d246964536beb732109df90e99034813c2ae-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "e9233bddd683b5ff25659b8c5ec321584c6b9ce801d5d203a6001eb9f4d3b6bc",
+      "line_count": 49,
+      "word_count": 357,
+      "reviewed_lines": [
+        1,
+        49
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B05 pages 13-14 and covers",
+      "panel_count": 5
+    },
+    {
+      "source_key": "SRC-19",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "usage_role": "author_notes",
+      "original_sha256": "ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c",
+      "source_map_path": ".manga-studio/source/maps/doc-3bb6e8d26d094dbcad6cbe208f025d14/ff1fdf706486995533a74ef28f78df61027c3fca991dfae0bf6866a97b8ed43c-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "9f54704c44949e94ad10bbd1d6481642a2d8c65f2c6583cbe49c06454acdee3f",
+      "line_count": 19,
+      "word_count": 160,
+      "reviewed_lines": [
+        1,
+        19
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-20",
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "relative_path": "Comics/README.md",
+      "usage_role": "author_notes",
+      "original_sha256": "f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba",
+      "source_map_path": ".manga-studio/source/maps/doc-2f24f3c0113c4e44b9eb50ade8cab736/f5adc32b244fafc2f5f244b600e62eb9511e90b60ad69b1c10e688fbe314e5ba-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "9124681bbd676542ab3179d120dc37170ccbf84866af7d820c31587d2fb4bf09",
+      "line_count": 84,
+      "word_count": 616,
+      "reviewed_lines": [
+        1,
+        84
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-21",
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "relative_path": "Comics/style-guide.md",
+      "usage_role": "author_notes",
+      "original_sha256": "40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500",
+      "source_map_path": ".manga-studio/source/maps/doc-d24a165e58084ee0a1bb9d3316d98344/40645d62057ab9de36e6f1bf387dc4564122e820b1394be085844cb81314e500-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "77247fdaf57278d232b690c7128226942c7f8e46811c041f5b072e2beaf27a79",
+      "line_count": 100,
+      "word_count": 1140,
+      "reviewed_lines": [
+        1,
+        100
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-22",
+      "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+      "relative_path": "README.md",
+      "usage_role": "author_notes",
+      "original_sha256": "2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d",
+      "source_map_path": ".manga-studio/source/maps/doc-023b215d86644dac8248b5d1302308c1/2f7f949926a76593960c24000d487a0ccc09be1a6a46b8b2afb13dbb6ba87a6d-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "3cc5895f2e624e30039d8ac0c8c6397ec8d83618fd75b04d1ffbc1be466ab464",
+      "line_count": 82,
+      "word_count": 1122,
+      "reviewed_lines": [
+        1,
+        82
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-23",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "relative_path": "characters.md",
+      "usage_role": "canon_reference",
+      "original_sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+      "source_map_path": ".manga-studio/source/maps/doc-81d54e89ddfa45d080d6a80013eb90b2/031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "252d66a5a3dba3717061c13461c22f52179348a994e71d414c330544f5c9e31a",
+      "line_count": 123,
+      "word_count": 2151,
+      "reviewed_lines": [
+        1,
+        123
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    },
+    {
+      "source_key": "SRC-24",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "relative_path": "series-plan.md",
+      "usage_role": "outline",
+      "original_sha256": "0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806",
+      "source_map_path": ".manga-studio/source/maps/doc-ee53c9bf1b2149fba215b09a9ac2a11d/0c1449fe5706a58f4d43a3bbd1b48435eef5b50561471110740f047115d6c806-manga_studio_text_structure-v1.0.0-boundaries-44136fa355b3678a.json",
+      "source_map_sha256": "00288fff4df6ade6d51ca87d35b895ab45a877933ff246425fe9e85adb1a2274",
+      "line_count": 93,
+      "word_count": 587,
+      "reviewed_lines": [
+        1,
+        93
+      ],
+      "review_status": "entire document read and assessed",
+      "batch": "B01 prose and supporting documents",
+      "panel_count": 0
+    }
+  ]
+}

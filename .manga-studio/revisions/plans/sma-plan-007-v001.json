@@ -1,0 +1,129 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-007",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "timeline-event-8f8c4b747b494551aa21f1af3bd64e6b",
+    "plot-thread-0289f530f9af462cb23c4cf0ccdb6efd",
+    "location-ec00909b6a1244d0ae35b1f2881055a5",
+    "character-7aa0419823314e0787fe55c54aa83047",
+    "character-a096cba8416847d4947a94012733a09b",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-018",
+    "SMA-ISS-019",
+    "SMA-ISS-020",
+    "SMA-ISS-021"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-3b27382ec9a049e2acde70d7cf88fc10",
+      "source_unit_id": "source-unit-2d8f06e1bdef4346aab4238dd62b53b5",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 275,
+      "line_end": 275,
+      "byte_start": 11047,
+      "byte_end": 11107,
+      "content_fingerprint": "e14a520a8413a0c6085e499dded682c9668fd599bcb818ed21bdedbca9b78ae5"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
+      "scene_id": "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+      "source_unit_id": "source-unit-f382583d75f74c52bc81bd180b8afc0c",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "line_start": 23,
+      "line_end": 23,
+      "byte_start": 1829,
+      "byte_end": 2180,
+      "content_fingerprint": "d0344f73f2511d745e2e2815a9823c9df0421be9498e2501bb643b5dedeb9654"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_unit_id": "source-unit-f30646eb347344a3a21c4ad70a854cac",
+      "source_relative_path": "series-plan.md",
+      "line_start": 11,
+      "line_end": 14,
+      "byte_start": 373,
+      "byte_end": 556,
+      "content_fingerprint": "5710c7044947cfd50cc69dbcb349b722b26f2bb80a8b69bd8fea85a80dd197f3"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+      "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+      "scene_id": null,
+      "source_unit_id": "source-unit-c9eefe2e08ef4256a97c21345e869c3c",
+      "source_relative_path": "README.md",
+      "line_start": 22,
+      "line_end": 22,
+      "byte_start": 2035,
+      "byte_end": 2352,
+      "content_fingerprint": "3413cb494e1d33f9ad25e6c49ea5547cdb459b97757f91e6235cf7235864db75"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_unit_id": "source-unit-b339228c4e4d4b7380f13c1d8c079cfe",
+      "source_relative_path": "series-plan.md",
+      "line_start": 20,
+      "line_end": 28,
+      "byte_start": 819,
+      "byte_end": 2150,
+      "content_fingerprint": "fb71dcf3b94c90ae8c7cc8780fbe4f0a7f46b954430fd0b7a1668d0038c47348"
+    }
+  ],
+  "proposed_operation": "Define a revelation ladder and scope checkpoints. Owner: manga-story-architect. Stage: Phase 4 architecture proposal, not additional chapter drafting. Use existing Arc 1 titles to propose distinct knowledge, agency, danger, or relationship changes. Treat the first three chapters as a development checkpoint and later arcs as conditional proposals. Distinguish a repeated motif from a repeated first discovery. Risk: Scope may reduce or vary chapter counts; no original titles or arc folders are changed without explicit approval. Specific recommendations require separate adoption: SMA-PROP-007, SMA-PROP-008, SMA-PROP-012.",
+  "expected_result": "The existing long-series ambition has staged commitments rather than filler obligations.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Daniel and Tomas as the center and San Aurelio as the anchor.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "low",
+    "notes": "Daniel and Tomas as the center and San Aurelio as the anchor."
+  },
+  "canon_impact": {
+    "level": "medium",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "high",
+    "notes": "The existing long-series ambition has staged commitments rather than filler obligations."
+  },
+  "structural_impact": {
+    "level": "high",
+    "notes": "Scope and dependencies: Phase 4 architecture proposal, not additional chapter drafting. Scope may reduce or vary chapter counts; no original titles or arc folders are changed without explicit approval."
+  },
+  "dependencies": [
+    "SMA-PLAN-004",
+    "SMA-PLAN-006"
+  ],
+  "acceptance_criteria": [
+    "Each proposed early chapter changes at least one meaningful state.",
+    "Chapter 5's pastry and Arc 2's false archive material add something beyond Chapter 1.",
+    "Arc 3 and Arc 6 do not simply reveal Arc 1's culprit/fire again.",
+    "Any memory change preserves consequences and mutual choice.",
+    "Other cafes remain deferred until their necessity is demonstrated."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

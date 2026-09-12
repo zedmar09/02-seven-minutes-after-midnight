@@ -1,0 +1,260 @@
+{
+  "record_type": "source_classification_review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "reviewer": "Codex under user-delegated classification",
+  "ambiguous_usage_roles": [],
+  "artifact_approvals_created": false,
+  "records": [
+    {
+      "document_id": "doc-19e783e6ed08405fbbdc1a44045ba7e3",
+      "relative_path": ".gitignore",
+      "prior_suggestion": "unknown",
+      "classification": "excluded",
+      "usage_role": "excluded",
+      "basis": "Repository housekeeping, not story evidence. No text adapter required.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-7d28d259aea0407eb460a5d9a3c9f413",
+      "relative_path": "AppCover/README.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Premise, rules, metadata, style, or production status notes; reported file existence is checked against inventory.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-9525aff11e6c47c488b95d3a23e47cac",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-back-cover-chatgpt-image-prompt.md",
+      "prior_suggestion": "primary_manuscript",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-8dde1d618f4841fd8184a34ad897766b",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter-01-front-cover-chatgpt-image-prompt.md",
+      "prior_suggestion": "primary_manuscript",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-aed3f913821140e4941ce70fe4c9427d",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/chapter.md",
+      "prior_suggestion": "primary_manuscript",
+      "classification": "primary_manuscript",
+      "usage_role": "primary_manuscript",
+      "basis": "One complete Chapter 1 prose draft under its named chapter folder; includes an adaptation note.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-04a6eb99011845ae85207fed5e9072ca",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-001-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-ed49527c3aab42ce86ca2a2ea8377e76",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-002-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-c78582d3c1c7412bac0cf7c32158e31e",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-003-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-08dfe0d529e748df979663e70fa9bfc6",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-004-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-2a6f837a05814dfe9b91accde59c9a6a",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-005-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-a2ba623b38914ed1b9d0ed38604a8b13",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-006-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-215c2b29ac2f40ceb71ba5d51fe878ec",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-007-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-a19246148e964618bc82da4df14e49cb",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-008-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-eb41cc601f784e909814e4dc82bb3a4b",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-009-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-457c10c78f2b4c0694bc9de40543d8de",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-010-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-e950f316004141719034ec54f5ed48c4",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-011-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-771c8f996dff4270ab0d8fb9fb19bee2",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-012-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-cb6ffa4586074c15b8b0aa523a834f5d",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-013-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-159c2e3544504167af5dd49141063d96",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/Chapter-01-The-Cafe-That-Opened-For-Seven-Minutes/page-014-chatgpt-image-prompt.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Legacy adaptation/cover prompt; evidence of script and production intentions, not an approved storyboard or image job.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Premise, rules, metadata, style, or production status notes; reported file existence is checked against inventory.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-2f24f3c0113c4e44b9eb50ade8cab736",
+      "relative_path": "Comics/README.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Premise, rules, metadata, style, or production status notes; reported file existence is checked against inventory.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-d24a165e58084ee0a1bb9d3316d98344",
+      "relative_path": "Comics/style-guide.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Premise, rules, metadata, style, or production status notes; reported file existence is checked against inventory.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+      "relative_path": "README.md",
+      "prior_suggestion": "unknown",
+      "classification": "author_notes",
+      "usage_role": "author_notes",
+      "basis": "Premise, rules, metadata, style, or production status notes; reported file existence is checked against inventory.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "relative_path": "characters.md",
+      "prior_suggestion": "unknown",
+      "classification": "canon_reference",
+      "usage_role": "canon_reference",
+      "basis": "Author's character/rule intent reference; conflicting names remain unresolved, and import does not approve canon.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    },
+    {
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "relative_path": "series-plan.md",
+      "prior_suggestion": "unknown",
+      "classification": "outline",
+      "usage_role": "outline",
+      "basis": "Seven-arc roadmap and chapter-title plan, not completed prose.",
+      "decision_basis": "User delegated obvious source classification in audit request; agent reviewed content.",
+      "creative_approval": false
+    }
+  ]
+}

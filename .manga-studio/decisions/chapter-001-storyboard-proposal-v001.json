@@ -1,0 +1,27 @@
+{
+  "schema_version": "3.0.0",
+  "decision_id": "SMA-DEC-CH001-STORYBOARD-PROPOSAL-V001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "decision_type": "editorial",
+  "subject_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "decision": "Draft a proposed 36-interior-page Chapter 1 storyboard using situation-driven panel density, explicit left-to-right reading, event-led page turns, and controlled overlap candidates at high-intensity beats.",
+  "rationale": "The user approved proceeding after the canon and storyboard gate sequence was explained, and previously approved the 36-page working target plus flexible panel counts and controlled overlap. This decision authorizes a review candidate only, not storyboard approval, locking, panel direction, or image generation.",
+  "actor": "user",
+  "decided_at": "2026-09-12T13:52:00Z",
+  "evidence": [],
+  "result_artifacts": [
+    ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+    ".manga-studio/storyboard/chapter-001-storyboard-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-019-027-v001.md",
+    ".manga-studio/storyboard/chapter-001-pages-028-036-v001.md",
+    ".manga-studio/storyboard/chapter-001-page-turns-v001.md",
+    ".manga-studio/analysis/consistency/chapter-001-storyboard-v001-review.md"
+  ],
+  "supersedes_decision_id": null
+}

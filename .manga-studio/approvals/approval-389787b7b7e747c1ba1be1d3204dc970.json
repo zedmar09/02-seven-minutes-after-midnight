@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-389787b7b7e747c1ba1be1d3204dc970",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "revision_policy",
+  "target_relative_path": ".manga-studio/revisions/policies/sma-balanced-v001.json",
+  "target_version": "v001",
+  "target_sha256": "b5e864a01f05cf16bd0ae89e994c88deb8f8ac2ae2326af38528ac4570dcaca4",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-05T04:24:15Z",
+  "actor": "user",
+  "notes": "Option B package approval: user said 'lets proceed'. Balanced revision policy accepted for Chapter 1 proposals; exact changes and activation remain separately reviewable.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

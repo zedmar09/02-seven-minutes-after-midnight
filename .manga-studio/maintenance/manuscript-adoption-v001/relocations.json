@@ -1,0 +1,153 @@
+{
+  "record_type": "manuscript_adoption_relocations",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "created_at": "2026-09-11T08:43:32.782762+00:00",
+  "reason": "Preserve the exact pre-adoption working files before activating the approved Chapter 1 manuscript and recording the approved visual-quality direction.",
+  "entries": [
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/.manga-studio/maintenance/structure-cleanup-v001/verify.py",
+      "sha256": "149c3f5a5e0c1d78438e4bec247adfc7a8a43ec74be7e4c326bacf15c568f6c7"
+    },
+    {
+      "original_relative_path": ".manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
+      "sha256": "3341a2114902540e94b67cf7b460414338cc6e6fae56d89ae305e65e6627889d"
+    },
+    {
+      "original_relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.metadata.json",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/.manga-studio/manuscript/versions/chapter-001-v001.metadata.json",
+      "sha256": "a03fc1f008af75facf4ed0bc1bb0e7e4d7f1b63c0f8a7cb784a0e4fbca013179"
+    },
+    {
+      "original_relative_path": ".manga-studio/project.json",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/.manga-studio/project.json",
+      "sha256": "fd8262320fcae3c219a9dfc67e3e8851ce7d9db7523b3e10dadf22665ac6cabe"
+    },
+    {
+      "original_relative_path": "AGENTS.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/AGENTS.md",
+      "sha256": "75c9d75f69319e4e658658facc63448f3375e7f055ba53cbfc98cf010e93d3b9"
+    },
+    {
+      "original_relative_path": "README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/README.md",
+      "sha256": "747669caa8c28ebec5d8a16cb516e403fd2e8c7eaedce91e7706d537aaa17fe8"
+    },
+    {
+      "original_relative_path": "manga/00-series/continuity-ledger.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/00-series/continuity-ledger.md",
+      "sha256": "45118117559b6b00f1f26d84872ee7fd18d66761bf32e8fd21539685dbd58e0e"
+    },
+    {
+      "original_relative_path": "manga/00-series/legacy-concept-extraction.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/00-series/legacy-concept-extraction.md",
+      "sha256": "47b1fb720b7ed9f4b3bd807a4a0754930239dcaee133fc9949ca47714e89d2cb"
+    },
+    {
+      "original_relative_path": "manga/00-series/world-rules.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/00-series/world-rules.md",
+      "sha256": "8ce8c95833d730090cc5bc27183b1bbbc5e463bd8ef3a7cb4add0da16b6ec884"
+    },
+    {
+      "original_relative_path": "manga/01-style/page-composition-rules.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/01-style/page-composition-rules.md",
+      "sha256": "a494885fbff8a1dececf86234bbf88b125eecacd753d877caf34dee74fc5efe2"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/arturo-salcedo/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/arturo-salcedo/canon.md",
+      "sha256": "cb68ac883e8068c51926cc68e5224c17d044b5660b198c5579f339d16a46aa9c"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/benjamin-manalo/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/benjamin-manalo/canon.md",
+      "sha256": "bc8fc6a6b6c40be7fe4a92d80256c4b484e4beb17834a37e4cf5a86bf892cbe3"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/daniel-soriano/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/daniel-soriano/canon.md",
+      "sha256": "2e143aee6bc43dc40a25a748d4724a0458f97db8d4f6496dae7c72279b83274b"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/ernesto-galang/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/ernesto-galang/canon.md",
+      "sha256": "643d55192771017746daa7e74b7c54b11a422d531f4ef05486fb4e13542cc9aa"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/lilia-ramos/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/lilia-ramos/canon.md",
+      "sha256": "1ec34e7a3e4122a056f54aaed14b47df57e0487254a4aff408b9e31b8ec3994b"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/maribel-santos/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/maribel-santos/canon.md",
+      "sha256": "64136f069c24fbc94e0069ef557cacbb1950bf3a77ac24367b2d3f0b4d8d7672"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/tomas-rivera/canon.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/characters/tomas-rivera/canon.md",
+      "sha256": "25d60a58cf0a5ecc1e33af91ac2378c4e6846084afb5e10f8ac95773409e8031"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/objects/README.md",
+      "sha256": "abc3d6faadf88e87101a14e8eb008139244dbf899a6fc536c115b0d9a0a94cb9"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+      "sha256": "ae18d990ea6c6da971e96888871b3fe7c095868de5eba17f2d08b4c36a74833d"
+    },
+    {
+      "original_relative_path": "manga/03-story/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/03-story/README.md",
+      "sha256": "7815c93373a107bfea2d0c2d419f615a0a478c0af552e5daad2ff8fc135329a7"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/arc-bible.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/03-story/arc-01/arc-bible.md",
+      "sha256": "3cb534e48b37e04218e9a3f45db70264df170014a02c8cfc1af582417d6cd059"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/03-story/arc-01/chapter-001/README.md",
+      "sha256": "41cbc4d33ba95d4af82fb226d8fbc6bb935973c96d4cf40b85acdb1f07e74b6d"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/dialogue-script.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/03-story/arc-01/chapter-001/dialogue-script.md",
+      "sha256": "ee8c584d24baa743193a0d5c6c3fbd6460c99c7d3d42135726e58365813e0afa"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/chapter-001/page-map.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/03-story/arc-01/chapter-001/page-map.md",
+      "sha256": "fb749edd1a65bf7cecdcf41ef396ef531ab1df09f0481e190598de9878f6bd51"
+    },
+    {
+      "original_relative_path": "manga/04-production/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/04-production/README.md",
+      "sha256": "6f0f1ddfbd236fcc5f8bab53d0be62f12ba56eae14955f6b53093c3cecdc7f72"
+    },
+    {
+      "original_relative_path": "manga/04-production/arc-01/chapter-001/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/04-production/arc-01/chapter-001/README.md",
+      "sha256": "d772bb6ee262424b62e3a0e123c514ad06a4d65fd414910f44da68f1551fadae"
+    },
+    {
+      "original_relative_path": "manga/04-production/arc-01/chapter-001/page-order.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/04-production/arc-01/chapter-001/page-order.md",
+      "sha256": "90e6e0e60ddfdbc0054108987af1f0933088d0588794c2c69c3cb9a94b0f28e4"
+    },
+    {
+      "original_relative_path": "manga/04-production/page-standard.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/04-production/page-standard.md",
+      "sha256": "5a60fef50a0fb4e0948d67810a9636e16982525174e3c97774d32977fbe50cd1"
+    },
+    {
+      "original_relative_path": "manga/README.md",
+      "archived_relative_path": ".manga-studio/history/manuscript-adoption-v001/before/manga/README.md",
+      "sha256": "36b95810d5ae1ef83dfdcb546197bc5118386ac7a955626e18b1c78ea128426b"
+    }
+  ]
+}

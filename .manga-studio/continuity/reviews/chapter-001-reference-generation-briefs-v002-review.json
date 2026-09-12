@@ -1,0 +1,43 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-reference-generation-briefs-v002-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "image_job",
+  "target": "manga/02-references/README.md",
+  "status": "blocked",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "BRIEF-PACKAGE-CORRECTED",
+      "message": "Thirteen evidence-based Chapter 1 reference-generation Markdown briefs are present and indexed in production order."
+    },
+    {
+      "severity": "info",
+      "code": "MONOCHROME-REFERENCE-LOCK",
+      "message": "Every brief requires a finished clean black-and-white human-drawn 2D manga production sketch/reference sheet on white paper and excludes cinematic, color, photorealistic, CGI, 3D, painterly, and rough-thumbnail results."
+    },
+    {
+      "severity": "info",
+      "code": "ATTACHMENT-SCOPE-CORRECTED",
+      "message": "The approved shared lead image is restricted to Daniel or Tomas identity as applicable; supporting characters have no input image, and empty environment or object briefs do not attach character artwork."
+    },
+    {
+      "severity": "warning",
+      "code": "STORYBOARD-CONDITIONAL-REFERENCES",
+      "message": "Maribel, Arturo, and Lilia remain storyboard-conditional; generated details cannot become canon without separate review and approval, and Lilia remains off-panel unless required by the approved storyboard."
+    },
+    {
+      "severity": "warning",
+      "code": "RELEASE-GATES-BLOCKED",
+      "message": "Canon v002 is awaiting separate approval and relock, STORYBOARD_LOCKED and IMAGE_READY are false, image generation is disabled, and named visual dependencies do not yet exist as approved hash-bound files."
+    },
+    {
+      "severity": "info",
+      "code": "NO-ARTWORK-OR-HANDOFF",
+      "message": "This update creates no artwork, schema-valid image job, paste-ready external handoff, asset approval, or production lock change."
+    }
+  ]
+}
+

@@ -1,0 +1,77 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-001",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-001"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-023b215d86644dac8248b5d1302308c1",
+      "chapter_id": "chapter-9b89661ef2074d00ae1108a9cba60884",
+      "scene_id": null,
+      "source_unit_id": "source-unit-53b176a4c0114398a9d7456011734989",
+      "source_relative_path": "README.md",
+      "line_start": 71,
+      "line_end": 71,
+      "byte_start": 6307,
+      "byte_end": 6610,
+      "content_fingerprint": "5d03e487b7aedeaa7515997d813f5d012917a160ae949a85e136b13e8c04e7d0"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-3bb6e8d26d094dbcad6cbe208f025d14",
+      "chapter_id": "chapter-85e46a937d714b6185a92b87fd4b310d",
+      "scene_id": null,
+      "source_unit_id": "source-unit-d77a72566c874802bd931022316e75b7",
+      "source_relative_path": "Comics/01-Arc-The-Fire-At-San-Aurelio-Junction/README.md",
+      "line_start": 8,
+      "line_end": 9,
+      "byte_start": 152,
+      "byte_end": 503,
+      "content_fingerprint": "bf48833a2716c7851998b11335cfaa3ec8f0612bf54544bf18b025f9f2fb54d5"
+    }
+  ],
+  "proposed_operation": "Bind the repair to available sources. Owner: manga-source-ingestor with manga-creator. Stage: Phase 4 preparation. Use the existing snapshot/manuscript document as the sole prose base; record the absent-source limitation in the derivative status report. Inventory recovered material only if supplied and authorized. Risk: A recovered source could require a new plan version. Specific recommendations require separate adoption: SMA-PROP-001.",
+  "expected_result": "Every later revision is attributable to actual sources and does not imply unseen Chapter 2 coverage.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Original files and all prior audit versions.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "none",
+    "notes": "Original files and all prior audit versions."
+  },
+  "canon_impact": {
+    "level": "none",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "low",
+    "notes": "Every later revision is attributable to actual sources and does not imply unseen Chapter 2 coverage."
+  },
+  "structural_impact": {
+    "level": "none",
+    "notes": "Scope and dependencies: Phase 4 preparation. A recovered source could require a new plan version."
+  },
+  "dependencies": [],
+  "acceptance_criteria": [
+    "Original-source hashes still match.",
+    "Chapter 2 and image absence remain explicit.",
+    "No new source is imported without reviewed usage and provenance."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

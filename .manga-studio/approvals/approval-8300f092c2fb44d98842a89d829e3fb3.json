@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-8300f092c2fb44d98842a89d829e3fb3",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "revision_plan",
+  "target_relative_path": ".manga-studio/revisions/plans/sma-reconstruction-v001.json",
+  "target_version": "v001",
+  "target_sha256": "426e11d146f23f61b98e34f30f7918df51caebc4b3dbe9bf188ac170196dec60",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-05T04:24:15Z",
+  "actor": "user",
+  "notes": "User said 'lets proceed' in response to approval of Option B and its accompanying choices and revision plan. Approves the manifest-bound Phase 3 v001 package for exact Chapter 1 change-set preparation. Does not approve unseen prose, adopt canon, activate locks, publish, or authorize artwork.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

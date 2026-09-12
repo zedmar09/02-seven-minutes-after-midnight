@@ -1,0 +1,66 @@
+{
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "reason": "Working-note deduplication and accurate existing draft status only. No source or manuscript text changed.",
+  "entries": [
+    {
+      "original_relative_path": "manga/00-series/continuity-ledger.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/00-series/continuity-ledger.md",
+      "sha256": "d58f62ed8dc6dd40d458d9e7b09a650157f5cad6ed25671ca81e61654160365b"
+    },
+    {
+      "original_relative_path": "manga/00-series/legacy-concept-extraction.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/00-series/legacy-concept-extraction.md",
+      "sha256": "e99e11f5683427a307c1379d3e9eea3be712b1f2d459450da43d7b0fd01123b0"
+    },
+    {
+      "original_relative_path": "manga/00-series/world-rules.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/00-series/world-rules.md",
+      "sha256": "c7d2895e99e47a3e70df8a440bd93707b5ee122ebaabe51ce3b4cb860a716231"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/arturo-salcedo/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/arturo-salcedo/canon.md",
+      "sha256": "69dfbd9e7341b0b71cf0bc9ecb2769db62bb93b19eeeb48ab0ba884e5b7e3b73"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/benjamin-manalo/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/benjamin-manalo/canon.md",
+      "sha256": "ecd37f98421f25b56f2db876e1c3038f7c68ebc4da40840c61ba1deadc53c856"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/daniel-soriano/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/daniel-soriano/canon.md",
+      "sha256": "63f7844780dd97eb36fac9f396b15a0d3f586edd702e9fd321ec35c9284b6073"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/ernesto-galang/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/ernesto-galang/canon.md",
+      "sha256": "b00772b38b994d4bd6b2f975b6909469c1a22c3ac58097958e9c032152ea9e46"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/lilia-ramos/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/lilia-ramos/canon.md",
+      "sha256": "1fa6b07d11d060739ea7016c18c77a64aa9a6af6106ea82a8fad522b99295904"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/maribel-santos/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/maribel-santos/canon.md",
+      "sha256": "b58b4b52085cdbdd07545d33998740fe0969ea8880dd3944780d64ea7e8cf62e"
+    },
+    {
+      "original_relative_path": "manga/02-references/characters/tomas-rivera/canon.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/characters/tomas-rivera/canon.md",
+      "sha256": "e1bdcbe28f18461b93771c5ad3d57e5debdfb6b3c84d48111f9d1a1242df6e7c"
+    },
+    {
+      "original_relative_path": "manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/02-references/objects/cafe-and-archive-props/cafe-and-archive-props.md",
+      "sha256": "27d56aaf51b01bd93db7781fd880f613ebc46d493f7fad9f694384cb3defa2f8"
+    },
+    {
+      "original_relative_path": "manga/03-story/arc-01/arc-bible.md",
+      "archived_relative_path": ".manga-studio/history/structure-cleanup-v001/working-notes-before/manga/03-story/arc-01/arc-bible.md",
+      "sha256": "00923cd0d524821c67da8e304aade293ca5de07419c63822b9d79a2ed7f67acb"
+    }
+  ]
+}

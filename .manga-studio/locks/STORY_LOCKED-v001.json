@@ -1,0 +1,19 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-21dc582237a144b4bb6c8b190c6dc147",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "STORY_LOCKED",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-11T10:42:32Z",
+  "actor": "user",
+  "notes": "User authorized locking the approved source, canon, and manuscript story state before Chapter 1 storyboard preparation.",
+  "prerequisite_gates": [
+    "CANON_APPROVED",
+    "MANUSCRIPT_APPROVED",
+    "SOURCE_LOCKED"
+  ],
+  "approval_ids": [],
+  "target_hashes": [],
+  "supersedes_lock_id": null
+}

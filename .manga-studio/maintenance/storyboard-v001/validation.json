@@ -1,0 +1,39 @@
+{
+  "record_type": "storyboard_v001_validation",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "checked_at": "2026-09-12T14:03:37Z",
+  "status": "pass",
+  "active_canon": {
+    "relative_path": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
+    "sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762",
+    "approval_relative_path": ".manga-studio/approvals/approval-179120b070e94a71a22d4af7677e67b9.json",
+    "canon_locked": true,
+    "story_locked": true
+  },
+  "storyboard": {
+    "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+    "sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b",
+    "status": "proposed",
+    "pages": 36,
+    "page_numbers_contiguous": true,
+    "components_hash_bound": 8,
+    "blocking_consistency_findings": 0
+  },
+  "checks": {
+    "runtime_story_profile": "pass",
+    "source_and_manuscript_unchanged": true,
+    "canon_v001_preserved": true,
+    "canon_v002_active_and_hash_bound": true,
+    "clock_sequence_preserved": true,
+    "two_clocks_distinct": true,
+    "counter_and_hatch_distinct": true,
+    "paper_transfers_distinct": true,
+    "final_warning_matches_canon_v002": true,
+    "situation_driven_panel_policy_preserved": true,
+    "controlled_overlap_policy_preserved": true,
+    "storyboard_approved": false,
+    "storyboard_locked": false,
+    "image_generation_enabled": false,
+    "artwork_created": false
+  }
+}

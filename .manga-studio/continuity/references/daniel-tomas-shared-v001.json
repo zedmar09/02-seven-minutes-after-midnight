@@ -1,0 +1,69 @@
+{
+  "record_type": "approved_shared_character_reference",
+  "schema_version": "1.0.0",
+  "reference_id": "reference-daniel-tomas-shared-v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "approved_limited_scope",
+  "recorded_at": "2026-09-11T09:08:57Z",
+  "source": {
+    "provenance": "user_supplied_attachment",
+    "preserved_relative_path": ".manga-studio/history/character-reference-intake-v001/source/daniel-tomas-shared-v001.webp",
+    "sha256": "985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb",
+    "width_px": 1024,
+    "height_px": 1536,
+    "format": "webp"
+  },
+  "approved_files": [
+    {
+      "role": "exact_user_supplied_webp",
+      "relative_path": "manga/02-references/approved-webp/daniel-tomas-shared.webp",
+      "sha256": "985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb",
+      "approval_relative_path": ".manga-studio/approvals/approval-68dbddb1b25b43df8ecd0db11b1d86ee.json"
+    },
+    {
+      "role": "format_derived_png_working_master",
+      "relative_path": "manga/02-references/approve-png/daniel-tomas-shared.png",
+      "sha256": "48f2680a489156033f49b11f5a7c02a7a0e92e0442a3a60fc2bc1487cd1bf2b6",
+      "approval_relative_path": ".manga-studio/approvals/approval-f06708bac3194fed87dd9f57e10bc2ca.json"
+    }
+  ],
+  "character_mappings": [
+    {
+      "character_id": "character-7aa0419823314e0787fe55c54aa83047",
+      "display_name": "Daniel Soriano",
+      "image_position": "left",
+      "user_description": "curly-haired museum conservator"
+    },
+    {
+      "character_id": "character-a096cba8416847d4947a94012733a09b",
+      "display_name": "Tomas Rivera",
+      "image_position": "right",
+      "user_description": "long-haired Cafe Siete baker"
+    }
+  ],
+  "approved_scope": [
+    "adult facial identity",
+    "hair identity and silhouette",
+    "adult build and age impression",
+    "Daniel's glasses",
+    "shared scale and visual chemistry"
+  ],
+  "excluded_scope": [
+    "wardrobe details when they conflict with text",
+    "pose and staging",
+    "props",
+    "environment",
+    "clock state",
+    "dates and story facts",
+    "signage and newspaper copy",
+    "title text and lettering"
+  ],
+  "textual_authority": [
+    ".manga-studio/manuscript/versions/chapter-001-v001.md",
+    "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
+    "manga/02-references/characters/tomas-rivera/tomas-rivera.md"
+  ],
+  "review_relative_path": ".manga-studio/continuity/reviews/chapter-001-daniel-tomas-shared-reference-v001-review.json",
+  "decision_relative_path": ".manga-studio/decisions/chapter-001-daniel-tomas-shared-reference-v001.json"
+}

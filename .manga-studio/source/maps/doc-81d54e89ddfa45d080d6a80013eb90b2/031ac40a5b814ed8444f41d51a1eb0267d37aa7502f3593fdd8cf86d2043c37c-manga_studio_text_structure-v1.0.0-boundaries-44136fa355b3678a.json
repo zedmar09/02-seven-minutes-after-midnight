@@ -1,0 +1,342 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+  "source_relative_path": "characters.md",
+  "normalized_path": ".manga-studio/source/normalized/doc-81d54e89ddfa45d080d6a80013eb90b2/031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c/markdown-v1.0.0-utf8-lf-v1-parser-v1.0.0.txt",
+  "normalized_sha256": "031ac40a5b814ed8444f41d51a1eb0267d37aa7502f3593fdd8cf86d2043c37c",
+  "parser_name": "manga_studio_text_structure",
+  "parser_version": "1.0.0",
+  "boundary_profile_checksum": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "structure_status": "parsed",
+  "ambiguities": [],
+  "chapters": [
+    {
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "display_title": "Characters",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "source_order": 1,
+      "boundary": {
+        "kind": "chapter",
+        "title": "Characters",
+        "origin": "implicit_chapterless",
+        "ambiguity_status": "clear",
+        "ambiguity_reason": null,
+        "line_start": 1,
+        "line_end": 1,
+        "byte_start": 0,
+        "byte_end": 0,
+        "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a"
+      }
+    }
+  ],
+  "scenes": [],
+  "source_units": [
+    {
+      "source_unit_id": "source-unit-5e54a4a7dff249478cd0e85257f33ac3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters"
+      ],
+      "source_order": 1,
+      "unit_type": "paragraph",
+      "line_start": 3,
+      "line_end": 3,
+      "byte_start": 14,
+      "byte_end": 254,
+      "content_fingerprint": "3c2918d6b0a055f6add881b1a158e9c7becf438d86ed8e735f7a5eaf137d88a5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-2e6cc062d977402fb69970bb06955268",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Visual Differentiation Standard"
+      ],
+      "source_order": 2,
+      "unit_type": "paragraph",
+      "line_start": 7,
+      "line_end": 7,
+      "byte_start": 291,
+      "byte_end": 606,
+      "content_fingerprint": "c42e6f56c5ba166470718502f142c441d9ee50da5d0974c0b5eec679025b6a8b",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-a09985bbdccd473da57ec115ab917220",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Visual Differentiation Standard"
+      ],
+      "source_order": 3,
+      "unit_type": "paragraph",
+      "line_start": 9,
+      "line_end": 14,
+      "byte_start": 607,
+      "byte_end": 1739,
+      "content_fingerprint": "a10c1121a050f94e2d65e363984b5e3b250b2ae2e9218c23ab88ad56018c28ea",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-af655a98d45b40b2b7f4fd031a001fa5",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Visual Differentiation Standard"
+      ],
+      "source_order": 4,
+      "unit_type": "paragraph",
+      "line_start": 16,
+      "line_end": 16,
+      "byte_start": 1740,
+      "byte_end": 2140,
+      "content_fingerprint": "509d1e92df2db421a004029d0d77a6c4fecb49d67473ddb83e0f1213afffb5a6",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-5ffd143a22c140609bebaae2c2804a40",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Future Comic Adaptation Standard"
+      ],
+      "source_order": 5,
+      "unit_type": "paragraph",
+      "line_start": 20,
+      "line_end": 20,
+      "byte_start": 2178,
+      "byte_end": 2537,
+      "content_fingerprint": "55b8e88ede7833481b7f632ab23b8bc9d014f0722a2f8b7eb418d8870c3da622",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-499faefa397b4cd49d9511535af49dd7",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Future Comic Adaptation Standard"
+      ],
+      "source_order": 6,
+      "unit_type": "paragraph",
+      "line_start": 22,
+      "line_end": 22,
+      "byte_start": 2538,
+      "byte_end": 2891,
+      "content_fingerprint": "bf8bc206a240fb3269d98975c11e06f4ce3e43006672f5e98fdb78c3cc6360fd",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-b1183dd2a0d84313bb026002ba5fe572",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Daniel Soriano"
+      ],
+      "source_order": 7,
+      "unit_type": "paragraph",
+      "line_start": 28,
+      "line_end": 36,
+      "byte_start": 2926,
+      "byte_end": 4970,
+      "content_fingerprint": "04a43b43e24e22fae8a17938dd95730eeeca7d2050c4009db34e6571fbd2961a",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Tomas Rivera"
+      ],
+      "source_order": 8,
+      "unit_type": "paragraph",
+      "line_start": 40,
+      "line_end": 48,
+      "byte_start": 4989,
+      "byte_end": 7107,
+      "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-ef0c08b70b944fdab7c05c64f096f99a",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Maribel Santos"
+      ],
+      "source_order": 9,
+      "unit_type": "paragraph",
+      "line_start": 52,
+      "line_end": 59,
+      "byte_start": 7128,
+      "byte_end": 8169,
+      "content_fingerprint": "f9a30e62439300935993eb3753dd34fe9056482c1fe736412d16a078a40967f5",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-a658f681501f4433bf5a58cc3078ab06",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Lilia Ramos"
+      ],
+      "source_order": 10,
+      "unit_type": "paragraph",
+      "line_start": 63,
+      "line_end": 69,
+      "byte_start": 8187,
+      "byte_end": 9049,
+      "content_fingerprint": "e335c4dcde5be28611a234d42f62b47c0e1add12aca71702c11b3c58d3dd235f",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-8c6f6f47006d4208b403c2bdf6482ed3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Benjamin Manalo"
+      ],
+      "source_order": 11,
+      "unit_type": "paragraph",
+      "line_start": 73,
+      "line_end": 79,
+      "byte_start": 9071,
+      "byte_end": 9787,
+      "content_fingerprint": "456437196908bc70bfb1bf20a93ebc7bfc7d88adb76aa8e3f1f865dc2979a660",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-9141d784709e4c64b0abf146cf304a7a",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Arturo Salcedo"
+      ],
+      "source_order": 12,
+      "unit_type": "paragraph",
+      "line_start": 83,
+      "line_end": 90,
+      "byte_start": 9808,
+      "byte_end": 10816,
+      "content_fingerprint": "4740eefec06be5ab82642586a073f1c5f5926fe347cf90c9f83326b6f877a2bb",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-3be3fd6c4a524ede888f14bfa365026c",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Core Cast",
+        "Ernesto Galang"
+      ],
+      "source_order": 13,
+      "unit_type": "paragraph",
+      "line_start": 94,
+      "line_end": 100,
+      "byte_start": 10837,
+      "byte_end": 11545,
+      "content_fingerprint": "7ac31d86b8ec6afe1705e8921f271d1cf45f69c1bfb69bd7e6c9b1b5e5f73b33",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-144f49412c82492490b20c90016aa5ed",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "Relationship Continuity"
+      ],
+      "source_order": 14,
+      "unit_type": "paragraph",
+      "line_start": 104,
+      "line_end": 109,
+      "byte_start": 11574,
+      "byte_end": 12499,
+      "content_fingerprint": "24b35028dc213e584646a4a559187a08e08963465579322faa9640de6548e454",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    },
+    {
+      "source_unit_id": "source-unit-f9cfce8b95e14151aaa3337d3ed5e67a",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_relative_path": "characters.md",
+      "heading_path": [
+        "Characters",
+        "World And Visual Continuity"
+      ],
+      "source_order": 15,
+      "unit_type": "paragraph",
+      "line_start": 113,
+      "line_end": 122,
+      "byte_start": 12532,
+      "byte_end": 14691,
+      "content_fingerprint": "19e2616c537681d85ffa05239e24f455ba5a4ea37d363470ae3c7e4f3376a153",
+      "parser_version": "1.0.0",
+      "ambiguity_status": "clear"
+    }
+  ]
+}

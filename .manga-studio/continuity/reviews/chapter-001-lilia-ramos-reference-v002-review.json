@@ -1,0 +1,48 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-lilia-ramos-reference-v002-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/lilia-ramos-v002/candidate.png",
+  "status": "review_ready",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "LILIA-V002-OUT-001",
+      "message": "The new download is a 1024x1536 PNG and contains Lilia Ramos only."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V002-OUT-002",
+      "message": "The v001 forearm blocker is resolved. One forearm now carries a single irregular healed kitchen burn scar without botanical or tattoo-like linework, while the separate rosary wrist remains unmarked."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V002-OUT-003",
+      "message": "Layout, identity, and clothing pass. Exactly six studies preserve Lilia's 53-year-old broad-shouldered build, blunt warm expression, thick gray-streaked hair in a practical coil, round glasses, rolled sleeves, dark full apron, sturdy shoes, rosary, readable hands, and full-body proportions."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V002-OUT-004",
+      "message": "The printed-manga finish passes with clean ink contours, restrained flat tone, sparse hatching, controlled blacks, crisp bust boundaries, matte materials, and no environment, plot prop, text, watermark, supernatural aura, or cinematic rendering."
+    },
+    {
+      "severity": "warning",
+      "code": "LILIA-V002-OUT-005",
+      "message": "Visual approval is recommended, but Lilia remains storyboard-conditional and off-panel in the current approved story state. Promotion must remain blocked until an approved storyboard explicitly makes her visible and the user separately approves this reference."
+    },
+    {
+      "severity": "warning",
+      "code": "LILIA-V002-OUT-006",
+      "message": "The exact executed job was not supplied and the download omits the planned version suffix. Future promotion must preserve the exact bytes under lilia-ramos-reference-v002.png and bind that file by SHA-256."
+    },
+    {
+      "severity": "info",
+      "code": "LILIA-V002-OUT-007",
+      "message": "No image was edited, regenerated, converted, renamed, or promoted. A byte-identical copy is retained only as internal review evidence."
+    }
+  ]
+}
+

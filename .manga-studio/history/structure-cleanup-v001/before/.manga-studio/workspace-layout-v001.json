@@ -1,0 +1,119 @@
+{
+  "record_type": "manga_studio_workspace_layout",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "project_root": ".",
+  "managed_root": ".manga-studio",
+  "visible_root": "manga",
+  "entry_point": "MANGA-STUDIO.md",
+  "source_roots": [
+    "."
+  ],
+  "runtime_version_checked": "3.1.0",
+  "refactor_mode": "additive_non_destructive",
+  "originals_moved": false,
+  "comparison": {
+    "project_display_name": "01-My Roommate Only Appears During Blackouts",
+    "scope": "Top-level folder organization and arc/chapter nesting only",
+    "content_imported": false,
+    "approval_or_lock_state_imported": false,
+    "comparison_modified": false
+  },
+  "source_inventory_relative_path": ".manga-studio/source/inventory-baseline-v001.json",
+  "required_runtime_directories": [
+    ".manga-studio/source",
+    ".manga-studio/source/documents",
+    ".manga-studio/source/maps",
+    ".manga-studio/story",
+    ".manga-studio/canon",
+    ".manga-studio/analysis",
+    ".manga-studio/analysis/diagnostics",
+    ".manga-studio/revisions",
+    ".manga-studio/revisions/policies",
+    ".manga-studio/revisions/plans",
+    ".manga-studio/revisions/change-sets",
+    ".manga-studio/revisions/diffs",
+    ".manga-studio/manuscript",
+    ".manga-studio/manuscript/versions",
+    ".manga-studio/storyboard",
+    ".manga-studio/continuity",
+    ".manga-studio/approvals",
+    ".manga-studio/decisions",
+    ".manga-studio/locks",
+    ".manga-studio/handoff/pending",
+    ".manga-studio/handoff/generated",
+    ".manga-studio/handoff/approved",
+    ".manga-studio/handoff/corrections",
+    ".manga-studio/panels",
+    ".manga-studio/lettering",
+    ".manga-studio/pages",
+    ".manga-studio/exports"
+  ],
+  "additional_directories": [
+    ".manga-studio/references",
+    ".manga-studio/storyboard/panel-plans",
+    ".manga-studio/continuity/snapshots",
+    ".manga-studio/tooling",
+    "manga/00-series",
+    "manga/01-style",
+    "manga/02-references",
+    "manga/03-story/arc-01/chapter-001",
+    "manga/04-production/arc-01/chapter-001",
+    "manga/02-references/characters",
+    "manga/02-references/environments",
+    "manga/02-references/objects",
+    "manga/02-references/effects"
+  ],
+  "visible_sections": [
+    {
+      "relative_path": "manga/00-series",
+      "authority": "Indexes existing project planning/evidence; no new canon"
+    },
+    {
+      "relative_path": "manga/01-style",
+      "authority": "Required format and high-quality policy; no visual lock"
+    },
+    {
+      "relative_path": "manga/02-references",
+      "authority": "Empty reference register; no approved assets"
+    },
+    {
+      "relative_path": "manga/03-story",
+      "authority": "Versioned reading copies; managed manuscript remains canonical storage"
+    },
+    {
+      "relative_path": "manga/04-production",
+      "authority": "Reserved production organization; all production gates pending"
+    }
+  ],
+  "managed_ownership": {
+    "source": ".manga-studio/source",
+    "canon": ".manga-studio/canon",
+    "story_architecture": ".manga-studio/story",
+    "manuscript": ".manga-studio/manuscript/versions",
+    "revision_policy_plan_changes_diff": ".manga-studio/revisions",
+    "analysis": ".manga-studio/analysis",
+    "storyboard": ".manga-studio/storyboard",
+    "panel_direction": ".manga-studio/storyboard/panel-plans",
+    "continuity": ".manga-studio/continuity",
+    "visual_reference_records": ".manga-studio/references",
+    "job_handoffs": ".manga-studio/handoff",
+    "approved_panels": ".manga-studio/panels",
+    "lettering": ".manga-studio/lettering",
+    "composed_pages": ".manga-studio/pages",
+    "exports": ".manga-studio/exports",
+    "approvals": ".manga-studio/approvals",
+    "locks": ".manga-studio/locks",
+    "decisions": ".manga-studio/decisions",
+    "tooling": ".manga-studio/tooling"
+  },
+  "reading_copies": [
+    "manga/03-story/arc-01/chapter-001/reading-copy-v001.json"
+  ],
+  "source_exclusions_added": [
+    "manga/**",
+    "MANGA-STUDIO.md"
+  ],
+  "path_policy": "Artifact paths are relative to this project root. No external project or reference-image paths are stored.",
+  "history_policy": "Keep old sources, snapshots, reviewed packages, tool scripts and approval targets at their original paths and bytes."
+}

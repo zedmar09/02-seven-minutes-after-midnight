@@ -1,0 +1,96 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "revision_plan_id": "SMA-PLAN-008",
+  "version": "v001",
+  "revision_policy_id": "SMA-POLICY-BALANCED",
+  "target_stable_ids": [
+    "chapter-fb585a7fd3e7450e936edbcfce992566",
+    "character-7aa0419823314e0787fe55c54aa83047",
+    "character-a096cba8416847d4947a94012733a09b",
+    "location-e3d6a8be72a14872bb4be3930a5ac297",
+    "scene-2f59e856c58d4d6db58d635cbc64e0bb",
+    "scene-3b27382ec9a049e2acde70d7cf88fc10"
+  ],
+  "triggering_issue_ids": [
+    "SMA-ISS-019",
+    "SMA-ISS-029"
+  ],
+  "source_evidence": [
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-ee53c9bf1b2149fba215b09a9ac2a11d",
+      "chapter_id": "chapter-90da4da8433a46b8a0f895246edd3c8c",
+      "scene_id": null,
+      "source_unit_id": "source-unit-f30646eb347344a3a21c4ad70a854cac",
+      "source_relative_path": "series-plan.md",
+      "line_start": 11,
+      "line_end": 14,
+      "byte_start": 373,
+      "byte_end": 556,
+      "content_fingerprint": "5710c7044947cfd50cc69dbcb349b722b26f2bb80a8b69bd8fea85a80dd197f3"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-b1183dd2a0d84313bb026002ba5fe572",
+      "source_relative_path": "characters.md",
+      "line_start": 28,
+      "line_end": 36,
+      "byte_start": 2926,
+      "byte_end": 4970,
+      "content_fingerprint": "04a43b43e24e22fae8a17938dd95730eeeca7d2050c4009db34e6571fbd2961a"
+    },
+    {
+      "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+      "document_id": "doc-81d54e89ddfa45d080d6a80013eb90b2",
+      "chapter_id": "chapter-2af29b9a3de3477db844b42d15876e5a",
+      "scene_id": null,
+      "source_unit_id": "source-unit-5888edaed49c4018a8c24e3a92e27e33",
+      "source_relative_path": "characters.md",
+      "line_start": 40,
+      "line_end": 48,
+      "byte_start": 4989,
+      "byte_end": 7107,
+      "content_fingerprint": "4f4cae621c1c3c8716f67e840cca2e3bbf3e4e4cc82172d623f0aad38dfc6a8d"
+    }
+  ],
+  "proposed_operation": "Set reader, content, and release boundaries. Owner: manga-creator. Stage: Phase 3 proposal; adoption only by user. Review the creative brief and success plan: provisional audience/rating, unnamed-country boundary, preferred hopeful outcome, sustainable scope, offline feedback conditions, and publication assumptions. Risk: Real reader or capacity evidence may change the recommended scope. Specific recommendations require separate adoption: SMA-PROP-012.",
+  "expected_result": "Production and audience decisions are intentional and distinguish hypotheses from evidence.",
+  "alternatives": [
+    "Use conservative repairs and defer broader architecture; risk of postponing dependent continuity decisions.",
+    "Use a transformative, ending-first restructure; risk of wider voice and structure change without current evidence of necessity."
+  ],
+  "preserve": [
+    "Adult queer dignity, cultural texture, author control, and creator-health boundaries.",
+    "All original source files and existing approved artifacts remain unchanged."
+  ],
+  "author_voice_impact": {
+    "level": "none",
+    "notes": "Adult queer dignity, cultural texture, author control, and creator-health boundaries."
+  },
+  "canon_impact": {
+    "level": "medium",
+    "notes": "No active canon is adopted; proposed choices and their boundaries are in the Phase 3 decision packet."
+  },
+  "continuity_impact": {
+    "level": "low",
+    "notes": "Production and audience decisions are intentional and distinguish hypotheses from evidence."
+  },
+  "structural_impact": {
+    "level": "medium",
+    "notes": "Scope and dependencies: Phase 3 proposal; adoption only by user. Real reader or capacity evidence may change the recommended scope."
+  },
+  "dependencies": [
+    "SMA-PLAN-001"
+  ],
+  "acceptance_criteria": [
+    "No country, historical accuracy, formal rating, commercial demand, or IP clearance is claimed without evidence.",
+    "Reader and capacity metrics are defined but not fabricated as measured.",
+    "No sharing, payment, release, or research is executed by this plan."
+  ],
+  "change_set_ids": [],
+  "approval_status": "proposed"
+}

@@ -1,0 +1,84 @@
+{
+  "record_type": "exact_change_review_manifest",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "proposed",
+  "artifact_count": 18,
+  "artifacts": [
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-01-proposal-review-v001.json",
+      "sha256": "c78e315b4febd708f562cee033e3c4760b8569a32db43c9884bea8e0a3db6c9a"
+    },
+    {
+      "relative_path": ".manga-studio/analysis/consistency/chapter-01-proposal-review-v001.md",
+      "sha256": "fe6daaf404a514c991df11dcd36a4270d7c183aacb9e517b30bc20dbfc5dfce6"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-389787b7b7e747c1ba1be1d3204dc970.json",
+      "sha256": "917d62f50272531f088a147e41b98faf7085dc9fe22770ac3d7266ad1dcf7cea"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-8300f092c2fb44d98842a89d829e3fb3.json",
+      "sha256": "1f00a163b4ffa8f812bf1c5e9ac59299f985368f5f9f5824080c2e62e9c25590"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-8a2e8e6a05744edd9034972bf780a058.json",
+      "sha256": "ed626938d75d9c10e4aeadcc8d13538d5a95f8da086f7a8ac281a7eb8615deb3"
+    },
+    {
+      "relative_path": ".manga-studio/decisions/editorial-option-b-approval-v001.json",
+      "sha256": "5702577aeeb3b23a1aeb682450dcd932958363a93a88dba9e68ac5601f4afa07"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/change-sets/sma-ch01-balanced-v001.json",
+      "sha256": "e153b390bb498aac3b535ad3d93d87b2da8272a0b14681de54df28a61557c0bb"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/diffs/sma-ch01-balanced-proposal-v001.diff",
+      "sha256": "f8b6ba4b41efda4f958479853e9e87fad7f4d81341ff86e767105087f5a69600"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/REVIEW-v001.md",
+      "sha256": "a14863ede7080b86218a10532cb1b32ea0ec5e86781924ed1fcd2638267ca2d7"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/authorization-v001.json",
+      "sha256": "3d7e4b3f06593973ec2676834689d0a48c0ccb41ed162375bce68897a95c059a"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/build-review-v001.py",
+      "sha256": "3e7e089c461243fe401d3b92c44cc53c06252373ec36a2cf9a081643f7c42876"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/chapter-01-reading-preview-v001.md",
+      "sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/consistency-input-v001.json",
+      "sha256": "39d86693032331d89b9e4c79dac1200a2078247566d69f981f98c7b7bdee52ec"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/edit-input-v001.json",
+      "sha256": "28679565efdb31570369ebeb0384a46a02fac1b129e74f83af7152dafc953bc0"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/exact-edit-register-v001.json",
+      "sha256": "589eea1ff094beac06e1d56e40403ff30310c97085d3f7e3ac889ce24e023994"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/exact-edits-v001.md",
+      "sha256": "327741491aff369615f24152244f04feeeb7784585bfee0a9c71ce8b8deadc9e"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/verify-review-v001.py",
+      "sha256": "a04e248db9c5c2f5f32bf87a23a1c05fabab63550f60770b3402d20ed4d5b27d"
+    },
+    {
+      "relative_path": ".manga-studio/revisions/phase-4-proposal-v001/working-continuity-v001.md",
+      "sha256": "0332e456ed173071ac9373d03f5a298a6929d7e56516a7ad0b24ffa64666113c"
+    }
+  ],
+  "exclusions": [
+    "This manifest excludes itself and the generated validation report to avoid circular checksums. Mutable project metadata is checked by state, not frozen here."
+  ]
+}
