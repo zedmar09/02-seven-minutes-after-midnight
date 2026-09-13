@@ -1,0 +1,26 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-fec8398ccc8e4365965644c1e8583bdf",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "IMAGE_READY",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-13T05:10:21Z",
+  "actor": "user",
+  "notes": "Image generation enabled and continuity state approved for the first ordered environment reference release.",
+  "prerequisite_gates": [
+    "CANON_APPROVED",
+    "STORYBOARD_LOCKED",
+    "STORY_LOCKED"
+  ],
+  "approval_ids": [
+    "approval-8a03736f527b4df5aefcc46fa8578650"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/continuity/state.json",
+      "sha256": "388cf8f31be36a63c24e50e119ed2e517b753d7f5b37ad1a6d0c983f7b7b3ca3"
+    }
+  ],
+  "supersedes_lock_id": null
+}

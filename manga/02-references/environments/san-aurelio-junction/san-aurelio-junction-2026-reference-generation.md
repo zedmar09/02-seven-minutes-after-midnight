@@ -1,12 +1,12 @@
 # San Aurelio Junction 2026 Reference Generation
 
-Status: `DEFERRED`
+Status: `RELEASED`
 
-Future job type: `location_reference`
+Job type: `location_reference`
 
-Planned output: `san-aurelio-junction-2026.png`
+Output: `san-aurelio-junction-2026.png`
 
-This is a high-quality generation brief, not a released ChatGPT handoff. Do not generate from it until the story and storyboard locks are satisfied, image generation is explicitly enabled, and the brief is converted into a schema-valid hash-bound job.
+This is the human-readable source brief for the released, schema-valid image job. For ChatGPT production, use the complete [paste-ready handoff](../../../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md), not excerpts from this file.
 
 ## Purpose
 
@@ -68,11 +68,12 @@ More resolved than a rough thumbnail or construction sketch, less atmospheric th
 
 Before returning the image, verify that the three views depict one coherent station; the station clock reads 12:07; Cafe Siete is beside the ticket hall; the station is abandoned but architecturally readable; sign areas remain clean for controlled lettering; and no unsupported clue or character has been introduced.
 
-## Deferred Release Blockers
+## Release Record
 
 - `STORYBOARD_LOCKED` is satisfied.
-- `image_generation_enabled` is false.
-- No schema-valid image job or external handoff has been released.
+- `image_generation_enabled` and `IMAGE_READY` are true.
+- Job `san-aurelio-junction-2026-v001` is released with no image attachments.
+- The returned image remains a candidate until continuity review and explicit user approval.
 
 ## Evidence
 

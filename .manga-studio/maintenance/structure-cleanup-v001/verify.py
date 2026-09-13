@@ -107,7 +107,7 @@ for filename, schema in schema_files:
 for path in (WORK / 'source/documents').glob('doc-*.json'):
     errors += validate_json_file(path, installed / 'schemas/source-document.schema.json')
 approvals = [p for p in (WORK / 'approvals').glob('approval-*.json')]
-assert len(approvals) >= 22
+assert len(approvals) >= 23
 for path in approvals:
     errors += validate_approval(context, path)
 manuscript_approval_path = WORK / 'approvals/approval-feb5212823b84aeaaa04bac3fedc4fc6.json'
@@ -206,12 +206,12 @@ assert len(review['warnings']) == 7 and len(review['issue_dispositions']) == 30
 
 config = context.config
 assert config['active_manuscript_version'] == current['active_manuscript_version'] == '.manga-studio/manuscript/versions/chapter-001-v001.md'
-assert config['workflow_phase'] == 'phase_6_storyboard_locked_character_references_approved'
-expected_true_locks = {'SOURCE_LOCKED', 'CANON_APPROVED', 'DIAGNOSTIC_APPROVED', 'REVISION_PLAN_APPROVED', 'MANUSCRIPT_APPROVED', 'STORY_LOCKED', 'STORYBOARD_APPROVED', 'STORYBOARD_LOCKED'}
+assert config['workflow_phase'] == 'phase_7_san_aurelio_junction_2026_released'
+expected_true_locks = {'SOURCE_LOCKED', 'CANON_APPROVED', 'DIAGNOSTIC_APPROVED', 'REVISION_PLAN_APPROVED', 'MANUSCRIPT_APPROVED', 'STORY_LOCKED', 'STORYBOARD_APPROVED', 'STORYBOARD_LOCKED', 'IMAGE_READY'}
 assert {key for key, value in config['stage_locks'].items() if value} == expected_true_locks
 assert config['stage_locks']['STORYBOARD_APPROVED'] is True
 assert config['stage_locks']['STORYBOARD_LOCKED'] is True
-assert config['stage_locks']['IMAGE_READY'] is False
+assert config['stage_locks']['IMAGE_READY'] is True
 expected_active_lock_records = {
     'SOURCE_LOCKED': '.manga-studio/locks/SOURCE_LOCKED-v001.json',
     'CANON_APPROVED': '.manga-studio/locks/CANON_APPROVED-v003.json',
@@ -221,12 +221,12 @@ expected_active_lock_records = {
     'STORY_LOCKED': '.manga-studio/locks/STORY_LOCKED-v003.json',
     'STORYBOARD_APPROVED': '.manga-studio/locks/STORYBOARD_APPROVED-v001.json',
     'STORYBOARD_LOCKED': '.manga-studio/locks/STORYBOARD_LOCKED-v001.json',
+    'IMAGE_READY': '.manga-studio/locks/IMAGE_READY-v001.json',
 }
 assert all(config['stage_lock_records'][key] == value for key, value in expected_active_lock_records.items())
-assert config['stage_lock_records']['IMAGE_READY'] is None
 assert config['active_canon_version'] == '.manga-studio/canon/versions/chapter-001-canon-v002.json'
 assert config['active_storyboard_version'] == '.manga-studio/storyboard/chapter-001-storyboard-v001.json'
-assert config['image_generation_enabled'] is False
+assert config['image_generation_enabled'] is True
 assert current['production_mode'] == 'panel_first'
 authority = current['current_authority']
 assert authority['stage_locks_changed'] is True
@@ -264,7 +264,7 @@ brief_paths = authority['deferred_reference_generation_briefs']
 assert authority['reference_generation_briefs_version'] == 'v002'
 assert authority['reference_generation_briefs_decision_relative_path'] == '.manga-studio/decisions/chapter-001-reference-generation-briefs-v002.json'
 assert authority['reference_prompt_style_audit_relative_path'] == '.manga-studio/analysis/chapter-001-reference-prompt-style-audit-v001.md'
-assert authority['reference_generation_release_status'] == 'characters_approved_environments_deferred_pending_storyboard_lock_image_enable_and_dependencies'
+assert authority['reference_generation_release_status'] == 'san_aurelio_junction_2026_released'
 assert authority['reference_rendering_lock'] == 'clean_flat_black_and_white_printed_manga_reference_on_white_paper'
 assert authority['reference_attachment_policy'] == 'identity_and_approved_hash_bound_dependencies_only'
 assert len(brief_paths) == 13 and all(safe(rel).is_file() for rel in brief_paths)
@@ -298,7 +298,12 @@ assert authority['active_storyboard_sha256'] == sha(safe(config['active_storyboa
 assert authority['storyboard_approval_relative_path'] == '.manga-studio/approvals/approval-c81e30db6a5045ab9afdbc9bd17b0464.json'
 assert authority['storyboard_approved_lock_relative_path'] == '.manga-studio/locks/STORYBOARD_APPROVED-v001.json'
 assert authority['storyboard_locked_lock_relative_path'] == '.manga-studio/locks/STORYBOARD_LOCKED-v001.json'
-assert authority['image_generation_enabled'] is False
+assert authority['image_generation_enabled'] is True
+assert authority['image_ready'] is True
+assert authority['continuity_state_relative_path'] == '.manga-studio/continuity/state.json'
+assert authority['continuity_state_sha256'] == sha(safe(authority['continuity_state_relative_path']))
+assert authority['continuity_approval_relative_path'] == '.manga-studio/approvals/approval-8a03736f527b4df5aefcc46fa8578650.json'
+assert authority['image_ready_lock_relative_path'] == '.manga-studio/locks/IMAGE_READY-v001.json'
 v001_canon = read(WORK / 'canon/versions/chapter-001-canon-v001.json')
 v002_canon = read(WORK / 'canon/versions/chapter-001-canon-v002.json')
 assert sha(WORK / 'canon/versions/chapter-001-canon-v001.json') == '8e99db551f9eda9f3b56116b15cd6425a807d27b439df3a493864385612cfb58'
@@ -382,7 +387,21 @@ for rel in sorted(actual | {'README.md'}):
         links += 1
 actual_reference_assets = {p.relative_to(ROOT).as_posix() for p in (ROOT / 'manga').rglob('*') if p.is_file() and not p.name.startswith('._') and p.suffix.lower() in {'.png', '.webp', '.jpg', '.jpeg'}}
 assert actual_reference_assets == reference_assets
-assert not any(p for p in (WORK / 'handoff').rglob('*.json') if not p.name.startswith('._'))
+job_path = safe(authority['released_reference_job_relative_path'])
+handoff_path = safe(authority['released_reference_handoff_relative_path'])
+assert job_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v001.json'
+assert handoff_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v001.md'
+assert sha(job_path) == authority['released_reference_job_sha256']
+assert sha(handoff_path) == authority['released_reference_handoff_sha256']
+errors = validate_json_file(job_path, installed / 'schemas/image-job.schema.json')
+assert not errors, errors
+job = read(job_path)
+assert job['job_type'] == 'location_reference' and job['release_status'] == 'released'
+assert job['required_reference_images'] == [] and job['reference_priority'] == []
+assert job['blocking_reasons'] == []
+assert job['output_spec'] == {'format': 'png', 'width': 1536, 'height': 1024, 'color_mode': 'grayscale', 'alpha_allowed': False}
+assert 'No reference-image attachments are required for this job.' in handoff_path.read_text()
+assert {p.relative_to(ROOT).as_posix() for p in (WORK / 'handoff/pending').glob('*.json') if not p.name.startswith('._')} == {job_path.relative_to(ROOT).as_posix()}
 
 
 def shared_role(rel):
@@ -409,8 +428,8 @@ result = {'record_type': 'structure_cleanup_validation', 'project_id': PID, 'che
           'working_markdown_files': len(actual), 'working_links_verified': links, 'shared_template_document_paths': shared, 'reference_comparison': comparison,
           'visual_quality_direction_version': authority['visual_quality_direction_version'], 'panel_count_policy': authority['panel_count_policy'], 'controlled_overlap_allowed': authority['controlled_overlap_allowed'],
           'approved_reference_files': len(reference_assets), 'approved_reference_ids': sorted(row['reference_id'] for row in approved_references), 'user_supplied_reference_ingested': True,
-          'locks_changed': True, 'active_versions_changed': True, 'artwork_created': False, 'production_ready': False,
-          'warnings': ['Storyboard v001 is approved, active, and locked; image generation remains disabled until separately authorized.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Five character references are approved; eight environment, prop and temporal-phenomenon generation briefs remain deferred and no image job is released.', 'The user-approved character WebPs are lossy encodings; changing their exact bytes requires a new review and approval.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
+          'locks_changed': True, 'active_versions_changed': True, 'artwork_created': False, 'reference_generation_ready': True, 'production_ready': False,
+          'warnings': ['Storyboard v001 and IMAGE_READY are locked; the San Aurelio Junction 2026 location-reference job is released with no attachments.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Five character references are approved; seven later environment, prop and temporal-phenomenon generation briefs remain deferred behind review, approval and dependency gates.', 'No manga page plan exists yet, so the broader runtime production profile is intentionally not satisfied by this reference-only release.', 'The user-approved character WebPs are lossy encodings; changing their exact bytes requires a new review and approval.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
 if args.record:
     report = HERE / 'validation.json'
     assert not report.exists(), 'Refusing to overwrite a recorded validation.'

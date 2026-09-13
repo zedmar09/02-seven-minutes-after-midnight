@@ -1,0 +1,112 @@
+{
+  "schema_version": "3.0.0",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "current_page": "chapter-001-preproduction",
+  "characters": {
+    "character-7aa0419823314e0787fe55c54aa83047": {
+      "name": "Daniel Soriano",
+      "chapter_state": "Present-day museum conservator in 2026; visible in Chapter 1.",
+      "visual_binding": {
+        "path": "manga/02-references/approved-webp/daniel-soriano.webp",
+        "sha256": "22590d7505a35fc99c54d101e82b3bc8f0d270e759cb003e6913d2be55818374",
+        "approval": ".manga-studio/approvals/approval-99458f572ec34943a25360319f766bc1.json",
+        "record": ".manga-studio/continuity/references/daniel-soriano-v002.json",
+        "role": "Adult identity, hair and scar, glasses, build, proportions, and Chapter 1 work wardrobe only."
+      }
+    },
+    "character-a096cba8416847d4947a94012733a09b": {
+      "name": "Tomas Rivera",
+      "chapter_state": "Cafe Siete baker-conveyor in 1986; visible in Chapter 1.",
+      "visual_binding": {
+        "path": "manga/02-references/approved-webp/tomas-rivera.webp",
+        "sha256": "f63902770629677011a9a25fa737066aec7ac57a86740021379d26b056933160",
+        "approval": ".manga-studio/approvals/approval-1b916d5ebf8e47ac9def0da59f41e643.json",
+        "record": ".manga-studio/continuity/references/tomas-rivera-v001.json",
+        "role": "Adult identity, hair and hair tie, build, proportions, Chapter 1 cafe wardrobe, and baker posture only."
+      }
+    },
+    "character-eac21dd0fae140d0b5fc6cd85bbbac0c": {
+      "name": "Maribel Santos",
+      "chapter_state": "Daniel's archive colleague in 2026; visible in Chapter 1.",
+      "visual_binding": {
+        "path": "manga/02-references/approved-webp/maribel-santos.webp",
+        "sha256": "47ca0ad93d43f33ed449e44e53fd174756f60542bd4fcf23d1e45f675f0089f7",
+        "approval": ".manga-studio/approvals/approval-313583c297e24ac4a74e5244449d1c2e.json",
+        "record": ".manga-studio/continuity/references/maribel-santos-v002.json",
+        "role": "Adult identity, hair, glasses, sturdy build, archive wardrobe, and left-cuff ink stain only."
+      }
+    },
+    "character-28e7610c7be1473aa1d5fb041293cf19": {
+      "name": "Arturo Salcedo",
+      "chapter_state": "Named historical broker; not visibly present in Chapter 1.",
+      "visual_binding": {
+        "path": "manga/02-references/approved-webp/arturo-salcedo.webp",
+        "sha256": "b87fe969e9813ccd5636e86220b392f95bc952b95abc97ab271134f6628d4d71",
+        "approval": ".manga-studio/approvals/approval-1f8c16463d6d4244aba621d623448ee0.json",
+        "record": ".manga-studio/continuity/references/arturo-salcedo-v001.json",
+        "role": "Adult identity, slick hair, tall lean build, ivory suit, and signet ring only; no culpability or visible Chapter 1 appearance."
+      }
+    },
+    "character-3f6621b20e6e4c0da53cb42678b5c277": {
+      "name": "Lilia Ramos",
+      "chapter_state": "Named Cafe Siete kitchen worker; not visibly present in Chapter 1.",
+      "visual_binding": {
+        "path": "manga/02-references/approved-webp/lilia-ramos.webp",
+        "sha256": "6a150940441a40cd8bd22dd383be6062dffe688afbf4cd3ccfcb505cb764797d",
+        "approval": ".manga-studio/approvals/approval-c054db61edf1446a93d6003229bf9740.json",
+        "record": ".manga-studio/continuity/references/lilia-ramos-v002.json",
+        "role": "Adult identity, hair, glasses, broad build, kitchen wardrobe, rosary, and burn scar only; no visible Chapter 1 appearance."
+      }
+    }
+  },
+  "locations": {
+    "location-e3d6a8be72a14872bb4be3930a5ac297": {
+      "name": "San Aurelio Junction",
+      "story_states": [
+        "Ruined, rain-damaged station in 2026.",
+        "The same building restored and operational in 1986."
+      ],
+      "textual_authority": "manga/02-references/environments/san-aurelio-junction/canon.md",
+      "visual_binding": null,
+      "visual_status": "The 2026 architecture job is released as a proposal; no generated location image is approved yet."
+    },
+    "location-ec00909b6a1244d0ae35b1f2881055a5": {
+      "name": "Cafe Siete",
+      "story_states": [
+        "Ruined and inaccessible beyond the damaged gate in 2026.",
+        "Warm, operational station cafe in 1986."
+      ],
+      "textual_authority": "manga/02-references/environments/cafe-siete/canon.md",
+      "visual_binding": null,
+      "visual_status": "No generated environment image is approved yet; future studies must reuse approved station architecture."
+    }
+  },
+  "props": {
+    "prop-abfd3210cb6e4133ab15d662bd6aa138": {
+      "name": "station clock",
+      "chapter_state": "Large station clock stopped at 12:07; distinct from the cafe clock.",
+      "visual_binding": null
+    },
+    "prop-2feac2a1d9fd42e6975c1ed120a2e16a": {
+      "name": "cafe clock",
+      "chapter_state": "Smaller Cafe Siete clock; distinct from the station clock.",
+      "visual_binding": null
+    },
+    "prop-85802b3ff61346bd923496744e595278": {
+      "name": "cafe token",
+      "chapter_state": "Recurring time-slip token; dedicated visual reference remains pending.",
+      "visual_binding": null
+    },
+    "prop-3c56d67fe71743d58ecaf605e59e5c46": {
+      "name": "door scratches",
+      "chapter_state": "The painted cafe door glass carries TOMAS and the later separate service-corridor fire warning; authorship remains unknown.",
+      "visual_binding": null
+    }
+  },
+  "open_questions": [
+    "Environment, object, and phenomenon references remain unapproved until each generated candidate is reviewed and explicitly approved.",
+    "The fire's cause, Tomas Rivera's fate, and the authorship of the door scratches remain intentionally unknown.",
+    "Exact station dimensions and a complete hidden floor plan are not canon; the first approved architecture sheet may establish reusable visible geometry only.",
+    "Page and panel geometry follows the approved 36-page storyboard and later versioned panel direction; a reference sheet never fixes story-panel composition."
+  ]
+}

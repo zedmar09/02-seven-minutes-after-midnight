@@ -34,7 +34,7 @@ Do not attach the Daniel-and-Tomas image to Maribel, Arturo, or Lilia jobs. Benj
 
 | Order | Reference | Planned output | Required image attachment | Status |
 |---:|---|---|---|---|
-| 6 | [San Aurelio Junction, 2026](environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md) | `san-aurelio-junction-2026.png` | None | Deferred |
+| 6 | [San Aurelio Junction, 2026](environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md) | `san-aurelio-junction-2026.png` | None | Released |
 | 7 | [San Aurelio Junction, 1986](environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md) | `san-aurelio-junction-1986.png` | Approved output from order 6 | Deferred dependency |
 | 8 | [Cafe Siete dual-era floor plan](environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md) | `cafe-siete-dual-era-floor-plan.png` | None | Deferred |
 | 9 | [Cafe Siete dual-era perspective](environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md) | `cafe-siete-dual-era-perspective.png` | Approved output from order 8 | Deferred dependency |
@@ -52,9 +52,9 @@ Character images must not be attached to empty environment-reference jobs.
 
 ## Release Boundary
 
-The five character records are fulfilled. The remaining environment, object, and phenomenon files are evidence-based deferred generation briefs, not paste-ready ChatGPT handoffs. Each eventual structured job must bind every required image by real project-relative path and SHA-256.
+The five character records are fulfilled. San Aurelio Junction 2026 is the first released environment job; its [paste-ready ChatGPT handoff](../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md) requires no image attachments. The remaining environment, object, and phenomenon files are evidence-based deferred generation briefs. Each eventual structured job must bind every required image by real project-relative path and SHA-256.
 
-Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Current blockers are `image_generation_enabled=false`, unresolved environment and object dependencies, and absent schema-valid image jobs. No executable environment, object, panel, or page handoff has been released.
+Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Image generation is enabled and `IMAGE_READY` is true. Later jobs remain blocked only by their ordered reference dependencies, review, approval, and individual release authorization; no panel or page handoff has been released.
 
 - [Characters](characters/README.md)
 - [Environments](environments/README.md)
