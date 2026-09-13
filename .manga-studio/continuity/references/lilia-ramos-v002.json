@@ -1,0 +1,37 @@
+{
+  "record_type": "approved_character_reference",
+  "schema_version": "1.0.0",
+  "reference_id": "reference-lilia-ramos-v002",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v002",
+  "status": "approved_final",
+  "recorded_at": "2026-09-13T00:56:58Z",
+  "source": {
+    "provenance": "externally_generated_user_supplied",
+    "preserved_relative_path": ".manga-studio/continuity/reference-candidates/lilia-ramos-v002/candidate.png",
+    "sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586",
+    "width_px": 1024,
+    "height_px": 1536,
+    "format": "png"
+  },
+  "approved_files": [
+    {
+      "role": "png_master",
+      "relative_path": "manga/02-references/approve-png/lilia-ramos.png",
+      "sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586",
+      "approval_relative_path": ".manga-studio/approvals/approval-b47cf38aa10a4be19bef3eec1903d6aa.json"
+    },
+    {
+      "role": "production_webp",
+      "relative_path": "manga/02-references/approved-webp/lilia-ramos.webp",
+      "sha256": "6a150940441a40cd8bd22dd383be6062dffe688afbf4cd3ccfcb505cb764797d",
+      "approval_relative_path": ".manga-studio/approvals/approval-c054db61edf1446a93d6003229bf9740.json"
+    }
+  ],
+  "character_id": "character-3f6621b20e6e4c0da53cb42678b5c277",
+  "display_name": "Lilia Ramos",
+  "approved_scope": ["adult identity", "hair and glasses", "broad build", "kitchen wardrobe", "rosary and burn scar"],
+  "excluded_scope": ["visible Chapter 1 appearance", "story action", "environment", "unshown props", "future state"],
+  "textual_authority": [".manga-studio/manuscript/versions/chapter-001-v001.md", "manga/02-references/characters/lilia-ramos/lilia-ramos.md"],
+  "review_relative_path": ".manga-studio/continuity/reviews/chapter-001-lilia-ramos-reference-v002-review.json"
+}

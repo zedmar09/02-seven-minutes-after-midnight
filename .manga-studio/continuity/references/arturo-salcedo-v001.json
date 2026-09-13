@@ -1,0 +1,37 @@
+{
+  "record_type": "approved_character_reference",
+  "schema_version": "1.0.0",
+  "reference_id": "reference-arturo-salcedo-v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "approved_final",
+  "recorded_at": "2026-09-13T00:56:58Z",
+  "source": {
+    "provenance": "externally_generated_user_supplied",
+    "preserved_relative_path": ".manga-studio/continuity/reference-candidates/arturo-salcedo-v001/candidate.png",
+    "sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96",
+    "width_px": 1024,
+    "height_px": 1536,
+    "format": "png"
+  },
+  "approved_files": [
+    {
+      "role": "png_master",
+      "relative_path": "manga/02-references/approve-png/arturo-salcedo.png",
+      "sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96",
+      "approval_relative_path": ".manga-studio/approvals/approval-dd6be9cdee12493282b102ff0b8d5c6e.json"
+    },
+    {
+      "role": "production_webp",
+      "relative_path": "manga/02-references/approved-webp/arturo-salcedo.webp",
+      "sha256": "b87fe969e9813ccd5636e86220b392f95bc952b95abc97ab271134f6628d4d71",
+      "approval_relative_path": ".manga-studio/approvals/approval-1f8c16463d6d4244aba621d623448ee0.json"
+    }
+  ],
+  "character_id": "character-28e7610c7be1473aa1d5fb041293cf19",
+  "display_name": "Arturo Salcedo",
+  "approved_scope": ["adult identity", "slick hair", "tall lean build", "ivory suit", "signet ring"],
+  "excluded_scope": ["visible Chapter 1 appearance", "story action", "environment", "culpability", "future state"],
+  "textual_authority": [".manga-studio/manuscript/versions/chapter-001-v001.md", "manga/02-references/characters/arturo-salcedo/arturo-salcedo.md"],
+  "review_relative_path": ".manga-studio/continuity/reviews/chapter-001-arturo-salcedo-reference-v001-review.json"
+}

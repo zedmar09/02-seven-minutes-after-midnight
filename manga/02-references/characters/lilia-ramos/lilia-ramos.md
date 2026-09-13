@@ -12,6 +12,12 @@ These source descriptions are not proof that every prop or future event appears 
 - Visual Design: Broad-shouldered older woman with brown skin, thick dark hair streaked with gray and pinned into a coil, round glasses, rolled sleeves, a dark full apron, and a rosary wrapped around her wrist beside a kitchen burn scar.
 - Signature Props: Ledger of unpaid meals, enamel coffee pot, rosary bracelet, iron key ring, heavy kitchen cleaver used mostly on pastry dough.
 
+## Approved Visual Reference
+
+[Lilia Ramos WebP](../../approved-webp/lilia-ramos.webp) and [PNG master](../../approve-png/lilia-ramos.png).
+
+The model sheet governs Lilia's proposed adult facial identity, broad build, gray-streaked hair coil, round glasses, work clothes, rosary, burn scar, and capable presence. It does not override her off-panel Chapter 1 role; attach it only if a locked panel plan makes her visible.
+
 ## Evidence
 
 - [characters.md](../../../../.manga-studio/history/structure-cleanup-v001/before/characters.md)

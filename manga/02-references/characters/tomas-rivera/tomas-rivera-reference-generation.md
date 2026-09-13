@@ -1,12 +1,14 @@
 # Tomas Rivera Reference Generation
 
-Status: `DEFERRED`
+Status: `FULFILLED_AND_APPROVED`
 
-Future job type: `character_reference`
+Historical job type: `character_reference`
 
-Planned output: `tomas-rivera-reference-v001.png`
+PNG master: [tomas-rivera.png](../../approve-png/tomas-rivera.png)
 
-This brief prepares a production model sheet. It is not a released ChatGPT handoff and does not approve generated artwork.
+Approved production reference: [tomas-rivera.webp](../../approved-webp/tomas-rivera.webp)
+
+This is the generation and review record for the approved production model sheet. Do not paste it again unless a separately approved correction is required.
 
 ## Authority Order
 
@@ -22,7 +24,7 @@ Tomas is the long-haired man on the right. Use only his face, hair, adult build,
 
 ## Generation Brief
 
-Produce ONE 1024 x 1536 portrait PNG named `tomas-rivera-reference-v001.png`. Draw exactly six separated studies in two equal columns and three rows on clean white paper, with generous gaps and no borders, labels, numbers, arrows, or grid lines.
+Produce ONE 1024 x 1536 portrait PNG named `tomas-rivera.png`. Draw exactly six separated studies in two equal columns and three rows on clean white paper, with generous gaps and no borders, labels, numbers, arrows, or grid lines.
 
 1. Source-matching three-quarter head and upper shoulders, warm attentive expression.
 2. Front head construction, hair tied low, neutral expression.
@@ -47,8 +49,6 @@ No Daniel, supporting characters, environment, story action, tray, bread, tongs,
 
 Verify one consistent adult identity across all six studies; stable hair length, low tie, face-framing strands, age, and proportions; correct long-sleeved work wardrobe; readable hands; white-paper background; and uniformly flat printed-manga finish.
 
-## Deferred Release Blockers
+## Approval Result
 
-- `STORYBOARD_LOCKED` is false.
-- `image_generation_enabled` is false.
-- No schema-valid image job or external handoff has been released.
+The Tomas sheet passed continuity review and the user approved the exact stable WebP as final. This approval does not approve the storyboard, enable image generation, or release panel jobs.

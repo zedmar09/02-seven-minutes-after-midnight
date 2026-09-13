@@ -4,9 +4,9 @@ Status: `DEFERRED`
 
 Future job type: `location_reference`
 
-Planned output: `san-aurelio-junction-1986-reference-v001.png`
+Planned output: `san-aurelio-junction-1986.png`
 
-Deferred dependency: `san-aurelio-junction-2026-reference-v001` must first become an approved, hash-locked architecture reference. Do not invent a missing image path or release this brief without resolving that dependency.
+Deferred dependency: `san-aurelio-junction-2026` must first become an approved, hash-locked architecture reference. Do not invent a missing image path or release this brief without resolving that dependency.
 
 ## Purpose
 
@@ -25,7 +25,7 @@ At release time, attach exactly the approved 2026 station architecture reference
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `san-aurelio-junction-1986-reference-v001.png`. Reconstruct San Aurelio Junction on October 17, 1986 at midnight as an active, maintained railway station. Match the approved 2026 reference's exact three-view composition, camera positions, architecture, opening locations, beam rhythm, tile pattern, and sign placement.
+Produce ONE 1536 x 1024 landscape PNG named `san-aurelio-junction-1986.png`. Reconstruct San Aurelio Junction on October 17, 1986 at midnight as an active, maintained railway station. Match the approved 2026 reference's exact three-view composition, camera positions, architecture, opening locations, beam rhythm, tile pattern, and sign placement.
 
 Use exactly three coordinated, non-overlapping studies:
 

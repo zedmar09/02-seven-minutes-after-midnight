@@ -14,11 +14,11 @@ These source descriptions are not proof that every prop or future event appears 
 
 ## Approved Visual Reference
 
-[Daniel and Tomas shared WebP](../../approved-webp/daniel-tomas-shared.webp) and [PNG working master](../../approve-png/daniel-tomas-shared.png).
+[Daniel Soriano WebP](../../approved-webp/daniel-soriano.webp) and [PNG master](../../approve-png/daniel-soriano.png).
 
-Daniel is the curly-haired man on the left. The image governs his adult facial identity, close curls, early silver at the temples, glasses, slim build, age impression and reserved visual presence. Preserve the manuscript's narrow nose-bridge scar, amber-tinted conservation glasses, slate-blue chore jacket, cotton gloves and careful conservator posture when the image is ambiguous.
+The individual model sheet governs Daniel's adult facial identity, close curls, early silver at the temples, glasses, slim build, narrow nose-bridge scar, age impression, work wardrobe, and reserved conservator presence.
 
-Do not copy the pictured pose, newspaper, magnifier, setting, rain, signs, dates, clock state or title text as story authority.
+The [shared lead image](../../approved-webp/daniel-tomas-shared.webp) is retained only as legacy identity and chemistry evidence. Do not copy its pose, newspaper, magnifier, setting, rain, signs, dates, clock state, or title text as story authority.
 
 ## Evidence
 

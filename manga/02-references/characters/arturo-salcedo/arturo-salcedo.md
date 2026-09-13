@@ -12,6 +12,12 @@ These source descriptions are not proof that every prop or future event appears 
 - Visual Design: Tall man with pale olive skin, slick black hair, angular cheekbones, thin smile, spotless ivory linen suit, dark tie, and a gold signet ring he taps against glass when annoyed.
 - Signature Props: Gold signet ring, folded redevelopment contracts, black umbrella, silver cigarette case, private car waiting beyond the station gate.
 
+## Approved Visual Reference
+
+[Arturo Salcedo WebP](../../approved-webp/arturo-salcedo.webp) and [PNG master](../../approve-png/arturo-salcedo.png).
+
+The model sheet governs Arturo's proposed adult facial identity, tall lean build, slick hair, ivory suit construction, dark tie, signet ring, and controlled presence. It does not make him visibly present in Chapter 1; the locked storyboard remains authoritative for whether he is shown or only discussed.
+
 ## Evidence
 
 - [characters.md](../../../../.manga-studio/history/structure-cleanup-v001/before/characters.md)

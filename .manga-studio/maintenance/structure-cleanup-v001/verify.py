@@ -107,7 +107,7 @@ for filename, schema in schema_files:
 for path in (WORK / 'source/documents').glob('doc-*.json'):
     errors += validate_json_file(path, installed / 'schemas/source-document.schema.json')
 approvals = [p for p in (WORK / 'approvals').glob('approval-*.json')]
-assert len(approvals) == 11
+assert len(approvals) >= 21
 for path in approvals:
     errors += validate_approval(context, path)
 manuscript_approval_path = WORK / 'approvals/approval-feb5212823b84aeaaa04bac3fedc4fc6.json'
@@ -206,7 +206,7 @@ assert len(review['warnings']) == 7 and len(review['issue_dispositions']) == 30
 
 config = context.config
 assert config['active_manuscript_version'] == current['active_manuscript_version'] == '.manga-studio/manuscript/versions/chapter-001-v001.md'
-assert config['workflow_phase'] == 'phase_5_story_locked_canon_v002_storyboard_v001_review_ready'
+assert config['workflow_phase'] == 'phase_5_story_locked_storyboard_review_ready_character_references_approved'
 expected_true_locks = {'SOURCE_LOCKED', 'CANON_APPROVED', 'DIAGNOSTIC_APPROVED', 'REVISION_PLAN_APPROVED', 'MANUSCRIPT_APPROVED', 'STORY_LOCKED'}
 assert {key for key, value in config['stage_locks'].items() if value} == expected_true_locks
 assert config['stage_locks']['STORYBOARD_APPROVED'] is False
@@ -243,17 +243,28 @@ assert authority['visual_quality_decision_relative_path'] == '.manga-studio/deci
 assert authority['panel_count_policy'] == 'situation_driven_no_fixed_total'
 assert authority['controlled_overlap_allowed'] is True
 assert authority['overlap_requirements'] == ['explicit_reading_sequence', 'frame_or_clip_geometry', 'z_index', 'overlap_permission', 'focus_point', 'dialogue_safe_zones', 'continuity_clearance']
-approved_reference = authority['approved_visual_references'][0]
-assert approved_reference['reference_id'] == 'reference-daniel-tomas-shared-v001'
-assert approved_reference['webp_relative_path'] == 'manga/02-references/approved-webp/daniel-tomas-shared.webp'
-assert approved_reference['webp_sha256'] == '985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb'
-assert approved_reference['png_relative_path'] == 'manga/02-references/approve-png/daniel-tomas-shared.png'
-assert approved_reference['png_sha256'] == '48f2680a489156033f49b11f5a7c02a7a0e92e0442a3a60fc2bc1487cd1bf2b6'
+approved_references = authority['approved_visual_references']
+assert len(approved_references) == 6
+assert set(authority['primary_character_reference_ids']) == {
+    'reference-daniel-soriano-v002',
+    'reference-tomas-rivera-v001',
+    'reference-maribel-santos-v002',
+    'reference-arturo-salcedo-v001',
+    'reference-lilia-ramos-v002',
+}
+approval_targets = {read(path)['target_relative_path']: read(path) for path in approvals if read(path)['status'] == 'approved'}
+for reference in approved_references:
+    assert sha(safe(reference['webp_relative_path'])) == reference['webp_sha256']
+    assert sha(safe(reference['png_relative_path'])) == reference['png_sha256']
+    assert safe(reference['reference_record_relative_path']).is_file()
+    assert approval_targets[reference['webp_relative_path']]['target_sha256'] == reference['webp_sha256']
+    assert approval_targets[reference['png_relative_path']]['target_sha256'] == reference['png_sha256']
+approved_reference = next(row for row in approved_references if row['reference_id'] == 'reference-daniel-tomas-shared-v001')
 brief_paths = authority['deferred_reference_generation_briefs']
 assert authority['reference_generation_briefs_version'] == 'v002'
 assert authority['reference_generation_briefs_decision_relative_path'] == '.manga-studio/decisions/chapter-001-reference-generation-briefs-v002.json'
 assert authority['reference_prompt_style_audit_relative_path'] == '.manga-studio/analysis/chapter-001-reference-prompt-style-audit-v001.md'
-assert authority['reference_generation_release_status'] == 'deferred_pending_storyboard_lock_image_enable_and_dependencies'
+assert authority['reference_generation_release_status'] == 'characters_approved_environments_deferred_pending_storyboard_lock_image_enable_and_dependencies'
 assert authority['reference_rendering_lock'] == 'clean_flat_black_and_white_printed_manga_reference_on_white_paper'
 assert authority['reference_attachment_policy'] == 'identity_and_approved_hash_bound_dependencies_only'
 assert len(brief_paths) == 13 and all(safe(rel).is_file() for rel in brief_paths)
@@ -261,7 +272,12 @@ printed_manga_lock = 'black-and-white human-drawn 2D manga production sketch/ref
 for rel in brief_paths:
     brief = safe(rel).read_text()
     assert printed_manga_lock in brief, rel
-    assert 'image_generation_enabled' in brief, rel
+for rel in brief_paths[:5]:
+    brief = safe(rel).read_text()
+    assert 'Status: `FULFILLED_AND_APPROVED`' in brief, rel
+    assert 'approved-webp' in brief, rel
+for rel in brief_paths[5:]:
+    assert 'image_generation_enabled' in safe(rel).read_text(), rel
 lead_attachment = '../../approve-png/daniel-tomas-shared.png'
 for rel in brief_paths[:2]:
     brief = safe(rel).read_text()
@@ -336,8 +352,9 @@ for directory in WORKSPACE_DIRECTORIES:
 root_names = {p.name for p in ROOT.iterdir() if not p.name.startswith('._')}
 assert root_names == {'.git', '.gitignore', '.manga-studio', 'AGENTS.md', 'README.md', 'manga'}, root_names
 reference_assets = {
-    'manga/02-references/approve-png/daniel-tomas-shared.png',
-    'manga/02-references/approved-webp/daniel-tomas-shared.webp',
+    reference[key]
+    for reference in approved_references
+    for key in ('png_relative_path', 'webp_relative_path')
 }
 manga_files = file_set(ROOT / 'manga')
 actual = manga_files - reference_assets
@@ -386,9 +403,9 @@ result = {'record_type': 'structure_cleanup_validation', 'project_id': PID, 'che
           'approvals_valid': len(approvals), 'manuscript_approval': manuscript_approval_path.relative_to(ROOT).as_posix(), 'draft_sha256': expected, 'exact_approved_edits_verified': len(register['edits']), 'strict_source_locators_verified': locator_count,
           'working_markdown_files': len(actual), 'working_links_verified': links, 'shared_template_document_paths': shared, 'reference_comparison': comparison,
           'visual_quality_direction_version': authority['visual_quality_direction_version'], 'panel_count_policy': authority['panel_count_policy'], 'controlled_overlap_allowed': authority['controlled_overlap_allowed'],
-          'approved_reference_files': len(reference_assets), 'approved_reference_id': approved_reference['reference_id'], 'user_supplied_reference_ingested': True,
+          'approved_reference_files': len(reference_assets), 'approved_reference_ids': sorted(row['reference_id'] for row in approved_references), 'user_supplied_reference_ingested': True,
           'locks_changed': True, 'active_versions_changed': True, 'artwork_created': False, 'production_ready': False,
-          'warnings': ['Storyboard v001 is review ready but remains unapproved and unlocked; image generation stays disabled.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Thirteen corrected character, environment, prop and temporal-phenomenon generation briefs remain deferred; no artwork or released image job exists.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
+          'warnings': ['Storyboard v001 is review ready but remains unapproved and unlocked; image generation stays disabled.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Five character references are approved; eight environment, prop and temporal-phenomenon generation briefs remain deferred and no image job is released.', 'The user-approved character WebPs are lossy encodings; changing their exact bytes requires a new review and approval.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
 if args.record:
     report = HERE / 'validation.json'
     assert not report.exists(), 'Refusing to overwrite a recorded validation.'

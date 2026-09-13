@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-dd6be9cdee12493282b102ff0b8d5c6e",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "continuity",
+  "target_relative_path": "manga/02-references/approve-png/arturo-salcedo.png",
+  "target_version": "v001",
+  "target_sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-13T00:56:58Z",
+  "actor": "user",
+  "notes": "User explicitly declared the completed character references approved and final and requested stable filenames without visible version numbering. Approves this exact reviewed Arturo Salcedo PNG master under the stable path; the corresponding WebP has a separate hash-bound approval. Internal version and SHA history remain authoritative. This does not make Arturo visible beyond the storyboard, approve the storyboard, enable image generation, or release an image job.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

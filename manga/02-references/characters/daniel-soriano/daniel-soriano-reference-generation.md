@@ -1,12 +1,14 @@
 # Daniel Soriano Reference Generation
 
-Status: `DEFERRED`
+Status: `FULFILLED_AND_APPROVED`
 
-Future job type: `character_reference`
+Historical job type: `character_reference`
 
-Planned output: `daniel-soriano-reference-v001.png`
+PNG master: [daniel-soriano.png](../../approve-png/daniel-soriano.png)
 
-This brief prepares a production model sheet. It is not a released ChatGPT handoff and does not approve generated artwork.
+Approved production reference: [daniel-soriano.webp](../../approved-webp/daniel-soriano.webp)
+
+This is the generation and review record for the approved production model sheet. Do not paste it again unless a separately approved correction is required.
 
 ## Authority Order
 
@@ -22,7 +24,7 @@ Daniel is the curly-haired man on the left. Use only his face, hair, glasses, ad
 
 ## Generation Brief
 
-Produce ONE 1024 x 1536 portrait PNG named `daniel-soriano-reference-v001.png`. Draw exactly six separated studies in two equal columns and three rows on clean white paper, with generous gaps and no borders, labels, numbers, arrows, or grid lines.
+Produce ONE 1024 x 1536 portrait PNG named `daniel-soriano.png`. Draw exactly six separated studies in two equal columns and three rows on clean white paper, with generous gaps and no borders, labels, numbers, arrows, or grid lines.
 
 1. Source-matching three-quarter head and upper shoulders, neutral guarded expression.
 2. Front head construction, eyes level, neutral expression.
@@ -47,8 +49,6 @@ No Tomas, supporting characters, environment, story action, tray, bread, token, 
 
 Verify one consistent adult identity across all six studies; stable scar, glasses, curl silhouette, age, and proportions; correct work wardrobe; readable hands; white-paper background; and uniformly flat printed-manga finish.
 
-## Deferred Release Blockers
+## Approval Result
 
-- `STORYBOARD_LOCKED` is false.
-- `image_generation_enabled` is false.
-- No schema-valid image job or external handoff has been released.
+The corrected Daniel sheet passed continuity review and the user approved the exact stable WebP as final. This approval does not approve the storyboard, enable image generation, or release panel jobs.

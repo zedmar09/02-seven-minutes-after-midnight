@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `prop_reference`
 
-Planned output: `time-transfer-props-reference-v001.png`
+Planned output: `time-transfer-props.png`
 
 This brief prepares continuity-critical object designs and state pairs. It does not release a generation job or turn uncertain time rules into canon.
 
@@ -23,7 +23,7 @@ No image attachment is currently required. A future correction may use an approv
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `time-transfer-props-reference-v001.png`. Draw a clean, high-detail black-and-white manga prop sheet with exactly eight isolated study groups on plain white paper. Every object must use a consistent real-world scale and three-quarter product-study angle unless a paired state requires a direct side-by-side match.
+Produce ONE 1536 x 1024 landscape PNG named `time-transfer-props.png`. Draw a clean, high-detail black-and-white manga prop sheet with exactly eight isolated study groups on plain white paper. Every object must use a consistent real-world scale and three-quarter product-study angle unless a paired state requires a direct side-by-side match.
 
 The eight study groups are:
 

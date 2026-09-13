@@ -16,13 +16,14 @@
     "empty_output_directories": [
       "manga/04-production/arc-01/chapter-001/approved-png"
     ],
-    "approved_reference_sets": 1,
-    "approved_reference_files": 2,
-    "deferred_reference_generation_briefs": 13,
+    "approved_reference_sets": 6,
+    "approved_reference_files": 12,
+    "deferred_reference_generation_briefs": 8,
     "proposed_canon_versions": 0,
     "approved_active_canon_versions": 1,
     "proposed_canon_corrections": 0,
-    "proposed_storyboard_versions": 1
+    "proposed_storyboard_versions": 1,
+    "fulfilled_character_reference_briefs": 5
   },
   "artifacts": [
     {
@@ -61,6 +62,11 @@
       "sha256": "f60207b440a060bb10e8e6171ada20b6566992dee024cefab04f8bfa5e815d97"
     },
     {
+      "relative_path": ".manga-studio/approvals/approval-100a3235433746688446faed2cd02278.json",
+      "evidence": [],
+      "sha256": "322261f75f6e4db9b89e2dc9210a0590314903ba892766220248ed4529fab31d"
+    },
+    {
       "relative_path": ".manga-studio/approvals/approval-16b35a4cd7014b879478c9b2e0b4f7a3.json",
       "evidence": [],
       "sha256": "efefd26d3b2b6320b67a69715b05dc73262b1190a64bdc432c2901a7006388dc"
@@ -74,6 +80,21 @@
       "relative_path": ".manga-studio/approvals/approval-179120b070e94a71a22d4af7677e67b9.json",
       "evidence": [],
       "sha256": "1def99690e99459a85a69a9d6e90d08893e032959244aae7a1cf6b4dcd0b370a"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-1b916d5ebf8e47ac9def0da59f41e643.json",
+      "evidence": [],
+      "sha256": "bccd279fa33eae3d8c019e11d8d475cf04244f82ce6ace5a3c5d710e1ecd3bc9"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-1f8c16463d6d4244aba621d623448ee0.json",
+      "evidence": [],
+      "sha256": "2e7c89b2b5832947e2f181c812178f78d63a465c34c0d36ca28a95b3160ea4ed"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-313583c297e24ac4a74e5244449d1c2e.json",
+      "evidence": [],
+      "sha256": "75237f4ee3628f7972b781a611e0e54f24854e3484dc2173900fa653ace9a599"
     },
     {
       "relative_path": ".manga-studio/approvals/approval-389787b7b7e747c1ba1be1d3204dc970.json",
@@ -106,9 +127,39 @@
       "sha256": "ed626938d75d9c10e4aeadcc8d13538d5a95f8da086f7a8ac281a7eb8615deb3"
     },
     {
+      "relative_path": ".manga-studio/approvals/approval-99458f572ec34943a25360319f766bc1.json",
+      "evidence": [],
+      "sha256": "701ed9c39b1d7d6a6e5d673b0ae3e3c7c9984961e3d24c30ce9ba0c0042230e2"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-b47cf38aa10a4be19bef3eec1903d6aa.json",
+      "evidence": [],
+      "sha256": "c45084952ba99be356d323186c533d5a5eb0a2d721b6c48e16981c1673a0c68b"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-c054db61edf1446a93d6003229bf9740.json",
+      "evidence": [],
+      "sha256": "7605787b5d00d51888f1b1c1606415e667af8e17b00841d02b02130449aa4751"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-c59175951b1b43f999102192d9658c8e.json",
+      "evidence": [],
+      "sha256": "dd9eb84a6a0752b1a83bb83a3b6425a8de6f511b3f2183256bfba365d67e9196"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-dd6be9cdee12493282b102ff0b8d5c6e.json",
+      "evidence": [],
+      "sha256": "ba123cc1ab1b3cbfcab332b04f492b046131da2e8a33e2f76ac616df9f9b76c6"
+    },
+    {
       "relative_path": ".manga-studio/approvals/approval-f06708bac3194fed87dd9f57e10bc2ca.json",
       "evidence": [],
       "sha256": "250d0a109df9c96df14e371c773214fc009b210b574e99f9aba16b87449db555"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-f070e865073e48c0aa9a21d5006a7eb5.json",
+      "evidence": [],
+      "sha256": "50d9e61b360854ea1226c3f2bd6c961b73a1c085a92cb1f5363e2461d9f1b02c"
     },
     {
       "relative_path": ".manga-studio/approvals/approval-feb5212823b84aeaaa04bac3fedc4fc6.json",
@@ -206,9 +257,34 @@
       "sha256": "582e16ac229c5c52fe612b0ed16466208a85ed11787c0154adc47555a91abc48"
     },
     {
+      "relative_path": ".manga-studio/continuity/references/arturo-salcedo-v001.json",
+      "evidence": [],
+      "sha256": "22b938a37aae6d170925eead9d2a62d0ce33d02ce4afec897a316db14b41c8dd"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/references/daniel-soriano-v002.json",
+      "evidence": [],
+      "sha256": "8771d464c11ee7e4ed43956f7bbcf7516fc9c2d81ea1459835b90fdb0d5882fd"
+    },
+    {
       "relative_path": ".manga-studio/continuity/references/daniel-tomas-shared-v001.json",
       "evidence": [],
       "sha256": "d6e8ea1f54c7611c51bccd0698ff1edd60c08d626859689f2b2f8aee17bb2ea4"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/references/lilia-ramos-v002.json",
+      "evidence": [],
+      "sha256": "e7308371eb0979306f92789b3052f8b6fab65fe540154927f9ecb2bd4d7c7758"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/references/maribel-santos-v002.json",
+      "evidence": [],
+      "sha256": "3478ec9633aa6352b94c51ae697155d822e68f5f829aea149019e7cda89e0a3e"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/references/tomas-rivera-v001.json",
+      "evidence": [],
+      "sha256": "8179089d411b8bdc7f067d592ff868d413e3815d29b768c898052d1a068c955b"
     },
     {
       "relative_path": ".manga-studio/continuity/reviews/chapter-001-arturo-salcedo-reference-v001-review.json",
@@ -516,6 +592,11 @@
       "sha256": "0eda259201c2008df25c6f80d4f4fc7a84e6f225105fbeaaabc4050b1424a7f3"
     },
     {
+      "relative_path": ".manga-studio/maintenance/character-reference-approval-v001/finalize.py",
+      "evidence": [],
+      "sha256": "257686c34802e363295c27926bebd2e25492af2485e1da6d99c20efbe9f63959"
+    },
+    {
       "relative_path": ".manga-studio/maintenance/character-reference-intake-v001/finalize.py",
       "evidence": [],
       "sha256": "b946ddc816cef7570b74ba9495821dd1152b31c311e27dca09fef228621d88d3"
@@ -673,7 +754,7 @@
     {
       "relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
       "evidence": [],
-      "sha256": "000ad5554fc8a4c7cb649c3e86315d4e0b5a9c9400268ba462d872474751bb6b"
+      "sha256": "eb2dbd78b4eebd48566402a209c4a41f390bf7ae30656e1cb4a868943c91d3fe"
     },
     {
       "relative_path": ".manga-studio/maintenance/tomas-reference-review-v001/finalize.py",
@@ -707,7 +788,7 @@
     },
     {
       "relative_path": ".manga-studio/project.json",
-      "sha256": "3e3e73a5acfe881e779e9931fb58df379ec6372e4399cfe1db275383f524de41",
+      "sha256": "e6da1e9af4c297527e4718f6e8b3d2296e204fd2d41a530eb00de43088bcd30d",
       "evidence": []
     },
     {
@@ -887,7 +968,7 @@
     },
     {
       "relative_path": "AGENTS.md",
-      "sha256": "db5361f6dda512008320572af9622a2a7814cffc101f51d58e9337ccddaa44ba",
+      "sha256": "b6df640a9a1e4d5b7c86af7734f00a72fd2c0781f0910a56da5a5fc726de3ba0",
       "evidence": []
     },
     {
@@ -1117,13 +1198,23 @@
     },
     {
       "relative_path": "manga/02-references/README.md",
-      "sha256": "960dbbb9dbbeb72eae7c73943cd8f1724a2d067dd32fa53359727ecd1edad25b",
+      "sha256": "81e291631b131f69a43a902f7e83612998d52132fe11051dc717f6d28ab4e363",
       "evidence": []
     },
     {
       "relative_path": "manga/02-references/approve-png/README.md",
-      "sha256": "7012d19ae416121aee14a108d377ad026c0ce40e732ab5f490c697764fd2be80",
+      "sha256": "8622dcf72e0b229f763cb5efa412b2c4f8f5353fa755ab3c0d898f6df2c7fb7c",
       "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/approve-png/arturo-salcedo.png",
+      "evidence": [],
+      "sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96"
+    },
+    {
+      "relative_path": "manga/02-references/approve-png/daniel-soriano.png",
+      "evidence": [],
+      "sha256": "74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d"
     },
     {
       "relative_path": "manga/02-references/approve-png/daniel-tomas-shared.png",
@@ -1131,9 +1222,34 @@
       "sha256": "48f2680a489156033f49b11f5a7c02a7a0e92e0442a3a60fc2bc1487cd1bf2b6"
     },
     {
+      "relative_path": "manga/02-references/approve-png/lilia-ramos.png",
+      "evidence": [],
+      "sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586"
+    },
+    {
+      "relative_path": "manga/02-references/approve-png/maribel-santos.png",
+      "evidence": [],
+      "sha256": "056d0292a7fc8bd67f4381b4a535cd0a47201cef981283ad26ab701a9bd85ec2"
+    },
+    {
+      "relative_path": "manga/02-references/approve-png/tomas-rivera.png",
+      "evidence": [],
+      "sha256": "b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377"
+    },
+    {
       "relative_path": "manga/02-references/approved-webp/README.md",
-      "sha256": "82fdf734bd9b402f6ae71ef850aaf8888ba8e51350e601f2c498579684690fba",
+      "sha256": "610b35c07c1134144a2e8909339ebd7b4eb7869661a63250e7fa53f917702e40",
       "evidence": []
+    },
+    {
+      "relative_path": "manga/02-references/approved-webp/arturo-salcedo.webp",
+      "evidence": [],
+      "sha256": "b87fe969e9813ccd5636e86220b392f95bc952b95abc97ab271134f6628d4d71"
+    },
+    {
+      "relative_path": "manga/02-references/approved-webp/daniel-soriano.webp",
+      "evidence": [],
+      "sha256": "22590d7505a35fc99c54d101e82b3bc8f0d270e759cb003e6913d2be55818374"
     },
     {
       "relative_path": "manga/02-references/approved-webp/daniel-tomas-shared.webp",
@@ -1141,18 +1257,33 @@
       "sha256": "985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb"
     },
     {
+      "relative_path": "manga/02-references/approved-webp/lilia-ramos.webp",
+      "evidence": [],
+      "sha256": "6a150940441a40cd8bd22dd383be6062dffe688afbf4cd3ccfcb505cb764797d"
+    },
+    {
+      "relative_path": "manga/02-references/approved-webp/maribel-santos.webp",
+      "evidence": [],
+      "sha256": "47ca0ad93d43f33ed449e44e53fd174756f60542bd4fcf23d1e45f675f0089f7"
+    },
+    {
+      "relative_path": "manga/02-references/approved-webp/tomas-rivera.webp",
+      "evidence": [],
+      "sha256": "f63902770629677011a9a25fa737066aec7ac57a86740021379d26b056933160"
+    },
+    {
       "relative_path": "manga/02-references/characters/README.md",
-      "sha256": "01d8ccdf3e7953301b3ef5b69c229ecbc552c174d4e15ac6e63c9584ff05b80e",
+      "sha256": "297713a8bdbe9810c4539e40050ca399c369084dc2b2e65bf087c6d648416cf6",
       "evidence": []
     },
     {
       "relative_path": "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",
       "evidence": [],
-      "sha256": "59a55cf1b8a92a09102fe03394b4d91328ad0d3bc22e413a9b5cfa297efa279e"
+      "sha256": "2b19004f334c22fe63dff7879e5cba07df1b2623de1506e12b5b1b61c80f3f4b"
     },
     {
       "relative_path": "manga/02-references/characters/arturo-salcedo/arturo-salcedo.md",
-      "sha256": "66e9ec17cae5cf16d7aa67daa1279618ef92b6782a0a69963333ce2bbf69015e",
+      "sha256": "dfc38af4bc224346f2e179bd11c5c1b9fb9860eae39f4495ef4e2a3d60360465",
       "evidence": [
         {
           "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
@@ -1231,11 +1362,11 @@
     {
       "relative_path": "manga/02-references/characters/daniel-soriano/daniel-soriano-reference-generation.md",
       "evidence": [],
-      "sha256": "190207ec3f2b728197f4e31d7134bdd7768edfa4557454cd63f06604588101ba"
+      "sha256": "294b72e9c9dd9abed9470b635fc986490a9d17f9a3ea56f89111847c580fa98d"
     },
     {
       "relative_path": "manga/02-references/characters/daniel-soriano/daniel-soriano.md",
-      "sha256": "7c371d192c59dc867c3c247a46735dea59bc5c93d6d5ec13d16553850b76a7c0",
+      "sha256": "0aa0a9654e4fd4052ab6b34a53044fe0a8ba75ac72c8e4425a41cf23642a9e1d",
       "evidence": [
         {
           "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
@@ -1300,11 +1431,11 @@
     {
       "relative_path": "manga/02-references/characters/lilia-ramos/lilia-ramos-reference-generation.md",
       "evidence": [],
-      "sha256": "afb0674bccef2a181f6fe101963a2f49384a0f6ff280bf0df88c8dc812d8cf15"
+      "sha256": "2c36782e8a2404556ea76e08e1f1eb233396751e981019331a822354de2f1ce5"
     },
     {
       "relative_path": "manga/02-references/characters/lilia-ramos/lilia-ramos.md",
-      "sha256": "977fd35483a25ed7ca145fd3475a3be40d862b9965179f2c59c10479d9eb0118",
+      "sha256": "fa52b17c6b59fe737bc794b4cac557538b8c3acdc2634f81d38b7318d91c94df",
       "evidence": [
         {
           "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
@@ -1337,11 +1468,11 @@
     {
       "relative_path": "manga/02-references/characters/maribel-santos/maribel-santos-reference-generation.md",
       "evidence": [],
-      "sha256": "75c4114651490fbfa0396a8ee5711a221af843293453e72818ed473e0ed4f696"
+      "sha256": "196f507cad67917a48c6fea2052f2a0aff534922a13f078f1e6f0deaa60487d5"
     },
     {
       "relative_path": "manga/02-references/characters/maribel-santos/maribel-santos.md",
-      "sha256": "23ff9d0abdd2b210d98c679dc7901b026ef535108e143dc97c76d81eec28bf24",
+      "sha256": "2aa60af7c4274153682331c7ee16634b83bf9b188dc3f65bd711a5428d7e1f68",
       "evidence": [
         {
           "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
@@ -1374,11 +1505,11 @@
     {
       "relative_path": "manga/02-references/characters/tomas-rivera/tomas-rivera-reference-generation.md",
       "evidence": [],
-      "sha256": "2fc9d1748f89624f1a7f82ce0794dfa9053702c2b5d671d103f9a3ccb2be81ee"
+      "sha256": "205b7fcfa20bb8bf33d9514c511e44ccd88e3413ff4ad4a2b4edce0c8bac2696"
     },
     {
       "relative_path": "manga/02-references/characters/tomas-rivera/tomas-rivera.md",
-      "sha256": "d640714d5260a31f9e20bf31d830d0e4508352a1d589db7b4105b541abed49f2",
+      "sha256": "c41df1ef87aeb5415fe104d94bc6fa70d155b1843fe7264a963f9b02ae6f2cd8",
       "evidence": [
         {
           "relative_path": ".manga-studio/history/structure-cleanup-v001/before/characters.md",
@@ -1430,12 +1561,12 @@
     {
       "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
       "evidence": [],
-      "sha256": "8b11f3478004837085c59412fa50d80eefe37e6aec6d12c6a4cbe1203d156aff"
+      "sha256": "125f56000be07e34543e9b4fe43b748e340c8fa07946d05ae41ce05ee7a289b0"
     },
     {
       "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
       "evidence": [],
-      "sha256": "5a12a3113b9b4940404db7e9d67f80c35f0a5858a1f043f7d0d4e2bc69729b73"
+      "sha256": "8a5f45aa7dcaf062803ff086ca81e26f3adff7538d16be70c765767ed51a65d2"
     },
     {
       "relative_path": "manga/02-references/environments/cafe-siete/canon.md",
@@ -1450,7 +1581,7 @@
     {
       "relative_path": "manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
       "evidence": [],
-      "sha256": "02f242f943d3365ee25dc66ef58a746d7dbd5a7a45e85030e71021fdd6884dc2"
+      "sha256": "420825c3f4067f93f8907e1e0a036804e678de687ab8ff4c69f42924a08d2cb9"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/canon.md",
@@ -1465,12 +1596,12 @@
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
       "evidence": [],
-      "sha256": "be64ed50e17d682658fd5b2c814e1a8f8900b07873c8d0738ff11892242558ae"
+      "sha256": "786ae09a124ccec1d4a745983c268436d9bc13678f30852eaed9504caba53f46"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
       "evidence": [],
-      "sha256": "26c690d45a3604f01467bad9407e2b92d53f25feb0fd9523e5301989ab639285"
+      "sha256": "8ce5ebb1e0ba29f93b61616aeacd67361b755cbdfa690479710feb6f63fa9a9f"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/station-perspective.md",
@@ -1504,17 +1635,17 @@
     {
       "relative_path": "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
       "evidence": [],
-      "sha256": "faeedd2e36e6f5c533f60dff1ce97d3524fb894a8c75642766bc809a1f41812d"
+      "sha256": "45737f0e9cf7ba2a8e7895d242fbd4088f84c8693f7295f0d709911d3dddf732"
     },
     {
       "relative_path": "manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
       "evidence": [],
-      "sha256": "ef38d4b77ce3dcd8ed40a813510b7e87781949d00d82db80ad9482968a65e5a4"
+      "sha256": "f3bb28704383dc40b903f5376b5b88d01a07dc0a698153d14ea65a49e99e2d82"
     },
     {
       "relative_path": "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
       "evidence": [],
-      "sha256": "0058b0f91001d18244f85555e5e6dae6d847b3942a8d8f4df0ffebc72c23d4a1"
+      "sha256": "c502438730c09315ebf3abdb6d2dea72f38097f43d669e520ac213a371c74d43"
     },
     {
       "relative_path": "manga/03-story/README.md",
@@ -1609,7 +1740,7 @@
     },
     {
       "relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
-      "sha256": "09bbec3e52c4526f1df45b7e500f8f1d0954b9d32b2e570e6f8f34173a76a154",
+      "sha256": "9aad55c6be54940b9d32cab77ef2e5d5f37087c79df2716feedad6a224f1c929",
       "evidence": [
         {
           "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
@@ -1692,7 +1823,7 @@
     },
     {
       "relative_path": "manga/naming-standard.md",
-      "sha256": "e402abfb43058a47316b98c8c522e530f44eefbebd72dc43d093a75bf90aac40",
+      "sha256": "277cf969216c667136b6b1fabbd52b671a5f57ece698cddea5b6f8dcce66fe73",
       "evidence": []
     }
   ],
@@ -1704,7 +1835,7 @@
   ],
   "inventory_semantics": "As-imported classification paths; current storage is provenance.original_path. All historical lookups require path plus expected hash.",
   "path_relocation_receipt": ".manga-studio/maintenance/structure-cleanup-v001/path-relocations.json",
-  "updated_at": "2026-09-12T14:08:19.120761+00:00",
+  "updated_at": "2026-09-13T01:01:33.134479+00:00",
   "current_authority": {
     "manuscript_status": "approved_active",
     "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
@@ -1731,18 +1862,64 @@
     ],
     "approved_visual_references": [
       {
+        "reference_id": "reference-daniel-soriano-v002",
+        "display_name": "Daniel Soriano",
+        "webp_relative_path": "manga/02-references/approved-webp/daniel-soriano.webp",
+        "webp_sha256": "22590d7505a35fc99c54d101e82b3bc8f0d270e759cb003e6913d2be55818374",
+        "png_relative_path": "manga/02-references/approve-png/daniel-soriano.png",
+        "png_sha256": "74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d",
+        "reference_record_relative_path": ".manga-studio/continuity/references/daniel-soriano-v002.json"
+      },
+      {
+        "reference_id": "reference-tomas-rivera-v001",
+        "display_name": "Tomas Rivera",
+        "webp_relative_path": "manga/02-references/approved-webp/tomas-rivera.webp",
+        "webp_sha256": "f63902770629677011a9a25fa737066aec7ac57a86740021379d26b056933160",
+        "png_relative_path": "manga/02-references/approve-png/tomas-rivera.png",
+        "png_sha256": "b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377",
+        "reference_record_relative_path": ".manga-studio/continuity/references/tomas-rivera-v001.json"
+      },
+      {
+        "reference_id": "reference-maribel-santos-v002",
+        "display_name": "Maribel Santos",
+        "webp_relative_path": "manga/02-references/approved-webp/maribel-santos.webp",
+        "webp_sha256": "47ca0ad93d43f33ed449e44e53fd174756f60542bd4fcf23d1e45f675f0089f7",
+        "png_relative_path": "manga/02-references/approve-png/maribel-santos.png",
+        "png_sha256": "056d0292a7fc8bd67f4381b4a535cd0a47201cef981283ad26ab701a9bd85ec2",
+        "reference_record_relative_path": ".manga-studio/continuity/references/maribel-santos-v002.json"
+      },
+      {
+        "reference_id": "reference-arturo-salcedo-v001",
+        "display_name": "Arturo Salcedo",
+        "webp_relative_path": "manga/02-references/approved-webp/arturo-salcedo.webp",
+        "webp_sha256": "b87fe969e9813ccd5636e86220b392f95bc952b95abc97ab271134f6628d4d71",
+        "png_relative_path": "manga/02-references/approve-png/arturo-salcedo.png",
+        "png_sha256": "460244df578008c5854279f0464e73b152969402726ed6012e2a2532866f7c96",
+        "reference_record_relative_path": ".manga-studio/continuity/references/arturo-salcedo-v001.json"
+      },
+      {
+        "reference_id": "reference-lilia-ramos-v002",
+        "display_name": "Lilia Ramos",
+        "webp_relative_path": "manga/02-references/approved-webp/lilia-ramos.webp",
+        "webp_sha256": "6a150940441a40cd8bd22dd383be6062dffe688afbf4cd3ccfcb505cb764797d",
+        "png_relative_path": "manga/02-references/approve-png/lilia-ramos.png",
+        "png_sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586",
+        "reference_record_relative_path": ".manga-studio/continuity/references/lilia-ramos-v002.json"
+      },
+      {
         "reference_id": "reference-daniel-tomas-shared-v001",
-        "scope": "Daniel and Tomas adult identity, hair, build, age impression, Daniel's glasses, shared scale and visual chemistry only",
+        "display_name": "Daniel and Tomas shared legacy identity input",
         "webp_relative_path": "manga/02-references/approved-webp/daniel-tomas-shared.webp",
         "webp_sha256": "985cb554a78cca3367845b7cea089fee230f950629ae2da67d6c2fe90fd45ceb",
         "png_relative_path": "manga/02-references/approve-png/daniel-tomas-shared.png",
         "png_sha256": "48f2680a489156033f49b11f5a7c02a7a0e92e0442a3a60fc2bc1487cd1bf2b6",
-        "reference_record_relative_path": ".manga-studio/continuity/references/daniel-tomas-shared-v001.json"
+        "reference_record_relative_path": ".manga-studio/continuity/references/daniel-tomas-shared-v001.json",
+        "usage": "legacy_identity_evidence_only"
       }
     ],
     "reference_generation_briefs_version": "v002",
     "reference_generation_briefs_decision_relative_path": ".manga-studio/decisions/chapter-001-reference-generation-briefs-v002.json",
-    "reference_generation_release_status": "deferred_pending_storyboard_lock_image_enable_and_dependencies",
+    "reference_generation_release_status": "characters_approved_environments_deferred_pending_storyboard_lock_image_enable_and_dependencies",
     "deferred_reference_generation_briefs": [
       "manga/02-references/characters/daniel-soriano/daniel-soriano-reference-generation.md",
       "manga/02-references/characters/tomas-rivera/tomas-rivera-reference-generation.md",
@@ -1806,7 +1983,14 @@
     "proposed_storyboard_sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b",
     "storyboard_review_relative_path": ".manga-studio/analysis/consistency/chapter-001-storyboard-v001-review.md",
     "storyboard_proposal_decision_relative_path": ".manga-studio/decisions/chapter-001-storyboard-proposal-v001.json",
-    "storyboard_approval_required": true
+    "storyboard_approval_required": true,
+    "primary_character_reference_ids": [
+      "reference-daniel-soriano-v002",
+      "reference-tomas-rivera-v001",
+      "reference-maribel-santos-v002",
+      "reference-arturo-salcedo-v001",
+      "reference-lilia-ramos-v002"
+    ]
   },
   "post_cleanup_working_files": [
     "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",

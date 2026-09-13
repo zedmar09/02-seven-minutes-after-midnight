@@ -1,12 +1,14 @@
 # Lilia Ramos Reference Generation
 
-Status: `DEFERRED_STORYBOARD_CONDITIONAL`
+Status: `FULFILLED_AND_APPROVED`
 
-Future job type: `character_reference`
+Historical job type: `character_reference`
 
-Planned output: `lilia-ramos-reference-v001.png`
+PNG master: [lilia-ramos.png](../../approve-png/lilia-ramos.png)
 
-This brief prepares a proposed supporting-character model sheet only if the approved storyboard changes Lilia from an off-panel voice to a visible character. It is not a released ChatGPT handoff or approved appearance.
+Approved production reference: [lilia-ramos.webp](../../approved-webp/lilia-ramos.webp)
+
+This is the generation and review record for Lilia's approved production model sheet. Her off-panel Chapter 1 role remains controlled by the locked storyboard.
 
 ## Authority And Attachment
 
@@ -14,7 +16,7 @@ This brief prepares a proposed supporting-character model sheet only if the appr
 
 ## Generation Brief
 
-Produce ONE 1024 x 1536 portrait PNG named `lilia-ramos-reference-v001.png`. Draw exactly six separated studies in two columns and three rows on white paper: three-quarter head, front head, left profile, rear hair construction, full-body front, and full-body three-quarter kitchen-work posture with clearly constructed hands. Use no labels, borders, numbers, arrows, or grid lines.
+Produce ONE 1024 x 1536 portrait PNG named `lilia-ramos.png`. Draw exactly six separated studies in two columns and three rows on white paper: three-quarter head, front head, left profile, rear hair construction, full-body front, and full-body three-quarter kitchen-work posture with clearly constructed hands. Use no labels, borders, numbers, arrows, or grid lines.
 
 Lilia is a 53-year-old broad-shouldered older woman with brown skin translated through restrained flat tone, thick dark hair streaked with gray and pinned into a practical coil, round glasses, rolled sleeves, a dark full apron, a rosary wrapped around one wrist, and an old kitchen burn scar. She should read as blunt, warm, capable, and impossible to intimidate in her own kitchen. Preserve her age, broad build, hair coil, round glasses, wrist rosary, burn scar, and practical work clothes without saintly, mystical, or comic caricature.
 
@@ -28,8 +30,6 @@ More resolved than a rough thumbnail, less atmospheric than a story panel. No ro
 
 No other person, cafe environment, cleaver, coffee pot, story action, readable text, dialogue, SFX, religious aura, logo, signature, or watermark. Verify one consistent older adult identity, age, build, hair coil, glasses, wrist details, hands, full-body proportions, white-paper background, and flat printed-manga finish.
 
-## Deferred Release Blockers
+## Approval Result
 
-- Lilia remains off-panel in the active manuscript; the approved storyboard must explicitly require her visible appearance.
-- `STORYBOARD_LOCKED` is false and `image_generation_enabled` is false.
-- No schema-valid image job or external handoff has been released.
+The corrected Lilia sheet passed continuity review and the user approved the exact stable WebP as final. Approval of the reference does not make off-panel Lilia visible or release image generation.

@@ -1,7 +1,13 @@
 # Approved PNG Masters
 
-`daniel-tomas-shared.png` is the approved 1024 x 1536 PNG working master derived from the exact user-supplied WebP. The original WebP bytes remain preserved in project history.
+These PNG files preserve the reviewed source masters for the five final character references:
 
-Approval scope: Daniel Soriano is the curly-haired man on the left; Tomas Rivera is the long-haired man on the right. Use adult facial identity, hair, build, age impression, Daniel's glasses and their shared visual chemistry only. Textual specifications override wardrobe, pose, props, environment and all visible text.
+- [daniel-soriano.png](daniel-soriano.png)
+- [tomas-rivera.png](tomas-rivera.png)
+- [maribel-santos.png](maribel-santos.png)
+- [arturo-salcedo.png](arturo-salcedo.png)
+- [lilia-ramos.png](lilia-ramos.png)
 
-Do not replace these bytes without preserving history, reviewing the replacement and obtaining explicit approval.
+Future image jobs should attach the corresponding stable WebP from `../approved-webp`, not these heavier PNG masters.
+
+`daniel-tomas-shared.png` is the legacy working master derived from the original combined lead image. It remains available so its historical hash-bound approval and provenance stay intact. Do not replace any master without preserving history, reviewing the replacement, and obtaining explicit approval.

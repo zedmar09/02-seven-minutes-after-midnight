@@ -12,6 +12,12 @@ These source descriptions are not proof that every prop or future event appears 
 - Visual Design: Filipina-Spanish woman with a sturdy build, warm olive skin, short silver-black hair clipped close at the sides, cat-eye reading glasses on a chain, linen blazers, and ink stains on the left cuff of nearly everything she owns.
 - Signature Props: Archive keys, accession logs, red grease pencil, old station maps, thermos of black coffee.
 
+## Approved Visual Reference
+
+[Maribel Santos WebP](../../approved-webp/maribel-santos.webp) and [PNG master](../../approve-png/maribel-santos.png).
+
+The model sheet governs Maribel's adult facial identity, sturdy practical build, short silver-black hair, glasses and chain, archive-work wardrobe, left-cuff ink stain, and dry observant presence. Her visibility and actions remain controlled by the approved manuscript and eventual locked storyboard.
+
 ## Evidence
 
 - [characters.md](../../../../.manga-studio/history/structure-cleanup-v001/before/characters.md)

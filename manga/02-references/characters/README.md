@@ -1,6 +1,6 @@
 # Characters
 
-Seven source characters. Daniel and Tomas share one approved limited-scope identity input. Five Chapter 1 generation briefs now enforce clean black-and-white manga model sheets on white paper; none is released and no supporting-character image is approved.
+Seven source characters. Five clean black-and-white manga model sheets are approved and available under stable WebP filenames. The older shared Daniel-and-Tomas image is retained only as legacy identity evidence.
 
 - [Daniel Soriano](daniel-soriano/daniel-soriano.md)
 - [Tomas Rivera](tomas-rivera/tomas-rivera.md)
@@ -10,12 +10,12 @@ Seven source characters. Daniel and Tomas share one approved limited-scope ident
 - [Arturo Salcedo](arturo-salcedo/arturo-salcedo.md)
 - [Ernesto Galang](ernesto-galang/ernesto-galang.md)
 
-## Deferred Generation Briefs
+## Approved Model Sheets
 
-- [Daniel Soriano](daniel-soriano/daniel-soriano-reference-generation.md), using the approved shared PNG for Daniel identity only
-- [Tomas Rivera](tomas-rivera/tomas-rivera-reference-generation.md), using the approved shared PNG for Tomas identity only
-- [Maribel Santos](maribel-santos/maribel-santos-reference-generation.md), storyboard-conditional with no input image
-- [Arturo Salcedo](arturo-salcedo/arturo-salcedo-reference-generation.md), storyboard-conditional with no input image
-- [Lilia Ramos](lilia-ramos/lilia-ramos-reference-generation.md), storyboard-conditional and off-panel unless required by the approved storyboard
+- [Daniel Soriano WebP](../approved-webp/daniel-soriano.webp) and [generation record](daniel-soriano/daniel-soriano-reference-generation.md)
+- [Tomas Rivera WebP](../approved-webp/tomas-rivera.webp) and [generation record](tomas-rivera/tomas-rivera-reference-generation.md)
+- [Maribel Santos WebP](../approved-webp/maribel-santos.webp) and [generation record](maribel-santos/maribel-santos-reference-generation.md)
+- [Arturo Salcedo WebP](../approved-webp/arturo-salcedo.webp) and [generation record](arturo-salcedo/arturo-salcedo-reference-generation.md)
+- [Lilia Ramos WebP](../approved-webp/lilia-ramos.webp) and [generation record](lilia-ramos/lilia-ramos-reference-generation.md)
 
-Benjamin Manalo and Ernesto Galang are outside Chapter 1. Do not generate Chapter 1 references for them.
+Benjamin Manalo and Ernesto Galang are outside Chapter 1 and have no Chapter 1 model sheets. Arturo and Lilia are approved references but should only be attached to jobs where the locked storyboard makes them visible.

@@ -4,9 +4,9 @@ Status: `DEFERRED`
 
 Future job type: `location_reference`
 
-Planned output: `cafe-siete-dual-era-perspective-reference-v001.png`
+Planned output: `cafe-siete-dual-era-perspective.png`
 
-Deferred dependency: `cafe-siete-dual-era-floor-plan-reference-v001` must first become an approved, hash-locked geometry reference.
+Deferred dependency: `cafe-siete-dual-era-floor-plan` must first become an approved, hash-locked geometry reference.
 
 ## Purpose
 
@@ -23,7 +23,7 @@ At release time, attach exactly the approved floor-plan reference with its verif
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `cafe-siete-dual-era-perspective-reference-v001.png`. Draw exactly two matched wide interior perspectives of Cafe Siete from the same camera coordinate, lens, eye height, and direction.
+Produce ONE 1536 x 1024 landscape PNG named `cafe-siete-dual-era-perspective.png`. Draw exactly two matched wide interior perspectives of Cafe Siete from the same camera coordinate, lens, eye height, and direction.
 
 Place the camera on the public customer side near the cafe entrance, looking across the customer counter toward the back kitchen wall. The service hatch and the full-height kitchen doorway beside it must both be clearly visible. The display case and the open end of the customer counter must remain readable enough to understand Daniel's route.
 

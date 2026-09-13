@@ -1,12 +1,14 @@
 # Arturo Salcedo Reference Generation
 
-Status: `DEFERRED_STORYBOARD_CONDITIONAL`
+Status: `FULFILLED_AND_APPROVED`
 
-Future job type: `character_reference`
+Historical job type: `character_reference`
 
-Planned output: `arturo-salcedo-reference-v001.png`
+PNG master: [arturo-salcedo.png](../../approve-png/arturo-salcedo.png)
 
-This brief prepares a proposed supporting-character model sheet only if the approved storyboard depicts Arturo rather than keeping him in reported dialogue. It is not a released ChatGPT handoff or approved appearance.
+Approved production reference: [arturo-salcedo.webp](../../approved-webp/arturo-salcedo.webp)
+
+This is the generation and review record for Arturo's approved production model sheet. His visible presence remains conditional on the locked storyboard.
 
 ## Authority And Attachment
 
@@ -14,7 +16,7 @@ This brief prepares a proposed supporting-character model sheet only if the appr
 
 ## Generation Brief
 
-Produce ONE 1024 x 1536 portrait PNG named `arturo-salcedo-reference-v001.png`. Draw exactly six separated studies in two columns and three rows on white paper: three-quarter head, front head, left profile, rear hair construction, full-body front, and full-body three-quarter controlled-business posture with clearly constructed hands. Use no labels, borders, numbers, arrows, or grid lines.
+Produce ONE 1024 x 1536 portrait PNG named `arturo-salcedo.png`. Draw exactly six separated studies in two columns and three rows on white paper: three-quarter head, front head, left profile, rear hair construction, full-body front, and full-body three-quarter controlled-business posture with clearly constructed hands. Use no labels, borders, numbers, arrows, or grid lines.
 
 Arturo is a 41-year-old adult man, tall and lean, with pale olive skin translated through restrained flat tone, slick black hair, angular cheekbones, a thin controlled smile, and an immaculate 1986 ivory linen suit translated as mostly white paper with precise contour seams. Add a dark tie and one gold signet ring translated as a small distinct tone shape. He should feel polite, immaculate, patient, and quietly threatening without villain caricature, theatrical shadows, or supernatural styling.
 
@@ -28,8 +30,6 @@ More resolved than a rough thumbnail, less atmospheric than a story panel. No ro
 
 No other person, station, car, umbrella, contracts, cigarette case, story action, readable text, dialogue, SFX, logo, signature, or watermark. Verify one consistent adult identity, age, height/build, slick-hair construction, suit, ring placement, hands, white-paper background, and flat printed-manga finish.
 
-## Deferred Release Blockers
+## Approval Result
 
-- The approved storyboard must first confirm that Arturo is visible.
-- `STORYBOARD_LOCKED` is false and `image_generation_enabled` is false.
-- No schema-valid image job or external handoff has been released.
+The Arturo sheet passed continuity review and the user approved the exact stable WebP as final. Approval of the reference does not make Arturo visible in Chapter 1 or release image generation.

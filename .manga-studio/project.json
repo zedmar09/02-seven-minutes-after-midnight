@@ -71,7 +71,7 @@
     "page_width_px": 1654,
     "page_height_px": 2339
   },
-  "workflow_phase": "phase_5_story_locked_canon_v002_storyboard_v001_review_ready",
+  "workflow_phase": "phase_5_story_locked_storyboard_review_ready_character_references_approved",
   "operating_mode": "repair_existing",
   "stage_locks": {
     "SOURCE_LOCKED": true,
@@ -108,6 +108,6 @@
     "Source, canon v002, diagnostic, revision plan, manuscript, and story gates are locked under the user's explicit authorization; storyboard and image-ready gates remain false.",
     "Canon v002 is active at SHA-256 537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762 and corrects only canon-fact-ch001-023 so the final warning matches approved manuscript lines 475-477.",
     "Chapter 1 storyboard v001 is a 36-page review-ready proposal with no blocking consistency finding; it remains inactive and requires separate explicit user approval before STORYBOARD_APPROVED or STORYBOARD_LOCKED can be set.",
-    "Image generation remains disabled; one shared Daniel-and-Tomas identity input is approved, character candidates remain unpromoted, and thirteen corrected black-and-white manga reference-generation briefs remain deferred until their release gates and visual dependencies are satisfied."
+    "Image generation remains disabled. Daniel Soriano, Tomas Rivera, Maribel Santos, Arturo Salcedo, and Lilia Ramos have user-approved, hash-bound character WebPs under stable unversioned production filenames; environment, object, phenomenon, panel, and page jobs remain gated by storyboard approval and their visual dependencies."
   ]
 }

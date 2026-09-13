@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `prop_reference`
 
-Planned output: `time-slip-and-aging-reference-v001.png`
+Planned output: `time-slip-and-aging.png`
 
 This brief defines a restrained visual language for demonstrated temporal states. It is not a new world rule, a story panel, a special-effects release, or permission to generate artwork now.
 
@@ -23,7 +23,7 @@ Deferred dependencies: approved Cafe Siete perspective, time-transfer props, and
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `time-slip-and-aging-reference-v001.png`. Draw a professional black-and-white manga phenomenon reference sheet with exactly five isolated, left-to-right studies. Use the same counter wood, hatch sill, bread, saucer, and paper designs from the future approved dependencies.
+Produce ONE 1536 x 1024 landscape PNG named `time-slip-and-aging.png`. Draw a professional black-and-white manga phenomenon reference sheet with exactly five isolated, left-to-right studies. Use the same counter wood, hatch sill, bread, saucer, and paper designs from the future approved dependencies.
 
 The five studies are:
 

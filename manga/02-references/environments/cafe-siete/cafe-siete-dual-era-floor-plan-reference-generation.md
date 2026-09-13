@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `location_reference`
 
-Planned output: `cafe-siete-dual-era-floor-plan-reference-v001.png`
+Planned output: `cafe-siete-dual-era-floor-plan.png`
 
 This brief proposes reviewable geometry. It does not adopt dimensions or release a production job.
 
@@ -23,7 +23,7 @@ No image attachments are required for a first deferred floor-plan job. Do not us
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `cafe-siete-dual-era-floor-plan-reference-v001.png`. Draw exactly two matched, directly overhead orthographic plans of the same compact railway cafe, side by side with equal scale and identical wall, door, counter, hatch, case, and circulation geometry.
+Produce ONE 1536 x 1024 landscape PNG named `cafe-siete-dual-era-floor-plan.png`. Draw exactly two matched, directly overhead orthographic plans of the same compact railway cafe, side by side with equal scale and identical wall, door, counter, hatch, case, and circulation geometry.
 
 The left plan is the intact working cafe in 1986. The right plan is the same footprint abandoned in 2026. This is a neutral architectural reference, not a manga page, perspective view, isometric view, split timeline scene, or supernatural event.
 

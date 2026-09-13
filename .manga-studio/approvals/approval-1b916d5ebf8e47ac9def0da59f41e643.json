@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-1b916d5ebf8e47ac9def0da59f41e643",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "continuity",
+  "target_relative_path": "manga/02-references/approved-webp/tomas-rivera.webp",
+  "target_version": "v001",
+  "target_sha256": "f63902770629677011a9a25fa737066aec7ac57a86740021379d26b056933160",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-13T00:50:54Z",
+  "actor": "user",
+  "notes": "User explicitly declared the completed character WebP files approved and final and requested stable filenames without visible version numbering. Approves these exact Tomas Rivera v001 WebP bytes under the stable production path. The file is a user-supplied lossy WebP conversion of the already reviewed Tomas v001 PNG; approval accepts that encoding. Internal version and SHA history remain authoritative. This does not approve or lock the storyboard, enable image generation, or release an image job.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

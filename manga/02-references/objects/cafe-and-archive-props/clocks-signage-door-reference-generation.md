@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `prop_reference`
 
-Planned output: `clocks-signage-door-reference-v001.png`
+Planned output: `clocks-signage-door.png`
 
 This brief isolates the timekeeping and architectural clue surfaces that must not drift between panels. Exact environmental words remain controlled lettering rather than unreliable generated text.
 
@@ -23,7 +23,7 @@ Deferred dependencies: future approved 2026 station architecture and dual-era Ca
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `clocks-signage-door-reference-v001.png`. Draw exactly seven isolated black-and-white manga construction studies on clean white paper. Keep paired objects at matched scale and angle.
+Produce ONE 1536 x 1024 landscape PNG named `clocks-signage-door.png`. Draw exactly seven isolated black-and-white manga construction studies on clean white paper. Keep paired objects at matched scale and angle.
 
 The seven study groups are:
 

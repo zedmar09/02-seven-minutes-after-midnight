@@ -16,11 +16,11 @@ The sleeve wording follows accepted SMA-PROP-013 and the current draft, replacin
 
 ## Approved Visual Reference
 
-[Daniel and Tomas shared WebP](../../approved-webp/daniel-tomas-shared.webp) and [PNG working master](../../approve-png/daniel-tomas-shared.png).
+[Tomas Rivera WebP](../../approved-webp/tomas-rivera.webp) and [PNG master](../../approve-png/tomas-rivera.png).
 
-Tomas is the long-haired man on the right. The image governs his adult facial identity, long dark wavy hair tied low with loose face-framing strands, warm gaze, lean strong baker's build, age impression and open visual chemistry with Daniel.
+The individual model sheet governs Tomas's adult facial identity, long dark wavy hair tied low with loose face-framing strands, warm gaze, lean strong baker's build, age impression, work wardrobe, and open presence.
 
-The manuscript overrides the pictured sleeves and pose. Tomas retains a cream long-sleeved 1980s cafe shirt rolled to the elbows, faint collar embroidery, high-waisted dark trousers, flour-marked brown waist apron, jade-green hair cord and old leather work shoes. Do not treat the environment, note, tongs, signs, dates, clock state or title text as authority.
+The [shared lead image](../../approved-webp/daniel-tomas-shared.webp) is retained only as legacy identity and chemistry evidence. The manuscript overrides its pictured sleeves and pose. Tomas retains a cream long-sleeved 1980s cafe shirt rolled to the elbows, faint collar embroidery, high-waisted dark trousers, flour-marked brown waist apron, jade-green hair cord, and old leather work shoes.
 
 ## Evidence
 

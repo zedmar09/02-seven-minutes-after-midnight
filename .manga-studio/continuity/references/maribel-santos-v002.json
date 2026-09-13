@@ -1,0 +1,37 @@
+{
+  "record_type": "approved_character_reference",
+  "schema_version": "1.0.0",
+  "reference_id": "reference-maribel-santos-v002",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v002",
+  "status": "approved_final",
+  "recorded_at": "2026-09-13T00:56:58Z",
+  "source": {
+    "provenance": "externally_generated_user_supplied",
+    "preserved_relative_path": ".manga-studio/continuity/reference-candidates/maribel-santos-v002/candidate.png",
+    "sha256": "056d0292a7fc8bd67f4381b4a535cd0a47201cef981283ad26ab701a9bd85ec2",
+    "width_px": 1024,
+    "height_px": 1536,
+    "format": "png"
+  },
+  "approved_files": [
+    {
+      "role": "png_master",
+      "relative_path": "manga/02-references/approve-png/maribel-santos.png",
+      "sha256": "056d0292a7fc8bd67f4381b4a535cd0a47201cef981283ad26ab701a9bd85ec2",
+      "approval_relative_path": ".manga-studio/approvals/approval-100a3235433746688446faed2cd02278.json"
+    },
+    {
+      "role": "production_webp",
+      "relative_path": "manga/02-references/approved-webp/maribel-santos.webp",
+      "sha256": "47ca0ad93d43f33ed449e44e53fd174756f60542bd4fcf23d1e45f675f0089f7",
+      "approval_relative_path": ".manga-studio/approvals/approval-313583c297e24ac4a74e5244449d1c2e.json"
+    }
+  ],
+  "character_id": "character-eac21dd0fae140d0b5fc6cd85bbbac0c",
+  "display_name": "Maribel Santos",
+  "approved_scope": ["adult identity", "hair and glasses", "sturdy build", "archive wardrobe", "left-cuff ink stain"],
+  "excluded_scope": ["story action", "environment", "unshown props", "future state"],
+  "textual_authority": [".manga-studio/manuscript/versions/chapter-001-v001.md", "manga/02-references/characters/maribel-santos/maribel-santos.md"],
+  "review_relative_path": ".manga-studio/continuity/reviews/chapter-001-maribel-santos-reference-v002-review.json"
+}

@@ -1,0 +1,37 @@
+{
+  "record_type": "approved_character_reference",
+  "schema_version": "1.0.0",
+  "reference_id": "reference-tomas-rivera-v001",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "version": "v001",
+  "status": "approved_final",
+  "recorded_at": "2026-09-13T00:56:58Z",
+  "source": {
+    "provenance": "externally_generated_user_supplied",
+    "preserved_relative_path": ".manga-studio/continuity/reference-candidates/tomas-rivera-v001/candidate.png",
+    "sha256": "b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377",
+    "width_px": 1024,
+    "height_px": 1536,
+    "format": "png"
+  },
+  "approved_files": [
+    {
+      "role": "png_master",
+      "relative_path": "manga/02-references/approve-png/tomas-rivera.png",
+      "sha256": "b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377",
+      "approval_relative_path": ".manga-studio/approvals/approval-c59175951b1b43f999102192d9658c8e.json"
+    },
+    {
+      "role": "production_webp",
+      "relative_path": "manga/02-references/approved-webp/tomas-rivera.webp",
+      "sha256": "f63902770629677011a9a25fa737066aec7ac57a86740021379d26b056933160",
+      "approval_relative_path": ".manga-studio/approvals/approval-1b916d5ebf8e47ac9def0da59f41e643.json"
+    }
+  ],
+  "character_id": "character-a096cba8416847d4947a94012733a09b",
+  "display_name": "Tomas Rivera",
+  "approved_scope": ["adult identity", "hair and hair tie", "build and proportions", "Chapter 1 cafe wardrobe", "baker posture"],
+  "excluded_scope": ["story action", "environment", "unshown props", "future state"],
+  "textual_authority": [".manga-studio/manuscript/versions/chapter-001-v001.md", "manga/02-references/characters/tomas-rivera/tomas-rivera.md"],
+  "review_relative_path": ".manga-studio/continuity/reviews/chapter-001-tomas-rivera-reference-v001-review.json"
+}

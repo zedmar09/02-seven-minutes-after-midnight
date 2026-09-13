@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `location_reference`
 
-Planned output: `municipal-museum-archive-reference-v001.png`
+Planned output: `municipal-museum-archive.png`
 
 This brief prepares the Chapter 1 archive prelude. It does not establish unmentioned museum architecture or release an image job.
 
@@ -22,7 +22,7 @@ No image attachment is currently required. Do not attach the Daniel-and-Tomas re
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `municipal-museum-archive-reference-v001.png`. Create a professional black-and-white manga environment reference sheet for the working archive and paper-conservation area of a modest municipal museum in 2026.
+Produce ONE 1536 x 1024 landscape PNG named `municipal-museum-archive.png`. Create a professional black-and-white manga environment reference sheet for the working archive and paper-conservation area of a modest municipal museum in 2026.
 
 Use exactly three coordinated, non-overlapping studies of one room suite:
 

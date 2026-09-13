@@ -6,9 +6,9 @@ Use stable working filenames without dates, version suffixes, final, latest or c
 
 ## Reference Files
 
-Keep the same basename for a specification and its eventual PNG and WebP. Use this story's entity names: daniel-soriano, tomas-rivera, cafe-floor-plan, cafe-perspective, station-perspective and cafe-and-archive-props.
+Keep the same stable basename for a specification and its eventual PNG and WebP. Character production references are `daniel-soriano`, `tomas-rivera`, `maribel-santos`, `arturo-salcedo`, and `lilia-ramos`. Environment and object files follow the same entity-based rule.
 
-Specifications live under characters, environments or objects. PNG masters use 02-references/approve-png; verified conversions use 02-references/approved-webp. These folder names match the shared convention; they do not grant approval. Do not create image placeholders.
+Specifications live under characters, environments or objects. PNG masters use `02-references/approve-png`; approved production conversions use `02-references/approved-webp`. Visible reference filenames never carry version suffixes; technical versions and hashes stay inside `.manga-studio`. Do not create image placeholders.
 
 ## Chapter Files
 

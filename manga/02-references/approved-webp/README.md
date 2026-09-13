@@ -1,7 +1,15 @@
 # Approved WebP References
 
-`daniel-tomas-shared.webp` preserves the exact user-supplied 1024 x 1536 bytes and is approved for the same limited identity scope as its PNG working master.
+These stable filenames are the final approved character attachments. Technical versions and exact SHA-256 values are stored in `.manga-studio/approvals`.
 
-Use only when Daniel, Tomas or their shared scale and chemistry require reference. Do not treat its background, props, clothing details, pose, signs, dates, newspaper copy, clock state or title lettering as canon or production instruction.
+| Character | Approved file |
+|---|---|
+| Daniel Soriano | [daniel-soriano.webp](daniel-soriano.webp) |
+| Tomas Rivera | [tomas-rivera.webp](tomas-rivera.webp) |
+| Maribel Santos | [maribel-santos.webp](maribel-santos.webp) |
+| Arturo Salcedo | [arturo-salcedo.webp](arturo-salcedo.webp) |
+| Lilia Ramos | [lilia-ramos.webp](lilia-ramos.webp) |
 
-A filename or folder does not approve a replacement. Changed bytes require review and explicit approval.
+The user explicitly accepts these exact WebP conversions as final. They are lossy WebP encodings at 1024 x 1536; changing or reconverting their bytes requires a new review and approval even when the stable filename remains unchanged.
+
+`daniel-tomas-shared.webp` is retained as legacy identity evidence for the two leads. Its setting, props, clothing details, pose, signs, dates, newspaper copy, clock state, title lettering, color, and rendering style are not production authority.

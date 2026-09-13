@@ -4,7 +4,7 @@ Status: `DEFERRED`
 
 Future job type: `location_reference`
 
-Planned output: `san-aurelio-junction-2026-reference-v001.png`
+Planned output: `san-aurelio-junction-2026.png`
 
 This is a high-quality generation brief, not a released ChatGPT handoff. Do not generate from it until the story and storyboard locks are satisfied, image generation is explicitly enabled, and the brief is converted into a schema-valid hash-bound job.
 
@@ -23,7 +23,7 @@ No image attachment is currently required. The approved Daniel-and-Tomas image i
 
 ## Generation Brief
 
-Produce ONE 1536 x 1024 landscape PNG named `san-aurelio-junction-2026-reference-v001.png`. Create a clean black-and-white architectural production sketch/reference sheet for San Aurelio Junction in 2026. Represent the required night and heavy-rain state through sparse rain lines, roof leaks, puddle outlines, and flat screentone only. This is an empty location study, not a manga story page, cinematic illustration, or collage of unrelated stations.
+Produce ONE 1536 x 1024 landscape PNG named `san-aurelio-junction-2026.png`. Create a clean black-and-white architectural production sketch/reference sheet for San Aurelio Junction in 2026. Represent the required night and heavy-rain state through sparse rain lines, roof leaks, puddle outlines, and flat screentone only. This is an empty location study, not a manga story page, cinematic illustration, or collage of unrelated stations.
 
 Use exactly three coordinated, non-overlapping studies of the same building:
 
