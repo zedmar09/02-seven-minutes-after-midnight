@@ -52,7 +52,7 @@ Character images must not be attached to empty environment-reference jobs.
 
 ## Release Boundary
 
-The five character records are fulfilled. San Aurelio Junction 2026 is the first released environment job; its [paste-ready ChatGPT handoff](../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md) requires no image attachments. The remaining environment, object, and phenomenon files are evidence-based deferred generation briefs. Each eventual structured job must bind every required image by real project-relative path and SHA-256.
+The five character records are fulfilled. San Aurelio Junction 2026 is the first released environment job; its [paste-ready ChatGPT handoff](../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v002.md) requires no image attachments. The remaining environment, object, and phenomenon files are evidence-based deferred generation briefs. Each eventual structured job must bind every required image by real project-relative path and SHA-256.
 
 Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Image generation is enabled and `IMAGE_READY` is true. Later jobs remain blocked only by their ordered reference dependencies, review, approval, and individual release authorization; no panel or page handoff has been released.
 

@@ -6,7 +6,19 @@ Job type: `location_reference`
 
 Output: `san-aurelio-junction-2026.png`
 
-This is the human-readable source brief for the released, schema-valid image job. For ChatGPT production, use the complete [paste-ready handoff](../../../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md), not excerpts from this file.
+This is the human-readable source brief for the released, schema-valid image job. For ChatGPT production, use the complete [paste-ready handoff](../../../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v002.md), not excerpts from this file.
+
+## Immediate Execution Authorization
+
+Generate the requested image now. All pre-generation administrative gates have already been satisfied outside the image-generation chat:
+
+- Canon v002 is corrected, approved, active, and locked.
+- `STORYBOARD_LOCKED = true`.
+- `image_generation_enabled = true`.
+- `IMAGE_READY = true`.
+- The canonical job is schema-valid, hash-bound, and has `release_status = released` with no blocking reasons.
+
+Do not pause to request another approval, release packet, or gate confirmation. The required review and approval of the returned candidate happens **after** generation and does not block generation. This release section supersedes any older deferred copy of this brief retained in chat history.
 
 ## Purpose
 
@@ -72,7 +84,7 @@ Before returning the image, verify that the three views depict one coherent stat
 
 - `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` and `IMAGE_READY` are true.
-- Job `san-aurelio-junction-2026-v001` is released with no image attachments.
+- Job `san-aurelio-junction-2026-v002` is released with no image attachments and supersedes the earlier release packet.
 - The returned image remains a candidate until continuity review and explicit user approval.
 
 ## Evidence

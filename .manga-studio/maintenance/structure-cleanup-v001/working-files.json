@@ -484,6 +484,16 @@
       "sha256": "79d0e3085615eaa5f98d3beab8d4cc0ba6c2262cf9ca2cd7571074ef9b78b32b"
     },
     {
+      "relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v002.json",
+      "evidence": [],
+      "sha256": "be61394dc9d4704d8c6c9d3c77baaef90e2a5366cae2db9d93067b9158592361"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v002.md",
+      "evidence": [],
+      "sha256": "8c47e15ae024dce4d3fd131c0da2b8910d24a6178895805fd8e377ca24676c62"
+    },
+    {
       "relative_path": ".manga-studio/history/arturo-reference-review-v001/before/.manga-studio/maintenance/structure-cleanup-v001/working-files.json",
       "evidence": [],
       "sha256": "a46d666d5963109f577543421e290f7f3197600ae3ec6f5e40e52f3ef38a9871"
@@ -784,6 +794,11 @@
       "sha256": "ec23bdff584a8eea2400c02f4b9aa440d4e169bd59bbdb0dd928bc14dc360518"
     },
     {
+      "relative_path": ".manga-studio/maintenance/san-aurelio-junction-2026-release-v002/finalize.py",
+      "evidence": [],
+      "sha256": "3d35fc3e6180c826fd365982dad64cef32a99f8f62453d26cba323ae3bcb7930"
+    },
+    {
       "relative_path": ".manga-studio/maintenance/storyboard-approval-v001/finalize.py",
       "evidence": [],
       "sha256": "9ad6da557af9c057246938ceeebe8091dd9cfd011367fa49658c43636b03cd7f"
@@ -806,7 +821,7 @@
     {
       "relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
       "evidence": [],
-      "sha256": "0db7dfb4e080a9f4832776b29abbca9ad8418fc6b821a7e56ff07e7fcc87ca8e"
+      "sha256": "35b5c2f9d89e6e2d69acb39f891ca7fe5eaeeb4772427e3cef07170b248c690f"
     },
     {
       "relative_path": ".manga-studio/maintenance/tomas-reference-review-v001/finalize.py",
@@ -1020,7 +1035,7 @@
     },
     {
       "relative_path": "AGENTS.md",
-      "sha256": "bc5989a0b092440dcc6353e10dbd040b8d18e5dc0067b0ba91cb4599f39ac672",
+      "sha256": "aebe5ac8599b177a020c23df5f36d1e62729b5c916f2e319ab74926a2d63fda3",
       "evidence": []
     },
     {
@@ -1250,7 +1265,7 @@
     },
     {
       "relative_path": "manga/02-references/README.md",
-      "sha256": "4c5b5ec1542edba49c5d7a9ef1e050e42f51d6da3f392ddad5dfa085d1578ce7",
+      "sha256": "63e11984468845f5d87a95f68a05acf360061870711bb71eca76322087812eef",
       "evidence": []
     },
     {
@@ -1653,7 +1668,7 @@
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
       "evidence": [],
-      "sha256": "13df47d8a02f2bb876a830553c1e6c704425faf571e0d516ab58815507384318"
+      "sha256": "8c4eb4211b0a00b90ef278e0febc60d474e1d1dc9154d67f4d5090a736229180"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/station-perspective.md",
@@ -1792,7 +1807,7 @@
     },
     {
       "relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
-      "sha256": "f37de00fbeffc15742a6fb7eda8c2ad21e7fcbe9c5b20cd3c6a3298b45e5d753",
+      "sha256": "cd2ebcfa866048507ee49453e66365eeeee2e48cde5ac963f2914c082e7156be",
       "evidence": [
         {
           "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
@@ -1887,7 +1902,7 @@
   ],
   "inventory_semantics": "As-imported classification paths; current storage is provenance.original_path. All historical lookups require path plus expected hash.",
   "path_relocation_receipt": ".manga-studio/maintenance/structure-cleanup-v001/path-relocations.json",
-  "updated_at": "2026-09-13T05:15:15.716104+00:00",
+  "updated_at": "2026-09-13T05:52:52.715167+00:00",
   "current_authority": {
     "manuscript_status": "approved_active",
     "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
@@ -2057,12 +2072,12 @@
     "continuity_state_sha256": "388cf8f31be36a63c24e50e119ed2e517b753d7f5b37ad1a6d0c983f7b7b3ca3",
     "continuity_approval_relative_path": ".manga-studio/approvals/approval-8a03736f527b4df5aefcc46fa8578650.json",
     "image_ready_lock_relative_path": ".manga-studio/locks/IMAGE_READY-v001.json",
-    "released_reference_job_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v001.json",
-    "released_reference_job_sha256": "e7e4e0aaa02a5b41205715ed909c192ff5aab55a8d297eac179f4ea7f4c3839d",
-    "released_reference_handoff_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md",
-    "released_reference_handoff_sha256": "79d0e3085615eaa5f98d3beab8d4cc0ba6c2262cf9ca2cd7571074ef9b78b32b",
+    "released_reference_job_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v002.json",
+    "released_reference_job_sha256": "be61394dc9d4704d8c6c9d3c77baaef90e2a5366cae2db9d93067b9158592361",
+    "released_reference_handoff_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v002.md",
+    "released_reference_handoff_sha256": "8c47e15ae024dce4d3fd131c0da2b8910d24a6178895805fd8e377ca24676c62",
     "released_reference_source_brief_relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
-    "released_reference_source_brief_sha256": "13df47d8a02f2bb876a830553c1e6c704425faf571e0d516ab58815507384318",
+    "released_reference_source_brief_sha256": "8c4eb4211b0a00b90ef278e0febc60d474e1d1dc9154d67f4d5090a736229180",
     "remaining_deferred_reference_generation_briefs": [
       "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
       "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",

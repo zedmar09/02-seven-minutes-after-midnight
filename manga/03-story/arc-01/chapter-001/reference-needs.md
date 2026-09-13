@@ -11,7 +11,7 @@ Five final character model sheets are approved. Use their stable WebP filenames 
 3. [Maribel Santos model sheet](../../../02-references/approved-webp/maribel-santos.webp), approved and complete.
 4. [Arturo Salcedo model sheet](../../../02-references/approved-webp/arturo-salcedo.webp), approved; attach only if he is visible.
 5. [Lilia Ramos model sheet](../../../02-references/approved-webp/lilia-ramos.webp), approved; attach only if she is visible.
-6. [San Aurelio Junction, 2026](../../../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.md), released; no image attachment.
+6. [San Aurelio Junction, 2026](../../../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v002.md), released; no image attachment.
 7. [San Aurelio Junction, 1986](../../../02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md), attach the approved output from step 6.
 8. [Cafe Siete dual-era floor plan](../../../02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md), no image attachment.
 9. [Cafe Siete dual-era perspective](../../../02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md), attach the approved output from step 8.

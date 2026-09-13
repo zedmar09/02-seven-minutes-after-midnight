@@ -389,19 +389,26 @@ actual_reference_assets = {p.relative_to(ROOT).as_posix() for p in (ROOT / 'mang
 assert actual_reference_assets == reference_assets
 job_path = safe(authority['released_reference_job_relative_path'])
 handoff_path = safe(authority['released_reference_handoff_relative_path'])
-assert job_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v001.json'
-assert handoff_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v001.md'
+assert job_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v002.json'
+assert handoff_path == WORK / 'handoff/pending/san-aurelio-junction-2026-v002.md'
 assert sha(job_path) == authority['released_reference_job_sha256']
 assert sha(handoff_path) == authority['released_reference_handoff_sha256']
 errors = validate_json_file(job_path, installed / 'schemas/image-job.schema.json')
 assert not errors, errors
 job = read(job_path)
 assert job['job_type'] == 'location_reference' and job['release_status'] == 'released'
+assert job['revision_of_job_id'] == 'san-aurelio-junction-2026-v001'
 assert job['required_reference_images'] == [] and job['reference_priority'] == []
 assert job['blocking_reasons'] == []
+assert job['scene_state']['release_attestation']['schema_valid_hash_bound_job_released'] is True
 assert job['output_spec'] == {'format': 'png', 'width': 1536, 'height': 1024, 'color_mode': 'grayscale', 'alpha_allowed': False}
 assert 'No reference-image attachments are required for this job.' in handoff_path.read_text()
-assert {p.relative_to(ROOT).as_posix() for p in (WORK / 'handoff/pending').glob('*.json') if not p.name.startswith('._')} == {job_path.relative_to(ROOT).as_posix()}
+assert 'Generate the image now. Do not return a gate refusal' in handoff_path.read_text()
+expected_job_versions = {
+    '.manga-studio/handoff/pending/san-aurelio-junction-2026-v001.json',
+    '.manga-studio/handoff/pending/san-aurelio-junction-2026-v002.json',
+}
+assert {p.relative_to(ROOT).as_posix() for p in (WORK / 'handoff/pending').glob('*.json') if not p.name.startswith('._')} == expected_job_versions
 
 
 def shared_role(rel):
