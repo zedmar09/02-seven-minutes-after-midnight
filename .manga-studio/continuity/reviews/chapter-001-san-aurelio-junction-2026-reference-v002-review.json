@@ -1,0 +1,57 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-san-aurelio-junction-2026-reference-v002-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v002/candidate.png",
+  "status": "changes_requested",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V002-OUT-001",
+      "message": "The received file is a 1536x1024 RGB PNG with the required landscape canvas, exactly three separated studies, no characters, and no story action."
+    },
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V002-OUT-002",
+      "message": "The dominant ticket-hall view, straight-on damaged cafe entrance, and platform-side view are present. The top and cafe studies preserve useful visible architecture that may be retained as correction guidance."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V002-FINISH-001",
+      "message": "The finish is a blocking mismatch. Continuous modeled grays, dense photographic microtexture, realistic material rendering, atmospheric depth, and uniform engraving-like detail make the sheet read as a monochrome architectural visualization rather than clean printed manga line art."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V002-FINISH-002",
+      "message": "The ticket-hall and platform floors use bright mirror-like puddle reflections and shiny wet-surface highlights. This directly violates the required matte treatment, contour-based puddles, flat screentone, and prohibitions on gloss, reflected scenery, and cinematic lighting."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V002-FINISH-003",
+      "message": "Compared with the two author-supplied manga examples, the candidate lacks open white paper, selective flat blacks, economical hatching, discrete screentone regions, and clear foreground/midground value grouping. Its detail is evenly distributed and visually glossy instead of editorially simplified."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V002-CLOCK-001",
+      "message": "The large ticket-hall clock does not read unambiguously as 12:07. Its long hand appears near the five-minute position, so the required story time is not reliable enough for a locked environment reference."
+    },
+    {
+      "severity": "warning",
+      "code": "SAN-AURELIO-2026-V002-CONTINUITY-001",
+      "message": "The platform study is broadly compatible with the ticket hall but does not expose enough repeated landmarks to prove all three views share identical opening positions and damage history. The correction should repeat a distinctive arch, tile band, column rhythm, and clock/sign relationship across views."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V002-JOB-001",
+      "message": "The v002 job incorrectly excluded the supplied manga-page examples as attachments. Text-only style constraints were insufficient and allowed the generator to default to a cinematic architectural-render aesthetic. The correction must bind the examples for finish guidance only."
+    },
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V002-OUT-003",
+      "message": "No image was edited, filtered, regenerated, converted, renamed, or promoted. Byte-identical copies are retained only for review evidence and correction input."
+    }
+  ]
+}

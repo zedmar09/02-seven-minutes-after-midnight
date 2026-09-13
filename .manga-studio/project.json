@@ -71,7 +71,7 @@
     "page_width_px": 1654,
     "page_height_px": 2339
   },
-  "workflow_phase": "phase_7_san_aurelio_junction_2026_released",
+  "workflow_phase": "phase_7_san_aurelio_junction_2026_changes_requested",
   "operating_mode": "repair_existing",
   "stage_locks": {
     "SOURCE_LOCKED": true,
@@ -109,6 +109,6 @@
     "Canon v002 is active at SHA-256 537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762 and corrects only canon-fact-ch001-023 so the final warning matches approved manuscript lines 475-477.",
     "Chapter 1 storyboard v001 is the user-approved active 36-page plan with no blocking consistency finding; panel direction is authorized after its storyboard locks are recorded.",
     "Image generation is explicitly enabled after story and storyboard lock. Daniel Soriano, Tomas Rivera, Maribel Santos, Arturo Salcedo, and Lilia Ramos have user-approved, hash-bound character WebPs under stable unversioned production filenames.",
-    "San Aurelio Junction 2026 is the first released schema-valid location-reference job and requires no image attachments. Its returned image remains a candidate until continuity review and explicit user approval; all later environment, object, phenomenon, panel, and page jobs remain separately gated."
+    "San Aurelio Junction 2026 job v002 was executed, but its returned candidate at SHA-256 7ef255c1752b482f0cb0e92eb09f08be7b597cc3b779ed2c050dc79ebc814403 has blocking finish and clock findings and is not approved. The author-selected manga examples are now hash-bound for finish-only correction guidance. No retry or v003 correction handoff is released; all later environment, object, phenomenon, panel, and page jobs remain separately gated."
   ]
 }
