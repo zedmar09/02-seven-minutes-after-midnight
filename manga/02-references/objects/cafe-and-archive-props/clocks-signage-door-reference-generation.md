@@ -69,7 +69,7 @@ Verify seven study groups; two clearly distinct clock designs; exact 12:00 and 1
 ## Deferred Release Blockers
 
 - Environment dependencies are not yet generated, reviewed, approved, or hash-locked.
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 

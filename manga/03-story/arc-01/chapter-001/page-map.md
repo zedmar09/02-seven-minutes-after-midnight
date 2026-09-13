@@ -1,8 +1,8 @@
 # Chapter 1 Page Map
 
-Status: `PROPOSED - REVIEW READY`. This map summarizes the versioned storyboard candidate; it does not release production.
+Status: `APPROVED - ACTIVE - LOCKED`. This map summarizes the active storyboard; it does not release image generation.
 
-The plan uses 36 interior pages, situation-driven panel density, left-to-right reading, and controlled overlap only where a documented story event benefits. Exact panel geometry follows only after explicit storyboard approval.
+The plan uses 36 interior pages, situation-driven panel density, left-to-right reading, and controlled overlap only where a documented story event benefits. Exact panel geometry now proceeds through panel direction.
 
 | Page | Source lines | Purpose | Intent / pacing | Page turn |
 |---:|---:|---|---|---|

@@ -1,7 +1,7 @@
 # Chapter 001 Page Turns And Continuity Handoffs
 
 **Version:** v001  
-**Status:** PROPOSED - NOT ACTIVE  
+**Status:** APPROVED - ACTIVE - LOCKED  
 **Reading direction:** left-to-right
 
 Every page turn follows the approved manuscript order. `Payoff` means the next page fulfills the setup; it does not authorize new story content.

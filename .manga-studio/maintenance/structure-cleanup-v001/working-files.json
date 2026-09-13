@@ -7,7 +7,7 @@
   "production_mode": "panel_first",
   "active_manuscript_version": ".manga-studio/manuscript/versions/chapter-001-v001.md",
   "active_canon_version": ".manga-studio/canon/versions/chapter-001-canon-v002.json",
-  "active_storyboard_version": null,
+  "active_storyboard_version": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
   "summary": {
     "archived_files": 75,
     "original_story_sources": 24,
@@ -22,8 +22,9 @@
     "proposed_canon_versions": 0,
     "approved_active_canon_versions": 1,
     "proposed_canon_corrections": 0,
-    "proposed_storyboard_versions": 1,
-    "fulfilled_character_reference_briefs": 5
+    "proposed_storyboard_versions": 0,
+    "fulfilled_character_reference_briefs": 5,
+    "approved_active_storyboard_versions": 1
   },
   "artifacts": [
     {
@@ -145,6 +146,11 @@
       "relative_path": ".manga-studio/approvals/approval-c59175951b1b43f999102192d9658c8e.json",
       "evidence": [],
       "sha256": "dd9eb84a6a0752b1a83bb83a3b6425a8de6f511b3f2183256bfba365d67e9196"
+    },
+    {
+      "relative_path": ".manga-studio/approvals/approval-c81e30db6a5045ab9afdbc9bd17b0464.json",
+      "evidence": [],
+      "sha256": "d5b604949491cb1eae104379acc219a0bf22e4dab3e070e4eb57127eb7b48369"
     },
     {
       "relative_path": ".manga-studio/approvals/approval-dd6be9cdee12493282b102ff0b8d5c6e.json",
@@ -537,6 +543,16 @@
       "sha256": "ad28c005c254359057b18f6b5d1c14e9b89a41b71291205c4dd720abd011351a"
     },
     {
+      "relative_path": ".manga-studio/locks/STORYBOARD_APPROVED-v001.json",
+      "evidence": [],
+      "sha256": "bd7d1ee2dab57f9c7542d93823143ef7a0a6479a54cd012fb95fd3c46ab06e3a"
+    },
+    {
+      "relative_path": ".manga-studio/locks/STORYBOARD_LOCKED-v001.json",
+      "evidence": [],
+      "sha256": "2bb2d1bcb89a07e9a923b72fad49302d002c0897b513c858445d1927a7402c82"
+    },
+    {
       "relative_path": ".manga-studio/locks/STORY_LOCKED-v001.json",
       "evidence": [],
       "sha256": "6ceae62e72eb3db543f17b893b7981e3dac2d12fa469d454de5f0d121ce25334"
@@ -737,6 +753,11 @@
       "sha256": "2ddd815a7fafdb05144c13c1c75782cc88f26043c070640048a54e824a543b43"
     },
     {
+      "relative_path": ".manga-studio/maintenance/storyboard-approval-v001/finalize.py",
+      "evidence": [],
+      "sha256": "9ad6da557af9c057246938ceeebe8091dd9cfd011367fa49658c43636b03cd7f"
+    },
+    {
       "relative_path": ".manga-studio/maintenance/storyboard-v001/build.py",
       "evidence": [],
       "sha256": "cf3286446a9c2854292ca6c426d5b5ed87fb68ce55a0f9238e51bcd5b9ecbc85"
@@ -754,7 +775,7 @@
     {
       "relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
       "evidence": [],
-      "sha256": "eb2dbd78b4eebd48566402a209c4a41f390bf7ae30656e1cb4a868943c91d3fe"
+      "sha256": "bf93f2d20301816564164ada25481b998718d045cdcf4cfe72bbec162444c59b"
     },
     {
       "relative_path": ".manga-studio/maintenance/tomas-reference-review-v001/finalize.py",
@@ -788,7 +809,7 @@
     },
     {
       "relative_path": ".manga-studio/project.json",
-      "sha256": "e6da1e9af4c297527e4718f6e8b3d2296e204fd2d41a530eb00de43088bcd30d",
+      "sha256": "d1f225c951606d709ab3dcd1a80d6afb6c52564e965bcf0150c103df30642ff8",
       "evidence": []
     },
     {
@@ -934,41 +955,41 @@
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-page-turns-v001.md",
       "evidence": [],
-      "sha256": "17606344f7975a8a96268c327264c1d0af66b88680ac248b918f161700b56865"
+      "sha256": "53c0cd12bb51b340c046afc1641d288c67220ef1b9475ea564835ed320225b34"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
       "evidence": [],
-      "sha256": "1ade069441fdf4d03357fa367db7c15f35574755ff97b719d822252761b20003"
+      "sha256": "a932bd31d0ccbb68713ac0c95fd2d4215dfae7702f10e965d200dc020b2f7526"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",
       "evidence": [],
-      "sha256": "f0ebe403b660d04a756e42f8b4eccee9209780133040da76ada026e2a4a81d7e"
+      "sha256": "1d03570b318f7c91b1587b30ef137ec3742109cf55b07cf6f7467867942b7dfa"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-019-027-v001.md",
       "evidence": [],
-      "sha256": "478fbc995da9e7d556387bc84e2cc06a2091a22b1d17218482af0740b5379fa2"
+      "sha256": "ff041f06c138cc5d4b2dc427f288265a8be8d28876e52a667a7c06e570718878"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-028-036-v001.md",
       "evidence": [],
-      "sha256": "337c0d14cdf03463a4941a7dc0e75a78f19a98121d6174c8f70e6f3e71fc26d2"
+      "sha256": "9d0a8b255e4fc8dd137519e45d850644bfcda4081fe9f000903d0c1335b4e3e3"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
       "evidence": [],
-      "sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b"
+      "sha256": "ea431653fe9d7b6cd7f5fed58d219e46116ad16a4e8194bc62740c6babcde107"
     },
     {
       "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.md",
       "evidence": [],
-      "sha256": "7ef6a72d5d229d4447d1a7ddd28a69075f9819bf7f88cb384cab6ecf25e31d0f"
+      "sha256": "f46ed9047391ea99ba2091b7216825df9d76d9f36de518e1b7989a8588427c80"
     },
     {
       "relative_path": "AGENTS.md",
-      "sha256": "b6df640a9a1e4d5b7c86af7734f00a72fd2c0781f0910a56da5a5fc726de3ba0",
+      "sha256": "c0ac3725272f58fb80e3c74e2955a51711d1450575505f55f67c28f3506eaad5",
       "evidence": []
     },
     {
@@ -1198,7 +1219,7 @@
     },
     {
       "relative_path": "manga/02-references/README.md",
-      "sha256": "81e291631b131f69a43a902f7e83612998d52132fe11051dc717f6d28ab4e363",
+      "sha256": "8b7d5dc5609f83b5b928a6c419b3bd6127bdc8a7ebdb3920e5fb6c6464c2a9f2",
       "evidence": []
     },
     {
@@ -1527,7 +1548,7 @@
     },
     {
       "relative_path": "manga/02-references/environments/README.md",
-      "sha256": "7430bd8fc15d599001100033907beb7af7e3da2c21d79c84aee6cbb2d251a74f",
+      "sha256": "7f9788992afdb2ef2be3d67244794d50f82a6baac2ec7ff71595f85959958bf7",
       "evidence": []
     },
     {
@@ -1561,12 +1582,12 @@
     {
       "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md",
       "evidence": [],
-      "sha256": "125f56000be07e34543e9b4fe43b748e340c8fa07946d05ae41ce05ee7a289b0"
+      "sha256": "6e5b64abb049cc981615dba8000eba0a14bf7104b24a0057f8a770cf53f1ac6e"
     },
     {
       "relative_path": "manga/02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md",
       "evidence": [],
-      "sha256": "8a5f45aa7dcaf062803ff086ca81e26f3adff7538d16be70c765767ed51a65d2"
+      "sha256": "aa994014e2cb72e42019988861bdb33b733644cff4ccd7259aad808d624eac7d"
     },
     {
       "relative_path": "manga/02-references/environments/cafe-siete/canon.md",
@@ -1581,7 +1602,7 @@
     {
       "relative_path": "manga/02-references/environments/municipal-museum-archive/municipal-museum-archive-reference-generation.md",
       "evidence": [],
-      "sha256": "420825c3f4067f93f8907e1e0a036804e678de687ab8ff4c69f42924a08d2cb9"
+      "sha256": "4eb85dfca7dc9c78ec58544091c1cc8a9fea1db9351220b6cac50ae0d16dac9e"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/canon.md",
@@ -1596,12 +1617,12 @@
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md",
       "evidence": [],
-      "sha256": "786ae09a124ccec1d4a745983c268436d9bc13678f30852eaed9504caba53f46"
+      "sha256": "d88d12cf94017cbfbf2d615e606f4d2676ec55d0598f54948d75ed88abc091c0"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/san-aurelio-junction-2026-reference-generation.md",
       "evidence": [],
-      "sha256": "8ce5ebb1e0ba29f93b61616aeacd67361b755cbdfa690479710feb6f63fa9a9f"
+      "sha256": "e87e49df903b4ec7688fc6ac0ab86f161429aeeb923a782648e8b2ccd803a7a0"
     },
     {
       "relative_path": "manga/02-references/environments/san-aurelio-junction/station-perspective.md",
@@ -1635,17 +1656,17 @@
     {
       "relative_path": "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
       "evidence": [],
-      "sha256": "45737f0e9cf7ba2a8e7895d242fbd4088f84c8693f7295f0d709911d3dddf732"
+      "sha256": "42f870e15d0617cf28bfa1c5ba2570cf117362344b363b50cc27f9ef6e642d18"
     },
     {
       "relative_path": "manga/02-references/objects/cafe-and-archive-props/time-transfer-props-reference-generation.md",
       "evidence": [],
-      "sha256": "f3bb28704383dc40b903f5376b5b88d01a07dc0a698153d14ea65a49e99e2d82"
+      "sha256": "0b6ea550d10d18afbc6a43771ca7038572d90d5bcbcc8ec651ef046643345295"
     },
     {
       "relative_path": "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md",
       "evidence": [],
-      "sha256": "c502438730c09315ebf3abdb6d2dea72f38097f43d669e520ac213a371c74d43"
+      "sha256": "a4ff3d2c2b0d78c4d871b16c37e6c30b6fb3dde6b510923cf50e50a6459a3192"
     },
     {
       "relative_path": "manga/03-story/README.md",
@@ -1716,7 +1737,7 @@
     },
     {
       "relative_path": "manga/03-story/arc-01/chapter-001/page-map.md",
-      "sha256": "1a9ae1c4def03c3972bc08b2ab80a2842e8209635d2da807d961acafc259d79a",
+      "sha256": "8eddef4d94978910197e7a200d17a831f39e9a9f52b39315b27c6792afbacbc3",
       "evidence": [
         {
           "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
@@ -1740,7 +1761,7 @@
     },
     {
       "relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
-      "sha256": "9aad55c6be54940b9d32cab77ef2e5d5f37087c79df2716feedad6a224f1c929",
+      "sha256": "c02adcbd399ceeb1dd1b99023c119aad0bcb39b607814ce2962747567a32b7be",
       "evidence": [
         {
           "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
@@ -1818,7 +1839,7 @@
     },
     {
       "relative_path": "manga/README.md",
-      "sha256": "ebc5d642c65af83b32e15f2e56f4320899dd00c4376c0a6ff0ed8b8ec7cd0548",
+      "sha256": "d1da36f0234e75000d3d684df37e23d7af07dd15963c116c9f9a63bd8f2ef464",
       "evidence": []
     },
     {
@@ -1835,7 +1856,7 @@
   ],
   "inventory_semantics": "As-imported classification paths; current storage is provenance.original_path. All historical lookups require path plus expected hash.",
   "path_relocation_receipt": ".manga-studio/maintenance/structure-cleanup-v001/path-relocations.json",
-  "updated_at": "2026-09-13T01:01:33.134479+00:00",
+  "updated_at": "2026-09-13T01:10:00.223039+00:00",
   "current_authority": {
     "manuscript_status": "approved_active",
     "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
@@ -1950,6 +1971,8 @@
       "MANUSCRIPT_APPROVED",
       "REVISION_PLAN_APPROVED",
       "SOURCE_LOCKED",
+      "STORYBOARD_APPROVED",
+      "STORYBOARD_LOCKED",
       "STORY_LOCKED"
     ],
     "story_locked": true,
@@ -1958,7 +1981,7 @@
     "active_canon_sha256": "537dee9e98b9f5b91f86ae3cc611300260b8bb0e6cbe1fbb1bbe81fccef0e762",
     "canon_approval_relative_path": ".manga-studio/approvals/approval-179120b070e94a71a22d4af7677e67b9.json",
     "proposed_canon_sha256": "897ed992c1106ee39b10f903019a4eb24fd9a51309cc69960e7505d7c9365725",
-    "storyboard_status": "v001_review_ready_not_approved",
+    "storyboard_status": "v001_approved_active_locked",
     "reference_prompt_style_audit_relative_path": ".manga-studio/analysis/chapter-001-reference-prompt-style-audit-v001.md",
     "reference_rendering_lock": "clean_flat_black_and_white_printed_manga_reference_on_white_paper",
     "reference_attachment_policy": "identity_and_approved_hash_bound_dependencies_only",
@@ -1979,18 +2002,24 @@
     "lilia_reference_candidate_sha256": "a1fde5d8381b54abf93963c140cf9ab9cf07442138ef067246af4f6d8d02f586",
     "lilia_reference_candidate_status": "review_ready_visual_pass_not_approved_storyboard_conditional",
     "canon_adoption_decision_relative_path": ".manga-studio/decisions/chapter-001-canon-adoption-v002.json",
-    "proposed_storyboard_version": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+    "proposed_storyboard_version": null,
     "proposed_storyboard_sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b",
     "storyboard_review_relative_path": ".manga-studio/analysis/consistency/chapter-001-storyboard-v001-review.md",
     "storyboard_proposal_decision_relative_path": ".manga-studio/decisions/chapter-001-storyboard-proposal-v001.json",
-    "storyboard_approval_required": true,
+    "storyboard_approval_required": false,
     "primary_character_reference_ids": [
       "reference-daniel-soriano-v002",
       "reference-tomas-rivera-v001",
       "reference-maribel-santos-v002",
       "reference-arturo-salcedo-v001",
       "reference-lilia-ramos-v002"
-    ]
+    ],
+    "preapproval_storyboard_sha256": "a03f068d4503ea348c65590d065ee383d695b6ed14a9cd54c72f78a8593f840b",
+    "active_storyboard_version": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+    "active_storyboard_sha256": "ea431653fe9d7b6cd7f5fed58d219e46116ad16a4e8194bc62740c6babcde107",
+    "storyboard_approval_relative_path": ".manga-studio/approvals/approval-c81e30db6a5045ab9afdbc9bd17b0464.json",
+    "storyboard_approved_lock_relative_path": ".manga-studio/locks/STORYBOARD_APPROVED-v001.json",
+    "storyboard_locked_lock_relative_path": ".manga-studio/locks/STORYBOARD_LOCKED-v001.json"
   },
   "post_cleanup_working_files": [
     "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",

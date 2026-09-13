@@ -1,7 +1,7 @@
 # Chapter 001 Storyboard Plan
 
 **Version:** v001  
-**Status:** PROPOSED - NOT ACTIVE  
+**Status:** APPROVED - ACTIVE - LOCKED  
 **Scope:** Arc 1, Chapter 1 only  
 **Source authority:** locked manuscript v001 and approved canon v002  
 **Reading direction:** left-to-right  
@@ -11,7 +11,7 @@
 
 ## Purpose
 
-Convert the locked Chapter 1 story into a professional manga rhythm without changing event order, evidence, dialogue facts, reveal ceiling, or knowledge states. The page plan uses situation-driven panel density, strong page turns, and controlled overlap candidates. Exact camera placement, geometry, safe zones, and image jobs remain later-stage work after explicit storyboard approval.
+Convert the locked Chapter 1 story into a professional manga rhythm without changing event order, evidence, dialogue facts, reveal ceiling, or knowledge states. The page plan uses situation-driven panel density, strong page turns, and controlled overlap candidates. Exact camera placement, geometry, and safe zones now proceed through panel direction; image jobs remain separately gated.
 
 ## Page Rhythm
 
@@ -44,4 +44,4 @@ Convert the locked Chapter 1 story into a professional manga rhythm without chan
 
 ## Approval Boundary
 
-This storyboard is a review candidate. It does not set `active_storyboard_version`, `STORYBOARD_APPROVED`, `STORYBOARD_LOCKED`, `IMAGE_READY`, or `image_generation_enabled`. Panel direction and image-job release remain blocked until the user explicitly approves and locks this exact storyboard version.
+The user explicitly approved this exact 36-page storyboard. It is the active locked storyboard and authorizes panel direction. It does not set `IMAGE_READY`, enable image generation, or release an external image job.

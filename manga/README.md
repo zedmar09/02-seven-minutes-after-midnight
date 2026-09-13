@@ -1,6 +1,6 @@
 # Seven Minutes After Midnight
 
-Current scope: Arc 1, Chapter 1. Manuscript v001 is user-approved and active. Visual direction v002 keeps a provisional 36 interior pages within a 32-40 page working range, with variable panel totals and controlled overlap where the story benefits. Canon, storyboard, artwork and image jobs remain unapproved.
+Current scope: Arc 1, Chapter 1. The manuscript, canon, and 36-page storyboard are user-approved, active, and locked. Visual direction uses variable panel totals and controlled overlap where the story benefits. Artwork, image jobs, and image generation remain unapproved.
 
 - [00 Series](00-series/README.md)
 - [01 Style](01-style/README.md)

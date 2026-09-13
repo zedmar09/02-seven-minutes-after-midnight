@@ -63,7 +63,7 @@ Verify identical geometry between eras; separate customer counter, service hatch
 ## Deferred Release Blockers
 
 - Exact geometry remains a review proposal until approved.
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 

@@ -26,7 +26,7 @@ The individual WebPs above are the primary approved character attachments. The [
 
 Panel jobs will later attach only the approved character, environment, prop, and phenomenon references visible in that panel. Exact panel attachment lists remain storyboard- and panel-plan-dependent.
 
-Canon and story locks are active. `STORYBOARD_APPROVED`, `STORYBOARD_LOCKED`, and `IMAGE_READY` remain false; image generation remains disabled and no schema-valid external handoff exists.
+Canon, story, and storyboard locks are active. `IMAGE_READY` remains false; image generation remains disabled and no schema-valid external handoff exists.
 
 ## Evidence
 

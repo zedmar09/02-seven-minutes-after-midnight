@@ -70,7 +70,7 @@ Before returning the image, verify that the three views depict one coherent stat
 
 ## Deferred Release Blockers
 
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 

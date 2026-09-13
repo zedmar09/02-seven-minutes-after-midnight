@@ -3,7 +3,7 @@
   "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
   "storyboard_id": "storyboard-chapter-001",
   "version": "v001",
-  "status": "proposed",
+  "status": "approved",
   "scope": {
     "chapter_id": "chapter-fb585a7fd3e7450e936edbcfce992566",
     "arc": "Arc 1 - The Fire At San Aurelio Junction",
@@ -58,32 +58,32 @@
     {
       "role": "chapter-001-storyboard-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.md",
-      "sha256": "7ef6a72d5d229d4447d1a7ddd28a69075f9819bf7f88cb384cab6ecf25e31d0f"
+      "sha256": "f46ed9047391ea99ba2091b7216825df9d76d9f36de518e1b7989a8588427c80"
     },
     {
       "role": "chapter-001-pages-001-009-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-001-009-v001.md",
-      "sha256": "1ade069441fdf4d03357fa367db7c15f35574755ff97b719d822252761b20003"
+      "sha256": "a932bd31d0ccbb68713ac0c95fd2d4215dfae7702f10e965d200dc020b2f7526"
     },
     {
       "role": "chapter-001-pages-010-018-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-010-018-v001.md",
-      "sha256": "f0ebe403b660d04a756e42f8b4eccee9209780133040da76ada026e2a4a81d7e"
+      "sha256": "1d03570b318f7c91b1587b30ef137ec3742109cf55b07cf6f7467867942b7dfa"
     },
     {
       "role": "chapter-001-pages-019-027-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-019-027-v001.md",
-      "sha256": "478fbc995da9e7d556387bc84e2cc06a2091a22b1d17218482af0740b5379fa2"
+      "sha256": "ff041f06c138cc5d4b2dc427f288265a8be8d28876e52a667a7c06e570718878"
     },
     {
       "role": "chapter-001-pages-028-036-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-pages-028-036-v001.md",
-      "sha256": "337c0d14cdf03463a4941a7dc0e75a78f19a98121d6174c8f70e6f3e71fc26d2"
+      "sha256": "9d0a8b255e4fc8dd137519e45d850644bfcda4081fe9f000903d0c1335b4e3e3"
     },
     {
       "role": "chapter-001-page-turns-v001",
       "relative_path": ".manga-studio/storyboard/chapter-001-page-turns-v001.md",
-      "sha256": "17606344f7975a8a96268c327264c1d0af66b88680ac248b918f161700b56865"
+      "sha256": "53c0cd12bb51b340c046afc1641d288c67220ef1b9475ea564835ed320225b34"
     },
     {
       "role": "chapter-001-storyboard-v001-review",
@@ -111,9 +111,9 @@
   },
   "approval_boundary": {
     "user_approval_required": true,
-    "storyboard_approved": false,
-    "storyboard_locked": false,
-    "panel_direction_authorized": false,
+    "storyboard_approved": true,
+    "storyboard_locked": true,
+    "panel_direction_authorized": true,
     "image_generation_authorized": false
   }
 }

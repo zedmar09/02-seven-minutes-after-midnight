@@ -63,7 +63,7 @@ Verify exactly eight study groups; two distinct paper objects; two distinct penc
 
 ## Deferred Release Blockers
 
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No approved prop artwork exists.
 - No schema-valid image job or external handoff has been released.

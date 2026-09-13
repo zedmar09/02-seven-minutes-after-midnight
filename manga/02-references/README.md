@@ -54,7 +54,7 @@ Character images must not be attached to empty environment-reference jobs.
 
 The five character records are fulfilled. The remaining environment, object, and phenomenon files are evidence-based deferred generation briefs, not paste-ready ChatGPT handoffs. Each eventual structured job must bind every required image by real project-relative path and SHA-256.
 
-Canon is approved, active, hash-bound, and story-locked. Current blockers are Chapter 1 storyboard approval and lock, `image_generation_enabled=false`, unresolved environment and object dependencies, and absent schema-valid image jobs. No executable environment, object, panel, or page handoff has been released.
+Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Current blockers are `image_generation_enabled=false`, unresolved environment and object dependencies, and absent schema-valid image jobs. No executable environment, object, panel, or page handoff has been released.
 
 - [Characters](characters/README.md)
 - [Environments](environments/README.md)

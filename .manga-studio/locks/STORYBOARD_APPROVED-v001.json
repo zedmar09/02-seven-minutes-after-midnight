@@ -1,0 +1,24 @@
+{
+  "schema_version": "3.0.0",
+  "lock_id": "lock-12c461a47b60457abb84b1b4614f6ed8",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "gate": "STORYBOARD_APPROVED",
+  "status": "locked",
+  "lock_version": "v001",
+  "recorded_at": "2026-09-13T01:06:47Z",
+  "actor": "user",
+  "notes": "User approved the exact active 36-page Chapter 1 storyboard and authorized its approval gate.",
+  "prerequisite_gates": [
+    "STORY_LOCKED"
+  ],
+  "approval_ids": [
+    "approval-c81e30db6a5045ab9afdbc9bd17b0464"
+  ],
+  "target_hashes": [
+    {
+      "relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+      "sha256": "ea431653fe9d7b6cd7f5fed58d219e46116ad16a4e8194bc62740c6babcde107"
+    }
+  ],
+  "supersedes_lock_id": null
+}

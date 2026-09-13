@@ -1,0 +1,18 @@
+{
+  "schema_version": "3.0.0",
+  "approval_id": "approval-c81e30db6a5045ab9afdbc9bd17b0464",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "artifact_type": "storyboard",
+  "target_relative_path": ".manga-studio/storyboard/chapter-001-storyboard-v001.json",
+  "target_version": "v001",
+  "target_sha256": "ea431653fe9d7b6cd7f5fed58d219e46116ad16a4e8194bc62740c6babcde107",
+  "status": "approved",
+  "decision": "approved",
+  "decided_at": "2026-09-13T01:06:38Z",
+  "actor": "user",
+  "notes": "User explicitly said 'approved' after being told the next production step was approving and locking the linked 36-page Chapter 1 storyboard. This approval adopts the exact active storyboard bytes, including its 36-page scope, situation-driven panel counts, left-to-right reading, controlled overlaps, and panel-first workflow. It authorizes STORYBOARD_APPROVED, STORYBOARD_LOCKED, and panel direction, but does not enable image generation, set IMAGE_READY, release reference or panel jobs, or approve generated artwork.",
+  "supersedes_approval_id": null,
+  "superseded_by_approval_id": null,
+  "invalidated_at": null,
+  "invalidation_reason": null
+}

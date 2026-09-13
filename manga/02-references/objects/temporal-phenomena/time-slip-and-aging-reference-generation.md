@@ -62,7 +62,7 @@ Verify five studies in the required order; perfectly aligned architecture; no ag
 ## Deferred Release Blockers
 
 - All three visual dependencies remain ungenerated and unapproved.
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 

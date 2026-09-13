@@ -1,7 +1,7 @@
 # Chapter 001 Storyboard Beats - Pages 010-018
 
 **Version:** v001  
-**Status:** PROPOSED - NOT ACTIVE  
+**Status:** APPROVED - ACTIVE - LOCKED  
 **Authority:** approved canon v002 and locked manuscript v001  
 **Reading direction:** left-to-right
 

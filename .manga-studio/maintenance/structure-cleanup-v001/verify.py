@@ -107,7 +107,7 @@ for filename, schema in schema_files:
 for path in (WORK / 'source/documents').glob('doc-*.json'):
     errors += validate_json_file(path, installed / 'schemas/source-document.schema.json')
 approvals = [p for p in (WORK / 'approvals').glob('approval-*.json')]
-assert len(approvals) >= 21
+assert len(approvals) >= 22
 for path in approvals:
     errors += validate_approval(context, path)
 manuscript_approval_path = WORK / 'approvals/approval-feb5212823b84aeaaa04bac3fedc4fc6.json'
@@ -206,11 +206,11 @@ assert len(review['warnings']) == 7 and len(review['issue_dispositions']) == 30
 
 config = context.config
 assert config['active_manuscript_version'] == current['active_manuscript_version'] == '.manga-studio/manuscript/versions/chapter-001-v001.md'
-assert config['workflow_phase'] == 'phase_5_story_locked_storyboard_review_ready_character_references_approved'
-expected_true_locks = {'SOURCE_LOCKED', 'CANON_APPROVED', 'DIAGNOSTIC_APPROVED', 'REVISION_PLAN_APPROVED', 'MANUSCRIPT_APPROVED', 'STORY_LOCKED'}
+assert config['workflow_phase'] == 'phase_6_storyboard_locked_character_references_approved'
+expected_true_locks = {'SOURCE_LOCKED', 'CANON_APPROVED', 'DIAGNOSTIC_APPROVED', 'REVISION_PLAN_APPROVED', 'MANUSCRIPT_APPROVED', 'STORY_LOCKED', 'STORYBOARD_APPROVED', 'STORYBOARD_LOCKED'}
 assert {key for key, value in config['stage_locks'].items() if value} == expected_true_locks
-assert config['stage_locks']['STORYBOARD_APPROVED'] is False
-assert config['stage_locks']['STORYBOARD_LOCKED'] is False
+assert config['stage_locks']['STORYBOARD_APPROVED'] is True
+assert config['stage_locks']['STORYBOARD_LOCKED'] is True
 assert config['stage_locks']['IMAGE_READY'] is False
 expected_active_lock_records = {
     'SOURCE_LOCKED': '.manga-studio/locks/SOURCE_LOCKED-v001.json',
@@ -219,13 +219,13 @@ expected_active_lock_records = {
     'REVISION_PLAN_APPROVED': '.manga-studio/locks/REVISION_PLAN_APPROVED-v001.json',
     'MANUSCRIPT_APPROVED': '.manga-studio/locks/MANUSCRIPT_APPROVED-v001.json',
     'STORY_LOCKED': '.manga-studio/locks/STORY_LOCKED-v003.json',
+    'STORYBOARD_APPROVED': '.manga-studio/locks/STORYBOARD_APPROVED-v001.json',
+    'STORYBOARD_LOCKED': '.manga-studio/locks/STORYBOARD_LOCKED-v001.json',
 }
 assert all(config['stage_lock_records'][key] == value for key, value in expected_active_lock_records.items())
-assert config['stage_lock_records']['STORYBOARD_APPROVED'] is None
-assert config['stage_lock_records']['STORYBOARD_LOCKED'] is None
 assert config['stage_lock_records']['IMAGE_READY'] is None
 assert config['active_canon_version'] == '.manga-studio/canon/versions/chapter-001-canon-v002.json'
-assert config['active_storyboard_version'] is None
+assert config['active_storyboard_version'] == '.manga-studio/storyboard/chapter-001-storyboard-v001.json'
 assert config['image_generation_enabled'] is False
 assert current['production_mode'] == 'panel_first'
 authority = current['current_authority']
@@ -291,8 +291,13 @@ assert authority['proposed_canon_status'] == 'adopted_as_active_v002'
 assert authority['proposed_canon_sha256'] == '897ed992c1106ee39b10f903019a4eb24fd9a51309cc69960e7505d7c9365725'
 assert authority['proposed_canon_decision_relative_path'] == '.manga-studio/decisions/chapter-001-canon-correction-proposal-v002.json'
 assert authority['canon_adoption_decision_relative_path'] == '.manga-studio/decisions/chapter-001-canon-adoption-v002.json'
-assert authority['storyboard_status'] == 'v001_review_ready_not_approved'
-assert authority['storyboard_approval_required'] is True
+assert authority['storyboard_status'] == 'v001_approved_active_locked'
+assert authority['storyboard_approval_required'] is False
+assert authority['active_storyboard_version'] == config['active_storyboard_version']
+assert authority['active_storyboard_sha256'] == sha(safe(config['active_storyboard_version']))
+assert authority['storyboard_approval_relative_path'] == '.manga-studio/approvals/approval-c81e30db6a5045ab9afdbc9bd17b0464.json'
+assert authority['storyboard_approved_lock_relative_path'] == '.manga-studio/locks/STORYBOARD_APPROVED-v001.json'
+assert authority['storyboard_locked_lock_relative_path'] == '.manga-studio/locks/STORYBOARD_LOCKED-v001.json'
 assert authority['image_generation_enabled'] is False
 v001_canon = read(WORK / 'canon/versions/chapter-001-canon-v001.json')
 v002_canon = read(WORK / 'canon/versions/chapter-001-canon-v002.json')
@@ -307,10 +312,10 @@ v002_warning = next(row for row in v002_comparable['confirmed_facts'] if row['fa
 expected_warning = 'The 2026 cafe door glass is painted over. The name TOMAS is already scratched into it, and after closure dust reveals the separate warning FIRE STARTS IN THE SERVICE CORRIDOR.'
 v001_warning['value'] = expected_warning
 assert v002_warning['value'] == expected_warning and v001_comparable == v002_comparable
-storyboard_path = safe(authority['proposed_storyboard_version'])
+storyboard_path = safe(authority['active_storyboard_version'])
 storyboard = read(storyboard_path)
-assert storyboard['status'] == 'proposed' and storyboard['scope']['page_count'] == 36
-assert authority['proposed_storyboard_sha256'] == sha(storyboard_path)
+assert storyboard['status'] == 'approved' and storyboard['scope']['page_count'] == 36
+assert authority['active_storyboard_sha256'] == sha(storyboard_path)
 assert storyboard['authority']['active_canon_relative_path'] == config['active_canon_version']
 assert storyboard['authority']['active_canon_sha256'] == authority['active_canon_sha256']
 assert storyboard['authority']['active_manuscript_sha256'] == expected
@@ -318,9 +323,9 @@ assert storyboard['composition_policy']['panel_count_policy'] == 'situation_driv
 assert storyboard['composition_policy']['controlled_overlap_allowed'] is True
 assert storyboard['approval_boundary'] == {
     'user_approval_required': True,
-    'storyboard_approved': False,
-    'storyboard_locked': False,
-    'panel_direction_authorized': False,
+    'storyboard_approved': True,
+    'storyboard_locked': True,
+    'panel_direction_authorized': True,
     'image_generation_authorized': False,
 }
 for component in storyboard['components']:
@@ -337,7 +342,7 @@ assert storyboard_review['status'] == 'review_ready'
 assert storyboard_review['checks']['blocking_findings'] == 0
 storyboard_validation = read(WORK / 'maintenance/storyboard-v001/validation.json')
 assert storyboard_validation['status'] == 'pass'
-assert storyboard_validation['storyboard']['sha256'] == sha(storyboard_path)
+assert storyboard_validation['storyboard']['sha256'] == authority['preapproval_storyboard_sha256']
 assert storyboard_validation['checks']['storyboard_approved'] is False
 assert storyboard_validation['checks']['storyboard_locked'] is False
 assert storyboard_validation['checks']['image_generation_enabled'] is False
@@ -346,7 +351,7 @@ assert remote_reconciliation['status'] == 'preserved_in_git_history_not_active_w
 assert remote_reconciliation['remote']['tip_before_reconciliation'] == '0faafe2'
 assert remote_reconciliation['remote']['divergent_commits_preserved'] == 99
 assert remote_reconciliation['active_authority_after_reconciliation']['canon_sha256'] == authority['active_canon_sha256']
-assert remote_reconciliation['active_authority_after_reconciliation']['storyboard_sha256'] == sha(storyboard_path)
+assert remote_reconciliation['active_authority_after_reconciliation']['storyboard_sha256'] == authority['preapproval_storyboard_sha256']
 for directory in WORKSPACE_DIRECTORIES:
     assert (WORK / directory).is_dir()
 root_names = {p.name for p in ROOT.iterdir() if not p.name.startswith('._')}
@@ -405,7 +410,7 @@ result = {'record_type': 'structure_cleanup_validation', 'project_id': PID, 'che
           'visual_quality_direction_version': authority['visual_quality_direction_version'], 'panel_count_policy': authority['panel_count_policy'], 'controlled_overlap_allowed': authority['controlled_overlap_allowed'],
           'approved_reference_files': len(reference_assets), 'approved_reference_ids': sorted(row['reference_id'] for row in approved_references), 'user_supplied_reference_ingested': True,
           'locks_changed': True, 'active_versions_changed': True, 'artwork_created': False, 'production_ready': False,
-          'warnings': ['Storyboard v001 is review ready but remains unapproved and unlocked; image generation stays disabled.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Five character references are approved; eight environment, prop and temporal-phenomenon generation briefs remain deferred and no image job is released.', 'The user-approved character WebPs are lossy encodings; changing their exact bytes requires a new review and approval.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
+          'warnings': ['Storyboard v001 is approved, active, and locked; image generation remains disabled until separately authorized.', 'Seven existing editorial warnings remain recorded; the manuscript-activation portion of SMA-WARN-006 is resolved.', 'Five character references are approved; eight environment, prop and temporal-phenomenon generation briefs remain deferred and no image job is released.', 'The user-approved character WebPs are lossy encodings; changing their exact bytes requires a new review and approval.', 'The inventory records import coordinates, not a fresh root scan. Use provenance and the relocation manifest for current storage.', 'Historical reports and evidence keep original paths and require hash-aware resolution.', 'Entity-specific folders and unreleased page prompts intentionally differ from the reference story.']}
 if args.record:
     report = HERE / 'validation.json'
     assert not report.exists(), 'Refusing to overwrite a recorded validation.'

@@ -67,7 +67,7 @@ Verify one coherent municipal archive suite; a credible paper-conservation workf
 ## Deferred Release Blockers
 
 - Museum geometry and appearance remain unapproved proposals.
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 

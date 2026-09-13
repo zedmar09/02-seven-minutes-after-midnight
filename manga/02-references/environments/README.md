@@ -14,4 +14,4 @@ Existing location notes and five deferred generation briefs. Every brief now req
 - [Cafe Siete dual-era perspective](cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md)
 - [Municipal museum archive](municipal-museum-archive/municipal-museum-archive-reference-generation.md)
 
-Every brief is deferred. Canon v002 is approved and relocked; do not treat a brief as a paste-ready handoff until storyboard v001 is approved and locked, image generation is explicitly enabled, and all named dependencies are approved and hash-bound.
+Every brief is deferred. Canon, story, and storyboard locks are active; do not treat a brief as a paste-ready handoff until image generation is explicitly enabled and all named dependencies are approved and hash-bound.

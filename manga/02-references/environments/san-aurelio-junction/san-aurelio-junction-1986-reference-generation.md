@@ -68,7 +68,7 @@ Confirm that every structural landmark matches the approved 2026 reference, only
 ## Deferred Release Blockers
 
 - The 2026 architecture dependency is not yet generated, reviewed, approved, or hash-locked.
-- `STORYBOARD_LOCKED` is false.
+- `STORYBOARD_LOCKED` is satisfied.
 - `image_generation_enabled` is false.
 - No schema-valid image job or external handoff has been released.
 
