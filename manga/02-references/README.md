@@ -34,7 +34,7 @@ Do not attach the Daniel-and-Tomas image to Maribel, Arturo, or Lilia jobs. Benj
 
 | Order | Reference | Planned output | Required image attachment | Status |
 |---:|---|---|---|---|
-| 6 | [San Aurelio Junction, 2026 v003 correction](../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v003.md) | `san-aurelio-junction-2026-v003.png` | Two finish-only manga examples plus rejected v002 architecture | Correction released |
+| 6 | [San Aurelio Junction, 2026 v003 review](../../.manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v003-review.md) | `san-aurelio-junction-2026-v003.png` | Two finish-only manga examples plus rejected architecture | Changes requested |
 | 7 | [San Aurelio Junction, 1986](environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md) | `san-aurelio-junction-1986.png` | Approved output from order 6 | Deferred dependency |
 | 8 | [Cafe Siete dual-era floor plan](environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md) | `cafe-siete-dual-era-floor-plan.png` | None | Deferred |
 | 9 | [Cafe Siete dual-era perspective](environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md) | `cafe-siete-dual-era-perspective.png` | Approved output from order 8 | Deferred dependency |
@@ -52,9 +52,9 @@ Character images must not be attached to empty environment-reference jobs.
 
 ## Release Boundary
 
-The five character records are fulfilled. San Aurelio Junction 2026 v002 was generated but [failed continuity review](../../.manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v002-review.md) for glossy cinematic rendering and an unclear 12:07 clock. Do not reuse its executed handoff. The [released v003 correction](../../.manga-studio/handoff/pending/san-aurelio-junction-2026-v003.md) binds the two author-supplied manga examples for finish only and the rejected v002 candidate for architecture only; characters, text, story content, and compositions from the manga examples are excluded.
+The five character records are fulfilled. San Aurelio Junction 2026 v002 failed review, and its [v003 correction also failed continuity review](../../.manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v003-review.md). V003 improves cross-view architectural continuity, but its glossy reflected floors, cinematic depth, dense all-over texture, near-12:05 clock, and subtly tinted RGB encoding remain blocking. Do not reuse either executed handoff as a production reference.
 
-Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Image generation is enabled and `IMAGE_READY` is true. Only the San Aurelio Junction 2026 v003 correction is released. Every later reference, retry, panel, and page handoff remains versioned and separately authorized.
+Canon, story, and the 36-page Chapter 1 storyboard are approved, active, hash-bound, and locked. Image generation is enabled and `IMAGE_READY` is true. No v004 correction, later reference, retry, panel, or page handoff is released. Every retry remains versioned and separately authorized.
 
 - [Characters](characters/README.md)
 - [Environments](environments/README.md)
