@@ -1,0 +1,47 @@
+{
+  "schema_version": "3.0.0",
+  "review_id": "chapter-001-san-aurelio-junction-2026-reference-v006-review",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "review_type": "generated_image",
+  "target": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v006/candidate.png",
+  "status": "changes_requested",
+  "automated": false,
+  "approval_required": true,
+  "findings": [
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V006-OUT-001",
+      "message": "The received file has the required 1536x1024 landscape canvas, no alpha channel, exactly three separated studies, no characters, no story action, and no generated labels or dialogue."
+    },
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V006-FINISH-001",
+      "message": "The core manga finish remains acceptable: open white surfaces, selective dark shapes, flatter lighting, matte bounded puddles without mirrored architecture, localized roof detail, and clear tonal separation are preserved."
+    },
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V006-CONTINUITY-001",
+      "message": "Repeated arched windows, tiled wall bands, iron columns, roof structure, clocks, and the Cafe Siete grille continue to establish one coherent station across all three views."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V006-CLOCK-001",
+      "message": "The requested clock correction did not occur. The large ticket-hall clock still reads about 12:05 because the minute hand points to numeral I. It must point between I and II, visibly past I, for the locked 12:07 time."
+    },
+    {
+      "severity": "error",
+      "code": "SAN-AURELIO-2026-V006-FORMAT-001",
+      "message": "The true-grayscale requirement regressed. The PNG is encoded as RGB with non-identical channels: mean RGB is approximately 152.41, 151.74, and 150.64, with maximum red-blue difference 21, producing a subtle warm tint."
+    },
+    {
+      "severity": "warning",
+      "code": "SAN-AURELIO-2026-V006-PROVENANCE-001",
+      "message": "No v006 image job or ChatGPT handoff was released. The file is accepted as an author-submitted manual retry for review, but its exact external prompt and attachment use cannot be independently verified from the PNG."
+    },
+    {
+      "severity": "info",
+      "code": "SAN-AURELIO-2026-V006-OUT-002",
+      "message": "No image was edited, filtered, regenerated, converted, renamed, or promoted during review. Byte-identical copies are retained only as review evidence and targeted correction input."
+    }
+  ]
+}
