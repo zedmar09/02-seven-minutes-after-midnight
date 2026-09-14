@@ -26,8 +26,8 @@
     "fulfilled_character_reference_briefs": 5,
     "approved_active_storyboard_versions": 1,
     "released_reference_jobs": 1,
-    "generated_reference_candidates": 2,
-    "reference_candidates_changes_requested": 2,
+    "generated_reference_candidates": 3,
+    "reference_candidates_changes_requested": 3,
     "approved_style_finish_references": 2,
     "released_reference_job_versions": 3,
     "released_correction_jobs": 1
@@ -294,6 +294,16 @@
       "sha256": "99d00326ea8c598595d4f4ca99eb1258c6cf218347d779254fe957e0b706b7fb"
     },
     {
+      "relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v004/candidate.png",
+      "evidence": [],
+      "sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v004/intake.json",
+      "evidence": [],
+      "sha256": "5d9dc01e45dfef3cb43d491ca8229ece489e117685a6dc2e428db535a5a94710"
+    },
+    {
       "relative_path": ".manga-studio/continuity/reference-candidates/tomas-rivera-v001/candidate.png",
       "evidence": [],
       "sha256": "b544117bf68b89c8ebf7487a4efd4a82fb820bde51bae4f11b6237974b306377"
@@ -454,6 +464,16 @@
       "sha256": "a7246a50f12669042a323c3f2e978586fd270a898aa43fd00ce4e86bd51e2eec"
     },
     {
+      "relative_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v004-review.json",
+      "evidence": [],
+      "sha256": "ba9d368ebc9aec8e6445a8e709ed29544a64f3b8ee0765582bbbb4362f84e0d0"
+    },
+    {
+      "relative_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v004-review.md",
+      "evidence": [],
+      "sha256": "62b5e77fd5d93e050a7356473461d6388b9a95b3cc38d6d8dc191205f62d5b81"
+    },
+    {
       "relative_path": ".manga-studio/continuity/reviews/chapter-001-tomas-rivera-reference-v001-review.json",
       "evidence": [],
       "sha256": "b8ddcc7106ba243c535a8eb1a224efba6cf2ed6e72cba115d33708c3732e33df"
@@ -537,6 +557,11 @@
       "relative_path": ".manga-studio/handoff/approved/correction-inputs/san-aurelio-junction-2026-v003/candidate.png",
       "evidence": [],
       "sha256": "3b6d5136371c338b945ff382cd6182c7ca7e40617a517be5a84a50b19442270f"
+    },
+    {
+      "relative_path": ".manga-studio/handoff/approved/correction-inputs/san-aurelio-junction-2026-v004/candidate.png",
+      "evidence": [],
+      "sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477"
     },
     {
       "relative_path": ".manga-studio/handoff/approved/style-guides/printed-manga-finish-v001/flat-ink-action-page.png",
@@ -899,6 +924,11 @@
       "sha256": "1a921d02afe8dc93070eab2b87d37d1ad32ba097bc29f6404751143ae090e92c"
     },
     {
+      "relative_path": ".manga-studio/maintenance/san-aurelio-junction-2026-review-v003/finalize.py",
+      "evidence": [],
+      "sha256": "5deaf0942fdced91e0ddb509b854ae3c950352fc84355e207146f42aabf393ef"
+    },
+    {
       "relative_path": ".manga-studio/maintenance/storyboard-approval-v001/finalize.py",
       "evidence": [],
       "sha256": "9ad6da557af9c057246938ceeebe8091dd9cfd011367fa49658c43636b03cd7f"
@@ -921,7 +951,7 @@
     {
       "relative_path": ".manga-studio/maintenance/structure-cleanup-v001/verify.py",
       "evidence": [],
-      "sha256": "f69478e1e5caac08c11061ee0ac0c347f9bd6e179a7008b171cd6d5af45afc67"
+      "sha256": "18c506e721b302d071666bee23e41858b5fa5bfa56ac74c154f36e11102a3e46"
     },
     {
       "relative_path": ".manga-studio/maintenance/tomas-reference-review-v001/finalize.py",
@@ -955,7 +985,7 @@
     },
     {
       "relative_path": ".manga-studio/project.json",
-      "sha256": "04a2d25596a509b7cd580c09d09bc72c0e68f4022d6d0c3fcfdc8fd7f39a7296",
+      "sha256": "d28030c32c52ae3e36e7a78c860b45a939e02a16816ce1582c0b5530d87687f2",
       "evidence": []
     },
     {
@@ -1140,7 +1170,7 @@
     },
     {
       "relative_path": "AGENTS.md",
-      "sha256": "57d19278a99e4e053298061c2ca68818611af7de5744ebc8573af9774b166220",
+      "sha256": "b6041c543e1d863c672a086818780a2e189911b61dc03be0832583b8264029fa",
       "evidence": []
     },
     {
@@ -1370,7 +1400,7 @@
     },
     {
       "relative_path": "manga/02-references/README.md",
-      "sha256": "13ff92b037ff3352f1903a279b1d3733b364c8258446bd0fd18f2e44ef381420",
+      "sha256": "86f3791da927fc2e840683af8fc5bd322837b2512cb18112825dfc5c000dea6d",
       "evidence": []
     },
     {
@@ -1912,7 +1942,7 @@
     },
     {
       "relative_path": "manga/03-story/arc-01/chapter-001/reference-needs.md",
-      "sha256": "92c17e147f8fc1f689b357f3edbe726bc1b6b01f21604753171865d9614e4be6",
+      "sha256": "aa2b7762b3de3b6e9a495f25f669240821b70646350726812ea45f1d953bc40b",
       "evidence": [
         {
           "relative_path": ".manga-studio/manuscript/versions/chapter-001-v001.md",
@@ -2007,7 +2037,7 @@
   ],
   "inventory_semantics": "As-imported classification paths; current storage is provenance.original_path. All historical lookups require path plus expected hash.",
   "path_relocation_receipt": ".manga-studio/maintenance/structure-cleanup-v001/path-relocations.json",
-  "updated_at": "2026-09-13T13:50:02.284359+00:00",
+  "updated_at": "2026-09-14T07:43:00.432737+00:00",
   "current_authority": {
     "manuscript_status": "approved_active",
     "manuscript_sha256": "f195b7e0afc7f875731ade728a1bbf7a28d7becf3f38fa2d920498231f65d500",
@@ -2091,7 +2121,7 @@
     ],
     "reference_generation_briefs_version": "v002",
     "reference_generation_briefs_decision_relative_path": ".manga-studio/decisions/chapter-001-reference-generation-briefs-v002.json",
-    "reference_generation_release_status": "san_aurelio_junction_2026_v003_changes_requested_no_v004_released",
+    "reference_generation_release_status": "san_aurelio_junction_2026_v004_changes_requested_no_v005_released",
     "deferred_reference_generation_briefs": [
       "manga/02-references/characters/daniel-soriano/daniel-soriano-reference-generation.md",
       "manga/02-references/characters/tomas-rivera/tomas-rivera-reference-generation.md",
@@ -2137,7 +2167,7 @@
     "reference_prompt_style_audit_relative_path": ".manga-studio/analysis/chapter-001-reference-prompt-style-audit-v001.md",
     "reference_rendering_lock": "clean_flat_black_and_white_printed_manga_reference_on_white_paper",
     "reference_attachment_policy": "identity_and_approved_hash_bound_dependencies_only",
-    "latest_generated_reference_review_relative_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v003-review.json",
+    "latest_generated_reference_review_relative_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v004-review.json",
     "daniel_reference_candidate_relative_path": ".manga-studio/continuity/reference-candidates/daniel-soriano-v002/candidate.png",
     "daniel_reference_candidate_sha256": "74e62b1f802ee56d063d229554153f741aec7cae13ca83b0fd20f8eff68b320d",
     "daniel_reference_candidate_status": "review_ready_approval_recommended_not_approved",
@@ -2192,10 +2222,10 @@
       "manga/02-references/objects/cafe-and-archive-props/clocks-signage-door-reference-generation.md",
       "manga/02-references/objects/temporal-phenomena/time-slip-and-aging-reference-generation.md"
     ],
-    "san_aurelio_junction_2026_candidate_relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v003/candidate.png",
-    "san_aurelio_junction_2026_candidate_sha256": "3b6d5136371c338b945ff382cd6182c7ca7e40617a517be5a84a50b19442270f",
-    "san_aurelio_junction_2026_candidate_status": "v003_changes_requested_not_approved",
-    "san_aurelio_junction_2026_correction_input_relative_path": ".manga-studio/handoff/approved/correction-inputs/san-aurelio-junction-2026-v003/candidate.png",
+    "san_aurelio_junction_2026_candidate_relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v004/candidate.png",
+    "san_aurelio_junction_2026_candidate_sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477",
+    "san_aurelio_junction_2026_candidate_status": "v004_changes_requested_not_approved",
+    "san_aurelio_junction_2026_correction_input_relative_path": ".manga-studio/handoff/approved/correction-inputs/san-aurelio-junction-2026-v004/candidate.png",
     "printed_manga_finish_manifest_relative_path": ".manga-studio/references/printed-manga-finish-v001/manifest.json",
     "printed_manga_finish_manifest_sha256": "7eba97d0a490ab133452aeb4204cb94fd30462521dccf0d4c658565eb8df4ab4",
     "approved_style_finish_references": [
@@ -2212,7 +2242,7 @@
         "approval": ".manga-studio/approvals/approval-d5608c39f41e4d7d8330a60f26a453d8.json"
       }
     ],
-    "san_aurelio_junction_2026_correction_job_status": "v003_changes_requested_no_v004_released",
+    "san_aurelio_junction_2026_correction_job_status": "v003_executed_changes_requested",
     "san_aurelio_junction_2026_correction_job_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v003.json",
     "san_aurelio_junction_2026_correction_job_sha256": "6d6939540bb4d6589cc1883fc0e708a716da57511585300239cd09a7599a59b3",
     "san_aurelio_junction_2026_correction_handoff_relative_path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v003.md",
@@ -2236,7 +2266,11 @@
     ],
     "san_aurelio_junction_2026_v002_candidate_relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v002/candidate.png",
     "san_aurelio_junction_2026_v002_candidate_sha256": "7ef255c1752b482f0cb0e92eb09f08be7b597cc3b779ed2c050dc79ebc814403",
-    "san_aurelio_junction_2026_v002_candidate_status": "changes_requested_not_approved"
+    "san_aurelio_junction_2026_v002_candidate_status": "changes_requested_not_approved",
+    "san_aurelio_junction_2026_v003_candidate_relative_path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v003/candidate.png",
+    "san_aurelio_junction_2026_v003_candidate_sha256": "3b6d5136371c338b945ff382cd6182c7ca7e40617a517be5a84a50b19442270f",
+    "san_aurelio_junction_2026_v003_candidate_status": "changes_requested_not_approved",
+    "san_aurelio_junction_2026_author_submitted_retry_status": "v004_changes_requested_no_v005_released"
   },
   "post_cleanup_working_files": [
     "manga/02-references/characters/arturo-salcedo/arturo-salcedo-reference-generation.md",

@@ -1,0 +1,62 @@
+{
+  "record_type": "generated_location_reference_intake",
+  "version": "v004",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-14T07:39:38Z",
+  "author_request": "A new san-aurelio-junction.png is available in Downloads and ready for evaluation.",
+  "received_source": {
+    "path": "/Users/edmarsanchez/Downloads/san-aurelio-junction.png",
+    "bytes": 3723596,
+    "sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477"
+  },
+  "retained_candidate": {
+    "path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v004/candidate.png",
+    "sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "encoded_color_space": "RGB",
+    "alpha": false,
+    "pixel_color_evidence": "RGB channels remain non-identical: mean RGB is approximately 140.81, 139.72, 138.18, with maximum red-blue difference 19. The image is visually monochrome but retains a subtle warm tint instead of true grayscale pixels."
+  },
+  "correction_input": {
+    "path": ".manga-studio/handoff/approved/correction-inputs/san-aurelio-junction-2026-v004/candidate.png",
+    "sha256": "6f6cd8238e2d5209963289201957d2506eeaf0727da201175ce763ea7a4f1477",
+    "usage": "Preserve the substantially improved matte puddles, flatter lighting, three-study composition, and repeated station landmarks. Do not preserve the incorrect clock, RGB tint, or uniformly dense etched texture."
+  },
+  "subject_determination": "The image contains exactly three empty studies of the ruined San Aurelio Junction and Cafe Siete entrance, with no visible characters or story action.",
+  "comparison_evidence": {
+    "last_released_requirement_job": {
+      "path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v003.json",
+      "sha256": "6d6939540bb4d6589cc1883fc0e708a716da57511585300239cd09a7599a59b3",
+      "usage": "Latest released requirements for matte puddles, flat printed-manga finish, repeated station landmarks, true grayscale output, and an unmistakable 12:07 station clock."
+    },
+    "previous_candidate": {
+      "path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v003/candidate.png",
+      "sha256": "3b6d5136371c338b945ff382cd6182c7ca7e40617a517be5a84a50b19442270f",
+      "usage": "Rejected v003 evidence used to assess whether gloss and cinematic floor rendering improved."
+    },
+    "style_package": {
+      "path": ".manga-studio/references/printed-manga-finish-v001/manifest.json",
+      "sha256": "7eba97d0a490ab133452aeb4204cb94fd30462521dccf0d4c658565eb8df4ab4",
+      "usage": "Two author-selected printed-manga examples that control finish only."
+    },
+    "manga_style_lock": {
+      "path": "manga/01-style/manga-style-lock.md",
+      "sha256": "3476ad85ce2c5d00ea8fea0db5e261db3d032eed8cdd16c654c4684a88e7c8a7"
+    },
+    "tone_guide": {
+      "path": "manga/01-style/screentone-and-hatching-guide.md",
+      "sha256": "8897df40ad1b53bf18822ca1bc6e7e9e3f674b056ae89517996a696b12c90e5b"
+    }
+  },
+  "actual_generation_job_provenance": "No v004 image job or ChatGPT handoff was released in the project. The user supplied this as a new manual retry for evaluation, so its exact external prompt and attachments cannot be proven from the PNG bytes.",
+  "review_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v004-review.json",
+  "result": "changes_requested",
+  "approval_recommended": false,
+  "approved": false,
+  "automatic_retry": false,
+  "image_generation_enabled": true,
+  "IMAGE_READY": true
+}
