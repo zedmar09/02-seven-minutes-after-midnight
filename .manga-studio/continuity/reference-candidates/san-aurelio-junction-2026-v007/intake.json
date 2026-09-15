@@ -1,0 +1,59 @@
+{
+  "record_type": "generated_location_reference_intake",
+  "version": "v007",
+  "project_id": "ms-70391ae1065048cf8bdd564959abd6c3",
+  "recorded_at": "2026-09-15T00:47:08Z",
+  "author_request": "A new san-aurelio-junction.png is available in Downloads and ready for evaluation.",
+  "received_source": {
+    "path": "/Users/edmarsanchez/Downloads/san-aurelio-junction.png",
+    "bytes": 1061460,
+    "sha256": "03f1f97fd44ba5ffafbe0c03cd0feded14be5e03d09dd505fb02669c5a1831a8"
+  },
+  "retained_candidate": {
+    "path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v007/candidate.png",
+    "sha256": "03f1f97fd44ba5ffafbe0c03cd0feded14be5e03d09dd505fb02669c5a1831a8",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "encoded_color_space": "grayscale",
+    "pixel_mode": "L",
+    "alpha": false,
+    "pixel_color_evidence": "The PNG is encoded as single-channel grayscale with pixel extrema 0-255 and no alpha channel. The v006 warm RGB regression is resolved."
+  },
+  "subject_determination": "The image contains exactly three empty studies of the ruined San Aurelio Junction and Cafe Siete entrance, with no visible characters or story action.",
+  "comparison_evidence": {
+    "last_released_requirement_job": {
+      "path": ".manga-studio/handoff/pending/san-aurelio-junction-2026-v003.json",
+      "sha256": "6d6939540bb4d6589cc1883fc0e708a716da57511585300239cd09a7599a59b3",
+      "usage": "Latest released requirements for matte puddles, flat printed-manga finish, repeated station landmarks, true grayscale output, and an unmistakable 12:07 station clock."
+    },
+    "previous_candidate": {
+      "path": ".manga-studio/continuity/reference-candidates/san-aurelio-junction-2026-v006/candidate.png",
+      "sha256": "c84de8fd30a6fe27891873cab4fbbce8b1dcca4513e4bcefee25b13d62c9401f",
+      "usage": "V006 preserved the finish but failed the clock and true-grayscale requirements."
+    },
+    "style_package": {
+      "path": ".manga-studio/references/printed-manga-finish-v001/manifest.json",
+      "sha256": "7eba97d0a490ab133452aeb4204cb94fd30462521dccf0d4c658565eb8df4ab4",
+      "usage": "Two author-selected printed-manga examples that control finish only."
+    },
+    "manga_style_lock": {
+      "path": "manga/01-style/manga-style-lock.md",
+      "sha256": "3476ad85ce2c5d00ea8fea0db5e261db3d032eed8cdd16c654c4684a88e7c8a7"
+    },
+    "tone_guide": {
+      "path": "manga/01-style/screentone-and-hatching-guide.md",
+      "sha256": "8897df40ad1b53bf18822ca1bc6e7e9e3f674b056ae89517996a696b12c90e5b"
+    }
+  },
+  "actual_generation_job_provenance": "No v007 image job or ChatGPT handoff was released in the project. The user supplied this as a new manual retry for evaluation, so its exact external prompt and attachments cannot be proven from the PNG bytes.",
+  "review_path": ".manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v007-review.json",
+  "result": "review_ready_visual_pass",
+  "approval_recommended": true,
+  "approved": false,
+  "promotion_blocked": true,
+  "automatic_retry": false,
+  "image_generation_enabled": true,
+  "IMAGE_READY": true
+}

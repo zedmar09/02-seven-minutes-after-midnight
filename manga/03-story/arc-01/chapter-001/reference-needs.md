@@ -11,7 +11,7 @@ Five final character model sheets are approved. Use their stable WebP filenames 
 3. [Maribel Santos model sheet](../../../02-references/approved-webp/maribel-santos.webp), approved and complete.
 4. [Arturo Salcedo model sheet](../../../02-references/approved-webp/arturo-salcedo.webp), approved; attach only if he is visible.
 5. [Lilia Ramos model sheet](../../../02-references/approved-webp/lilia-ramos.webp), approved; attach only if she is visible.
-6. [San Aurelio Junction, 2026 v006 review](../../../../.manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v006-review.md), clock and grayscale changes requested; no v007 correction is released.
+6. [San Aurelio Junction, 2026 v007 review](../../../../.manga-studio/continuity/reviews/chapter-001-san-aurelio-junction-2026-reference-v007-review.md), visual pass and approval recommended; explicit approval still required.
 7. [San Aurelio Junction, 1986](../../../02-references/environments/san-aurelio-junction/san-aurelio-junction-1986-reference-generation.md), attach the approved output from step 6.
 8. [Cafe Siete dual-era floor plan](../../../02-references/environments/cafe-siete/cafe-siete-dual-era-floor-plan-reference-generation.md), no image attachment.
 9. [Cafe Siete dual-era perspective](../../../02-references/environments/cafe-siete/cafe-siete-dual-era-perspective-reference-generation.md), attach the approved output from step 8.
@@ -26,7 +26,7 @@ The individual WebPs above are the primary approved character attachments. The [
 
 Panel jobs will later attach only the approved character, environment, prop, and phenomenon references visible in that panel. Exact panel attachment lists remain storyboard- and panel-plan-dependent.
 
-Canon, story, storyboard, and `IMAGE_READY` locks are active. Image generation is enabled. San Aurelio Junction 2026 v006 passes the finish and continuity direction but is not approved until its large clock reads 12:07 and the PNG returns to true grayscale; no v007 correction is released. All later references remain deferred until their ordered dependencies are approved and separately released.
+Canon, story, storyboard, and `IMAGE_READY` locks are active. Image generation is enabled. San Aurelio Junction 2026 v007 passes visual review and awaits explicit user approval; no v008 correction is released. All later references remain deferred until their ordered dependencies are approved and separately released.
 
 ## Evidence
 
